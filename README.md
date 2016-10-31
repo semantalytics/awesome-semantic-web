@@ -9,7 +9,10 @@ A curated list of various semantic web and linked data resources.
 - [RDFUnit(https://github.com/AKSW/RDFUnit) - RDFUnit is implemented on top of the Test-Driven Data Validation Ontology and designed to read and produce RDF that complies to that ontology only. 
 - [IGUANA](https://github.com/AKSW/IGUANA) - IGUANA is a benchmark execution framework for triple stores 
 - [ldn](Linked Data Notifications spec) - Linked Data Notifications spec
+
+## Linked Data Platform
 - [Marmotta](https://github.com/apache/marmotta) - Apache linked data platform implementation
+- [Elda](https://github.com/epimorphics/elda) - Linked data platform from Epimorphics
 
 ## Mapping
 
