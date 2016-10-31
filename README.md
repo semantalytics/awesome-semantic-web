@@ -8,6 +8,7 @@ A curated list of various semantic web and linked data resources.
 - [swrlapi](https://github.com/protegeproject/swrlapi) - The SWRLAPI is a Java API for working with the OWL-based SWRL rule and SQWRL query languages. It includes graphical tools for editing and executing rules and queries.
 - [RDFUnit(https://github.com/AKSW/RDFUnit) - RDFUnit is implemented on top of the Test-Driven Data Validation Ontology and designed to read and produce RDF that complies to that ontology only. 
 - [IGUANA](https://github.com/AKSW/IGUANA) - IGUANA is a benchmark execution framework for triple stores 
+- [ldn](Linked Data Notifications spec) - Linked Data Notifications spec
 
 ## Mapping
 
