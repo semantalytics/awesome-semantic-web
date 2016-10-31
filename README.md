@@ -20,3 +20,4 @@ A curated list of various semantic web and linked data resources.
 ## VIM
 
 - [sparql.vim](https://github.com/vim-scripts/sparql.vim) - SPARQL syntax highlighting
+- [vim-owl-tools](https://github.com/mattpap/vim-owl-tools)
