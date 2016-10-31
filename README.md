@@ -16,3 +16,7 @@ A curated list of various semantic web and linked data resources.
 ### R2RML
 - [R2RML-Parser](https://github.com/nkons/r2rml-parser) - An R2RML implementation that can export relational database contents as RDF graphs
 - [Morph-RDB](https://github.com/oeg-upm/morph-rdb) - An R2RML processor
+
+## VIM
+
+- [sparql.vim](https://github.com/vim-scripts/sparql.vim) - SPARQL syntax highlighting
