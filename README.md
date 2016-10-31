@@ -8,6 +8,8 @@ A curated list of various semantic web and linked data resources.
 
 ## Mapping
 
+- [CSV2RDF](https://github.com/clarkparsia/csv2rdf) - CSV to RDF mapper
+
 ### RML
 - [RML](https://github.com/RMLio) - RDF Mapping language for mapping JSON, CSV and XML to RDF
 
