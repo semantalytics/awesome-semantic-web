@@ -2,4 +2,11 @@
 A curated list of various semantic web and linked data resources.
 
 - [r43ples](https://github.com/plt-tud/r43ples) - Revision Management for the Semantic Web 
+
+## Mapping
+
+### RML
 - [RML](https://github.com/RMLio) - RDF Mapping language for mapping JSON, CSV and XML to RDF
+
+### R2RML
+- [R2RML-Parser](https://github.com/nkons/r2rml-parser) - An R2RML implementation that can export relational database contents as RDF graphs
