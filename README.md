@@ -5,6 +5,7 @@ A curated list of various semantic web and linked data resources.
 - [Wings](https://github.com/IKCAP/wings) - A workflow system
 - [LDIF](https://github.com/wbsg/ldif) - Linked Data Integration Framework
 - [LinkedPipes-ETL](https://github.com/linkedpipes/etl) - Linked Data ETL pipeline
+- [swrlapi](https://github.com/protegeproject/swrlapi) - The SWRLAPI is a Java API for working with the OWL-based SWRL rule and SQWRL query languages. It includes graphical tools for editing and executing rules and queries.
 
 ## Mapping
 
