@@ -35,6 +35,7 @@ A curated list of various semantic web and linked data resources.
 
 - [uberon](https://github.com/obophenotype/uberon)
 - [MMOntologies](https://github.com/gatemezing/MMOntologies)
+- [juso-ontology](https://github.com/jgkim/juso-ontology)
 
 ## Misc
 
@@ -47,3 +48,7 @@ A curated list of various semantic web and linked data resources.
 - [clj-plaza](https://github.com/antoniogarrote/clj-plaza)
 - [xwiki](https://github.com/bblfish/xwiki)
 - [geonames](https://github.com/ldodds/geonames)
+- [rdfdot](https://github.com/wastl/rdfdot)
+- [gephi-semantic-web-import](https://github.com/Wimmics/gephi-semantic-web-import)
+- [warp](https://github.com/linkeddata/warp)
+- [anthelion](https://github.com/yahoo/anthelion)
