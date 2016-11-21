@@ -30,3 +30,20 @@ A curated list of various semantic web and linked data resources.
 
 - [sparql.vim](https://github.com/vim-scripts/sparql.vim) - SPARQL syntax highlighting
 - [vim-owl-tools](https://github.com/mattpap/vim-owl-tools)
+
+## Ontologies
+
+- [uberon](https://github.com/obophenotype/uberon)
+- [MMOntologies](https://github.com/gatemezing/MMOntologies)
+
+## Misc
+
+- [sparqlab](https://github.com/jindrichmynarz/sparqlab)
+- [js3](https://github.com/webr3/js3)
+- [antlr-sparql-grammar](https://github.com/rollxx/antlr-sparql-grammar)
+- [GeoARQ](https://github.com/castagna/GeoARQ)
+- [manchester-syntax-owl](https://github.com/rollxx/manchester-syntax-owl2)
+- [SNORQL](https://github.com/kurtjx/SNORQL)
+- [clj-plaza](https://github.com/antoniogarrote/clj-plaza)
+- [xwiki](https://github.com/bblfish/xwiki)
+- [geonames](https://github.com/ldodds/geonames)
