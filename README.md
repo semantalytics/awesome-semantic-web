@@ -36,6 +36,7 @@ A curated list of various semantic web and linked data resources.
 - [uberon](https://github.com/obophenotype/uberon)
 - [MMOntologies](https://github.com/gatemezing/MMOntologies)
 - [juso-ontology](https://github.com/jgkim/juso-ontology)
+- [obo-relations](https://github.com/oborel/obo-relations)
 
 ## Misc
 
@@ -52,3 +53,16 @@ A curated list of various semantic web and linked data resources.
 - [gephi-semantic-web-import](https://github.com/Wimmics/gephi-semantic-web-import)
 - [warp](https://github.com/linkeddata/warp)
 - [anthelion](https://github.com/yahoo/anthelion)
+- [solid-spec](https://github.com/solid/solid-spec)
+- [DREAM](https://github.com/CMU-Q/DREAM)
+- [rww-play](https://github.com/read-write-web/rww-play)
+- [fox](https://github.com/uzh/fox)
+- [tarql-component](https://github.com/opencube-toolkit/tarql-component)
+- [OpenCube-Expander](https://github.com/opencube-toolkit/OpenCube-Expander)
+- [qb4olap](https://github.com/lorenae/qb4olap)
+- [sesame-spring](https://github.com/ameingast/sesame-spring)
+- [qb4olap-tools](https://github.com/lorenae/qb4olap-tools)
+- [SolRDF](https://github.com/agazzarini/SolRDF)
+- [rdf-toolkit](https://github.com/edmcouncil/rdf-toolkit)
+- [CSPARQL-engine](https://github.com/streamreasoning/CSPARQL-engine)
+- []()
