@@ -6,7 +6,7 @@ A curated list of various semantic web and linked data resources.
 - [LDIF](https://github.com/wbsg/ldif) - Linked Data Integration Framework
 - [LinkedPipes-ETL](https://github.com/linkedpipes/etl) - Linked Data ETL pipeline
 - [swrlapi](https://github.com/protegeproject/swrlapi) - The SWRLAPI is a Java API for working with the OWL-based SWRL rule and SQWRL query languages. It includes graphical tools for editing and executing rules and queries.
-- [RDFUnit(https://github.com/AKSW/RDFUnit) - RDFUnit is implemented on top of the Test-Driven Data Validation Ontology and designed to read and produce RDF that complies to that ontology only. 
+- [RDFUnit](https://github.com/AKSW/RDFUnit) - RDFUnit is implemented on top of the Test-Driven Data Validation Ontology and designed to read and produce RDF that complies to that ontology only. 
 - [IGUANA](https://github.com/AKSW/IGUANA) - IGUANA is a benchmark execution framework for triple stores 
 - [ldn](Linked Data Notifications spec) - Linked Data Notifications spec
 
@@ -37,6 +37,7 @@ A curated list of various semantic web and linked data resources.
 - [MMOntologies](https://github.com/gatemezing/MMOntologies)
 - [juso-ontology](https://github.com/jgkim/juso-ontology)
 - [obo-relations](https://github.com/oborel/obo-relations)
+- [orderedlistonto](https://github.com/smiy/orderedlistonto)
 
 ## Misc
 
@@ -86,3 +87,14 @@ A curated list of various semantic web and linked data resources.
 - [SARQ](https://github.com/castagna/SARQ)
 - [EARQ](https://github.com/castagna/EARQ)
 - [Stardog-Connection-Pool-API](https://github.com/roberttheiv/Stardog-Connection-Pool-API)
+- [webid-demo](https://github.com/digitalbazaar/webid-demo)
+- [sparks](https://github.com/sparksrdf/sparks)
+- [xlwrap](https://github.com/sidewinderlabs/xlwrap)
+- [rdf.js](https://github.com/webr3/rdf.js)
+- [sparql2xquery](https://github.com/marklogic/sparql2xquery)
+- [foafssl-java](https://github.com/bblfish/foafssl-java)
+- [webid-spec](https://github.com/webid-community/webid-spec)
+- [tdbloader3](https://github.com/castagna/tdbloader3)
+- [jena-joseki](https://github.com/tingletech/jena-joseki)
+- []()
+
