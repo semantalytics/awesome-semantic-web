@@ -38,6 +38,8 @@ A curated list of various semantic web and linked data resources.
 - [juso-ontology](https://github.com/jgkim/juso-ontology)
 - [obo-relations](https://github.com/oborel/obo-relations)
 - [orderedlistonto](https://github.com/smiy/orderedlistonto)
+- [evidenceontology](https://github.com/evidenceontology/evidenceontology)
+- [bevon](https://github.com/jgkim/bevon) - Beverage ontology
 
 ## Misc
 
@@ -109,6 +111,17 @@ A curated list of various semantic web and linked data resources.
 - [seabass](https://github.com/ryankohl/seabass)
 - [iqvoc](https://github.com/innoq/iqvoc)
 - [jdbc4sparql](https://github.com/Claudenw/jdbc4sparql)
+- [hydra-java](https://github.com/dschulten/hydra-java)
+- [IntervalServer](https://github.com/epimorphics/IntervalServer)
+- [docker-blazegraph](https://github.com/zorino/docker-blazegraph)
+- [blazegraph-samples](https://github.com/blazegraph/blazegraph-samples)
+- [docker-blazegraph](https://github.com/lyrasis/docker-blazegraph)
+- [blazegraph-service](https://github.com/vastix/blazegraph-service)
+- [squebi](https://github.com/tkurz/squebi)
+- [fluent-sparql](https://github.com/stoewer/fluent-sparql)
+- [banana-rdf](https://github.com/banana-rdf/banana-rdf)
+- []()
+- []()
 - []()
 - []()
 - []()
