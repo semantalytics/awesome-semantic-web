@@ -13,10 +13,15 @@ A curated list of various semantic web and linked data resources.
 ## Linked Data Platform
 - [Marmotta](https://github.com/apache/marmotta) - Apache linked data platform implementation
 - [Elda](https://github.com/epimorphics/elda) - Linked data platform from Epimorphics
+- [LDP4j](https://github.com/ldp4j/ldp4j)
 
 ## Mapping
 
 - [CSV2RDF](https://github.com/clarkparsia/csv2rdf) - CSV to RDF mapper
+- [tarql-component](https://github.com/opencube-toolkit/tarql-component)
+- [csv2rdf](https://github.com/notruthless/csv2rdf)
+
+### 
 
 ### RML
 - [RML](https://github.com/RMLio) - RDF Mapping language for mapping JSON, CSV and XML to RDF
@@ -25,6 +30,7 @@ A curated list of various semantic web and linked data resources.
 - [R2RML-Parser](https://github.com/nkons/r2rml-parser) - An R2RML implementation that can export relational database contents as RDF graphs
 - [Morph-RDB](https://github.com/oeg-upm/morph-rdb) - An R2RML processor
 - [MusicBrainz-R2RML](https://github.com/LinkedBrainz/MusicBrainz-R2RML) - R2RML mappings for the MusicBrainz schema
+- [ontop](https://github.com/ontop/ontop)
 
 ## VIM
 
@@ -41,10 +47,22 @@ A curated list of various semantic web and linked data resources.
 - [evidenceontology](https://github.com/evidenceontology/evidenceontology)
 - [bevon](https://github.com/jgkim/bevon) - Beverage ontology
 
+# Streaming
+- [CSPARQL-engine](https://github.com/streamreasoning/CSPARQL-engine)
+
+# JavaScript
+- [js3](https://github.com/webr3/js3)
+
+# Geo
+- [LinkedGeoData](https://github.com/GeoKnow/LinkedGeoData)
+- [SemantGeo](https://github.com/apseyed/SemantGeo)
+- [GeoLift](https://github.com/AKSW/GeoLift)
+- [linkedspatialindex](https://github.com/wwaites/linkedspatialindex)
+- [GeomRDF](https://github.com/fhamdi/GeomRDF)
+
 ## Misc
 
 - [sparqlab](https://github.com/jindrichmynarz/sparqlab)
-- [js3](https://github.com/webr3/js3)
 - [antlr-sparql-grammar](https://github.com/rollxx/antlr-sparql-grammar)
 - [GeoARQ](https://github.com/castagna/GeoARQ)
 - [manchester-syntax-owl](https://github.com/rollxx/manchester-syntax-owl2)
@@ -60,14 +78,12 @@ A curated list of various semantic web and linked data resources.
 - [DREAM](https://github.com/CMU-Q/DREAM)
 - [rww-play](https://github.com/read-write-web/rww-play)
 - [fox](https://github.com/uzh/fox)
-- [tarql-component](https://github.com/opencube-toolkit/tarql-component)
 - [OpenCube-Expander](https://github.com/opencube-toolkit/OpenCube-Expander)
 - [qb4olap](https://github.com/lorenae/qb4olap)
 - [sesame-spring](https://github.com/ameingast/sesame-spring)
 - [qb4olap-tools](https://github.com/lorenae/qb4olap-tools)
 - [SolRDF](https://github.com/agazzarini/SolRDF)
 - [rdf-toolkit](https://github.com/edmcouncil/rdf-toolkit)
-- [CSPARQL-engine](https://github.com/streamreasoning/CSPARQL-engine)
 - [corese](https://github.com/Wimmics/corese)
 - [prissma-studio](https://github.com/lukostaz/prissma-studio)
 - [HydraConsole](https://github.com/lanthaler/HydraConsole)
@@ -79,7 +95,6 @@ A curated list of various semantic web and linked data resources.
 - [HydraBundle](https://github.com/lanthaler/HydraBundle)
 - [void](https://github.com/cygri/void)
 - [rdftools](https://github.com/cosminbasca/rdftools)
-- [LinkedGeoData](https://github.com/GeoKnow/LinkedGeoData)
 - [pinto](https://github.com/stardog-union/pinto)
 - [morph-streams](https://github.com/jpcik/morph-streams)
 - [rdfagents](https://github.com/joshsh/rdfagents)
@@ -99,8 +114,6 @@ A curated list of various semantic web and linked data resources.
 - [tdbloader3](https://github.com/castagna/tdbloader3)
 - [jena-joseki](https://github.com/tingletech/jena-joseki)
 - [any2rdf](https://github.com/esbranson/any2rdf)
-- [SemantGeo](https://github.com/apseyed/SemantGeo)
-- [GeoLift](https://github.com/AKSW/GeoLift)
 - [node-webid](https://github.com/magnetik/node-webid)
 - [ontop](https://github.com/ontop/ontop)
 - [stardog-ubuntu-scripts](https://github.com/semantalytics/stardog-ubuntu-scripts)
@@ -126,7 +139,6 @@ A curated list of various semantic web and linked data resources.
 - [mrlin](https://github.com/mhausenblas/mrlin)
 - [TabLinker](https://github.com/Data2Semantics/TabLinker)
 - [FlintSparqlEditor](https://github.com/TSO-Openup/FlintSparqlEditor)
-- [csv2rdf](https://github.com/notruthless/csv2rdf)
 - [Empire](https://github.com/mhgrove/Empire)
 - [ntcat](https://github.com/cgutteridge/ntcat)
 - [infovore](https://github.com/paulhoule/infovore)
@@ -190,7 +202,6 @@ A curated list of various semantic web and linked data resources.
 - [mediation](https://github.com/correndo/mediation)
 - [owl-functional-syntax-axiom-parser](https://github.com/dfleischhacker/owl-functional-syntax-axiom-parser)
 - [marklogic-semantic](https://github.com/marklogic/semantic)
-- [linkedspatialindex](https://github.com/wwaites/linkedspatialindex)
 - [SemanticPingback](https://github.com/AKSW/SemanticPingback)
 - [d2rq](https://github.com/cygri/d2rq)
 - [vim-sparql](https://github.com/Omer/vim-sparql)
@@ -212,14 +223,12 @@ A curated list of various semantic web and linked data resources.
 - [LD-FusionTool](https://github.com/mifeet/LD-FusionTool)
 - [commons-rdf](https://github.com/commons-rdf/commons-rdf)
 - [TurtleSyntaxPlugin](https://github.com/pkuyken/TurtleSyntaxPlugin)
-- [MusicBrainz-R2RML](https://github.com/LinkedBrainz/MusicBrainz-R2RML)
 - [raptor](https://github.com/dajobe/raptor)
 - [rasqal](https://github.com/dajobe/rasqal)
 - [surfrdf](https://github.com/cosminbasca/surfrdf)
 - [morph-web](https://github.com/jpcik/morph-web)
 - [morph](https://github.com/jpcik/morph)
 - [XR2RML](https://github.com/djimloic/XR2RML)
-- [GeomRDF](https://github.com/fhamdi/GeomRDF)
 - [xodx](https://github.com/AKSW/xodx)
 - [morph-starter](https://github.com/jpcik/morph-starter)
 - []()
