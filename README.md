@@ -33,7 +33,7 @@ A curated list of various semantic web and linked data resources.
 - [ontop](https://github.com/ontop/ontop)
 
 ### xR2RML
--[morph-xr2rml](https://github.com/frmichel/morph-xr2rml)
+- [morph-xr2rml](https://github.com/frmichel/morph-xr2rml)
 
 ## VIM
 
