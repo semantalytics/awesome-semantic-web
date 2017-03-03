@@ -32,6 +32,9 @@ A curated list of various semantic web and linked data resources.
 - [MusicBrainz-R2RML](https://github.com/LinkedBrainz/MusicBrainz-R2RML) - R2RML mappings for the MusicBrainz schema
 - [ontop](https://github.com/ontop/ontop)
 
+### xR2RML
+-[morph-xr2rml](https://github.com/frmichel/morph-xr2rml)
+
 ## VIM
 
 - [sparql.vim](https://github.com/vim-scripts/sparql.vim) - SPARQL syntax highlighting
