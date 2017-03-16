@@ -15,13 +15,23 @@ A curated list of various semantic web and linked data resources.
 - [Elda](https://github.com/epimorphics/elda) - Linked data platform from Epimorphics
 - [LDP4j](https://github.com/ldp4j/ldp4j)
 
+# Python
+
+- [RdfLib](http://www.rdflib.net/)
+- [RdfAlchemy](http://www.openvest.com/trac/wiki/RDFAlchemy)
+- [Fuxi](http://code.google.com/p/fuxi/)
+- [ORDF](ordf.org)
+- [Django-rdf](http://code.google.com/p/django-rdf/)
+- [Djubby](http://code.google.com/p/djubby/)
+- [Redland](http://librdf.org/)
+- [SuRF](http://packages.python.org/SuRF/)
+- [sparta](https://github.com/mnot/sparta/)
+
 ## Mapping
 
 - [CSV2RDF](https://github.com/clarkparsia/csv2rdf) - CSV to RDF mapper
 - [tarql-component](https://github.com/opencube-toolkit/tarql-component)
 - [csv2rdf](https://github.com/notruthless/csv2rdf)
-
-### 
 
 ### RML
 - [RML](https://github.com/RMLio) - RDF Mapping language for mapping JSON, CSV and XML to RDF
