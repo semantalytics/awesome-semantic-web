@@ -50,13 +50,13 @@ A curated list of various semantic web and linked data resources.
 - [evidenceontology](https://github.com/evidenceontology/evidenceontology)
 - [bevon](https://github.com/jgkim/bevon) - Beverage ontology
 
-# Streaming
+## Streaming
 - [CSPARQL-engine](https://github.com/streamreasoning/CSPARQL-engine)
 
-# JavaScript
+## JavaScript
 - [js3](https://github.com/webr3/js3)
 
-# Geo
+## Geo
 - [LinkedGeoData](https://github.com/GeoKnow/LinkedGeoData)
 - [SemantGeo](https://github.com/apseyed/SemantGeo)
 - [GeoLift](https://github.com/AKSW/GeoLift)
