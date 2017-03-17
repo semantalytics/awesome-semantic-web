@@ -10,6 +10,16 @@ A curated list of various semantic web and linked data resources.
 - [IGUANA](https://github.com/AKSW/IGUANA) - IGUANA is a benchmark execution framework for triple stores 
 - [ldn](Linked Data Notifications spec) - Linked Data Notifications spec
 
+## Java Object to RDF Mapping
+
+- [Empire](https://github.com/mhgrove/Empire/)
+- [Pinto]()
+- [Som(m)er](https://github.com/bblfish/sommer)
+- [jennabean](https://code.google.com/p/jenabean/)
+- [Alibaba](https://bitbucket.org/openrdf/alibaba)
+- [rdfbeans](http://rdfbeans.sourceforge.net/)
+
+
 ## Databases
  - [Stardog](http://stardog.com)
  - [RDF4J](http://rdf4j.org)
