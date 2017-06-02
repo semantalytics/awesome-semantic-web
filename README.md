@@ -278,6 +278,17 @@ A curated list of various semantic web and linked data resources.
 - [levelgraph-jsonld](https://github.com/mcollina/levelgraph-jsonld)
 - [owlapi](https://github.com/owlcs/owlapi)
 - [TripleGeo](https://github.com/GeoKnow/TripleGeo)
+- [LODGrefine](https://github.com/sparkica/LODGrefine)
+- [stardog.js](https://github.com/stardog-union/stardog.js)
+- [stardog-groovy](https://github.com/stardog-union/stardog-groovy)
+- [HydraClient](https://github.com/lanthaler/HydraClient)
+- [cp-openrdf-utils](https://github.com/mhgrove/cp-openrdf-utils)
+- [linked-csv](https://github.com/JeniT/linked-csv)
+- [Sparqlify-Extendsions](https://github.com/AKSW/Sparqlify-Extensions)
+- [kr](https://github.com/drlivingston/kr)
+- [ODCS](https://github.com/mff-uk/ODCS)
+- [balloon](https://github.com/schlegel/balloon)
+- []()
 - []()
 
 
