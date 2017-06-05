@@ -288,7 +288,11 @@ A curated list of various semantic web and linked data resources.
 - [kr](https://github.com/drlivingston/kr)
 - [ODCS](https://github.com/mff-uk/ODCS)
 - [balloon](https://github.com/schlegel/balloon)
+- [Processor](https://github.com/AtomGraph/Processor)
+- [ontodia](https://github.com/ontodia-org/ontodia)
+- [grlc](https://github.com/CLARIAH/grlc)
+- [basil](https://github.com/the-open-university/basil)
+- [morph-rdb](https://github.com/oeg-upm/morph-rdb)
+- [spanqit](https://github.com/anqit/spanqit)
+- [lodmill](https://github.com/lobid/lodmill)
 - []()
-- []()
-
-
