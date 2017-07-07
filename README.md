@@ -10,6 +10,34 @@ A curated list of various semantic web and linked data resources.
 - [IGUANA](https://github.com/AKSW/IGUANA) - IGUANA is a benchmark execution framework for triple stores 
 - [ldn](Linked Data Notifications spec) - Linked Data Notifications spec
 
+## Standards
+  ### RDF
+ - [RDF Concepts and Abstract Syntax](https://www.w3.org/TR/rdf11-concepts/)
+ - [RDF Schema 1.1](https://www.w3.org/TR/rdf-schema/)
+ - [OWL]
+ 
+  ### SPARQL
+   - SPARQL 1.1 Overview
+   - SPARQL 1.1 Query Language
+   - SPARQL 1.1 Update
+   - SPARQL 1.1 Service Description
+   - SPARQL 1.1 Federated Query
+   - SPARQL 1.1 Query Results JSON Format
+   - SPARQL 1.1 Query Results CSV and TSV Formats
+   - SPARQL 1.1 Query Results XML Format (Second Edition)
+   - SPARQL 1.1 Entailment Regimes
+   - SPARQL 1.1 Protocol
+   - SPARQL 1.1 Graph Store HTTP Protocol
+   
+ - [GRDDL]
+ - [POWDER]
+ 
+   ### Serializations
+     - [RDF/XML Syntax Specification](https://www.w3.org/TR/REC-rdf-syntax/)
+     - [RDF 1.1 TRIG](https://www.w3.org/TR/trig/)
+     - [JSON-LD](https://www.w3.org/TR/json-ld/)
+     - [Turtle v1.1](https://www.w3.org/TR/turtle/)
+
 ## Java Object to RDF Mapping
 
 - [Empire](https://github.com/mhgrove/Empire/)
