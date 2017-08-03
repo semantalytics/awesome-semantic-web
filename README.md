@@ -340,3 +340,6 @@ A curated list of various semantic web and linked data resources.
 - [semargl](https://github.com/semarglproject/semargl)
 - [shi3ld-http](https://github.com/lukostaz/shi3ld-http)
 - [luposdate](https://github.com/luposdate/luposdate)
+- [wordnet-lemon-to-w3c](https://github.com/jimregan/wordnet-lemon-to-w3c)
+- [hyrise](https://github.com/hyrise/hyrise)
+- [owlconvert](https://github.com/camwebb/owlconvert)
