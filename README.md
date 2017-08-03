@@ -343,3 +343,4 @@ A curated list of various semantic web and linked data resources.
 - [wordnet-lemon-to-w3c](https://github.com/jimregan/wordnet-lemon-to-w3c)
 - [hyrise](https://github.com/hyrise/hyrise)
 - [owlconvert](https://github.com/camwebb/owlconvert)
+- [rabel](https://github.com/linkeddata/rabel)
