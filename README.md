@@ -1,20 +1,15 @@
 # Awesome Semantic Web [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of various semantic web and linked data resources.
 
-- [r43ples](https://github.com/plt-tud/r43ples) - Revision Management for the Semantic Web
-- [Wings](https://github.com/IKCAP/wings) - A workflow system
-- [LDIF](https://github.com/wbsg/ldif) - Linked Data Integration Framework
-- [LinkedPipes-ETL](https://github.com/linkedpipes/etl) - Linked Data ETL pipeline
-- [swrlapi](https://github.com/protegeproject/swrlapi) - The SWRLAPI is a Java API for working with the OWL-based SWRL rule and SQWRL query languages. It includes graphical tools for editing and executing rules and queries.
-- [RDFUnit](https://github.com/AKSW/RDFUnit) - RDFUnit is implemented on top of the Test-Driven Data Validation Ontology and designed to read and produce RDF that complies to that ontology only. 
-- [IGUANA](https://github.com/AKSW/IGUANA) - IGUANA is a benchmark execution framework for triple stores 
-- [ldn](Linked Data Notifications spec) - Linked Data Notifications spec
-
 ## Standards
+
   ### RDF
  - [RDF Concepts and Abstract Syntax](https://www.w3.org/TR/rdf11-concepts/)
  - [RDF Schema 1.1](https://www.w3.org/TR/rdf-schema/)
- - [OWL]
+
+  ### OWL
+ - [OWL 2 Web Ontology Language Document Overview](https://www.w3.org/TR/owl-overview/)
+ - [OWL 2 Web Ontology Language Primer](https://www.w3.org/TR/owl-primer/)
  
   ### SPARQL
    - SPARQL 1.1 Overview
@@ -40,15 +35,16 @@ A curated list of various semantic web and linked data resources.
      
    ### Linked Data Platform (LDP)
      - [Linked Data Platform 1.0 Primer](https://www.w3.org/TR/ldp-primer/)
-     - [Linked Data Platform Best Practices and Guidelines] (https://www.w3.org/TR/ldp-bp/)
+     - [Linked Data Platform Best Practices and Guidelines](https://www.w3.org/TR/ldp-bp/)
      - [Linked Data Platform 1.0](https://www.w3.org/TR/ldp/)
      - [Linked Data Platform 1.0 Test Cases]()
    
    ### Linked Data Notifications
-     -
+     - [Linked Data Notifications](https://www.w3.org/TR/ldn/)
    
    ### Web Annotations
-     - 
+     - [Web Annotation Data Model](https://www.w3.org/TR/annotation-model/)
+     - [Web Annotation Protocol](https://www.w3.org/TR/annotation-protocol/)
 
 ## Java Object to RDF Mapping
 
@@ -135,6 +131,14 @@ A curated list of various semantic web and linked data resources.
 
 ## Misc
 
+- [r43ples](https://github.com/plt-tud/r43ples) - Revision Management for the Semantic Web
+- [Wings](https://github.com/IKCAP/wings) - A workflow system
+- [LDIF](https://github.com/wbsg/ldif) - Linked Data Integration Framework
+- [LinkedPipes-ETL](https://github.com/linkedpipes/etl) - Linked Data ETL pipeline
+- [swrlapi](https://github.com/protegeproject/swrlapi) - The SWRLAPI is a Java API for working with the OWL-based SWRL rule and SQWRL query languages. It includes graphical tools for editing and executing rules and queries.
+- [RDFUnit](https://github.com/AKSW/RDFUnit) - RDFUnit is implemented on top of the Test-Driven Data Validation Ontology and designed to read and produce RDF that complies to that ontology only. 
+- [IGUANA](https://github.com/AKSW/IGUANA) - IGUANA is a benchmark execution framework for triple stores 
+- [ldn](Linked Data Notifications spec) - Linked Data Notifications spec
 - [sparqlab](https://github.com/jindrichmynarz/sparqlab)
 - [antlr-sparql-grammar](https://github.com/rollxx/antlr-sparql-grammar)
 - [GeoARQ](https://github.com/castagna/GeoARQ)
