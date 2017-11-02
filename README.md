@@ -12,6 +12,7 @@ A curated list of various semantic web and linked data resources.
  - [OWL 2 Web Ontology Language Primer](https://www.w3.org/TR/owl-primer/)
  
   ### SPARQL
+  #### Standards Docs
    - SPARQL 1.1 Overview
    - SPARQL 1.1 Query Language
    - SPARQL 1.1 Update
@@ -23,6 +24,20 @@ A curated list of various semantic web and linked data resources.
    - SPARQL 1.1 Entailment Regimes
    - SPARQL 1.1 Protocol
    - SPARQL 1.1 Graph Store HTTP Protocol
+ #### Applications
+   - [sparqlab](https://github.com/jindrichmynarz/sparqlab) Lab for exercising SPARQL 
+   - [SNORQL](https://github.com/kurtjx/SNORQL) a ajaxy front-end for exploring triple stores 
+   - [d3sparql](https://github.com/ktym/d3sparql) JavaScript library for executing SPARQL query and transforming resulted JSON for visualization in D3.js 
+   - [jdbc4sparql](https://github.com/Claudenw/jdbc4sparql) A JDBC driver that takes data from SPARQL endpoints or RDF graphs 
+   - [sparql2xquery](https://github.com/marklogic/sparql2xquery) SPARQL to XQuery Translator for use with MarkLogic Semantic Toolkit 
+   - [SparqlAnalytics](https://github.com/AKSW/SparqlAnalytics)
+   - [decentsparql](https://github.com/itm/decentsparql)
+   - [sparqled](https://github.com/sindice/sparqled)
+   - [SPARQL2NL](https://github.com/AKSW/SPARQL2NL)
+   - [sparql-proxy](https://github.com/clarkparsia/sparql-proxy)
+   - [AutoSPARQL](https://github.com/AKSW/AutoSPARQL)
+   - [YASGUI](https://github.com/OpenTriply/YASGUI) Yet Another Sparql GUI
+   - [pubby](https://github.com/cygri/pubby) A Linked Data frontend for SPARQL endpoints 
    
  - [GRDDL]
  - [POWDER]
@@ -99,6 +114,7 @@ A curated list of various semantic web and linked data resources.
 - [MusicBrainz-R2RML](https://github.com/LinkedBrainz/MusicBrainz-R2RML) - R2RML mappings for the MusicBrainz schema
 - [ontop](https://github.com/ontop/ontop)
 
+
 ### xR2RML
 - [morph-xr2rml](https://github.com/frmichel/morph-xr2rml)
 
@@ -140,11 +156,9 @@ A curated list of various semantic web and linked data resources.
 - [RDFUnit](https://github.com/AKSW/RDFUnit) - RDFUnit is implemented on top of the Test-Driven Data Validation Ontology and designed to read and produce RDF that complies to that ontology only. 
 - [IGUANA](https://github.com/AKSW/IGUANA) - IGUANA is a benchmark execution framework for triple stores 
 - [ldn](Linked Data Notifications spec) - Linked Data Notifications spec
-- [sparqlab](https://github.com/jindrichmynarz/sparqlab)
 - [antlr-sparql-grammar](https://github.com/rollxx/antlr-sparql-grammar)
 - [GeoARQ](https://github.com/castagna/GeoARQ)
 - [manchester-syntax-owl](https://github.com/rollxx/manchester-syntax-owl2)
-- [SNORQL](https://github.com/kurtjx/SNORQL)
 - [clj-plaza](https://github.com/antoniogarrote/clj-plaza)
 - [xwiki](https://github.com/bblfish/xwiki)
 - [geonames](https://github.com/ldodds/geonames)
@@ -164,12 +178,12 @@ A curated list of various semantic web and linked data resources.
 - [rdf-toolkit](https://github.com/edmcouncil/rdf-toolkit)
 - [corese](https://github.com/Wimmics/corese)
 - [prissma-studio](https://github.com/lukostaz/prissma-studio)
-- [HydraConsole](https://github.com/lanthaler/HydraConsole)
 - [csv2rdf4lod-automation](https://github.com/timrdf/csv2rdf4lod-automation)
 - [fox-ui](https://github.com/Data2Semantics/fox-ui)
 - [sesame-vocab-builder](https://github.com/tkurz/sesame-vocab-builder)
 - [surfrdf](https://github.com/cosminbasca/surfrdf)
 - [Hydra](https://github.com/lanthaler/Hydra)
+- [HydraConsole](https://github.com/lanthaler/HydraConsole)
 - [HydraBundle](https://github.com/lanthaler/HydraBundle)
 - [void](https://github.com/cygri/void)
 - [rdftools](https://github.com/cosminbasca/rdftools)
@@ -177,7 +191,6 @@ A curated list of various semantic web and linked data resources.
 - [morph-streams](https://github.com/jpcik/morph-streams)
 - [rdfagents](https://github.com/joshsh/rdfagents)
 - [gm-sparql](https://github.com/ssrangan/gm-sparql)
-- [d3sparql](https://github.com/ktym/d3sparql)
 - [cp-common-utils](https://github.com/mhgrove/cp-common-utils)
 - [SARQ](https://github.com/castagna/SARQ)
 - [EARQ](https://github.com/castagna/EARQ)
@@ -186,14 +199,12 @@ A curated list of various semantic web and linked data resources.
 - [sparks](https://github.com/sparksrdf/sparks)
 - [xlwrap](https://github.com/sidewinderlabs/xlwrap)
 - [rdf.js](https://github.com/webr3/rdf.js)
-- [sparql2xquery](https://github.com/marklogic/sparql2xquery)
 - [foafssl-java](https://github.com/bblfish/foafssl-java)
 - [webid-spec](https://github.com/webid-community/webid-spec)
 - [tdbloader3](https://github.com/castagna/tdbloader3)
 - [jena-joseki](https://github.com/tingletech/jena-joseki)
 - [any2rdf](https://github.com/esbranson/any2rdf)
 - [node-webid](https://github.com/magnetik/node-webid)
-- [ontop](https://github.com/ontop/ontop)
 - [stardog-ubuntu-scripts](https://github.com/semantalytics/stardog-ubuntu-scripts)
 - [triplify](https://github.com/pebbie/triplify)
 - [qonsole](https://github.com/epimorphics/qonsole)
@@ -201,7 +212,6 @@ A curated list of various semantic web and linked data resources.
 - [librdf](https://github.com/dajobe/librdf)
 - [seabass](https://github.com/ryankohl/seabass)
 - [iqvoc](https://github.com/innoq/iqvoc)
-- [jdbc4sparql](https://github.com/Claudenw/jdbc4sparql)
 - [hydra-java](https://github.com/dschulten/hydra-java)
 - [IntervalServer](https://github.com/epimorphics/IntervalServer)
 - [docker-blazegraph](https://github.com/zorino/docker-blazegraph)
@@ -222,9 +232,7 @@ A curated list of various semantic web and linked data resources.
 - [infovore](https://github.com/paulhoule/infovore)
 - [virtuoso-opensource](https://github.com/openlink/virtuoso-opensource)
 - [rdf3x_path](https://github.com/agubichev/rdf3x_path)
-- [SparqlAnalytics](https://github.com/AKSW/SparqlAnalytics)
 - [TripleChecker](https://github.com/cgutteridge/TripleChecker)
-- [decentsparql](https://github.com/itm/decentsparql)
 - [jqudt](https://github.com/egonw/jqudt)
 - [geometry2rdf](https://github.com/boricles/geometry2rdf)
 - [rdflib.js](https://github.com/linkeddata/rdflib.js)
@@ -237,8 +245,6 @@ A curated list of various semantic web and linked data resources.
 - [tarql](https://github.com/tarql/tarql)
 - [jtriple](https://github.com/konradreiche/jtriple)
 - [groovyrdf](https://github.com/angelo-v/groovyrdf)
-- [sparqled](https://github.com/sindice/sparqled)
-- [SPARQL2NL](https://github.com/AKSW/SPARQL2NL)
 - [jsonld-java](https://github.com/jsonld-java/jsonld-java)
 - [ripple](https://github.com/joshsh/ripple)
 - [specgen](https://github.com/specgen/specgen)
@@ -249,7 +255,6 @@ A curated list of various semantic web and linked data resources.
 - [graphity-browser](https://github.com/AtomGraph/Web-Client)
 - [pellet](https://github.com/lepfhty/pellet)
 - [hbase-rdf](https://github.com/castagna/hbase-rdf)
-- [4store](https://github.com/garlik/4store)
 - [rdfstore-js](https://github.com/antoniogarrote/rdfstore-js)
 - [keygenapp](https://github.com/bblfish/keygenapp)
 - [owlapitools](https://github.com/owlcs/owlapitools)
@@ -264,7 +269,6 @@ A curated list of various semantic web and linked data resources.
 - [rdf-pipeline](https://github.com/dbooth-boston/rdf-pipeline)
 - [FOX](https://github.com/AKSW/FOX)
 - [fox-java](https://github.com/renespeck/fox-java)
-- [AutoSPARQL](https://github.com/AKSW/AutoSPARQL)
 - [fox-py](https://github.com/earthquakesan/fox-py)
 - [ORE](https://github.com/AKSW/ORE)
 - [rdfpatch](https://github.com/pchampin/ld-patch-py)
@@ -353,7 +357,7 @@ A curated list of various semantic web and linked data resources.
 - [lodspeakr](https://github.com/alangrafu/lodspeakr)
 - [linked-csv-browser](https://github.com/theodi/linked-csv-browser)
 - [OntoVerbal](https://github.com/TheOntologist/OntoVerbal)
-- [sparql-proxy](https://github.com/clarkparsia/sparql-proxy)
+
 - [semargl](https://github.com/semarglproject/semargl)
 - [shi3ld-http](https://github.com/lukostaz/shi3ld-http)
 - [luposdate](https://github.com/luposdate/luposdate)
