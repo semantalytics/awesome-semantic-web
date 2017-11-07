@@ -81,6 +81,10 @@ A curated list of various semantic web and linked data resources.
  - [GraphDB](http://graphdb.ontotext.com/)
  - [Allegrograph](http://franz.com/agraph/allegrograph/)
  - [Apache Rya (incubating)](http://rya.incubator.apache.org/)
+ - [Ontotext] (https://ontotext.com/)
+ - [Parliament] (http://parliament.semwebcentral.org/)
+ - [CM-Well] (https://github.com/thomsonreuters/CM-Well)
+ 
 
 ## Linked Data Platform
 - [Marmotta](https://github.com/apache/marmotta) - Apache linked data platform implementation
