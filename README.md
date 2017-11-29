@@ -139,6 +139,7 @@ A curated list of various semantic web and linked data resources.
 
 ## Streaming
 - [CSPARQL-engine](https://github.com/streamreasoning/CSPARQL-engine)
+- [Triplewave](https://github.com/streamreasoning/TripleWave)
 
 ## JavaScript
 - [js3](https://github.com/webr3/js3)
