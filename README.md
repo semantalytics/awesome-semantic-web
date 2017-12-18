@@ -62,9 +62,8 @@ A curated list of various semantic web and linked data resources.
      - [Web Annotation Protocol](https://www.w3.org/TR/annotation-protocol/)
 
 ## Java Object to RDF Mapping
-
 - [Empire](https://github.com/mhgrove/Empire/)
-- [Pinto]()
+- [Pinto](https://github.com/stardog-union/pinto)
 - [Som(m)er](https://github.com/bblfish/sommer)
 - [jennabean](https://code.google.com/p/jenabean/)
 - [Alibaba](https://bitbucket.org/openrdf/alibaba)
@@ -85,7 +84,8 @@ A curated list of various semantic web and linked data resources.
  - [Parliament](http://parliament.semwebcentral.org/)
  - [CM-Well](https://github.com/thomsonreuters/CM-Well)
  - [BrightstarDB](http://brightstardb.com/)
- 
+ - [marklogic-semantic](https://github.com/marklogic/semantic)
+ - [Oracle](http://www.oracle.com/technetwork/database/options/spatialandgraph/overview/rdfsemantic-more-2239071.html)
 
 ## Linked Data Platform
 - [Marmotta](https://github.com/apache/marmotta) - Apache linked data platform implementation
@@ -93,7 +93,6 @@ A curated list of various semantic web and linked data resources.
 - [LDP4j](https://github.com/ldp4j/ldp4j)
 
 # Python
-
 - [RdfLib](http://www.rdflib.net/)
 - [RdfAlchemy](http://www.openvest.com/trac/wiki/RDFAlchemy)
 - [Fuxi](http://code.google.com/p/fuxi/)
@@ -122,21 +121,21 @@ A curated list of various semantic web and linked data resources.
 
 ### xR2RML
 - [morph-xr2rml](https://github.com/frmichel/morph-xr2rml)
+- [XR2RML](https://github.com/djimloic/XR2RML)
 
 ## VIM
-
 - [sparql.vim](https://github.com/vim-scripts/sparql.vim) - SPARQL syntax highlighting
 - [vim-owl-tools](https://github.com/mattpap/vim-owl-tools)
 
 ## Ontologies
-
 - [uberon](https://github.com/obophenotype/uberon)
 - [MMOntologies](https://github.com/gatemezing/MMOntologies)
 - [juso-ontology](https://github.com/jgkim/juso-ontology)
 - [obo-relations](https://github.com/oborel/obo-relations)
 - [orderedlistonto](https://github.com/smiy/orderedlistonto)
 - [evidenceontology](https://github.com/evidenceontology/evidenceontology)
-- [bevon](https://github.com/jgkim/bevon) - Beverage ontology
+- [bevon](https://github.com/jgkim/bevon) Beverage ontology
+- [cyber-ontology](https://github.com/daedafusion/cyber-ontology)
 
 ## Streaming
 - [CSPARQL-engine](https://github.com/streamreasoning/CSPARQL-engine)
@@ -151,6 +150,7 @@ A curated list of various semantic web and linked data resources.
 - [GeoLift](https://github.com/AKSW/GeoLift)
 - [linkedspatialindex](https://github.com/wwaites/linkedspatialindex)
 - [GeomRDF](https://github.com/fhamdi/GeomRDF)
+- [GeoARQ](https://github.com/castagna/GeoARQ)
 
 ## Misc
 
@@ -163,7 +163,6 @@ A curated list of various semantic web and linked data resources.
 - [IGUANA](https://github.com/AKSW/IGUANA) - IGUANA is a benchmark execution framework for triple stores 
 - [ldn](Linked Data Notifications spec) - Linked Data Notifications spec
 - [antlr-sparql-grammar](https://github.com/rollxx/antlr-sparql-grammar)
-- [GeoARQ](https://github.com/castagna/GeoARQ)
 - [manchester-syntax-owl](https://github.com/rollxx/manchester-syntax-owl2)
 - [clj-plaza](https://github.com/antoniogarrote/clj-plaza)
 - [xwiki](https://github.com/bblfish/xwiki)
@@ -233,10 +232,8 @@ A curated list of various semantic web and linked data resources.
 - [mrlin](https://github.com/mhausenblas/mrlin)
 - [TabLinker](https://github.com/Data2Semantics/TabLinker)
 - [FlintSparqlEditor](https://github.com/TSO-Openup/FlintSparqlEditor)
-- [Empire](https://github.com/mhgrove/Empire)
 - [ntcat](https://github.com/cgutteridge/ntcat)
 - [infovore](https://github.com/paulhoule/infovore)
-- [virtuoso-opensource](https://github.com/openlink/virtuoso-opensource)
 - [rdf3x_path](https://github.com/agubichev/rdf3x_path)
 - [TripleChecker](https://github.com/cgutteridge/TripleChecker)
 - [jqudt](https://github.com/egonw/jqudt)
@@ -269,7 +266,6 @@ A curated list of various semantic web and linked data resources.
 - [fox-ui](https://github.com/Data2Semantics/fox-ui)
 - [prefix.cc](https://github.com/cygri/prefix.cc)
 - [LSD-Dimensions](https://github.com/albertmeronyo/LSD-Dimensions)
-- [CSPARQL-ReadyToGoPack](https://github.com/streamreasoning/CSPARQL-ReadyToGoPack)
 - [cysparql](https://github.com/cosminbasca/cysparql)
 - [prissma](https://github.com/lukostaz/prissma)
 - [rdf-pipeline](https://github.com/dbooth-boston/rdf-pipeline)
@@ -289,7 +285,6 @@ A curated list of various semantic web and linked data resources.
 - [N3.js](https://github.com/RubenVerborgh/N3.js)
 - [mediation](https://github.com/correndo/mediation)
 - [owl-functional-syntax-axiom-parser](https://github.com/dfleischhacker/owl-functional-syntax-axiom-parser)
-- [marklogic-semantic](https://github.com/marklogic/semantic)
 - [SemanticPingback](https://github.com/AKSW/SemanticPingback)
 - [d2rq](https://github.com/cygri/d2rq)
 - [vim-sparql](https://github.com/Omer/vim-sparql)
@@ -316,13 +311,11 @@ A curated list of various semantic web and linked data resources.
 - [surfrdf](https://github.com/cosminbasca/surfrdf)
 - [morph-web](https://github.com/jpcik/morph-web)
 - [morph](https://github.com/jpcik/morph)
-- [XR2RML](https://github.com/djimloic/XR2RML)
 - [xodx](https://github.com/AKSW/xodx)
 - [morph-starter](https://github.com/jpcik/morph-starter)
 - [rdf-ext](https://github.com/rdf-ext/rdf-ext)
 - [anno4j](https://github.com/anno4j/anno4j)
 - [Widoco](https://github.com/dgarijo/Widoco)
-- [cyber-ontology](https://github.com/daedafusion/cyber-ontology)
 - [ldp4j](https://github.com/ldp4j/ldp4j)
 - [sesametools](https://github.com/joshsh/sesametools)
 - [DEER](https://github.com/GeoKnow/DEER)
@@ -363,7 +356,6 @@ A curated list of various semantic web and linked data resources.
 - [lodspeakr](https://github.com/alangrafu/lodspeakr)
 - [linked-csv-browser](https://github.com/theodi/linked-csv-browser)
 - [OntoVerbal](https://github.com/TheOntologist/OntoVerbal)
-
 - [semargl](https://github.com/semarglproject/semargl)
 - [shi3ld-http](https://github.com/lukostaz/shi3ld-http)
 - [luposdate](https://github.com/luposdate/luposdate)
