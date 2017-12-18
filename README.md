@@ -84,6 +84,7 @@ A curated list of various semantic web and linked data resources.
  - [Ontotext](https://ontotext.com/)
  - [Parliament](http://parliament.semwebcentral.org/)
  - [CM-Well](https://github.com/thomsonreuters/CM-Well)
+ - [BrightstarDB](http://brightstardb.com/)
  
 
 ## Linked Data Platform
