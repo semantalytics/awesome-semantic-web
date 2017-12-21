@@ -47,11 +47,11 @@ A curated list of various semantic web and linked data resources.
    - [YASGUI](https://github.com/OpenTriply/YASGUI) Yet Another Sparql GUI
    - [pubby](https://github.com/cygri/pubby) A Linked Data frontend for SPARQL endpoints 
  
-   ### Serializations
-     - [RDF/XML Syntax Specification](https://www.w3.org/TR/REC-rdf-syntax/)
-     - [RDF 1.1 TRIG](https://www.w3.org/TR/trig/)
-     - [JSON-LD](https://www.w3.org/TR/json-ld/)
-     - [Turtle v1.1](https://www.w3.org/TR/turtle/)
+### Serializations
+- [RDF/XML Syntax Specification](https://www.w3.org/TR/REC-rdf-syntax/)
+    - [RDF 1.1 TRIG](https://www.w3.org/TR/trig/)
+    - [JSON-LD](https://www.w3.org/TR/json-ld/)
+    - [Turtle v1.1](https://www.w3.org/TR/turtle/)
      
    ### Linked Data Platform (LDP)
      - [Linked Data Platform 1.0 Primer](https://www.w3.org/TR/ldp-primer/)
