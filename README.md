@@ -3,16 +3,23 @@ A curated list of various semantic web and linked data resources.
 
 ## Standards
 
-  ### RDF
+### RDF
  - [RDF Concepts and Abstract Syntax](https://www.w3.org/TR/rdf11-concepts/)
+ 
+### RDFS
  - [RDF Schema 1.1](https://www.w3.org/TR/rdf-schema/)
 
-  ### OWL
+### RDFa
+ - [XHTML+RDFa 1.1 - Third Edition](https://www.w3.org/TR/xhtml-rdfa/)
+ - [RDFa Lite 1.1 - Second Edition](https://www.w3.org/TR/rdfa-lite/)
+ - [RDFa Lite 1.1 - Second Edition](https://www.w3.org/TR/rdfa-lite/)
+ - [HTML+RDFa 1.1 - Second Edition](https://www.w3.org/TR/html-rdfa/)
+
+### OWL
  - [OWL 2 Web Ontology Language Document Overview](https://www.w3.org/TR/owl-overview/)
  - [OWL 2 Web Ontology Language Primer](https://www.w3.org/TR/owl-primer/)
  
-  ### SPARQL
-  #### Standards Docs
+### SPARQL
    - [SPARQL 1.1 Overview](https://www.w3.org/TR/sparql11-overview/)
    - [SPARQL 1.1 Query Language](https://www.w3.org/TR/sparql11-query/)
    - [SPARQL 1.1 Update](https://www.w3.org/TR/sparql11-update/)
@@ -24,6 +31,9 @@ A curated list of various semantic web and linked data resources.
    - [SPARQL 1.1 Entailment Regimes](https://www.w3.org/TR/sparql11-entailment/)
    - [SPARQL 1.1 Protocol](https://www.w3.org/TR/sparql11-protocol/)
    - [SPARQL 1.1 Graph Store HTTP Protocol](https://www.w3.org/TR/sparql11-http-rdf-update/)
+   
+   
+   
  #### Applications
    - [sparqlab](https://github.com/jindrichmynarz/sparqlab) Lab for exercising SPARQL 
    - [SNORQL](https://github.com/kurtjx/SNORQL) a ajaxy front-end for exploring triple stores 
