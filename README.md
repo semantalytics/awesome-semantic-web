@@ -49,22 +49,27 @@ A curated list of various semantic web and linked data resources.
  
 ### Serializations
 - [RDF/XML Syntax Specification](https://www.w3.org/TR/REC-rdf-syntax/)
-    - [RDF 1.1 TRIG](https://www.w3.org/TR/trig/)
-    - [JSON-LD](https://www.w3.org/TR/json-ld/)
-    - [Turtle v1.1](https://www.w3.org/TR/turtle/)
-     
-   ### Linked Data Platform (LDP)
-     - [Linked Data Platform 1.0 Primer](https://www.w3.org/TR/ldp-primer/)
-     - [Linked Data Platform Best Practices and Guidelines](https://www.w3.org/TR/ldp-bp/)
-     - [Linked Data Platform 1.0](https://www.w3.org/TR/ldp/)
-     - [Linked Data Platform 1.0 Test Cases]()
+- [RDF 1.1 TRIG](https://www.w3.org/TR/trig/)
+- [JSON-LD](https://www.w3.org/TR/json-ld/)
+- [Turtle v1.1](https://www.w3.org/TR/turtle/)
+- [n-triples](https://www.w3.org/TR/n-triples/)
+- [n-quads](https://www.w3.org/TR/n-quads/)
+- [trix](http://www.hpl.hp.com/techreports/2004/HPL-2004-56.html)
+- [trig](https://www.w3.org/TR/trig/)
+- [manchester](https://www.w3.org/2007/OWL/draft/ED-owl2-manchester-syntax-20081128/)
+
+### Linked Data Platform (LDP)
+- [Linked Data Platform 1.0 Primer](https://www.w3.org/TR/ldp-primer/)
+- [Linked Data Platform Best Practices and Guidelines](https://www.w3.org/TR/ldp-bp/)
+- [Linked Data Platform 1.0](https://www.w3.org/TR/ldp/)
+- [Linked Data Platform 1.0 Test Cases]()
    
-   ### Linked Data Notifications
-     - [Linked Data Notifications](https://www.w3.org/TR/ldn/)
+### Linked Data Notifications
+- [Linked Data Notifications](https://www.w3.org/TR/ldn/)
    
-   ### Web Annotations
-     - [Web Annotation Data Model](https://www.w3.org/TR/annotation-model/)
-     - [Web Annotation Protocol](https://www.w3.org/TR/annotation-protocol/)
+### Web Annotations
+- [Web Annotation Data Model](https://www.w3.org/TR/annotation-model/)
+- [Web Annotation Protocol](https://www.w3.org/TR/annotation-protocol/)
 
 ## Java Object to RDF Mapping
 - [Empire](https://github.com/mhgrove/Empire/)
