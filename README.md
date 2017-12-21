@@ -31,10 +31,8 @@ A curated list of various semantic web and linked data resources.
    - [SPARQL 1.1 Entailment Regimes](https://www.w3.org/TR/sparql11-entailment/)
    - [SPARQL 1.1 Protocol](https://www.w3.org/TR/sparql11-protocol/)
    - [SPARQL 1.1 Graph Store HTTP Protocol](https://www.w3.org/TR/sparql11-http-rdf-update/)
-   
-   
-   
- #### Applications
+ 
+ ## Applications
    - [sparqlab](https://github.com/jindrichmynarz/sparqlab) Lab for exercising SPARQL 
    - [SNORQL](https://github.com/kurtjx/SNORQL) a ajaxy front-end for exploring triple stores 
    - [d3sparql](https://github.com/ktym/d3sparql) JavaScript library for executing SPARQL query and transforming resulted JSON for visualization in D3.js 
@@ -48,9 +46,6 @@ A curated list of various semantic web and linked data resources.
    - [AutoSPARQL](https://github.com/AKSW/AutoSPARQL)
    - [YASGUI](https://github.com/OpenTriply/YASGUI) Yet Another Sparql GUI
    - [pubby](https://github.com/cygri/pubby) A Linked Data frontend for SPARQL endpoints 
-   
- - [GRDDL]
- - [POWDER]
  
    ### Serializations
      - [RDF/XML Syntax Specification](https://www.w3.org/TR/REC-rdf-syntax/)
