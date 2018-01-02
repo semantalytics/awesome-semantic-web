@@ -127,7 +127,7 @@ A curated list of various semantic web and linked data resources.
 - [Morph-RDB](https://github.com/oeg-upm/morph-rdb) - An R2RML processor
 - [MusicBrainz-R2RML](https://github.com/LinkedBrainz/MusicBrainz-R2RML) - R2RML mappings for the MusicBrainz schema
 - [ontop](https://github.com/ontop/ontop)
-
+- [db2triples](https://github.com/antidot/db2triples)
 
 ### xR2RML
 - [morph-xr2rml](https://github.com/frmichel/morph-xr2rml)
