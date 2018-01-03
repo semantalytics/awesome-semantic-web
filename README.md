@@ -129,6 +129,7 @@ A curated list of various semantic web and linked data resources.
 - [ontop](https://github.com/ontop/ontop)
 - [db2triples](https://github.com/antidot/db2triples)
 - [ADAPT-R2RML](https://opengogs.adaptcentre.ie/debruync/r2rml)
+- [R2RML-api](https://github.com/R2RML-api/R2RML-api)
 
 ### xR2RML
 - [morph-xr2rml](https://github.com/frmichel/morph-xr2rml)
