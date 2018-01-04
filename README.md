@@ -32,7 +32,7 @@ A curated list of various semantic web and linked data resources.
    - [SPARQL 1.1 Protocol](https://www.w3.org/TR/sparql11-protocol/)
    - [SPARQL 1.1 Graph Store HTTP Protocol](https://www.w3.org/TR/sparql11-http-rdf-update/)
  
- ## Applications
+ #### SPARQL Applications
    - [sparqlab](https://github.com/jindrichmynarz/sparqlab) Lab for exercising SPARQL 
    - [SNORQL](https://github.com/kurtjx/SNORQL) a ajaxy front-end for exploring triple stores 
    - [d3sparql](https://github.com/ktym/d3sparql) JavaScript library for executing SPARQL query and transforming resulted JSON for visualization in D3.js 
