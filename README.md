@@ -98,9 +98,10 @@ A curated list of various semantic web and linked data resources.
  - [Ontotext](https://ontotext.com/)
  - [Parliament](http://parliament.semwebcentral.org/)
  - [CM-Well](https://github.com/thomsonreuters/CM-Well)
- - [BrightstarDB](http://brightstardb.com/)
+ - [BrightstarDB](http://brightstardb.com/) - A native RDF database for the .NET platform written in C#.
  - [marklogic-semantic](https://github.com/marklogic/semantic)
  - [Oracle](http://www.oracle.com/technetwork/database/options/spatialandgraph/overview/rdfsemantic-more-2239071.html)
+ - [wallix/triplestore](https://github.com/wallix/triplestore) - Nifty library written in Go-Lang.
 
 ## Linked Data Platform
 - [Marmotta](https://github.com/apache/marmotta) - Apache linked data platform implementation
@@ -162,6 +163,16 @@ A curated list of various semantic web and linked data resources.
 
 ## JavaScript
 - [js3](https://github.com/webr3/js3)
+
+## C#
+- [dotNetRDF](https://github.com/dotnetrdf/dotnetrdf)
+- [RDFSharp](https://github.com/mdesalvo/RDFSharp)
+
+## Go-Lang
+- [knakk/rdf](https://github.com/knakk/rdf)
+
+## Clojure
+- [grafter](https://github.com/Swirrl/grafter) - Linked Data & RDF Manufacturing Tools in Clojure 
 
 ## Geo
 - [LinkedGeoData](https://github.com/GeoKnow/LinkedGeoData)
