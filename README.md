@@ -174,6 +174,10 @@ A curated list of various semantic web and linked data resources.
 ## Clojure
 - [grafter](https://github.com/Swirrl/grafter) - Linked Data & RDF Manufacturing Tools in Clojure 
 
+## Scala
+
+- [banana-rdf] (https://github.com/banana-rdf/banana-rdf) - A library for RDF, SPARQL and Linked Data technologies in Scala.
+
 ## Geo
 - [LinkedGeoData](https://github.com/GeoKnow/LinkedGeoData)
 - [SemantGeo](https://github.com/apseyed/SemantGeo)
