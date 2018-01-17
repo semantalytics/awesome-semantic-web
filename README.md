@@ -176,7 +176,7 @@ A curated list of various semantic web and linked data resources.
 
 ## Scala
 
-- [banana-rdf] (https://github.com/banana-rdf/banana-rdf) - A library for RDF, SPARQL and Linked Data technologies in Scala.
+- [banana-rdf](https://github.com/banana-rdf/banana-rdf) - A library for RDF, SPARQL and Linked Data technologies in Scala.
 
 ## Geo
 - [LinkedGeoData](https://github.com/GeoKnow/LinkedGeoData)
