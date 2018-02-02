@@ -102,6 +102,7 @@ A curated list of various semantic web and linked data resources.
  - [marklogic-semantic](https://github.com/marklogic/semantic)
  - [Oracle](http://www.oracle.com/technetwork/database/options/spatialandgraph/overview/rdfsemantic-more-2239071.html)
  - [wallix/triplestore](https://github.com/wallix/triplestore) - Nifty library written in Go-Lang.
+ - [Halyard](https://github.com/Merck/Halyard)
 
 ## Linked Data Platform
 - [Marmotta](https://github.com/apache/marmotta) - Apache linked data platform implementation
