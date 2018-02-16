@@ -66,6 +66,9 @@ A curated list of various semantic web and linked data resources.
 - [Linked Data Platform 1.0](https://www.w3.org/TR/ldp/)
 - [Linked Data Platform 1.0 Test Cases]()
    
+### Linked Data Fragments (LDF)
+- [Linked Data Fragments](http://linkeddatafragments.org)
+   
 ## Web Annotation Data Model
 - [Web Annotation Data Model](https://www.w3.org/TR/annotation-model/)
 - [Web Annotation Vocabulary](https://www.w3.org/TR/annotation-vocab/)
