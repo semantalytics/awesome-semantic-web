@@ -69,6 +69,9 @@ A curated list of various semantic web and linked data resources.
 ### Linked Data Fragments (LDF)
 - [Linked Data Fragments](http://linkeddatafragments.org)
    
+### Open Services for Lifecycle Collaboration (OSLC)
+-[open-services.net](https://open-services.net/)
+   
 ## Web Annotation Data Model
 - [Web Annotation Data Model](https://www.w3.org/TR/annotation-model/)
 - [Web Annotation Vocabulary](https://www.w3.org/TR/annotation-vocab/)
