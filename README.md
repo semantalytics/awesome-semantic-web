@@ -32,7 +32,9 @@ A curated list of various semantic web and linked data resources.
    - [SPARQL 1.1 Protocol](https://www.w3.org/TR/sparql11-protocol/)
    - [SPARQL 1.1 Graph Store HTTP Protocol](https://www.w3.org/TR/sparql11-http-rdf-update/)
  
- #### SPARQL Applications
+ ## SPARQL
+ 
+ ## SPARQL Applications
    - [sparqlab](https://github.com/jindrichmynarz/sparqlab) Lab for exercising SPARQL 
    - [SNORQL](https://github.com/kurtjx/SNORQL) a ajaxy front-end for exploring triple stores 
    - [d3sparql](https://github.com/ktym/d3sparql) JavaScript library for executing SPARQL query and transforming resulted JSON for visualization in D3.js 
@@ -84,7 +86,6 @@ A curated list of various semantic web and linked data resources.
 - [Alibaba](https://bitbucket.org/openrdf/alibaba)
 - [rdfbeans](http://rdfbeans.sourceforge.net/)
 
-
 ## Databases
  - [Stardog](http://stardog.com)
  - [RDF4J](http://rdf4j.org)
@@ -109,19 +110,7 @@ A curated list of various semantic web and linked data resources.
 - [Elda](https://github.com/epimorphics/elda) - Linked data platform from Epimorphics
 - [LDP4j](https://github.com/ldp4j/ldp4j)
 
-# Python
-- [RdfLib](http://www.rdflib.net/)
-- [RdfAlchemy](http://www.openvest.com/trac/wiki/RDFAlchemy)
-- [Fuxi](http://code.google.com/p/fuxi/)
-- [ORDF](ordf.org)
-- [Django-rdf](http://code.google.com/p/django-rdf/)
-- [Djubby](http://code.google.com/p/djubby/)
-- [Redland](http://librdf.org/)
-- [SuRF](http://packages.python.org/SuRF/)
-- [sparta](https://github.com/mnot/sparta/)
-
 ## Mapping
-
 - [CSV2RDF](https://github.com/clarkparsia/csv2rdf) - CSV to RDF mapper
 - [tarql-component](https://github.com/opencube-toolkit/tarql-component)
 - [csv2rdf](https://github.com/notruthless/csv2rdf)
@@ -143,10 +132,7 @@ A curated list of various semantic web and linked data resources.
 - [XR2RML](https://github.com/djimloic/XR2RML)
 
 ### R2RML-f
-
-## VIM
-- [sparql.vim](https://github.com/vim-scripts/sparql.vim) - SPARQL syntax highlighting
-- [vim-owl-tools](https://github.com/mattpap/vim-owl-tools)
+- [paper](http://events.linkeddata.org/ldow2016/papers/LDOW2016_paper_14.pdf)
 
 ## Ontologies
 - [uberon](https://github.com/obophenotype/uberon)
@@ -162,22 +148,42 @@ A curated list of various semantic web and linked data resources.
 - [CSPARQL-engine](https://github.com/streamreasoning/CSPARQL-engine)
 - [Triplewave](https://github.com/streamreasoning/TripleWave)
 
-## JavaScript
+## Programming
+
+### Java
+- [RDF4J](http://rdf4j.org)
+- [Jena](http://jena.apache.org)
+
+### Python
+- [RdfLib](http://www.rdflib.net/)
+- [RdfAlchemy](http://www.openvest.com/trac/wiki/RDFAlchemy)
+- [Fuxi](http://code.google.com/p/fuxi/)
+- [ORDF](ordf.org)
+- [Django-rdf](http://code.google.com/p/django-rdf/)
+- [Djubby](http://code.google.com/p/djubby/)
+- [Redland](http://librdf.org/)
+- [SuRF](http://packages.python.org/SuRF/)
+- [sparta](https://github.com/mnot/sparta/)
+
+### JavaScript
 - [js3](https://github.com/webr3/js3)
 
 ## C#
 - [dotNetRDF](https://github.com/dotnetrdf/dotnetrdf)
 - [RDFSharp](https://github.com/mdesalvo/RDFSharp)
 
-## Go-Lang
+### Go-Lang
 - [knakk/rdf](https://github.com/knakk/rdf)
 
-## Clojure
+### Clojure
 - [grafter](https://github.com/Swirrl/grafter) - Linked Data & RDF Manufacturing Tools in Clojure 
 
-## Scala
-
+### Scala
 - [banana-rdf](https://github.com/banana-rdf/banana-rdf) - A library for RDF, SPARQL and Linked Data technologies in Scala.
+
+## VIM
+- [sparql.vim](https://github.com/vim-scripts/sparql.vim) - SPARQL syntax highlighting
+- [vim-owl-tools](https://github.com/mattpap/vim-owl-tools)
 
 ## Geo
 - [LinkedGeoData](https://github.com/GeoKnow/LinkedGeoData)
