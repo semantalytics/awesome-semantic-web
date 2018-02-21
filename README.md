@@ -35,19 +35,19 @@ A curated list of various semantic web and linked data resources.
  ## SPARQL
  
  ## SPARQL Applications
-   - [sparqlab](https://github.com/jindrichmynarz/sparqlab) Lab for exercising SPARQL 
-   - [SNORQL](https://github.com/kurtjx/SNORQL) a ajaxy front-end for exploring triple stores 
-   - [d3sparql](https://github.com/ktym/d3sparql) JavaScript library for executing SPARQL query and transforming resulted JSON for visualization in D3.js 
-   - [jdbc4sparql](https://github.com/Claudenw/jdbc4sparql) A JDBC driver that takes data from SPARQL endpoints or RDF graphs 
-   - [sparql2xquery](https://github.com/marklogic/sparql2xquery) SPARQL to XQuery Translator for use with MarkLogic Semantic Toolkit 
-   - [SparqlAnalytics](https://github.com/AKSW/SparqlAnalytics)
-   - [decentsparql](https://github.com/itm/decentsparql)
-   - [sparqled](https://github.com/sindice/sparqled)
-   - [SPARQL2NL](https://github.com/AKSW/SPARQL2NL)
-   - [sparql-proxy](https://github.com/clarkparsia/sparql-proxy)
-   - [AutoSPARQL](https://github.com/AKSW/AutoSPARQL)
-   - [YASGUI](https://github.com/OpenTriply/YASGUI) Yet Another Sparql GUI
-   - [pubby](https://github.com/cygri/pubby) A Linked Data frontend for SPARQL endpoints 
+- [sparqlab](https://github.com/jindrichmynarz/sparqlab) Lab for exercising SPARQL 
+- [SNORQL](https://github.com/kurtjx/SNORQL) a ajaxy front-end for exploring triple stores 
+- [d3sparql](https://github.com/ktym/d3sparql) JavaScript library for executing SPARQL query and transforming resulted JSON for visualization in D3.js 
+- [jdbc4sparql](https://github.com/Claudenw/jdbc4sparql) A JDBC driver that takes data from SPARQL endpoints or RDF graphs 
+- [sparql2xquery](https://github.com/marklogic/sparql2xquery) SPARQL to XQuery Translator for use with MarkLogic Semantic Toolkit 
+- [SparqlAnalytics](https://github.com/AKSW/SparqlAnalytics)
+- [decentsparql](https://github.com/itm/decentsparql)
+- [sparqled](https://github.com/sindice/sparqled)
+- [SPARQL2NL](https://github.com/AKSW/SPARQL2NL)
+- [sparql-proxy](https://github.com/clarkparsia/sparql-proxy)
+- [AutoSPARQL](https://github.com/AKSW/AutoSPARQL)
+- [YASGUI](https://github.com/OpenTriply/YASGUI) Yet Another Sparql GUI
+- [pubby](https://github.com/cygri/pubby) A Linked Data frontend for SPARQL endpoints 
  
 ### Serializations
 - [RDF/XML Syntax Specification](https://www.w3.org/TR/REC-rdf-syntax/)
@@ -93,23 +93,24 @@ A curated list of various semantic web and linked data resources.
 - [rdfbeans](http://rdfbeans.sourceforge.net/)
 
 ## Databases
- - [Stardog](http://stardog.com)
- - [RDF4J](http://rdf4j.org)
- - [Jena TDB](http://jena.apache.org/documentation/tdb/index.html)
- - [4Store](https://github.com/garlik/4store)
- - [Virtuoso](https://virtuoso.openlinksw.com/)
- - [Blazegraph](https://www.blazegraph.com/)
- - [GraphDB](http://graphdb.ontotext.com/)
- - [Allegrograph](http://franz.com/agraph/allegrograph/)
- - [Apache Rya (incubating)](http://rya.incubator.apache.org/)
- - [Ontotext](https://ontotext.com/)
- - [Parliament](http://parliament.semwebcentral.org/)
- - [CM-Well](https://github.com/thomsonreuters/CM-Well)
- - [BrightstarDB](http://brightstardb.com/) - A native RDF database for the .NET platform written in C#.
- - [marklogic-semantic](https://github.com/marklogic/semantic)
- - [Oracle](http://www.oracle.com/technetwork/database/options/spatialandgraph/overview/rdfsemantic-more-2239071.html)
- - [wallix/triplestore](https://github.com/wallix/triplestore) - Nifty library written in Go-Lang.
- - [Halyard](https://github.com/Merck/Halyard)
+- [Stardog](http://stardog.com)
+- [RDF4J](http://rdf4j.org)
+- [Jena TDB](http://jena.apache.org/documentation/tdb/index.html)
+- [4Store](https://github.com/garlik/4store)
+- [Virtuoso](https://virtuoso.openlinksw.com/)
+- [Blazegraph](https://www.blazegraph.com/)
+- [GraphDB](http://graphdb.ontotext.com/)
+- [Allegrograph](http://franz.com/agraph/allegrograph/)
+- [Apache Rya (incubating)](http://rya.incubator.apache.org/)
+- [Ontotext](https://ontotext.com/)
+- [Parliament](http://parliament.semwebcentral.org/)
+- [CM-Well](https://github.com/thomsonreuters/CM-Well)
+- [BrightstarDB](http://brightstardb.com/) - A native RDF database for the .NET platform written in C#.
+- [marklogic-semantic](https://github.com/marklogic/semantic)
+- [Oracle](http://www.oracle.com/technetwork/database/options/spatialandgraph/overview/rdfsemantic-more-2239071.html)
+- [wallix/triplestore](https://github.com/wallix/triplestore) - Nifty library written in Go-Lang.
+- [Halyard](https://github.com/Merck/Halyard)
+- [SANSA](http://sansa-stack.net/)
 
 ## Linked Data Platform
 - [Marmotta](https://github.com/apache/marmotta) - Apache linked data platform implementation
