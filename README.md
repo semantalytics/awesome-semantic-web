@@ -203,6 +203,8 @@ A curated list of various semantic web and linked data resources.
 ## Visualization
 - [Visual SPARQL Builder](https://leipert.github.io/vsb/)
 - [d3-sparql](https://github.com/zazuko/d3-sparql)
+- [SPARQLFilterFlow](http://sparql.visualdataweb.org/)
+- [VOWL](http://vowl.visualdataweb.org/) - Visual Notation for OWL Ontologies
 
 ## Misc
 
