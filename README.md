@@ -200,6 +200,10 @@ A curated list of various semantic web and linked data resources.
 - [GeomRDF](https://github.com/fhamdi/GeomRDF)
 - [GeoARQ](https://github.com/castagna/GeoARQ)
 
+## Visualization
+- [Visual SPARQL Builder](https://leipert.github.io/vsb/)
+- [d3-sparql](https://github.com/zazuko/d3-sparql)
+
 ## Misc
 
 - [r43ples](https://github.com/plt-tud/r43ples) - Revision Management for the Semantic Web
