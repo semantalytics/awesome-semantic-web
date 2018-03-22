@@ -4,50 +4,33 @@ A curated list of various semantic web and linked data resources.
 ## Standards
 
 ### RDF
- - [RDF Concepts and Abstract Syntax](https://www.w3.org/TR/rdf11-concepts/)
+- [RDF Concepts and Abstract Syntax](https://www.w3.org/TR/rdf11-concepts/)
  
 ### RDFS
  - [RDF Schema 1.1](https://www.w3.org/TR/rdf-schema/)
 
 ### RDFa
- - [XHTML+RDFa 1.1 - Third Edition](https://www.w3.org/TR/xhtml-rdfa/)
- - [RDFa Lite 1.1 - Second Edition](https://www.w3.org/TR/rdfa-lite/)
- - [RDFa Lite 1.1 - Second Edition](https://www.w3.org/TR/rdfa-lite/)
- - [HTML+RDFa 1.1 - Second Edition](https://www.w3.org/TR/html-rdfa/)
+- [XHTML+RDFa 1.1 - Third Edition](https://www.w3.org/TR/xhtml-rdfa/)
+- [RDFa Lite 1.1 - Second Edition](https://www.w3.org/TR/rdfa-lite/)
+- [RDFa Lite 1.1 - Second Edition](https://www.w3.org/TR/rdfa-lite/)
+- [HTML+RDFa 1.1 - Second Edition](https://www.w3.org/TR/html-rdfa/)
 
 ### OWL
- - [OWL 2 Web Ontology Language Document Overview](https://www.w3.org/TR/owl-overview/)
- - [OWL 2 Web Ontology Language Primer](https://www.w3.org/TR/owl-primer/)
+- [OWL 2 Web Ontology Language Document Overview](https://www.w3.org/TR/owl-overview/)
+- [OWL 2 Web Ontology Language Primer](https://www.w3.org/TR/owl-primer/)
  
 ### SPARQL
-   - [SPARQL 1.1 Overview](https://www.w3.org/TR/sparql11-overview/)
-   - [SPARQL 1.1 Query Language](https://www.w3.org/TR/sparql11-query/)
-   - [SPARQL 1.1 Update](https://www.w3.org/TR/sparql11-update/)
-   - [SPARQL 1.1 Service Description](https://www.w3.org/TR/sparql11-service-description/)
-   - [SPARQL 1.1 Federated Query](https://www.w3.org/TR/sparql11-federated-query/)
-   - [SPARQL 1.1 Query Results JSON Format](https://www.w3.org/TR/sparql11-results-json/)
-   - [SPARQL 1.1 Query Results CSV and TSV Formats](https://www.w3.org/TR/sparql11-results-csv-tsv/)
-   - [SPARQL 1.1 Query Results XML Format (Second Edition)](https://www.w3.org/TR/rdf-sparql-XMLres/)
-   - [SPARQL 1.1 Entailment Regimes](https://www.w3.org/TR/sparql11-entailment/)
-   - [SPARQL 1.1 Protocol](https://www.w3.org/TR/sparql11-protocol/)
-   - [SPARQL 1.1 Graph Store HTTP Protocol](https://www.w3.org/TR/sparql11-http-rdf-update/)
- 
- ## SPARQL
- 
- ## SPARQL Applications
-- [sparqlab](https://github.com/jindrichmynarz/sparqlab) Lab for exercising SPARQL 
-- [SNORQL](https://github.com/kurtjx/SNORQL) a ajaxy front-end for exploring triple stores 
-- [d3sparql](https://github.com/ktym/d3sparql) JavaScript library for executing SPARQL query and transforming resulted JSON for visualization in D3.js 
-- [jdbc4sparql](https://github.com/Claudenw/jdbc4sparql) A JDBC driver that takes data from SPARQL endpoints or RDF graphs 
-- [sparql2xquery](https://github.com/marklogic/sparql2xquery) SPARQL to XQuery Translator for use with MarkLogic Semantic Toolkit 
-- [SparqlAnalytics](https://github.com/AKSW/SparqlAnalytics)
-- [decentsparql](https://github.com/itm/decentsparql)
-- [sparqled](https://github.com/sindice/sparqled)
-- [SPARQL2NL](https://github.com/AKSW/SPARQL2NL)
-- [sparql-proxy](https://github.com/clarkparsia/sparql-proxy)
-- [AutoSPARQL](https://github.com/AKSW/AutoSPARQL)
-- [YASGUI](https://github.com/OpenTriply/YASGUI) Yet Another Sparql GUI
-- [pubby](https://github.com/cygri/pubby) A Linked Data frontend for SPARQL endpoints 
+- [SPARQL 1.1 Overview](https://www.w3.org/TR/sparql11-overview/)
+- [SPARQL 1.1 Query Language](https://www.w3.org/TR/sparql11-query/)
+- [SPARQL 1.1 Update](https://www.w3.org/TR/sparql11-update/)
+- [SPARQL 1.1 Service Description](https://www.w3.org/TR/sparql11-service-description/)
+- [SPARQL 1.1 Federated Query](https://www.w3.org/TR/sparql11-federated-query/)
+- [SPARQL 1.1 Query Results JSON Format](https://www.w3.org/TR/sparql11-results-json/)
+- [SPARQL 1.1 Query Results CSV and TSV Formats](https://www.w3.org/TR/sparql11-results-csv-tsv/)
+- [SPARQL 1.1 Query Results XML Format (Second Edition)](https://www.w3.org/TR/rdf-sparql-XMLres/)
+- [SPARQL 1.1 Entailment Regimes](https://www.w3.org/TR/sparql11-entailment/)
+- [SPARQL 1.1 Protocol](https://www.w3.org/TR/sparql11-protocol/)
+- [SPARQL 1.1 Graph Store HTTP Protocol](https://www.w3.org/TR/sparql11-http-rdf-update/)
  
 ### Serializations
 - [RDF/XML Syntax Specification](https://www.w3.org/TR/REC-rdf-syntax/)
@@ -111,6 +94,23 @@ A curated list of various semantic web and linked data resources.
 - [wallix/triplestore](https://github.com/wallix/triplestore) - Nifty library written in Go-Lang.
 - [Halyard](https://github.com/Merck/Halyard)
 - [SANSA](http://sansa-stack.net/)
+
+## SPARQL
+
+## SPARQL Applications
+- [sparqlab](https://github.com/jindrichmynarz/sparqlab) Lab for exercising SPARQL 
+- [SNORQL](https://github.com/kurtjx/SNORQL) a ajaxy front-end for exploring triple stores 
+- [d3sparql](https://github.com/ktym/d3sparql) JavaScript library for executing SPARQL query and transforming resulted JSON for visualization in D3.js 
+- [jdbc4sparql](https://github.com/Claudenw/jdbc4sparql) A JDBC driver that takes data from SPARQL endpoints or RDF graphs 
+- [sparql2xquery](https://github.com/marklogic/sparql2xquery) SPARQL to XQuery Translator for use with MarkLogic Semantic Toolkit 
+- [SparqlAnalytics](https://github.com/AKSW/SparqlAnalytics)
+- [decentsparql](https://github.com/itm/decentsparql)
+- [sparqled](https://github.com/sindice/sparqled)
+- [SPARQL2NL](https://github.com/AKSW/SPARQL2NL)
+- [sparql-proxy](https://github.com/clarkparsia/sparql-proxy)
+- [AutoSPARQL](https://github.com/AKSW/AutoSPARQL)
+- [YASGUI](https://github.com/OpenTriply/YASGUI) Yet Another Sparql GUI
+- [pubby](https://github.com/cygri/pubby) A Linked Data frontend for SPARQL endpoints 
 
 ## Linked Data Platform
 - [Marmotta](https://github.com/apache/marmotta) - Apache linked data platform implementation
