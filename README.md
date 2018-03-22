@@ -199,6 +199,7 @@ A curated list of various semantic web and linked data resources.
 - [linkedspatialindex](https://github.com/wwaites/linkedspatialindex)
 - [GeomRDF](https://github.com/fhamdi/GeomRDF)
 - [GeoARQ](https://github.com/castagna/GeoARQ)
+- [USeekM](https://www.openhub.net/p/useekm)
 
 ## Visualization
 - [Visual SPARQL Builder](https://leipert.github.io/vsb/)
