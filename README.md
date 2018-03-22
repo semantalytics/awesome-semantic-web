@@ -97,6 +97,8 @@ A curated list of various semantic web and linked data resources.
 - [Corese](http://wimmics.inria.fr/corese)
 - [rdf3x](https://code.google.com/archive/p/rdf3x/)
 - [gh-rdf3x](https://github.com/gh-rdf3x/gh-rdf3x)
+- [Mulgara](http://mulgara.org/)
+- [TripleRush](https://github.com/uzh/triplerush)
 
 ## SPARQL
 
