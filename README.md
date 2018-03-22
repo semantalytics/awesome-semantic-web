@@ -53,7 +53,7 @@ A curated list of various semantic web and linked data resources.
 - [Linked Data Fragments](http://linkeddatafragments.org)
    
 ### Open Services for Lifecycle Collaboration (OSLC)
--[open-services.net](https://open-services.net/)
+- [open-services.net](https://open-services.net/)
    
 ## Web Annotation Data Model
 - [Web Annotation Data Model](https://www.w3.org/TR/annotation-model/)
@@ -94,6 +94,9 @@ A curated list of various semantic web and linked data resources.
 - [wallix/triplestore](https://github.com/wallix/triplestore) - Nifty library written in Go-Lang.
 - [Halyard](https://github.com/Merck/Halyard)
 - [SANSA](http://sansa-stack.net/)
+- [Corese](http://wimmics.inria.fr/corese)
+- [rdf3x](https://code.google.com/archive/p/rdf3x/)
+- [gh-rdf3x](https://github.com/gh-rdf3x/gh-rdf3x)
 
 ## SPARQL
 
