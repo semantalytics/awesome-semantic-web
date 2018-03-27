@@ -156,6 +156,12 @@ A curated list of various semantic web and linked data resources.
 - [bevon](https://github.com/jgkim/bevon) Beverage ontology
 - [cyber-ontology](https://github.com/daedafusion/cyber-ontology)
 
+### SKOS
+- [SKOS Simple Knowledge Organization System Reference](https://www.w3.org/TR/skos-reference/)
+### Data Cube
+- [The RDF Datacube Vocabulary](https://www.w3.org/TR/vocab-data-cube)
+- [QB4ST: RDF Data Cube extensions for spatio-temporal components](https://www.w3.org/TR/qb4st/)
+
 ## Streaming
 - [CSPARQL-engine](https://github.com/streamreasoning/CSPARQL-engine)
 - [Triplewave](https://github.com/streamreasoning/TripleWave)
