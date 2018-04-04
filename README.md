@@ -62,10 +62,6 @@ A curated list of various semantic web and linked data resources.
    
 ### Linked Data Notifications
 - [Linked Data Notifications](https://www.w3.org/TR/ldn/)
-   
-### Web Annotations
-- [Web Annotation Data Model](https://www.w3.org/TR/annotation-model/)
-- [Web Annotation Protocol](https://www.w3.org/TR/annotation-protocol/)
 
 ## Java Object to RDF Mapping
 - [Empire](https://github.com/mhgrove/Empire/)
@@ -132,6 +128,10 @@ F - Free
 - [CSV2RDF](https://github.com/clarkparsia/csv2rdf) - CSV to RDF mapper
 - [tarql-component](https://github.com/opencube-toolkit/tarql-component)
 - [csv2rdf](https://github.com/notruthless/csv2rdf)
+- [tarql](https://github.com/tarql/tarql)
+- [csv2rdf4lod-automation](https://github.com/timrdf/csv2rdf4lod-automation)
+- [any2rdf](https://github.com/esbranson/any2rdf)
+- [triplify](https://github.com/pebbie/triplify)
 
 ### RML
 - [RML](https://github.com/RMLio) - RDF Mapping language for mapping JSON, CSV and XML to RDF
@@ -234,7 +234,6 @@ F - Free
 - [swrlapi](https://github.com/protegeproject/swrlapi) - The SWRLAPI is a Java API for working with the OWL-based SWRL rule and SQWRL query languages. It includes graphical tools for editing and executing rules and queries.
 - [RDFUnit](https://github.com/AKSW/RDFUnit) - RDFUnit is implemented on top of the Test-Driven Data Validation Ontology and designed to read and produce RDF that complies to that ontology only. 
 - [IGUANA](https://github.com/AKSW/IGUANA) - IGUANA is a benchmark execution framework for triple stores 
-- [ldn](Linked Data Notifications spec) - Linked Data Notifications spec
 - [antlr-sparql-grammar](https://github.com/rollxx/antlr-sparql-grammar)
 - [manchester-syntax-owl](https://github.com/rollxx/manchester-syntax-owl2)
 - [clj-plaza](https://github.com/antoniogarrote/clj-plaza)
@@ -254,9 +253,7 @@ F - Free
 - [qb4olap-tools](https://github.com/lorenae/qb4olap-tools)
 - [SolRDF](https://github.com/agazzarini/SolRDF)
 - [rdf-toolkit](https://github.com/edmcouncil/rdf-toolkit)
-- [corese](https://github.com/Wimmics/corese)
 - [prissma-studio](https://github.com/lukostaz/prissma-studio)
-- [csv2rdf4lod-automation](https://github.com/timrdf/csv2rdf4lod-automation)
 - [fox-ui](https://github.com/Data2Semantics/fox-ui)
 - [sesame-vocab-builder](https://github.com/tkurz/sesame-vocab-builder)
 - [surfrdf](https://github.com/cosminbasca/surfrdf)
@@ -281,10 +278,8 @@ F - Free
 - [webid-spec](https://github.com/webid-community/webid-spec)
 - [tdbloader3](https://github.com/castagna/tdbloader3)
 - [jena-joseki](https://github.com/tingletech/jena-joseki)
-- [any2rdf](https://github.com/esbranson/any2rdf)
 - [node-webid](https://github.com/magnetik/node-webid)
 - [stardog-ubuntu-scripts](https://github.com/semantalytics/stardog-ubuntu-scripts)
-- [triplify](https://github.com/pebbie/triplify)
 - [qonsole](https://github.com/epimorphics/qonsole)
 - [Git2PROV](https://github.com/mmlab/Git2PROV)
 - [librdf](https://github.com/dajobe/librdf)
@@ -318,7 +313,6 @@ F - Free
 - [pubby](https://github.com/cygri/pubby)
 - [SemanticNationalMap](https://github.com/dmm/SemanticNationalMap)
 - [JenaSecurity](https://github.com/Claudenw/JenaSecurity)
-- [tarql](https://github.com/tarql/tarql)
 - [jtriple](https://github.com/konradreiche/jtriple)
 - [groovyrdf](https://github.com/angelo-v/groovyrdf)
 - [jsonld-java](https://github.com/jsonld-java/jsonld-java)
