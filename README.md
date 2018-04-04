@@ -76,29 +76,35 @@ A curated list of various semantic web and linked data resources.
 - [rdfbeans](http://rdfbeans.sourceforge.net/)
 
 ## Databases
-- [Stardog](http://stardog.com)
-- [RDF4J](http://rdf4j.org)
-- [Jena TDB](http://jena.apache.org/documentation/tdb/index.html)
-- [4Store](https://github.com/garlik/4store)
-- [Virtuoso](https://virtuoso.openlinksw.com/)
-- [Blazegraph](https://www.blazegraph.com/)
-- [GraphDB](http://graphdb.ontotext.com/)
-- [Allegrograph](http://franz.com/agraph/allegrograph/)
-- [Apache Rya (incubating)](http://rya.incubator.apache.org/)
-- [Ontotext](https://ontotext.com/)
-- [Parliament](http://parliament.semwebcentral.org/)
-- [CM-Well](https://github.com/thomsonreuters/CM-Well)
-- [BrightstarDB](http://brightstardb.com/) - A native RDF database for the .NET platform written in C#.
-- [marklogic-semantic](https://github.com/marklogic/semantic)
-- [Oracle](http://www.oracle.com/technetwork/database/options/spatialandgraph/overview/rdfsemantic-more-2239071.html)
-- [wallix/triplestore](https://github.com/wallix/triplestore) - Nifty library written in Go-Lang.
-- [Halyard](https://github.com/Merck/Halyard)
-- [SANSA](http://sansa-stack.net/)
-- [Corese](http://wimmics.inria.fr/corese)
-- [rdf3x](https://code.google.com/archive/p/rdf3x/)
-- [gh-rdf3x](https://github.com/gh-rdf3x/gh-rdf3x)
-- [Mulgara](http://mulgara.org/)
-- [TripleRush](https://github.com/uzh/triplerush)
+
+$ - Proprietary
+OS - OpenSource
+F - Free
+
+- [Stardog](http://stardog.com) $/F
+- [Virtuoso](https://virtuoso.openlinksw.com/) $/OS
+- [Blazegraph](https://www.blazegraph.com/) $/OS
+- [GraphDB](http://graphdb.ontotext.com/) $/F
+- [Oracle](http://www.oracle.com/technetwork/database/options/spatialandgraph/overview/rdfsemantic-more-2239071.html) $
+- [Allegrograph](http://franz.com/agraph/allegrograph/) $/F
+- [marklogic-semantic](https://github.com/marklogic/semantic) $
+- [RDF4J](http://rdf4j.org) OS
+- [Jena TDB](http://jena.apache.org/documentation/tdb/index.html) OS
+- [BrightstarDB](http://brightstardb.com/) OS - A native RDF database for the .NET platform written in C#.
+- [CM-Well](https://github.com/thomsonreuters/CM-Well) OS
+- [Apache Rya](http://rya.incubator.apache.org/) OS
+- [4Store](https://github.com/garlik/4store) OS
+- [Mulgara](http://mulgara.org/) OS
+- [Parliament](http://parliament.semwebcentral.org/) OS
+- [wallix/triplestore](https://github.com/wallix/triplestore) OS - Nifty library written in Go-Lang.
+- [Halyard](https://github.com/Merck/Halyard) OS
+- [SANSA](http://sansa-stack.net/) OS
+
+### Academic
+- [TripleRush](https://github.com/uzh/triplerush) OS
+- [Corese](http://wimmics.inria.fr/corese) OS
+- [rdf3x](https://code.google.com/archive/p/rdf3x/) OS
+- [gh-rdf3x](https://github.com/gh-rdf3x/gh-rdf3x) OS
 
 ## SPARQL
 
