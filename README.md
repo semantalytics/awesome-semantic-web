@@ -129,6 +129,7 @@ A curated list of various semantic web and linked data resources.
 
 ### RML
 - [RML](https://github.com/RMLio) - RDF Mapping language for mapping JSON, CSV and XML to RDF
+- [CARML](https://github.com/carml/carml) - An RML engine in Java
 
 ### R2RML
 - [R2RML-Parser](https://github.com/nkons/r2rml-parser) - An R2RML implementation that can export relational database contents as RDF graphs
