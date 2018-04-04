@@ -192,6 +192,8 @@ F - Free
 
 ### JavaScript
 - [js3](https://github.com/webr3/js3)
+- [rdfstore-js](https://github.com/antoniogarrote/rdfstore-js)
+- [rdf-ext](https://github.com/rdf-ext/rdf-ext)
 
 ## C#
 - [dotNetRDF](https://github.com/dotnetrdf/dotnetrdf)
