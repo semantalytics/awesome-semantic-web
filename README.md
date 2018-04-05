@@ -19,6 +19,9 @@ A curated list of various semantic web and linked data resources.
 - [OWL 2 Web Ontology Language Document Overview](https://www.w3.org/TR/owl-overview/)
 - [OWL 2 Web Ontology Language Primer](https://www.w3.org/TR/owl-primer/)
  
+## SHACL
+- [Shapes Constraint Language](https://www.w3.org/TR/shacl/)
+ 
 ### SPARQL
 - [SPARQL 1.1 Overview](https://www.w3.org/TR/sparql11-overview/)
 - [SPARQL 1.1 Query Language](https://www.w3.org/TR/sparql11-query/)
