@@ -42,6 +42,7 @@ A curated list of various semantic web and linked data resources.
 - [trix](http://www.hpl.hp.com/techreports/2004/HPL-2004-56.html)
 - [trig](https://www.w3.org/TR/trig/)
 - [manchester](https://www.w3.org/2007/OWL/draft/ED-owl2-manchester-syntax-20081128/)
+- [manchester-syntax-owl](https://github.com/rollxx/manchester-syntax-owl2)
 
 ### Linked Data Platform (LDP)
 - [Linked Data Platform 1.0 Primer](https://www.w3.org/TR/ldp-primer/)
@@ -95,6 +96,7 @@ F - Free
 - [wallix/triplestore](https://github.com/wallix/triplestore) OS - Nifty library written in Go-Lang.
 - [Halyard](https://github.com/Merck/Halyard) OS
 - [SANSA](http://sansa-stack.net/) OS
+- [hbase-rdf](https://github.com/castagna/hbase-rdf) OS
 
 ### Academic
 - [TripleRush](https://github.com/uzh/triplerush) OS
@@ -124,7 +126,15 @@ F - Free
 - [Elda](https://github.com/epimorphics/elda) - Linked data platform from Epimorphics
 - [LDP4j](https://github.com/ldp4j/ldp4j)
 
+## Data Cube
+- [qb4olap-tools](https://github.com/lorenae/qb4olap-tools)
+- [OpenCube-Expander](https://github.com/opencube-toolkit/OpenCube-Expander)
+- [qb4olap](https://github.com/lorenae/qb4olap)
+- [QB4ST: RDF Data Cube extensions for spatio-temporal components](https://www.w3.org/TR/qb4st/)
+- [The RDF Data Cube Vocabulary](https://www.w3.org/TR/vocab-data-cube/)
+
 ## Mapping
+- [d2rq](https://github.com/cygri/d2rq)
 - [CSV2RDF](https://github.com/clarkparsia/csv2rdf) - CSV to RDF mapper
 - [tarql-component](https://github.com/opencube-toolkit/tarql-component)
 - [csv2rdf](https://github.com/notruthless/csv2rdf)
@@ -132,6 +142,7 @@ F - Free
 - [csv2rdf4lod-automation](https://github.com/timrdf/csv2rdf4lod-automation)
 - [any2rdf](https://github.com/esbranson/any2rdf)
 - [triplify](https://github.com/pebbie/triplify)
+- [xlwrap](https://github.com/sidewinderlabs/xlwrap)
 
 ### RML
 - [RML](https://github.com/RMLio) - RDF Mapping language for mapping JSON, CSV and XML to RDF
@@ -154,6 +165,12 @@ F - Free
 - [paper](http://events.linkeddata.org/ldow2016/papers/LDOW2016_paper_14.pdf)
 
 ## Ontologies
+- [geo]
+- [skos]
+- [skos-xl]
+- [pim]
+- [vcard]
+- [foaf]
 - [uberon](https://github.com/obophenotype/uberon)
 - [MMOntologies](https://github.com/gatemezing/MMOntologies)
 - [juso-ontology](https://github.com/jgkim/juso-ontology)
@@ -172,6 +189,7 @@ F - Free
 ## Streaming
 - [CSPARQL-engine](https://github.com/streamreasoning/CSPARQL-engine)
 - [Triplewave](https://github.com/streamreasoning/TripleWave)
+- [morph-streams](https://github.com/jpcik/morph-streams)
 
 ## Programming
 
@@ -194,6 +212,7 @@ F - Free
 - [js3](https://github.com/webr3/js3)
 - [rdfstore-js](https://github.com/antoniogarrote/rdfstore-js)
 - [rdf-ext](https://github.com/rdf-ext/rdf-ext)
+- [N3.js](https://github.com/RubenVerborgh/N3.js)
 
 ## C#
 - [dotNetRDF](https://github.com/dotnetrdf/dotnetrdf)
@@ -207,6 +226,9 @@ F - Free
 
 ### Scala
 - [banana-rdf](https://github.com/banana-rdf/banana-rdf) - A library for RDF, SPARQL and Linked Data technologies in Scala.
+
+### Groovy
+- [groovyrdf](https://github.com/angelo-v/groovyrdf)
 
 ## VIM
 - [sparql.vim](https://github.com/vim-scripts/sparql.vim) - SPARQL syntax highlighting
@@ -237,7 +259,6 @@ F - Free
 - [RDFUnit](https://github.com/AKSW/RDFUnit) - RDFUnit is implemented on top of the Test-Driven Data Validation Ontology and designed to read and produce RDF that complies to that ontology only. 
 - [IGUANA](https://github.com/AKSW/IGUANA) - IGUANA is a benchmark execution framework for triple stores 
 - [antlr-sparql-grammar](https://github.com/rollxx/antlr-sparql-grammar)
-- [manchester-syntax-owl](https://github.com/rollxx/manchester-syntax-owl2)
 - [clj-plaza](https://github.com/antoniogarrote/clj-plaza)
 - [xwiki](https://github.com/bblfish/xwiki)
 - [geonames](https://github.com/ldodds/geonames)
@@ -249,10 +270,7 @@ F - Free
 - [DREAM](https://github.com/CMU-Q/DREAM)
 - [rww-play](https://github.com/read-write-web/rww-play)
 - [fox](https://github.com/uzh/fox)
-- [OpenCube-Expander](https://github.com/opencube-toolkit/OpenCube-Expander)
-- [qb4olap](https://github.com/lorenae/qb4olap)
 - [sesame-spring](https://github.com/ameingast/sesame-spring)
-- [qb4olap-tools](https://github.com/lorenae/qb4olap-tools)
 - [SolRDF](https://github.com/agazzarini/SolRDF)
 - [rdf-toolkit](https://github.com/edmcouncil/rdf-toolkit)
 - [prissma-studio](https://github.com/lukostaz/prissma-studio)
@@ -265,7 +283,6 @@ F - Free
 - [void](https://github.com/cygri/void)
 - [rdftools](https://github.com/cosminbasca/rdftools)
 - [pinto](https://github.com/stardog-union/pinto)
-- [morph-streams](https://github.com/jpcik/morph-streams)
 - [rdfagents](https://github.com/joshsh/rdfagents)
 - [gm-sparql](https://github.com/ssrangan/gm-sparql)
 - [cp-common-utils](https://github.com/mhgrove/cp-common-utils)
@@ -274,7 +291,6 @@ F - Free
 - [Stardog-Connection-Pool-API](https://github.com/roberttheiv/Stardog-Connection-Pool-API)
 - [webid-demo](https://github.com/digitalbazaar/webid-demo)
 - [sparks](https://github.com/sparksrdf/sparks)
-- [xlwrap](https://github.com/sidewinderlabs/xlwrap)
 - [rdf.js](https://github.com/webr3/rdf.js)
 - [foafssl-java](https://github.com/bblfish/foafssl-java)
 - [webid-spec](https://github.com/webid-community/webid-spec)
@@ -316,7 +332,6 @@ F - Free
 - [SemanticNationalMap](https://github.com/dmm/SemanticNationalMap)
 - [JenaSecurity](https://github.com/Claudenw/JenaSecurity)
 - [jtriple](https://github.com/konradreiche/jtriple)
-- [groovyrdf](https://github.com/angelo-v/groovyrdf)
 - [jsonld-java](https://github.com/jsonld-java/jsonld-java)
 - [ripple](https://github.com/joshsh/ripple)
 - [specgen](https://github.com/specgen/specgen)
@@ -326,8 +341,6 @@ F - Free
 - [cassa](https://github.com/heuer/cassa)
 - [graphity-browser](https://github.com/AtomGraph/Web-Client)
 - [pellet](https://github.com/lepfhty/pellet)
-- [hbase-rdf](https://github.com/castagna/hbase-rdf)
-- [rdfstore-js](https://github.com/antoniogarrote/rdfstore-js)
 - [keygenapp](https://github.com/bblfish/keygenapp)
 - [owlapitools](https://github.com/owlcs/owlapitools)
 - [LD-FusionTool](https://github.com/mifeet/LD-FusionTool)
@@ -351,11 +364,9 @@ F - Free
 - [singal-collect](https://github.com/uzh/signal-collect)
 - [Duke](https://github.com/larsga/Duke)
 - [redland-bindings](https://github.com/dajobe/redland-bindings)
-- [N3.js](https://github.com/RubenVerborgh/N3.js)
 - [mediation](https://github.com/correndo/mediation)
 - [owl-functional-syntax-axiom-parser](https://github.com/dfleischhacker/owl-functional-syntax-axiom-parser)
 - [SemanticPingback](https://github.com/AKSW/SemanticPingback)
-- [d2rq](https://github.com/cygri/d2rq)
 - [vim-sparql](https://github.com/Omer/vim-sparql)
 - [tdbloader4](https://github.com/castagna/tdbloader4)
 - [json-ld-macros](https://github.com/antoniogarrote/json-ld-macros)
