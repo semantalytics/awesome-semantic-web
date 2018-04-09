@@ -195,6 +195,13 @@ F - Free
 - [Triplewave](https://github.com/streamreasoning/TripleWave)
 - [morph-streams](https://github.com/jpcik/morph-streams)
 
+## Research
+
+- [The Smart Data Analytics (SDA)](http://sda.tech/) research group, Institute for Computer Science at the University of Bonn, the Fraunhofer Institute for Intelligent Analysis and Information Systems (IAIS) and the Institute for Applied Computer Science Leipzig.
+- [Agile Knowledge Engineering and Semantic Web (AKSW)](http://aksw.org) The Research Group Agile Knowledge Engineering and Semantic Web (AKSW) is hosted by the Chair of Business Information Systems (BIS) of the Institute of Computer Science (IfI) / University of Leipzig as well as the Institute for Applied Informatics (InfAI).
+- [University of Zurich Dynamic and Distributed Information Systems Group](http://www.ifi.uzh.ch/en/ddis.html)
+
+
 ## Programming
 
 ### Java
