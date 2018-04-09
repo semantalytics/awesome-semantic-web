@@ -125,6 +125,12 @@ F - Free
 - [YASGUI](https://github.com/OpenTriply/YASGUI) Yet Another Sparql GUI
 - [pubby](https://github.com/cygri/pubby) A Linked Data frontend for SPARQL endpoints 
 
+## Streaming
+- [CSPARQL-engine](https://github.com/streamreasoning/CSPARQL-engine)
+- [Triplewave](https://github.com/streamreasoning/TripleWave)
+- [morph-streams](https://github.com/jpcik/morph-streams)
+- [Katts](https://github.com/uzh/katts
+
 ## Linked Data Platform
 - [Marmotta](https://github.com/apache/marmotta) - Apache linked data platform implementation
 - [Elda](https://github.com/epimorphics/elda) - Linked data platform from Epimorphics
@@ -189,11 +195,6 @@ F - Free
 ### Data Cube
 - [The RDF Datacube Vocabulary](https://www.w3.org/TR/vocab-data-cube)
 - [QB4ST: RDF Data Cube extensions for spatio-temporal components](https://www.w3.org/TR/qb4st/)
-
-## Streaming
-- [CSPARQL-engine](https://github.com/streamreasoning/CSPARQL-engine)
-- [Triplewave](https://github.com/streamreasoning/TripleWave)
-- [morph-streams](https://github.com/jpcik/morph-streams)
 
 ## Research
 
