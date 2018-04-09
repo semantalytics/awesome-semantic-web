@@ -177,9 +177,9 @@ F - Free
 - [paper](http://events.linkeddata.org/ldow2016/papers/LDOW2016_paper_14.pdf)
 
 ## Ontologies
-- [geo]
-- [skos]
-- [skos-xl]
+- [geo](https://www.w3.org/2003/01/geo/wgs84_pos#)
+- [skos]( http://www.w3.org/2004/02/skos/core#)
+- [skos-xl](http://www.w3.org/2008/05/skos-xl#)
 - [pim]
 - [vcard]
 - [foaf]
