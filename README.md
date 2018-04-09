@@ -108,6 +108,13 @@ F - Free
 - [rdf3x](https://code.google.com/archive/p/rdf3x/) OS
 - [gh-rdf3x](https://github.com/gh-rdf3x/gh-rdf3x) OS
 
+## Streaming
+- [CSPARQL-engine](https://github.com/streamreasoning/CSPARQL-engine)
+- [Triplewave](https://github.com/streamreasoning/TripleWave)
+- [morph-streams](https://github.com/jpcik/morph-streams)
+- [Katts](https://github.com/uzh/katts
+- [WAVES](https://www.waves-rsp.org/)
+
 ## SPARQL
 
 ## SPARQL Applications
@@ -124,12 +131,6 @@ F - Free
 - [AutoSPARQL](https://github.com/AKSW/AutoSPARQL)
 - [YASGUI](https://github.com/OpenTriply/YASGUI) Yet Another Sparql GUI
 - [pubby](https://github.com/cygri/pubby) A Linked Data frontend for SPARQL endpoints 
-
-## Streaming
-- [CSPARQL-engine](https://github.com/streamreasoning/CSPARQL-engine)
-- [Triplewave](https://github.com/streamreasoning/TripleWave)
-- [morph-streams](https://github.com/jpcik/morph-streams)
-- [Katts](https://github.com/uzh/katts
 
 ## Linked Data Platform
 - [Marmotta](https://github.com/apache/marmotta) - Apache linked data platform implementation
