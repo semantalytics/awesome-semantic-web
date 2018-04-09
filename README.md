@@ -114,6 +114,7 @@ F - Free
 - [morph-streams](https://github.com/jpcik/morph-streams)
 - [Katts](https://github.com/uzh/katts
 - [WAVES](https://www.waves-rsp.org/)
+- [Strider](https://github.com/renxiangnan/strider)
 
 ## SPARQL
 
