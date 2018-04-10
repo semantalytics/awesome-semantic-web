@@ -115,6 +115,7 @@ F - Free
 - [Katts](https://github.com/uzh/katts
 - [WAVES](https://www.waves-rsp.org/)
 - [Strider](https://github.com/renxiangnan/strider)
+- [cqels](https://github.com/KMax/cqels)
 
 ## SPARQL
 
