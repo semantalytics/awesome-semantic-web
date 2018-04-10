@@ -117,6 +117,18 @@ F - Free
 - [Strider](https://github.com/renxiangnan/strider)
 - [cqels](https://github.com/KMax/cqels)
 
+## Federated SPARQL
+- [FEDX]()
+- [Semagrow](https://github.com/semagrow)
+- [CostFed](https://github.com/dice-group/CostFed)
+- [QUETSAL](http://aksw.org/Projects/QUETSAL.html)
+- [SPLENDID]()
+- [ANAPSID]()
+- [HiBISCuS]()
+
+## Companies
+
+
 ## SPARQL
 
 ## SPARQL Applications
