@@ -262,6 +262,9 @@ F - Free
 - [sparql.vim](https://github.com/vim-scripts/sparql.vim) - SPARQL syntax highlighting
 - [vim-owl-tools](https://github.com/mattpap/vim-owl-tools)
 
+## Emacs
+- [sparql-mode](https://github.com/ljos/sparql-mode)
+
 ## Geo
 - [LinkedGeoData](https://github.com/GeoKnow/LinkedGeoData)
 - [SemantGeo](https://github.com/apseyed/SemantGeo)
