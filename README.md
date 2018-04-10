@@ -227,6 +227,7 @@ F - Free
 - [rdfstore-js](https://github.com/antoniogarrote/rdfstore-js)
 - [rdf-ext](https://github.com/rdf-ext/rdf-ext)
 - [N3.js](https://github.com/RubenVerborgh/N3.js)
+- [Jessa](https://www.npmjs.com/package/jassa)
 
 ## C#
 - [dotNetRDF](https://github.com/dotnetrdf/dotnetrdf)
