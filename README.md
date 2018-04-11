@@ -127,6 +127,9 @@ F - Free
 - [HiBISCuS]()
 
 ## Companies
+- [Stardog Union](http://stardog.com)
+- [Epimorphics](https://www.epimorphics.com/)
+- [Franz](http://franz.com)
 
 
 ## SPARQL
@@ -181,6 +184,7 @@ F - Free
 - [db2triples](https://github.com/antidot/db2triples)
 - [ADAPT-R2RML](https://opengogs.adaptcentre.ie/debruync/r2rml)
 - [R2RML-api](https://github.com/R2RML-api/R2RML-api)
+- [R2RML-kit](https://github.com/d2rq/r2rml-kit)
 
 ### xR2RML
 - [morph-xr2rml](https://github.com/frmichel/morph-xr2rml)
@@ -188,6 +192,7 @@ F - Free
 
 ### R2RML-f
 - [paper](http://events.linkeddata.org/ldow2016/papers/LDOW2016_paper_14.pdf)
+- [Adapt R2RML](https://opengogs.adaptcentre.ie/debruync/r2rml)
 
 ## Ontologies
 - [geo](https://www.w3.org/2003/01/geo/wgs84_pos#)
