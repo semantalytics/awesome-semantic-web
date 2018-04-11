@@ -185,6 +185,7 @@ F - Free
 - [ADAPT-R2RML](https://opengogs.adaptcentre.ie/debruync/r2rml)
 - [R2RML-api](https://github.com/R2RML-api/R2RML-api)
 - [R2RML-kit](https://github.com/d2rq/r2rml-kit)
+- [Juma](https://opengogs.adaptcentre.ie/crottija/juma-r2rml/) Juma, jigsaw puzzles for representing mapping, is a method that applies the block metaphor to mapping languages.
 
 ### xR2RML
 - [morph-xr2rml](https://github.com/frmichel/morph-xr2rml)
