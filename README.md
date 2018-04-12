@@ -210,7 +210,9 @@ F - Free
 - [evidenceontology](https://github.com/evidenceontology/evidenceontology)
 - [bevon](https://github.com/jgkim/bevon) Beverage ontology
 - [cyber-ontology](https://github.com/daedafusion/cyber-ontology)
-
+### ORG
+- [The Organization Ontology](https://www.w3.org/TR/vocab-org/)
+- [Org](http://www.w3.org/ns/org#)
 ### SKOS
 - [SKOS Simple Knowledge Organization System Reference](https://www.w3.org/TR/skos-reference/)
 ### Data Cube
