@@ -148,6 +148,9 @@ F - Free
 - [AutoSPARQL](https://github.com/AKSW/AutoSPARQL)
 - [YASGUI](https://github.com/OpenTriply/YASGUI) Yet Another Sparql GUI
 - [pubby](https://github.com/cygri/pubby) A Linked Data frontend for SPARQL endpoints 
+- [fluent-sparql](https://github.com/stoewer/fluent-sparql)
+- [FlintSparqlEditor](https://github.com/TSO-Openup/FlintSparqlEditor)
+- [reactive-sparql](https://github.com/modelfabric/reactive-sparql)
 
 ## Linked Data Platform
 - [Marmotta](https://github.com/apache/marmotta) - Apache linked data platform implementation
@@ -210,6 +213,7 @@ F - Free
 - [evidenceontology](https://github.com/evidenceontology/evidenceontology)
 - [bevon](https://github.com/jgkim/bevon) Beverage ontology
 - [cyber-ontology](https://github.com/daedafusion/cyber-ontology)
+- [doap](https://github.com/edumbill/doap)
 
 ### ORG
 - [The Organization Ontology](https://www.w3.org/TR/vocab-org/)
@@ -288,6 +292,7 @@ F - Free
 - [d3-sparql](https://github.com/zazuko/d3-sparql)
 - [SPARQLFilterFlow](http://sparql.visualdataweb.org/)
 - [VOWL](http://vowl.visualdataweb.org/) - Visual Notation for OWL Ontologies
+- [gephi-semantic-web-import](https://github.com/Wimmics/gephi-semantic-web-import)
 
 ## DataCube
 
@@ -295,6 +300,10 @@ F - Free
 - [OpenCube Toolkit](http://opencube-toolkit.eu/)
 - [CubeViz](https://github.com/AKSW/cubeviz.ontowiki)
 - [QB4ST: RDF Data Cube extensions for spatio-temporal components](https://www.w3.org/TR/qb4st/)
+
+## Data
+- [DBPedia](http://dbpedia.org)
+- [geonames](https://github.com/ldodds/geonames)
 
 ## Misc
 
@@ -308,9 +317,7 @@ F - Free
 - [antlr-sparql-grammar](https://github.com/rollxx/antlr-sparql-grammar)
 - [clj-plaza](https://github.com/antoniogarrote/clj-plaza)
 - [xwiki](https://github.com/bblfish/xwiki)
-- [geonames](https://github.com/ldodds/geonames)
 - [rdfdot](https://github.com/wastl/rdfdot)
-- [gephi-semantic-web-import](https://github.com/Wimmics/gephi-semantic-web-import)
 - [warp](https://github.com/linkeddata/warp)
 - [anthelion](https://github.com/yahoo/anthelion)
 - [solid-spec](https://github.com/solid/solid-spec)
@@ -357,7 +364,6 @@ F - Free
 - [docker-blazegraph](https://github.com/lyrasis/docker-blazegraph)
 - [blazegraph-service](https://github.com/vastix/blazegraph-service)
 - [squebi](https://github.com/tkurz/squebi)
-- [fluent-sparql](https://github.com/stoewer/fluent-sparql)
 - [banana-rdf](https://github.com/banana-rdf/banana-rdf)
 - [visualRDF](https://github.com/alangrafu/visualRDF)
 - [Sparqlify](https://github.com/AKSW/Sparqlify)
@@ -375,7 +381,6 @@ F - Free
 - [owl2vcs](https://github.com/utapyngo/owl2vcs)
 - [dowl](https://github.com/ldodds/dowl)
 - [sesametools](https://github.com/joshsh/sesametools)
-- [pubby](https://github.com/cygri/pubby)
 - [SemanticNationalMap](https://github.com/dmm/SemanticNationalMap)
 - [JenaSecurity](https://github.com/Claudenw/JenaSecurity)
 - [jtriple](https://github.com/konradreiche/jtriple)
@@ -383,7 +388,6 @@ F - Free
 - [ripple](https://github.com/joshsh/ripple)
 - [specgen](https://github.com/specgen/specgen)
 - [asqc](https://github.com/gklyne/asqc)
-- [FlintSparqlEditor](https://github.com/TSO-Openup/FlintSparqlEditor)
 - [schema-org-rdf](https://github.com/mhausenblas/schema-org-rdf)
 - [cassa](https://github.com/heuer/cassa)
 - [graphity-browser](https://github.com/AtomGraph/Web-Client)
@@ -406,7 +410,6 @@ F - Free
 - [TurtleValidator](https://github.com/mmlab/TurtleValidator)
 - [rdflib](https://github.com/RDFLib/rdflib)
 - [SPARQLFederator](https://github.com/djogopatrao/SPARQLFederator)
-- [triplerush](https://github.com/uzh/triplerush)
 - [signal-collect-torque](https://github.com/uzh/signal-collect-torque)
 - [singal-collect](https://github.com/uzh/signal-collect)
 - [Duke](https://github.com/larsga/Duke)
@@ -418,7 +421,6 @@ F - Free
 - [tdbloader4](https://github.com/castagna/tdbloader4)
 - [json-ld-macros](https://github.com/antoniogarrote/json-ld-macros)
 - [semweb.vim](https://github.com/seebi/semweb.vim)
-- [doap](https://github.com/edumbill/doap)
 - [tac](https://github.com/magnetik/tac)
 - [dbpedia-extension](https://github.com/sparkica/dbpedia-extension)
 - [commons-rdf](https://github.com/commons-rdf/commons-rdf)
@@ -443,7 +445,6 @@ F - Free
 - [rdf-ext](https://github.com/rdf-ext/rdf-ext)
 - [anno4j](https://github.com/anno4j/anno4j)
 - [Widoco](https://github.com/dgarijo/Widoco)
-- [ldp4j](https://github.com/ldp4j/ldp4j)
 - [sesametools](https://github.com/joshsh/sesametools)
 - [DEER](https://github.com/GeoKnow/DEER)
 - [jvmrdftools](https://github.com/cosminbasca/jvmrdftools)
@@ -493,7 +494,6 @@ F - Free
 - [SANSA](https://github.com/SANSA-Stack/SANSA-RDF)
 - [soarql-dl-api](https://github.com/protegeproject/sparql-dl-api)
 - [Quetzal](https://github.com/Quetzal-RDF/quetzal)
-- [reactive-sparql](https://github.com/modelfabric/reactive-sparql)
 - [openllet](https://github.com/Galigator/openllet)
 - [Sempala](https://github.com/aschaetzle/Sempala)
 - [graph-pattern-learner](https://github.com/RDFLib/graph-pattern-learner)
