@@ -157,6 +157,10 @@ F - Free
 - [Elda](https://github.com/epimorphics/elda) - Linked data platform from Epimorphics
 - [LDP4j](https://github.com/ldp4j/ldp4j)
 
+## Web Annotations
+- [anno4j](https://github.com/anno4j/anno4j)
+- [annotation model](https://www.w3.org/TR/annotation-model/)
+
 ## Data Cube
 - [qb4olap-tools](https://github.com/lorenae/qb4olap-tools)
 - [OpenCube-Expander](https://github.com/opencube-toolkit/OpenCube-Expander)
@@ -214,6 +218,7 @@ F - Free
 - [bevon](https://github.com/jgkim/bevon) Beverage ontology
 - [cyber-ontology](https://github.com/daedafusion/cyber-ontology)
 - [doap](https://github.com/edumbill/doap)
+- [void](https://github.com/cygri/void)
 
 ### ORG
 - [The Organization Ontology](https://www.w3.org/TR/vocab-org/)
@@ -293,6 +298,7 @@ F - Free
 - [SPARQLFilterFlow](http://sparql.visualdataweb.org/)
 - [VOWL](http://vowl.visualdataweb.org/) - Visual Notation for OWL Ontologies
 - [gephi-semantic-web-import](https://github.com/Wimmics/gephi-semantic-web-import)
+- [visualRDF](https://github.com/alangrafu/visualRDF)
 
 ## DataCube
 
@@ -304,6 +310,9 @@ F - Free
 ## Data
 - [DBPedia](http://dbpedia.org)
 - [geonames](https://github.com/ldodds/geonames)
+
+## IoT
+- [Weviate](https://github.com/creativesoftwarefdn/weaviate)
 
 ## Misc
 
@@ -334,7 +343,6 @@ F - Free
 - [Hydra](https://github.com/lanthaler/Hydra)
 - [HydraConsole](https://github.com/lanthaler/HydraConsole)
 - [HydraBundle](https://github.com/lanthaler/HydraBundle)
-- [void](https://github.com/cygri/void)
 - [rdftools](https://github.com/cosminbasca/rdftools)
 - [pinto](https://github.com/stardog-union/pinto)
 - [rdfagents](https://github.com/joshsh/rdfagents)
@@ -365,7 +373,6 @@ F - Free
 - [blazegraph-service](https://github.com/vastix/blazegraph-service)
 - [squebi](https://github.com/tkurz/squebi)
 - [banana-rdf](https://github.com/banana-rdf/banana-rdf)
-- [visualRDF](https://github.com/alangrafu/visualRDF)
 - [Sparqlify](https://github.com/AKSW/Sparqlify)
 - [jena-grande](https://github.com/castagna/jena-grande)
 - [mrlin](https://github.com/mhausenblas/mrlin)
@@ -443,7 +450,6 @@ F - Free
 - [xodx](https://github.com/AKSW/xodx)
 - [morph-starter](https://github.com/jpcik/morph-starter)
 - [rdf-ext](https://github.com/rdf-ext/rdf-ext)
-- [anno4j](https://github.com/anno4j/anno4j)
 - [Widoco](https://github.com/dgarijo/Widoco)
 - [sesametools](https://github.com/joshsh/sesametools)
 - [DEER](https://github.com/GeoKnow/DEER)
