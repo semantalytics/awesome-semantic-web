@@ -41,7 +41,7 @@ A curated list of various semantic web and linked data resources.
 ### Serializations
 - [RDF/XML Syntax Specification](https://www.w3.org/TR/REC-rdf-syntax/)
 - [RDF 1.1 TRIG](https://www.w3.org/TR/trig/)
-- [JSON-LD](https://www.w3.org/TR/json-ld/)
+- [JSON-LD](#JSON-LD)
 - [Turtle v1.1](https://www.w3.org/TR/turtle/)
 - [n-triples](https://www.w3.org/TR/n-triples/)
 - [n-quads](https://www.w3.org/TR/n-quads/)
@@ -49,6 +49,13 @@ A curated list of various semantic web and linked data resources.
 - [trig](https://www.w3.org/TR/trig/)
 - [manchester](https://www.w3.org/2007/OWL/draft/ED-owl2-manchester-syntax-20081128/)
 - [manchester-syntax-owl](https://github.com/rollxx/manchester-syntax-owl2)
+
+### JSON-LD
+- [Homepage](https://json-ld.org/)
+- [JSON-LD Syntax](https://json-ld.org/spec/latest/json-ld/)
+- [API](https://json-ld.org/spec/latest/json-ld-api/)
+- [Framing](https://json-ld.org/spec/latest/json-ld-framing/)
+- [Best Practices](https://json-ld.org/spec/latest/json-ld-api-best-practices/)
 
 ### Linked Data Platform (LDP)
 - [Linked Data Platform 1.0 Primer](https://www.w3.org/TR/ldp-primer/)
