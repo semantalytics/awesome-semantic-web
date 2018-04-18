@@ -41,7 +41,7 @@ A curated list of various semantic web and linked data resources.
 ### Serializations
 - [RDF/XML Syntax Specification](https://www.w3.org/TR/REC-rdf-syntax/)
 - [RDF 1.1 TRIG](https://www.w3.org/TR/trig/)
-- [JSON-LD](#JSON-LD)
+- [JSON-LD](#json-ld)
 - [Turtle v1.1](https://www.w3.org/TR/turtle/)
 - [n-triples](https://www.w3.org/TR/n-triples/)
 - [n-quads](https://www.w3.org/TR/n-quads/)
