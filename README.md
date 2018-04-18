@@ -3,6 +3,9 @@ A curated list of various semantic web and linked data resources.
 
 ## Standards
 
+### XML Schema
+- [XSD](https://www.w3.org/XML/Schema)
+
 ### RDF
 - [RDF Concepts and Abstract Syntax](https://www.w3.org/TR/rdf11-concepts/)
  
