@@ -219,6 +219,7 @@ F - Free
 - [cyber-ontology](https://github.com/daedafusion/cyber-ontology)
 - [doap](https://github.com/edumbill/doap)
 - [void](https://github.com/cygri/void)
+- [time](https://w3c.github.io/sdw/time/)
 
 ### ORG
 - [The Organization Ontology](https://www.w3.org/TR/vocab-org/)
