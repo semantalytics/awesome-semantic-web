@@ -167,6 +167,10 @@ F - Free
 - [Elda](https://github.com/epimorphics/elda) - Linked data platform from Epimorphics
 - [LDP4j](https://github.com/ldp4j/ldp4j)
 
+## CSVW
+- [Model for Tabular Data and Metadata on the Web](https://www.w3.org/TR/tabular-data-model/)
+- [CSV on the Web: A Primer](https://www.w3.org/TR/tabular-data-primer/)
+
 ## Web Annotations
 - [anno4j](https://github.com/anno4j/anno4j)
 - [annotation model](https://www.w3.org/TR/annotation-model/)
