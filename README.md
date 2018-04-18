@@ -111,6 +111,7 @@ F - Free
 - [SANSA](http://sansa-stack.net/) OS
 - [hbase-rdf](https://github.com/castagna/hbase-rdf) OS
 - [Anzograph](https://www.cambridgesemantics.com/product/anzograph/)
+- [CumulusRDF](https://github.com/cumulusrdf/cumulusrdf)
 
 ### Academic
 - [TripleRush](https://github.com/uzh/triplerush) OS
