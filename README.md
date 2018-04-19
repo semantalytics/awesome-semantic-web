@@ -113,6 +113,7 @@ F - Free
 - [Anzograph](https://www.cambridgesemantics.com/product/anzograph/)
 - [CumulusRDF](https://github.com/cumulusrdf/cumulusrdf)
 - [Strabon](http://www.strabon.di.uoa.gr/)
+- [Sempala](https://github.com/aschaetzle/Sempala)
 
 ### Academic
 - [TripleRush](https://github.com/uzh/triplerush) OS
@@ -519,5 +520,4 @@ F - Free
 - [soarql-dl-api](https://github.com/protegeproject/sparql-dl-api)
 - [Quetzal](https://github.com/Quetzal-RDF/quetzal)
 - [openllet](https://github.com/Galigator/openllet)
-- [Sempala](https://github.com/aschaetzle/Sempala)
 - [graph-pattern-learner](https://github.com/RDFLib/graph-pattern-learner)
