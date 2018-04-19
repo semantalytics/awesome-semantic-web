@@ -246,12 +246,13 @@ F - Free
 - [The RDF Datacube Vocabulary](https://www.w3.org/TR/vocab-data-cube)
 - [QB4ST: RDF Data Cube extensions for spatio-temporal components](https://www.w3.org/TR/qb4st/)
 
-## Research
+## Research Institutions
 
 - [The Smart Data Analytics (SDA)](http://sda.tech/) research group, Institute for Computer Science at the University of Bonn, the Fraunhofer Institute for Intelligent Analysis and Information Systems (IAIS) and the Institute for Applied Computer Science Leipzig.
 - [Agile Knowledge Engineering and Semantic Web (AKSW)](http://aksw.org) The Research Group Agile Knowledge Engineering and Semantic Web (AKSW) is hosted by the Chair of Business Information Systems (BIS) of the Institute of Computer Science (IfI) / University of Leipzig as well as the Institute for Applied Informatics (InfAI).
 - [University of Zurich Dynamic and Distributed Information Systems Group](http://www.ifi.uzh.ch/en/ddis.html)
- - [WESO](http://www.weso.es/) WESO is a research group at the University of Oviedo founded in 2004
+- [WESO](http://www.weso.es/) WESO is a research group at the University of Oviedo founded in 2004
+- [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/) Department D5 of the Max Planck Institute for Informatics
 
 ## Programming
 
