@@ -63,7 +63,9 @@ A curated list of various semantic web and linked data resources.
 - [Linked Data Platform Best Practices and Guidelines](https://www.w3.org/TR/ldp-bp/)
 - [Linked Data Platform 1.0](https://www.w3.org/TR/ldp/)
 - [Linked Data Platform 1.0 Test Cases]()
-   
+
+- [warp](https://github.com/linkeddata/warp) Warp - an LDP file manager
+
 ### Linked Data Fragments (LDF)
 - [Linked Data Fragments](http://linkeddatafragments.org)
    
@@ -380,7 +382,6 @@ F - Free
 - [clj-plaza](https://github.com/antoniogarrote/clj-plaza)
 - [xwiki](https://github.com/bblfish/xwiki)
 - [rdfdot](https://github.com/wastl/rdfdot)
-- [warp](https://github.com/linkeddata/warp)
 - [anthelion](https://github.com/yahoo/anthelion)
 - [solid-spec](https://github.com/solid/solid-spec)
 - [DREAM](https://github.com/CMU-Q/DREAM)
