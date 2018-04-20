@@ -80,6 +80,12 @@ A curated list of various semantic web and linked data resources.
 ### Linked Data Notifications
 - [Linked Data Notifications](https://www.w3.org/TR/ldn/)
 
+## Companies
+- [Stardog Union](http://stardog.com)
+- [Epimorphics](https://www.epimorphics.com/)
+- [Franz](http://franz.com)
+- [PoolParty](https://www.poolparty.biz/)
+
 ## Databases
 
 $ - Proprietary
@@ -116,7 +122,9 @@ F - Free
 - [rdf3x](https://code.google.com/archive/p/rdf3x/) OS
 - [gh-rdf3x](https://github.com/gh-rdf3x/gh-rdf3x) OS
 
-## Streaming
+## SPARQL
+
+## Streaming SPARQL
 - [CSPARQL-engine](https://github.com/streamreasoning/CSPARQL-engine)
 - [Triplewave](https://github.com/streamreasoning/TripleWave)
 - [morph-streams](https://github.com/jpcik/morph-streams)
@@ -135,14 +143,7 @@ F - Free
 - [HiBISCuS](https://github.com/AKSW/HiBISCuS)
 - [SPARQLFederator](https://github.com/djogopatrao/SPARQLFederator)
 - [rdffederator](https://github.com/goerlitz/rdffederator)
-
-## Companies
-- [Stardog Union](http://stardog.com)
-- [Epimorphics](https://www.epimorphics.com/)
-- [Franz](http://franz.com)
-- [PoolParty](https://www.poolparty.biz/)
-
-## SPARQL
+- [DREAM](https://github.com/CMU-Q/DREAM) DREAM - Distributed RDF Engine with Adaptive Query Planner and Minimal Communication 
 
 ### SPARQL Applications
 - [sparqlab](https://github.com/jindrichmynarz/sparqlab) Lab for exercising SPARQL 
@@ -381,10 +382,9 @@ F - Free
 - [antlr-sparql-grammar](https://github.com/rollxx/antlr-sparql-grammar)
 - [clj-plaza](https://github.com/antoniogarrote/clj-plaza)
 - [xwiki](https://github.com/bblfish/xwiki)
-- [rdfdot](https://github.com/wastl/rdfdot)
-- [anthelion](https://github.com/yahoo/anthelion)
+- [rdfdot](https://github.com/wastl/rdfdot) Tools for drawing graphs from RDF files with GraphViz 
+- [anthelion](https://github.com/yahoo/anthelion) Anthelion is a plugin for Apache Nutch to crawl semantic annotations within HTML pages 
 - [solid-spec](https://github.com/solid/solid-spec)
-- [DREAM](https://github.com/CMU-Q/DREAM)
 - [rww-play](https://github.com/read-write-web/rww-play)
 - [fox](https://github.com/uzh/fox)
 - [sesame-spring](https://github.com/ameingast/sesame-spring)
