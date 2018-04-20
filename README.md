@@ -77,14 +77,6 @@ A curated list of various semantic web and linked data resources.
 ### Linked Data Notifications
 - [Linked Data Notifications](https://www.w3.org/TR/ldn/)
 
-## Java Object to RDF Mapping
-- [Empire](https://github.com/mhgrove/Empire/)
-- [Pinto](https://github.com/stardog-union/pinto)
-- [Som(m)er](https://github.com/bblfish/sommer)
-- [jennabean](https://code.google.com/p/jenabean/)
-- [Alibaba](https://bitbucket.org/openrdf/alibaba)
-- [rdfbeans](http://rdfbeans.sourceforge.net/)
-
 ## Databases
 
 $ - Proprietary
@@ -170,10 +162,6 @@ F - Free
 - [Elda](https://github.com/epimorphics/elda) - Linked data platform from Epimorphics
 - [LDP4j](https://github.com/ldp4j/ldp4j)
 
-## CSVW
-- [Model for Tabular Data and Metadata on the Web](https://www.w3.org/TR/tabular-data-model/)
-- [CSV on the Web: A Primer](https://www.w3.org/TR/tabular-data-primer/)
-
 ## Web Annotations
 - [anno4j](https://github.com/anno4j/anno4j)
 - [annotation model](https://www.w3.org/TR/annotation-model/)
@@ -195,6 +183,19 @@ F - Free
 - [any2rdf](https://github.com/esbranson/any2rdf)
 - [triplify](https://github.com/pebbie/triplify)
 - [xlwrap](https://github.com/sidewinderlabs/xlwrap)
+
+### CSVW
+- [Model for Tabular Data and Metadata on the Web](https://www.w3.org/TR/tabular-data-model/)
+- [CSV on the Web: A Primer](https://www.w3.org/TR/tabular-data-primer/)
+
+### Object to RDF Mapping
+- [Empire](https://github.com/mhgrove/Empire/)
+- [Pinto](https://github.com/stardog-union/pinto)
+- [Som(m)er](https://github.com/bblfish/sommer)
+- [jennabean](https://code.google.com/p/jenabean/)
+- [Alibaba](https://bitbucket.org/openrdf/alibaba)
+- [rdfbeans](http://rdfbeans.sourceforge.net/)
+- [surfrdf](https://github.com/cosminbasca/surfrdf)
 
 ### RML
 - [RML](https://github.com/RMLio) - RDF Mapping language for mapping JSON, CSV and XML to RDF
@@ -246,6 +247,21 @@ F - Free
 ### Data Cube
 - [The RDF Datacube Vocabulary](https://www.w3.org/TR/vocab-data-cube)
 - [QB4ST: RDF Data Cube extensions for spatio-temporal components](https://www.w3.org/TR/qb4st/)
+
+## Reasoners
+- [Pellet](https://github.com/stardog-union/pellet)
+- [FaCT++](https://github.com/ethz-asl/libfactplusplus)
+- [HermiT](http://www.hermit-reasoner.com/)
+- [ELK](https://github.com/liveontologies/elk-reasoner)
+- [OWL-RL](https://github.com/RDFLib/OWL-RL)
+- [RacerPro](https://franz.com/agraph/racer/)
+- [Manchester List of Reasoners](http://owl.cs.manchester.ac.uk/tools/list-of-reasoners/)
+
+## Benchmarks
+- [Lehigh University Benchmark (LUBM)](http://swat.cse.lehigh.edu/projects/lubm/)
+- [IGUANA](https://github.com/dice-group/IGUANA)
+- https://github.com/dice-group/triplestore-benchmarks
+- https://www.w3.org/wiki/RdfStoreBenchmarking
 
 ## Research Institutions
 
@@ -301,6 +317,9 @@ F - Free
 
 ## Emacs
 - [sparql-mode](https://github.com/ljos/sparql-mode)
+
+## Bash
+- [rdf.sh](https://github.com/seebi/rdf.sh)
 
 ## Geo
 - [LinkedGeoData](https://github.com/GeoKnow/LinkedGeoData)
@@ -358,7 +377,6 @@ F - Free
 - [prissma-studio](https://github.com/lukostaz/prissma-studio)
 - [fox-ui](https://github.com/Data2Semantics/fox-ui)
 - [sesame-vocab-builder](https://github.com/tkurz/sesame-vocab-builder)
-- [surfrdf](https://github.com/cosminbasca/surfrdf)
 - [Hydra](https://github.com/lanthaler/Hydra)
 - [HydraConsole](https://github.com/lanthaler/HydraConsole)
 - [HydraBundle](https://github.com/lanthaler/HydraBundle)
@@ -396,7 +414,6 @@ F - Free
 - [jena-grande](https://github.com/castagna/jena-grande)
 - [mrlin](https://github.com/mhausenblas/mrlin)
 - [TabLinker](https://github.com/Data2Semantics/TabLinker)
-- [FlintSparqlEditor](https://github.com/TSO-Openup/FlintSparqlEditor)
 - [ntcat](https://github.com/cgutteridge/ntcat)
 - [infovore](https://github.com/paulhoule/infovore)
 - [rdf3x_path](https://github.com/agubichev/rdf3x_path)
@@ -473,7 +490,6 @@ F - Free
 - [sesametools](https://github.com/joshsh/sesametools)
 - [DEER](https://github.com/GeoKnow/DEER)
 - [jvmrdftools](https://github.com/cosminbasca/jvmrdftools)
-- [rdf.sh](https://github.com/seebi/rdf.sh)
 - [ontmalizer](https://github.com/srdc/ontmalizer)
 - [YASGUI.legacy](https://github.com/OpenTriply/YASGUI.legacy)
 - [levelgraph-jsonld](https://github.com/mcollina/levelgraph-jsonld)
@@ -502,7 +518,6 @@ F - Free
 - [iRap](https://github.com/EIS-Bonn/iRap)
 - [gold](https://github.com/linkeddata/gold)
 - [pyrdb2rdf](https://github.com/nisavid/pyrdb2rdf)
-- [OWL-RL](https://github.com/RDFLib/OWL-RL)
 - [ssso](https://github.com/gbv/ssso)
 - [dso](https://github.com/gbv/dso)
 - [turtle-in-html](https://github.com/alangrafu/turtle-in-html)
