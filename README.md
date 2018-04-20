@@ -388,9 +388,9 @@ F - Free
 - [rww-play](https://github.com/read-write-web/rww-play)
 - [fox](https://github.com/uzh/fox)
 - [sesame-spring](https://github.com/ameingast/sesame-spring)
-- [SolRDF](https://github.com/agazzarini/SolRDF)
-- [rdf-toolkit](https://github.com/edmcouncil/rdf-toolkit)
-- [prissma-studio](https://github.com/lukostaz/prissma-studio)
+- [SolRDF](https://github.com/agazzarini/SolRDF) An RDF plugin for Solr 
+- [rdf-toolkit](https://github.com/edmcouncil/rdf-toolkit) RDF Serializer, to be used in a git commit-hook to force automatic correct rewrite of every OWL ontology 
+- [prissma-studio](https://github.com/lukostaz/prissma-studio) PRISSMA Studio: a web application to create Prisms, context-aware presentation metadata for Linked Data visualization. 
 - [fox-ui](https://github.com/Data2Semantics/fox-ui)
 - [sesame-vocab-builder](https://github.com/tkurz/sesame-vocab-builder)
 - [Hydra](https://github.com/lanthaler/Hydra)
