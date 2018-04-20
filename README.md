@@ -56,6 +56,7 @@ A curated list of various semantic web and linked data resources.
 - [API](https://json-ld.org/spec/latest/json-ld-api/)
 - [Framing](https://json-ld.org/spec/latest/json-ld-framing/)
 - [Best Practices](https://json-ld.org/spec/latest/json-ld-api-best-practices/)
+- [jsonld-java](https://github.com/jsonld-java/jsonld-java)
 
 ### Linked Data Platform (LDP)
 - [Linked Data Platform 1.0 Primer](https://www.w3.org/TR/ldp-primer/)
@@ -128,8 +129,10 @@ F - Free
 - [CostFed](https://github.com/dice-group/CostFed)
 - [QUETSAL](http://aksw.org/Projects/QUETSAL.html)
 - [SPLENDID]()
-- [ANAPSID]()
-- [HiBISCuS]()
+- [ANAPSID](https://github.com/anapsid/anapsid)
+- [HiBISCuS](https://github.com/AKSW/HiBISCuS)
+- [SPARQLFederator](https://github.com/djogopatrao/SPARQLFederator)
+- [rdffederator](https://github.com/goerlitz/rdffederator)
 
 ## Companies
 - [Stardog Union](http://stardog.com)
@@ -139,7 +142,7 @@ F - Free
 
 ## SPARQL
 
-## SPARQL Applications
+### SPARQL Applications
 - [sparqlab](https://github.com/jindrichmynarz/sparqlab) Lab for exercising SPARQL 
 - [SNORQL](https://github.com/kurtjx/SNORQL) a ajaxy front-end for exploring triple stores 
 - [d3sparql](https://github.com/ktym/d3sparql) JavaScript library for executing SPARQL query and transforming resulted JSON for visualization in D3.js 
@@ -174,17 +177,20 @@ F - Free
 - [The RDF Data Cube Vocabulary](https://www.w3.org/TR/vocab-data-cube/)
 
 ## Mapping
-- [d2rq](https://github.com/cygri/d2rq)
-- [CSV2RDF](https://github.com/clarkparsia/csv2rdf) - CSV to RDF mapper
-- [tarql-component](https://github.com/opencube-toolkit/tarql-component)
-- [csv2rdf](https://github.com/notruthless/csv2rdf)
-- [tarql](https://github.com/tarql/tarql)
-- [csv2rdf4lod-automation](https://github.com/timrdf/csv2rdf4lod-automation)
 - [any2rdf](https://github.com/esbranson/any2rdf)
 - [triplify](https://github.com/pebbie/triplify)
+
+### Excel
 - [xlwrap](https://github.com/sidewinderlabs/xlwrap)
 
-### CSVW
+### CSV/Tabular
+- [CSV2RDF](https://github.com/clarkparsia/csv2rdf) - CSV to RDF mapper
+- [csv2rdf](https://github.com/notruthless/csv2rdf)
+- [csv2rdf4lod-automation](https://github.com/timrdf/csv2rdf4lod-automation)
+- [tarql-component](https://github.com/opencube-toolkit/tarql-component)
+- [tarql](https://github.com/tarql/tarql)
+
+#### CSVW
 - [Model for Tabular Data and Metadata on the Web](https://www.w3.org/TR/tabular-data-model/)
 - [CSV on the Web: A Primer](https://www.w3.org/TR/tabular-data-primer/)
 
@@ -197,11 +203,12 @@ F - Free
 - [rdfbeans](http://rdfbeans.sourceforge.net/)
 - [surfrdf](https://github.com/cosminbasca/surfrdf)
 
-### RML
-- [RML](https://github.com/RMLio) - RDF Mapping language for mapping JSON, CSV and XML to RDF
-- [CARML](https://github.com/carml/carml) - An RML engine in Java
+### RDB to RDF
+- [d2rq](https://github.com/cygri/d2rq)
+- [Sparqlify](https://github.com/AKSW/Sparqlify)
+- [Sparqlify-Extendsions](https://github.com/AKSW/Sparqlify-Extensions)
 
-### R2RML
+#### R2RML
 - [R2RML-Parser](https://github.com/nkons/r2rml-parser) - An R2RML implementation that can export relational database contents as RDF graphs
 - [Morph-RDB](https://github.com/oeg-upm/morph-rdb) - An R2RML processor
 - [MusicBrainz-R2RML](https://github.com/LinkedBrainz/MusicBrainz-R2RML) - R2RML mappings for the MusicBrainz schema
@@ -212,11 +219,15 @@ F - Free
 - [R2RML-kit](https://github.com/d2rq/r2rml-kit)
 - [Juma](https://opengogs.adaptcentre.ie/crottija/juma-r2rml/) Juma, jigsaw puzzles for representing mapping, is a method that applies the block metaphor to mapping languages.
 
-### xR2RML
+##### RML
+- [RML](https://github.com/RMLio) - RDF Mapping language for mapping JSON, CSV and XML to RDF
+- [CARML](https://github.com/carml/carml) - An RML engine in Java
+
+##### xR2RML
 - [morph-xr2rml](https://github.com/frmichel/morph-xr2rml)
 - [XR2RML](https://github.com/djimloic/XR2RML)
 
-### R2RML-f
+##### R2RML-f
 - [paper](http://events.linkeddata.org/ldow2016/papers/LDOW2016_paper_14.pdf)
 - [Adapt R2RML](https://opengogs.adaptcentre.ie/debruync/r2rml)
 
@@ -410,7 +421,6 @@ F - Free
 - [blazegraph-service](https://github.com/vastix/blazegraph-service)
 - [squebi](https://github.com/tkurz/squebi)
 - [banana-rdf](https://github.com/banana-rdf/banana-rdf)
-- [Sparqlify](https://github.com/AKSW/Sparqlify)
 - [jena-grande](https://github.com/castagna/jena-grande)
 - [mrlin](https://github.com/mhausenblas/mrlin)
 - [TabLinker](https://github.com/Data2Semantics/TabLinker)
@@ -427,7 +437,6 @@ F - Free
 - [SemanticNationalMap](https://github.com/dmm/SemanticNationalMap)
 - [JenaSecurity](https://github.com/Claudenw/JenaSecurity)
 - [jtriple](https://github.com/konradreiche/jtriple)
-- [jsonld-java](https://github.com/jsonld-java/jsonld-java)
 - [ripple](https://github.com/joshsh/ripple)
 - [specgen](https://github.com/specgen/specgen)
 - [asqc](https://github.com/gklyne/asqc)
@@ -452,7 +461,6 @@ F - Free
 - [rdfpatch](https://github.com/pchampin/ld-patch-py)
 - [TurtleValidator](https://github.com/mmlab/TurtleValidator)
 - [rdflib](https://github.com/RDFLib/rdflib)
-- [SPARQLFederator](https://github.com/djogopatrao/SPARQLFederator)
 - [signal-collect-torque](https://github.com/uzh/signal-collect-torque)
 - [singal-collect](https://github.com/uzh/signal-collect)
 - [Duke](https://github.com/larsga/Duke)
@@ -501,7 +509,6 @@ F - Free
 - [HydraClient](https://github.com/lanthaler/HydraClient)
 - [cp-openrdf-utils](https://github.com/mhgrove/cp-openrdf-utils)
 - [linked-csv](https://github.com/JeniT/linked-csv)
-- [Sparqlify-Extendsions](https://github.com/AKSW/Sparqlify-Extensions)
 - [kr](https://github.com/drlivingston/kr)
 - [ODCS](https://github.com/mff-uk/ODCS)
 - [balloon](https://github.com/schlegel/balloon)
@@ -509,7 +516,6 @@ F - Free
 - [ontodia](https://github.com/ontodia-org/ontodia)
 - [grlc](https://github.com/CLARIAH/grlc)
 - [basil](https://github.com/the-open-university/basil)
-- [morph-rdb](https://github.com/oeg-upm/morph-rdb)
 - [spanqit](https://github.com/anqit/spanqit)
 - [lodmill](https://github.com/lobid/lodmill)
 - [NoSPA-RDF-Data-Cube-Validator](https://github.com/yyz1989/NoSPA-RDF-Data-Cube-Validator)
@@ -533,6 +539,5 @@ F - Free
 - [rabel](https://github.com/linkeddata/rabel)
 - [SANSA](https://github.com/SANSA-Stack/SANSA-RDF)
 - [soarql-dl-api](https://github.com/protegeproject/sparql-dl-api)
-- [Quetzal](https://github.com/Quetzal-RDF/quetzal)
 - [openllet](https://github.com/Galigator/openllet)
 - [graph-pattern-learner](https://github.com/RDFLib/graph-pattern-learner)
