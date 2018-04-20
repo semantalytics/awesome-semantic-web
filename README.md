@@ -155,6 +155,7 @@ F - Free
 - [sparql-proxy](https://github.com/clarkparsia/sparql-proxy)
 - [AutoSPARQL](https://github.com/AKSW/AutoSPARQL)
 - [YASGUI](https://github.com/OpenTriply/YASGUI) Yet Another Sparql GUI
+- [YASGUI.legacy](https://github.com/OpenTriply/YASGUI.legacy)
 - [pubby](https://github.com/cygri/pubby) A Linked Data frontend for SPARQL endpoints 
 - [fluent-sparql](https://github.com/stoewer/fluent-sparql)
 - [FlintSparqlEditor](https://github.com/TSO-Openup/FlintSparqlEditor)
@@ -164,6 +165,7 @@ F - Free
 - [Marmotta](https://github.com/apache/marmotta) - Apache linked data platform implementation
 - [Elda](https://github.com/epimorphics/elda) - Linked data platform from Epimorphics
 - [LDP4j](https://github.com/ldp4j/ldp4j)
+- [gold](https://github.com/linkeddata/gold) Linked Data server for Go 
 
 ## Web Annotations
 - [anno4j](https://github.com/anno4j/anno4j)
@@ -179,6 +181,7 @@ F - Free
 ## Mapping
 - [any2rdf](https://github.com/esbranson/any2rdf)
 - [triplify](https://github.com/pebbie/triplify)
+- [pyrdb2rdf](https://github.com/nisavid/pyrdb2rdf)
 
 ### Excel
 - [xlwrap](https://github.com/sidewinderlabs/xlwrap)
@@ -499,7 +502,6 @@ F - Free
 - [DEER](https://github.com/GeoKnow/DEER)
 - [jvmrdftools](https://github.com/cosminbasca/jvmrdftools)
 - [ontmalizer](https://github.com/srdc/ontmalizer)
-- [YASGUI.legacy](https://github.com/OpenTriply/YASGUI.legacy)
 - [levelgraph-jsonld](https://github.com/mcollina/levelgraph-jsonld)
 - [owlapi](https://github.com/owlcs/owlapi)
 - [TripleGeo](https://github.com/GeoKnow/TripleGeo)
@@ -522,8 +524,6 @@ F - Free
 - [module-extractor](https://github.com/rsgoncalves/module-extractor)
 - [etalis](https://github.com/sspider/etalis)
 - [iRap](https://github.com/EIS-Bonn/iRap)
-- [gold](https://github.com/linkeddata/gold)
-- [pyrdb2rdf](https://github.com/nisavid/pyrdb2rdf)
 - [ssso](https://github.com/gbv/ssso)
 - [dso](https://github.com/gbv/dso)
 - [turtle-in-html](https://github.com/alangrafu/turtle-in-html)
