@@ -160,6 +160,7 @@ F - Free
 - [fluent-sparql](https://github.com/stoewer/fluent-sparql)
 - [FlintSparqlEditor](https://github.com/TSO-Openup/FlintSparqlEditor)
 - [reactive-sparql](https://github.com/modelfabric/reactive-sparql)
+- [cysparql](https://github.com/cosminbasca/cysparql) CySparql is a python wrapper over the excellent rasqal RDF library for parsing SPARQL queries 
 
 ## Linked Data Platform
 - [Marmotta](https://github.com/apache/marmotta) - Apache linked data platform implementation
@@ -454,7 +455,6 @@ F - Free
 - [fox-ui](https://github.com/Data2Semantics/fox-ui)
 - [prefix.cc](https://github.com/cygri/prefix.cc)
 - [LSD-Dimensions](https://github.com/albertmeronyo/LSD-Dimensions)
-- [cysparql](https://github.com/cosminbasca/cysparql)
 - [prissma](https://github.com/lukostaz/prissma)
 - [rdf-pipeline](https://github.com/dbooth-boston/rdf-pipeline)
 - [FOX](https://github.com/AKSW/FOX)
@@ -478,7 +478,6 @@ F - Free
 - [tac](https://github.com/magnetik/tac)
 - [dbpedia-extension](https://github.com/sparkica/dbpedia-extension)
 - [commons-rdf](https://github.com/commons-rdf/commons-rdf)
-- [ldp4j](https://github.com/ldp4j/ldp4j)
 - [tawny-owl](https://github.com/phillord/tawny-owl)
 - [grefine-rdf-extension](https://github.com/OpenRefine/grefine-rdf-extension)
 - [Imperium](https://github.com/mhgrove/Imperium)
