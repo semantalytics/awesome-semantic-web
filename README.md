@@ -166,6 +166,7 @@ F - Free
 - [FlintSparqlEditor](https://github.com/TSO-Openup/FlintSparqlEditor)
 - [reactive-sparql](https://github.com/modelfabric/reactive-sparql)
 - [cysparql](https://github.com/cosminbasca/cysparql) CySparql is a python wrapper over the excellent rasqal RDF library for parsing SPARQL queries 
+- [sparql-transformer](https://github.com/D2KLab/sparql-transformer)
 
 ## Linked Data Platform
 - [Marmotta](https://github.com/apache/marmotta) - Apache linked data platform implementation
