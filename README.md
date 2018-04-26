@@ -115,12 +115,14 @@ F - Free
 - [CumulusRDF](https://github.com/cumulusrdf/cumulusrdf)
 - [Strabon](http://www.strabon.di.uoa.gr/)
 - [Sempala](https://github.com/aschaetzle/Sempala)
+- [TriplePlace](https://github.com/white-gecko/TriplePlace) a light weight and flexible Triple Store for Android
 
 ### Academic
 - [TripleRush](https://github.com/uzh/triplerush) OS
 - [Corese](http://wimmics.inria.fr/corese) OS
 - [rdf3x](https://code.google.com/archive/p/rdf3x/) OS
 - [gh-rdf3x](https://github.com/gh-rdf3x/gh-rdf3x) OS
+- [Qamel](https://github.com/dice-group/qamel) RDF4J ported to Andriod
 
 ## SPARQL
 
@@ -186,6 +188,7 @@ F - Free
 - [any2rdf](https://github.com/esbranson/any2rdf)
 - [triplify](https://github.com/pebbie/triplify)
 - [pyrdb2rdf](https://github.com/nisavid/pyrdb2rdf)
+- [xsparql](https://www.w3.org/Submission/xsparql-language-specification/)
 
 ### Excel
 - [xlwrap](https://github.com/sidewinderlabs/xlwrap)
@@ -288,6 +291,7 @@ F - Free
 - [University of Zurich Dynamic and Distributed Information Systems Group](http://www.ifi.uzh.ch/en/ddis.html)
 - [WESO](http://www.weso.es/) WESO is a research group at the University of Oviedo founded in 2004
 - [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/) Department D5 of the Max Planck Institute for Informatics
+- [DICE: Data Science Group](http://dice.cs.uni-paderborn.de/about/) Universität Paderborn
 
 ## Programming
 
