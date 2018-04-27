@@ -49,6 +49,7 @@ A curated list of various semantic web and linked data resources.
 - [trig](https://www.w3.org/TR/trig/)
 - [manchester](https://www.w3.org/2007/OWL/draft/ED-owl2-manchester-syntax-20081128/)
 - [manchester-syntax-owl](https://github.com/rollxx/manchester-syntax-owl2)
+- [HDT](https://www.w3.org/Submission/2011/03/)
 
 ### JSON-LD
 - [Homepage](https://json-ld.org/)
