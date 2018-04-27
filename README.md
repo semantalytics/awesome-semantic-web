@@ -329,6 +329,7 @@ F - Free
 
 ### Clojure
 - [grafter](https://github.com/Swirrl/grafter) - Linked Data & RDF Manufacturing Tools in Clojure 
+- [kr](https://github.com/drlivingston/kr) Clojure API for RDF and SPARQL - provides consistent access to APIs including Jena and Sesame 
 
 ### Scala
 - [banana-rdf](https://github.com/banana-rdf/banana-rdf) - A library for RDF, SPARQL and Linked Data technologies in Scala.
@@ -511,17 +512,16 @@ F - Free
 - [ontmalizer](https://github.com/srdc/ontmalizer)
 - [levelgraph-jsonld](https://github.com/mcollina/levelgraph-jsonld)
 - [owlapi](https://github.com/owlcs/owlapi)
-- [TripleGeo](https://github.com/GeoKnow/TripleGeo)
+- [TripleGeo](https://github.com/GeoKnow/TripleGeo) TripleGeo utility for converting geospatial data into triples 
 - [LODGrefine](https://github.com/sparkica/LODGrefine)
 - [stardog.js](https://github.com/stardog-union/stardog.js)
 - [stardog-groovy](https://github.com/stardog-union/stardog-groovy)
 - [HydraClient](https://github.com/lanthaler/HydraClient)
-- [cp-openrdf-utils](https://github.com/mhgrove/cp-openrdf-utils)
-- [linked-csv](https://github.com/JeniT/linked-csv)
-- [kr](https://github.com/drlivingston/kr)
-- [ODCS](https://github.com/mff-uk/ODCS)
-- [balloon](https://github.com/schlegel/balloon)
-- [Processor](https://github.com/AtomGraph/Processor)
+- [cp-openrdf-utils](https://github.com/mhgrove/cp-openrdf-utils) Utility classes for working with the OpenRdf API. 
+- [linked-csv](https://github.com/JeniT/linked-csv) A souped-up CSV-based data format 
+- [ODCS](https://github.com/mff-uk/ODCS) The tool uses data processing pipelines for obtaining, processing, and storing RDF data.
+- [balloon](https://github.com/schlegel/balloon) A tool-suite for Linked Data consumption. balloon aims in offering public services and tools to take advantage of the semantic web with less effort. The basic motivation is to establish a foundation for Linked Data as a Service (LDaaS).
+- [Processor](https://github.com/AtomGraph/Processor) Generic Linked Data processor and server. Apache License. 
 - [ontodia](https://github.com/ontodia-org/ontodia)
 - [grlc](https://github.com/CLARIAH/grlc)
 - [basil](https://github.com/the-open-university/basil)
@@ -537,7 +537,7 @@ F - Free
 - [lodspeakr](https://github.com/alangrafu/lodspeakr)
 - [linked-csv-browser](https://github.com/theodi/linked-csv-browser)
 - [OntoVerbal](https://github.com/TheOntologist/OntoVerbal)
-- [semargl](https://github.com/semarglproject/semargl)
+- [semargl](https://github.com/semarglproject/semargl) Highly performant, lightweight framework for linked data processing. Supports RDFa, JSON-LD, RDF/XML and plain text formats, runs on Android and GAE, provides integration with Jena, Sesame and Clerezza. 
 - [shi3ld-http](https://github.com/lukostaz/shi3ld-http)
 - [luposdate](https://github.com/luposdate/luposdate)
 - [wordnet-lemon-to-w3c](https://github.com/jimregan/wordnet-lemon-to-w3c)
