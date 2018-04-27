@@ -548,3 +548,4 @@ F - Free
 - [soarql-dl-api](https://github.com/protegeproject/sparql-dl-api)
 - [openllet](https://github.com/Galigator/openllet)
 - [graph-pattern-learner](https://github.com/RDFLib/graph-pattern-learner)
+- [schema_salad](https://github.com/common-workflow-language/schema_salad)
