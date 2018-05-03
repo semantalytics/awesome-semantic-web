@@ -192,6 +192,7 @@ F - Free
 - [triplify](https://github.com/pebbie/triplify)
 - [pyrdb2rdf](https://github.com/nisavid/pyrdb2rdf)
 - [xsparql](https://www.w3.org/Submission/xsparql-language-specification/)
+- [geometry2rdf](https://github.com/boricles/geometry2rdf)
 
 ### Excel
 - [xlwrap](https://github.com/sidewinderlabs/xlwrap)
@@ -444,7 +445,6 @@ F - Free
 - [rdf3x_path](https://github.com/agubichev/rdf3x_path)
 - [TripleChecker](https://github.com/cgutteridge/TripleChecker)
 - [jqudt](https://github.com/egonw/jqudt)
-- [geometry2rdf](https://github.com/boricles/geometry2rdf)
 - [rdflib.js](https://github.com/linkeddata/rdflib.js)
 - [owl2vcs](https://github.com/utapyngo/owl2vcs)
 - [dowl](https://github.com/ldodds/dowl)
