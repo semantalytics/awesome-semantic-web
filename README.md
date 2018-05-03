@@ -224,9 +224,10 @@ F - Free
 - [surfrdf](https://github.com/cosminbasca/surfrdf) SuRF: a python Object RDF Mapper (ORM)
 
 ### RDB to RDF
-- [d2rq](https://github.com/cygri/d2rq)
-- [Sparqlify](https://github.com/AKSW/Sparqlify)
+- [d2rq](https://github.com/cygri/d2rq) Database to RDF mapping engine and SPARQL server 
+- [Sparqlify](https://github.com/AKSW/Sparqlify) https://github.com/AKSW/Sparqlify-Extensions
 - [Sparqlify-Extendsions](https://github.com/AKSW/Sparqlify-Extensions)
+- [quetzal](https://github.com/Quetzal-RDF/quetzal) SPARQL to SQL translation engine for multiple backends, such as DB2, PostgreSQL and Apache Spark.
 
 #### R2RML
 - [R2RML-Parser](https://github.com/nkons/r2rml-parser) - An R2RML implementation that can export relational database contents as RDF graphs
