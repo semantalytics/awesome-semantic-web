@@ -136,6 +136,7 @@ F - Free
 - [WAVES](https://www.waves-rsp.org/)
 - [Strider](https://github.com/renxiangnan/strider)
 - [cqels](https://github.com/KMax/cqels)
+- [morph](https://github.com/jpcik/morph) sparql-stream sensor queries 
 
 ## Federated SPARQL
 - [FEDX]()
@@ -169,6 +170,8 @@ F - Free
 - [reactive-sparql](https://github.com/modelfabric/reactive-sparql)
 - [cysparql](https://github.com/cosminbasca/cysparql) CySparql is a python wrapper over the excellent rasqal RDF library for parsing SPARQL queries 
 - [sparql-transformer](https://github.com/D2KLab/sparql-transformer)
+- [spanqit](https://github.com/anqit/spanqit) A Java-based SPARQL query generator 
+- [squebi](https://github.com/tkurz/squebi) Squebi is a SPARQL editor and SPARQL result visualizer with some nice features:
 
 ## Linked Data Platform
 - [Marmotta](https://github.com/apache/marmotta) - Apache linked data platform implementation
@@ -192,7 +195,10 @@ F - Free
 - [triplify](https://github.com/pebbie/triplify)
 - [pyrdb2rdf](https://github.com/nisavid/pyrdb2rdf)
 - [xsparql](https://www.w3.org/Submission/xsparql-language-specification/)
+
+### Geo
 - [geometry2rdf](https://github.com/boricles/geometry2rdf)
+- [TripleGeo](https://github.com/GeoKnow/TripleGeo) TripleGeo utility for converting geospatial data into triples 
 
 ### Excel
 - [xlwrap](https://github.com/sidewinderlabs/xlwrap)
@@ -215,7 +221,7 @@ F - Free
 - [jennabean](https://code.google.com/p/jenabean/)
 - [Alibaba](https://bitbucket.org/openrdf/alibaba)
 - [rdfbeans](http://rdfbeans.sourceforge.net/)
-- [surfrdf](https://github.com/cosminbasca/surfrdf)
+- [surfrdf](https://github.com/cosminbasca/surfrdf) SuRF: a python Object RDF Mapper (ORM)
 
 ### RDB to RDF
 - [d2rq](https://github.com/cygri/d2rq)
@@ -275,6 +281,7 @@ F - Free
 
 ## Reasoners
 - [Pellet](https://github.com/stardog-union/pellet)
+- [openllet](https://github.com/Galigator/openllet)
 - [FaCT++](https://github.com/ethz-asl/libfactplusplus)
 - [HermiT](http://www.hermit-reasoner.com/)
 - [ELK](https://github.com/liveontologies/elk-reasoner)
@@ -435,7 +442,6 @@ F - Free
 - [blazegraph-samples](https://github.com/blazegraph/blazegraph-samples)
 - [docker-blazegraph](https://github.com/lyrasis/docker-blazegraph)
 - [blazegraph-service](https://github.com/vastix/blazegraph-service)
-- [squebi](https://github.com/tkurz/squebi)
 - [banana-rdf](https://github.com/banana-rdf/banana-rdf)
 - [jena-grande](https://github.com/castagna/jena-grande)
 - [mrlin](https://github.com/mhausenblas/mrlin)
@@ -501,12 +507,9 @@ F - Free
 - [TurtleSyntaxPlugin](https://github.com/pkuyken/TurtleSyntaxPlugin)
 - [raptor](https://github.com/dajobe/raptor)
 - [rasqal](https://github.com/dajobe/rasqal)
-- [surfrdf](https://github.com/cosminbasca/surfrdf)
 - [morph-web](https://github.com/jpcik/morph-web)
-- [morph](https://github.com/jpcik/morph)
 - [xodx](https://github.com/AKSW/xodx)
 - [morph-starter](https://github.com/jpcik/morph-starter)
-- [rdf-ext](https://github.com/rdf-ext/rdf-ext)
 - [Widoco](https://github.com/dgarijo/Widoco)
 - [sesametools](https://github.com/joshsh/sesametools)
 - [DEER](https://github.com/GeoKnow/DEER)
@@ -514,7 +517,6 @@ F - Free
 - [ontmalizer](https://github.com/srdc/ontmalizer)
 - [levelgraph-jsonld](https://github.com/mcollina/levelgraph-jsonld)
 - [owlapi](https://github.com/owlcs/owlapi)
-- [TripleGeo](https://github.com/GeoKnow/TripleGeo) TripleGeo utility for converting geospatial data into triples 
 - [LODGrefine](https://github.com/sparkica/LODGrefine)
 - [stardog.js](https://github.com/stardog-union/stardog.js)
 - [stardog-groovy](https://github.com/stardog-union/stardog-groovy)
@@ -524,13 +526,12 @@ F - Free
 - [ODCS](https://github.com/mff-uk/ODCS) The tool uses data processing pipelines for obtaining, processing, and storing RDF data.
 - [balloon](https://github.com/schlegel/balloon) A tool-suite for Linked Data consumption. balloon aims in offering public services and tools to take advantage of the semantic web with less effort. The basic motivation is to establish a foundation for Linked Data as a Service (LDaaS).
 - [Processor](https://github.com/AtomGraph/Processor) Generic Linked Data processor and server. Apache License. 
-- [ontodia](https://github.com/ontodia-org/ontodia)
+- [ontodia](https://github.com/ontodia-org/ontodia) Ontodia data diagraming library
 - [grlc](https://github.com/CLARIAH/grlc)
 - [basil](https://github.com/the-open-university/basil)
-- [spanqit](https://github.com/anqit/spanqit)
 - [lodmill](https://github.com/lobid/lodmill)
 - [NoSPA-RDF-Data-Cube-Validator](https://github.com/yyz1989/NoSPA-RDF-Data-Cube-Validator)
-- [module-extractor](https://github.com/rsgoncalves/module-extractor)
+- [module-extractor](https://github.com/rsgoncalves/module-extractor) a Java-based module extractor for OWL ontologies
 - [etalis](https://github.com/sspider/etalis)
 - [iRap](https://github.com/EIS-Bonn/iRap)
 - [ssso](https://github.com/gbv/ssso)
@@ -538,16 +539,15 @@ F - Free
 - [turtle-in-html](https://github.com/alangrafu/turtle-in-html)
 - [lodspeakr](https://github.com/alangrafu/lodspeakr)
 - [linked-csv-browser](https://github.com/theodi/linked-csv-browser)
-- [OntoVerbal](https://github.com/TheOntologist/OntoVerbal)
+- [OntoVerbal](https://github.com/TheOntologist/OntoVerbal) OntoVerbal is a Protege 4.2 plugin that generates natural language descriptions for classes for an ontology written in OWL
 - [semargl](https://github.com/semarglproject/semargl) Highly performant, lightweight framework for linked data processing. Supports RDFa, JSON-LD, RDF/XML and plain text formats, runs on Android and GAE, provides integration with Jena, Sesame and Clerezza. 
 - [shi3ld-http](https://github.com/lukostaz/shi3ld-http)
 - [luposdate](https://github.com/luposdate/luposdate)
 - [wordnet-lemon-to-w3c](https://github.com/jimregan/wordnet-lemon-to-w3c)
 - [hyrise](https://github.com/hyrise/hyrise)
-- [owlconvert](https://github.com/camwebb/owlconvert)
+- [owlconvert](https://github.com/camwebb/owlconvert) Simple OWL format converter based on OWLAPI 
 - [rabel](https://github.com/linkeddata/rabel)
 - [SANSA](https://github.com/SANSA-Stack/SANSA-RDF)
 - [soarql-dl-api](https://github.com/protegeproject/sparql-dl-api)
-- [openllet](https://github.com/Galigator/openllet)
 - [graph-pattern-learner](https://github.com/RDFLib/graph-pattern-learner)
 - [schema_salad](https://github.com/common-workflow-language/schema_salad)
