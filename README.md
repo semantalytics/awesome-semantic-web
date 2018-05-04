@@ -132,6 +132,7 @@ F - Free
 - [Shard]
 - [Hexastore]
 - [BitMat]
+- [LUPOSDATE](https://www.ifis.uni-luebeck.de/index.php?id=luposdate-demo)
 
 ## SPARQL
 
