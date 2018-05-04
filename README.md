@@ -125,6 +125,11 @@ F - Free
 - [gh-rdf3x](https://github.com/gh-rdf3x/gh-rdf3x) OS
 - [Qamel](https://github.com/dice-group/qamel) RDF4J ported to Andriod
 - [dipLODocus](https://diuf.unifr.ch/main/xi/diplodocus)
+- [SW-Store]
+- [Yars2]
+- [Shard]
+- [Hexastore]
+- [BitMat]
 
 ## SPARQL
 
