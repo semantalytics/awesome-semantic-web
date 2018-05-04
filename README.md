@@ -391,6 +391,7 @@ F - Free
 
 ## Misc
 
+- [trinity](https://bitbucket.org/semiodesk/trinity)
 - [r43ples](https://github.com/plt-tud/r43ples) - Revision Management for the Semantic Web
 - [Wings](https://github.com/IKCAP/wings) - A workflow system
 - [LDIF](https://github.com/wbsg/ldif) - Linked Data Integration Framework
