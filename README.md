@@ -60,6 +60,7 @@ A curated list of various semantic web and linked data resources.
 - [jsonld-java](https://github.com/jsonld-java/jsonld-java)
 
 ### Linked Data Platform (LDP)
+
 - [Linked Data Platform 1.0 Primer](https://www.w3.org/TR/ldp-primer/)
 - [Linked Data Platform Best Practices and Guidelines](https://www.w3.org/TR/ldp-bp/)
 - [Linked Data Platform 1.0](https://www.w3.org/TR/ldp/)
