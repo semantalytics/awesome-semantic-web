@@ -147,7 +147,8 @@ F - Free
 - [morph](https://github.com/jpcik/morph) sparql-stream sensor queries 
 
 ## Federated SPARQL
-- [FEDX]()
+
+ACTIVE
 - [Semagrow](https://github.com/semagrow)
 - [CostFed](https://github.com/dice-group/CostFed)
 - [QUETSAL](http://aksw.org/Projects/QUETSAL.html)
@@ -157,6 +158,13 @@ F - Free
 - [SPARQLFederator](https://github.com/djogopatrao/SPARQLFederator)
 - [rdffederator](https://github.com/goerlitz/rdffederator)
 - [DREAM](https://github.com/CMU-Q/DREAM) DREAM - Distributed RDF Engine with Adaptive Query Planner and Minimal Communication 
+- [Avalanche](http://www.ifi.uzh.ch/en/ddis/research/avalanche.html)
+
+ARCHIVE - inactive projects or old academic projects that may lack soruce code
+
+- [SemWIQ](https://sourceforge.net/projects/semwiq/)
+- [DARQ](http://darq.sourceforge.net/)
+- [FEDX]()
 
 ### SPARQL Applications
 - [sparqlab](https://github.com/jindrichmynarz/sparqlab) Lab for exercising SPARQL 
