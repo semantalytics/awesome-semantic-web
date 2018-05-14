@@ -569,3 +569,4 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [soarql-dl-api](https://github.com/protegeproject/sparql-dl-api)
 - [graph-pattern-learner](https://github.com/RDFLib/graph-pattern-learner)
 - [schema_salad](https://github.com/common-workflow-language/schema_salad)
+- [RDFConvert](https://sourceforge.net/projects/rdfconvert/)
