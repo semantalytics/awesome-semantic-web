@@ -159,6 +159,7 @@ ACTIVE
 - [rdffederator](https://github.com/goerlitz/rdffederator)
 - [DREAM](https://github.com/CMU-Q/DREAM) DREAM - Distributed RDF Engine with Adaptive Query Planner and Minimal Communication 
 - [Avalanche](http://www.ifi.uzh.ch/en/ddis/research/avalanche.html)
+- [FedX](https://github.com/VeritasOS/fedx)
 
 ARCHIVE - inactive projects or old academic projects that may lack soruce code
 
