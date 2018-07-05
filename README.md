@@ -306,6 +306,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [OWL-RL](https://github.com/RDFLib/OWL-RL)
 - [RacerPro](https://franz.com/agraph/racer/)
 - [Manchester List of Reasoners](http://owl.cs.manchester.ac.uk/tools/list-of-reasoners/)
+- [elephant-reasoner](https://github.com/sertkaya/elephant-reasoner)
 
 ## Benchmarks
 - [Lehigh University Benchmark (LUBM)](http://swat.cse.lehigh.edu/projects/lubm/)
