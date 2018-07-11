@@ -165,7 +165,6 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 
 - [SemWIQ](https://sourceforge.net/projects/semwiq/)
 - [DARQ](http://darq.sourceforge.net/)
-- [FEDX]()
 
 ### SPARQL Applications
 - [sparqlab](https://github.com/jindrichmynarz/sparqlab) Lab for exercising SPARQL 
@@ -189,6 +188,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [sparql-transformer](https://github.com/D2KLab/sparql-transformer)
 - [spanqit](https://github.com/anqit/spanqit) A Java-based SPARQL query generator 
 - [squebi](https://github.com/tkurz/squebi) Squebi is a SPARQL editor and SPARQL result visualizer with some nice features:
+- [zeppelin-sparql](https://github.com/nick-manasys/zeppelin-sparql) Zeppelin sparql interpreter 
 
 ## Linked Data Platform
 - [Marmotta](https://github.com/apache/marmotta) - Apache linked data platform implementation
