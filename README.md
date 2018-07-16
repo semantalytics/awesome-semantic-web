@@ -189,6 +189,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [spanqit](https://github.com/anqit/spanqit) A Java-based SPARQL query generator 
 - [squebi](https://github.com/tkurz/squebi) Squebi is a SPARQL editor and SPARQL result visualizer with some nice features:
 - [zeppelin-sparql](https://github.com/nick-manasys/zeppelin-sparql) Zeppelin sparql interpreter 
+- [SAFE](https://github.com/yasarkhangithub/SAFE)
 
 ## Linked Data Platform
 - [Marmotta](https://github.com/apache/marmotta) - Apache linked data platform implementation
