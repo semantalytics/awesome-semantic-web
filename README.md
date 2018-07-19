@@ -344,6 +344,8 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [Redland](http://librdf.org/)
 - [SuRF](http://packages.python.org/SuRF/)
 - [sparta](https://github.com/mnot/sparta/)
+- [rdftools](https://github.com/cosminbasca/rdftools) Simple collection of python RDF tools 
+- [librdf](https://github.com/dajobe/librdf) Redland librdf RDF API and triple stores 
 
 ### JavaScript
 - [js3](https://github.com/webr3/js3)
@@ -351,6 +353,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [rdf-ext](https://github.com/rdf-ext/rdf-ext)
 - [N3.js](https://github.com/RubenVerborgh/N3.js)
 - [Jessa](https://www.npmjs.com/package/jassa)
+- [rdf.js](https://github.com/webr3/rdf.js)
 
 ## C#
 - [dotNetRDF](https://github.com/dotnetrdf/dotnetrdf)
@@ -361,7 +364,9 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 
 ### Clojure
 - [grafter](https://github.com/Swirrl/grafter) - Linked Data & RDF Manufacturing Tools in Clojure 
-- [kr](https://github.com/drlivingston/kr) Clojure API for RDF and SPARQL - provides consistent access to APIs including Jena and Sesame 
+- [kr](https://github.com/drlivingston/kr) Clojure API for RDF and SPARQL - provides consistent access to APIs including Jena and Sesame
+- [clj-plaza](https://github.com/antoniogarrote/clj-plaza) Clojure rdf framework 
+- [seabass](https://github.com/ryankohl/seabass) A library for working with RDF with Jena in Clojure
 
 ### Scala
 - [banana-rdf](https://github.com/banana-rdf/banana-rdf) - A library for RDF, SPARQL and Linked Data technologies in Scala.
@@ -412,7 +417,8 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 
 ## Misc
 
-- [trinity](https://bitbucket.org/semiodesk/trinity)
+- [anthelion](https://github.com/yahoo/anthelion) A plugin for Apache Nutch to crawl semantic annotations within HTML pages
+- [trinity](https://bitbucket.org/semiodesk/trinity) An application development platform for Microsoft .NET and Mono. It allows to easily build Linked Data and Semantic Web applications based on RDF
 - [r43ples](https://github.com/plt-tud/r43ples) - Revision Management for the Semantic Web
 - [Wings](https://github.com/IKCAP/wings) - A workflow system
 - [LDIF](https://github.com/wbsg/ldif) - Linked Data Integration Framework
@@ -421,33 +427,29 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [RDFUnit](https://github.com/AKSW/RDFUnit) - RDFUnit is implemented on top of the Test-Driven Data Validation Ontology and designed to read and produce RDF that complies to that ontology only. 
 - [IGUANA](https://github.com/AKSW/IGUANA) - IGUANA is a benchmark execution framework for triple stores 
 - [antlr-sparql-grammar](https://github.com/rollxx/antlr-sparql-grammar)
-- [clj-plaza](https://github.com/antoniogarrote/clj-plaza)
 - [xwiki](https://github.com/bblfish/xwiki)
 - [rdfdot](https://github.com/wastl/rdfdot) Tools for drawing graphs from RDF files with GraphViz 
 - [anthelion](https://github.com/yahoo/anthelion) Anthelion is a plugin for Apache Nutch to crawl semantic annotations within HTML pages 
 - [solid-spec](https://github.com/solid/solid-spec)
-- [rww-play](https://github.com/read-write-web/rww-play)
-- [fox](https://github.com/uzh/fox)
-- [sesame-spring](https://github.com/ameingast/sesame-spring)
+- [rww-play](https://github.com/read-write-web/rww-play) An implementation in Play of a number of tools to build a Read-Write-Web server using Play2.x and akka
+- [sesame-spring](https://github.com/ameingast/sesame-spring) Spring integration for OpenRDF/Sesame 
 - [SolRDF](https://github.com/agazzarini/SolRDF) An RDF plugin for Solr 
 - [rdf-toolkit](https://github.com/edmcouncil/rdf-toolkit) RDF Serializer, to be used in a git commit-hook to force automatic correct rewrite of every OWL ontology 
 - [prissma-studio](https://github.com/lukostaz/prissma-studio) PRISSMA Studio: a web application to create Prisms, context-aware presentation metadata for Linked Data visualization. 
 - [fox-ui](https://github.com/Data2Semantics/fox-ui)
-- [sesame-vocab-builder](https://github.com/tkurz/sesame-vocab-builder)
+- [sesame-vocab-builder](https://github.com/tkurz/sesame-vocab-builder) Sesame Vocab Builder provides a command line tool that allows to create constants for RDF primitives for a given namespace out of RDF ontology files. 
 - [Hydra](https://github.com/lanthaler/Hydra)
 - [HydraConsole](https://github.com/lanthaler/HydraConsole)
 - [HydraBundle](https://github.com/lanthaler/HydraBundle)
-- [rdftools](https://github.com/cosminbasca/rdftools)
 - [pinto](https://github.com/stardog-union/pinto)
 - [rdfagents](https://github.com/joshsh/rdfagents)
 - [gm-sparql](https://github.com/ssrangan/gm-sparql)
-- [cp-common-utils](https://github.com/mhgrove/cp-common-utils)
-- [SARQ](https://github.com/castagna/SARQ)
-- [EARQ](https://github.com/castagna/EARQ)
+- [cp-common-utils](https://github.com/mhgrove/cp-common-utils) Collection of utilty classes from Clark & Parsia 
+- [SARQ](https://github.com/castagna/SARQ) Free Text Indexing for SPARQL using a remote Solr server
+- [EARQ](https://github.com/castagna/EARQ) EARQ is a combination of ARQ and ElasticSearch
 - [Stardog-Connection-Pool-API](https://github.com/roberttheiv/Stardog-Connection-Pool-API)
 - [webid-demo](https://github.com/digitalbazaar/webid-demo)
 - [sparks](https://github.com/sparksrdf/sparks)
-- [rdf.js](https://github.com/webr3/rdf.js)
 - [foafssl-java](https://github.com/bblfish/foafssl-java)
 - [webid-spec](https://github.com/webid-community/webid-spec)
 - [tdbloader3](https://github.com/castagna/tdbloader3)
@@ -456,8 +458,6 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [stardog-ubuntu-scripts](https://github.com/semantalytics/stardog-ubuntu-scripts)
 - [qonsole](https://github.com/epimorphics/qonsole)
 - [Git2PROV](https://github.com/mmlab/Git2PROV)
-- [librdf](https://github.com/dajobe/librdf)
-- [seabass](https://github.com/ryankohl/seabass)
 - [iqvoc](https://github.com/innoq/iqvoc)
 - [hydra-java](https://github.com/dschulten/hydra-java)
 - [IntervalServer](https://github.com/epimorphics/IntervalServer)
@@ -469,7 +469,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [jena-grande](https://github.com/castagna/jena-grande)
 - [mrlin](https://github.com/mhausenblas/mrlin)
 - [TabLinker](https://github.com/Data2Semantics/TabLinker)
-- [ntcat](https://github.com/cgutteridge/ntcat)
+- [ntcat](https://github.com/cgutteridge/ntcat) Command line tool for concatenating NTriples documents 
 - [infovore](https://github.com/paulhoule/infovore)
 - [rdf3x_path](https://github.com/agubichev/rdf3x_path)
 - [TripleChecker](https://github.com/cgutteridge/TripleChecker)
