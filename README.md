@@ -363,7 +363,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [knakk/rdf](https://github.com/knakk/rdf)
 
 ### PHP
-- [RestEasy](http://www.easyrdf.org/)
+- [EasyRdf](http://www.easyrdf.org/)
 - [semsol](https://github.com/semsol/arc2/wiki)
 
 ### Clojure
