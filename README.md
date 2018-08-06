@@ -365,6 +365,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 ### PHP
 - [EasyRdf](http://www.easyrdf.org/)
 - [semsol](https://github.com/semsol/arc2/wiki)
+- [PHP-SPARQL-Lib](https://github.com/cgutteridge/PHP-SPARQL-Lib)
 
 ### Clojure
 - [grafter](https://github.com/Swirrl/grafter) - Linked Data & RDF Manufacturing Tools in Clojure 
