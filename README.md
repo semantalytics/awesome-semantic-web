@@ -362,6 +362,10 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 ### Go-Lang
 - [knakk/rdf](https://github.com/knakk/rdf)
 
+### PHP
+- [RestEasy](http://www.easyrdf.org/)
+- [semsol](https://github.com/semsol/arc2/wiki)
+
 ### Clojure
 - [grafter](https://github.com/Swirrl/grafter) - Linked Data & RDF Manufacturing Tools in Clojure 
 - [kr](https://github.com/drlivingston/kr) Clojure API for RDF and SPARQL - provides consistent access to APIs including Jena and Sesame
