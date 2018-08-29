@@ -381,6 +381,9 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 ### Groovy
 - [groovyrdf](https://github.com/angelo-v/groovyrdf)
 
+### R
+- [rrdf](https://github.com/egonw/rrdf)
+
 ## VIM
 - [sparql.vim](https://github.com/vim-scripts/sparql.vim) - SPARQL syntax highlighting
 - [vim-owl-tools](https://github.com/mattpap/vim-owl-tools)
