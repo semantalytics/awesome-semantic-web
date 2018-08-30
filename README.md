@@ -59,16 +59,6 @@ A curated list of various semantic web and linked data resources.
 - [Best Practices](https://json-ld.org/spec/latest/json-ld-api-best-practices/)
 - [jsonld-java](https://github.com/jsonld-java/jsonld-java)
 
-### Linked Data Platform (LDP)
-
-###
-- [Linked Data Platform 1.0 Primer](https://www.w3.org/TR/ldp-primer/)
-- [Linked Data Platform Best Practices and Guidelines](https://www.w3.org/TR/ldp-bp/)
-- [Linked Data Platform 1.0](https://www.w3.org/TR/ldp/)
-- [Linked Data Platform 1.0 Test Cases]()
-
-- [warp](https://github.com/linkeddata/warp) Warp - an LDP file manager
-
 ### Linked Data Fragments (LDF)
 - [Linked Data Fragments](http://linkeddatafragments.org)
    
@@ -191,11 +181,23 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [zeppelin-sparql](https://github.com/nick-manasys/zeppelin-sparql) Zeppelin sparql interpreter 
 - [SAFE](https://github.com/yasarkhangithub/SAFE)
 
-## Linked Data Platform
+## Linked Data Platform (LDP)
+
+### Linked Data Platform Standards
+
+- [Linked Data Platform 1.0 Primer](https://www.w3.org/TR/ldp-primer/)
+- [Linked Data Platform Best Practices and Guidelines](https://www.w3.org/TR/ldp-bp/)
+- [Linked Data Platform 1.0](https://www.w3.org/TR/ldp/)
+- [Linked Data Platform 1.0 Test Cases]()
+
+### Linked Data Platform Implementations
+
+- [warp](https://github.com/linkeddata/warp) Warp - an LDP file manager
 - [Marmotta](https://github.com/apache/marmotta) - Apache linked data platform implementation
 - [Elda](https://github.com/epimorphics/elda) - Linked data platform from Epimorphics
 - [LDP4j](https://github.com/ldp4j/ldp4j)
 - [gold](https://github.com/linkeddata/gold) Linked Data server for Go 
+- [CarbonLDP](https://github.com/CarbonLDP)
 
 ## Web Annotations
 - [anno4j](https://github.com/anno4j/anno4j)
