@@ -198,6 +198,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [LDP4j](https://github.com/ldp4j/ldp4j)
 - [gold](https://github.com/linkeddata/gold) Linked Data server for Go 
 - [CarbonLDP](https://github.com/CarbonLDP)
+- [trellis](https://github.com/trellis-ldp/trellis)
 
 ## Web Annotations
 - [anno4j](https://github.com/anno4j/anno4j)
