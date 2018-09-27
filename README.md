@@ -109,6 +109,7 @@ F - Free
 - [Strabon](http://www.strabon.di.uoa.gr/)
 - [Sempala](https://github.com/aschaetzle/Sempala)
 - [TriplePlace](https://github.com/white-gecko/TriplePlace) a light weight and flexible Triple Store for Android
+- [Node-Quadstore](https://beautifulinteractions.github.io/node-quadstore/)
 
 ### Academic
 - [TripleRush](https://github.com/uzh/triplerush) OS
