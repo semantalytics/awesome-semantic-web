@@ -181,6 +181,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [squebi](https://github.com/tkurz/squebi) Squebi is a SPARQL editor and SPARQL result visualizer with some nice features:
 - [zeppelin-sparql](https://github.com/nick-manasys/zeppelin-sparql) Zeppelin sparql interpreter 
 - [SAFE](https://github.com/yasarkhangithub/SAFE)
+- [Sparql-cli](https://github.com/lambdamusic/Sparql-cli) A command line API for SPARQL 
 
 ## Linked Data Platform (LDP)
 
