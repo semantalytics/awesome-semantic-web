@@ -255,12 +255,14 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [R2RML-Parser](https://github.com/nkons/r2rml-parser) - An R2RML implementation that can export relational database contents as RDF graphs
 - [Morph-RDB](https://github.com/oeg-upm/morph-rdb) - An R2RML processor
 - [MusicBrainz-R2RML](https://github.com/LinkedBrainz/MusicBrainz-R2RML) - R2RML mappings for the MusicBrainz schema
-- [ontop](https://github.com/ontop/ontop)
-- [db2triples](https://github.com/antidot/db2triples)
+- [ontop](https://github.com/ontop/ontop) Ontop is a platform to query relational databases as Virtual RDF Graphs using SPARQL. It's fast and is packed with features. 
+- [db2triples](https://github.com/antidot/db2triples) Antidot implementations of R2RML and Direct Mapping specifications
 - [ADAPT-R2RML](https://opengogs.adaptcentre.ie/debruync/r2rml)
 - [R2RML-api](https://github.com/R2RML-api/R2RML-api)
 - [R2RML-kit](https://github.com/d2rq/r2rml-kit)
 - [Juma](https://opengogs.adaptcentre.ie/crottija/juma-r2rml/) Juma, jigsaw puzzles for representing mapping, is a method that applies the block metaphor to mapping languages.
+- [pyrdb2rdf](https://github.com/nisavid/pyrdb2rdf) A Python library for RDB2RDF Direct Mapping and R2RML.
+
 
 ##### RML
 - [RML](https://github.com/RMLio) - RDF Mapping language for mapping JSON, CSV and XML to RDF
