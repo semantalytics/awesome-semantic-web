@@ -182,6 +182,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [zeppelin-sparql](https://github.com/nick-manasys/zeppelin-sparql) Zeppelin sparql interpreter 
 - [SAFE](https://github.com/yasarkhangithub/SAFE)
 - [Sparql-cli](https://github.com/lambdamusic/Sparql-cli) A command line API for SPARQL 
+- [snap-sparql-query](https://github.com/protegeproject/snap-sparql-query)
 
 ## Linked Data Platform (LDP)
 
