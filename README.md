@@ -329,6 +329,11 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - https://github.com/dice-group/triplestore-benchmarks
 - https://www.w3.org/wiki/RdfStoreBenchmarking
 
+## Academic Journals
+- [Semantic Web Journal](http://www.semantic-web-journal.net/)
+- [Journal of Web Semantics](https://www.journals.elsevier.com/journal-of-web-semantics)
+- [International Journal of Web and Semantic Technology](http://www.airccse.org/journal/ijwest/ijwest.html)
+
 ## Research Institutions
 
 - [The Smart Data Analytics (SDA)](http://sda.tech/) research group, Institute for Computer Science at the University of Bonn, the Fraunhofer Institute for Intelligent Analysis and Information Systems (IAIS) and the Institute for Applied Computer Science Leipzig.
