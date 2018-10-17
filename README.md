@@ -1,4 +1,5 @@
 # Awesome Semantic Web [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 A curated list of various semantic web and linked data resources.
 
 # Contents
@@ -47,7 +48,7 @@ A curated list of various semantic web and linked data resources.
 ### Serializations
 - [RDF/XML Syntax Specification](https://www.w3.org/TR/REC-rdf-syntax/)
 - [RDF 1.1 TRIG](https://www.w3.org/TR/trig/)
-- [JSON-LD](#json-ld)
+- [json-ld](https://json-ld.org/)
 - [Turtle v1.1](https://www.w3.org/TR/turtle/)
 - [n-triples](https://www.w3.org/TR/n-triples/)
 - [n-quads](https://www.w3.org/TR/n-quads/)
@@ -56,14 +57,6 @@ A curated list of various semantic web and linked data resources.
 - [manchester](https://www.w3.org/2007/OWL/draft/ED-owl2-manchester-syntax-20081128/)
 - [manchester-syntax-owl](https://github.com/rollxx/manchester-syntax-owl2)
 - [HDT](https://www.w3.org/Submission/2011/03/)
-
-### JSON-LD
-- [Homepage](https://json-ld.org/)
-- [JSON-LD Syntax](https://json-ld.org/spec/latest/json-ld/)
-- [API](https://json-ld.org/spec/latest/json-ld-api/)
-- [Framing](https://json-ld.org/spec/latest/json-ld-framing/)
-- [Best Practices](https://json-ld.org/spec/latest/json-ld-api-best-practices/)
-- [jsonld-java](https://github.com/jsonld-java/jsonld-java)
 
 ### Linked Data Fragments (LDF)
 - [Linked Data Fragments](http://linkeddatafragments.org)
@@ -78,6 +71,13 @@ A curated list of various semantic web and linked data resources.
    
 ### Linked Data Notifications
 - [Linked Data Notifications](https://www.w3.org/TR/ldn/)
+
+### Linked Data Platform
+
+- [Linked Data Platform 1.0 Primer](https://www.w3.org/TR/ldp-primer/)
+- [Linked Data Platform Best Practices and Guidelines](https://www.w3.org/TR/ldp-bp/)
+- [Linked Data Platform 1.0](https://www.w3.org/TR/ldp/)
+- [Linked Data Platform 1.0 Test Cases](https://dvcs.w3.org/hg/ldpwg/raw-file/tip/tests/ldp-testsuite.html)
 
 ## Companies
 - [Stardog Union](http://stardog.com)
@@ -190,17 +190,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [Sparql-cli](https://github.com/lambdamusic/Sparql-cli) A command line API for SPARQL 
 - [snap-sparql-query](https://github.com/protegeproject/snap-sparql-query)
 
-## Linked Data Platform (LDP)
-
-### Linked Data Platform Standards
-
-- [Linked Data Platform 1.0 Primer](https://www.w3.org/TR/ldp-primer/)
-- [Linked Data Platform Best Practices and Guidelines](https://www.w3.org/TR/ldp-bp/)
-- [Linked Data Platform 1.0](https://www.w3.org/TR/ldp/)
-- [Linked Data Platform 1.0 Test Cases]()
-
-### Linked Data Platform Implementations
-
+### Linked Data Platform (LDP)
 - [warp](https://github.com/linkeddata/warp) Warp - an LDP file manager
 - [Marmotta](https://github.com/apache/marmotta) - Apache linked data platform implementation
 - [Elda](https://github.com/epimorphics/elda) - Linked data platform from Epimorphics
@@ -285,16 +275,15 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 
 #### Other RDF Mappings
 - [sparql-generate](https://github.com/sparql-generate/sparql-generate)
-- any23
-- triplify
+- [any23](https://any23.apache.org/)
 
 ## Ontologies
-- [geo](https://www.w3.org/2003/01/geo/wgs84_pos#)
+- [wgs](https://www.w3.org/2003/01/geo/wgs84_pos#)
 - [skos]( http://www.w3.org/2004/02/skos/core#)
 - [skos-xl](http://www.w3.org/2008/05/skos-xl#)
-- [pim]
-- [vcard]
-- [foaf]
+- [pim](https://www.w3.org/2000/10/swap/pim/contact)
+- [vcard](https://www.w3.org/TR/vcard-rdf/)
+- [foaf](http://www.foaf-project.org/)
 - [uberon](https://github.com/obophenotype/uberon)
 - [MMOntologies](https://github.com/gatemezing/MMOntologies)
 - [juso-ontology](https://github.com/jgkim/juso-ontology)
@@ -306,14 +295,10 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [doap](https://github.com/edumbill/doap)
 - [void](https://github.com/cygri/void)
 - [time](https://w3c.github.io/sdw/time/)
-
-### ORG
-- [The Organization Ontology](https://www.w3.org/TR/vocab-org/)
-- [Org](http://www.w3.org/ns/org#)
-### SKOS
-- [SKOS Simple Knowledge Organization System Reference](https://www.w3.org/TR/skos-reference/)
-### Data Cube
-- [The RDF Datacube Vocabulary](https://www.w3.org/TR/vocab-data-cube)
+- [org](https://www.w3.org/TR/vocab-org/)
+- [skos](https://www.w3.org/TR/skos-reference/) SKOS Simple Knowledge Organization System Reference
+- [skos-xl](https://www.w3.org/TR/skos-reference/skos-xl.html) SKOS Simple Knowledge Organization System eXtension for Labels 
+- [qb](https://www.w3.org/TR/vocab-data-cube)
 - [QB4ST: RDF Data Cube extensions for spatio-temporal components](https://www.w3.org/TR/qb4st/)
 
 ## Reasoners
@@ -330,10 +315,13 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [ruby-rdf/rdf-reasoner](https://github.com/ruby-rdf/rdf-reasoner)
 
 ## Benchmarks
+- [Berlin SPARQL Benchmark (BSBM) ](http://wifo5-03.informatik.uni-mannheim.de/bizer/berlinsparqlbenchmark/)
 - [Lehigh University Benchmark (LUBM)](http://swat.cse.lehigh.edu/projects/lubm/)
 - [IGUANA](https://github.com/dice-group/IGUANA)
 - https://github.com/dice-group/triplestore-benchmarks
 - https://www.w3.org/wiki/RdfStoreBenchmarking
+- [Hobbit](http://project-hobbit.eu/) HOBBIT: Holistic Benchmarking of Big Linked Data
+- [SP2Bench](http://dbis.informatik.uni-freiburg.de/index.php?project=SP2B)
 
 ## Academic Journals
 - [Semantic Web Journal](http://www.semantic-web-journal.net/)
@@ -610,3 +598,6 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [RDFConvert](https://sourceforge.net/projects/rdfconvert/)
 - [RightField](https://github.com/myGrid/RightField)
 - [csvw-template](https://github.com/edsu/csvw-template)
+- [babel](https://github.com/aidhog/blabel/) A library for skolemising (or canonicalising) blank node labels in RDF graphs. 
+- [jsonld-java](https://github.com/jsonld-java/jsonld-java)
+
