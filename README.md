@@ -2,10 +2,10 @@
 A curated list of various semantic web and linked data resources.
 
 # Contents
-- [Standards](#Standards)
-- [Companies](#Companies)
-- [Databases](#Databases)
-- [SPARQL](#SPARQL)
+- [Standards](#standards)
+- [Companies](#companies)
+- [Databases](#databases)
+- [SPARQL](#sparql)
 
 ## Standards
 
