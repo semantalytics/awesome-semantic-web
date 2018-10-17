@@ -1,6 +1,12 @@
 # Awesome Semantic Web [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of various semantic web and linked data resources.
 
+# Contents
+[Standards](## Standards)
+[Companies](## Companies)
+[Databases](## Databases)
+[SPARQL)(## SPARQL)
+
 ## Standards
 
 ### XML Schema
@@ -65,7 +71,7 @@ A curated list of various semantic web and linked data resources.
 ### Open Services for Lifecycle Collaboration (OSLC)
 - [open-services.net](https://open-services.net/)
    
-## Web Annotation Data Model
+### Web Annotation Data Model
 - [Web Annotation Data Model](https://www.w3.org/TR/annotation-model/)
 - [Web Annotation Vocabulary](https://www.w3.org/TR/annotation-vocab/)
 - [Web Annotation Protocol](https://www.w3.org/TR/annotation-protocol/)
@@ -127,7 +133,7 @@ F - Free
 
 ## SPARQL
 
-## Streaming SPARQL
+### Streaming SPARQL
 - [CSPARQL-engine](https://github.com/streamreasoning/CSPARQL-engine)
 - [Triplewave](https://github.com/streamreasoning/TripleWave)
 - [morph-streams](https://github.com/jpcik/morph-streams)
@@ -137,7 +143,7 @@ F - Free
 - [cqels](https://github.com/KMax/cqels)
 - [morph](https://github.com/jpcik/morph) sparql-stream sensor queries 
 
-## Federated SPARQL
+### Federated SPARQL
 
 ACTIVE
 - [Semagrow](https://github.com/semagrow)
