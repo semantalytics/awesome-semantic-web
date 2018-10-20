@@ -221,9 +221,11 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [TripleGeo](https://github.com/GeoKnow/TripleGeo) TripleGeo utility for converting geospatial data into triples 
 
 ### Excel
+- [TabLinker](https://github.com/Data2Semantics/TabLinker)
 - [xlwrap](https://github.com/sidewinderlabs/xlwrap)
 
 ### CSV/Tabular
+- [COW](https://github.com/CLARIAH/COW) - CSV On the Web (CSVW) converter
 - [CSV2RDF](https://github.com/clarkparsia/csv2rdf) - CSV to RDF mapper
 - [csv2rdf](https://github.com/notruthless/csv2rdf)
 - [csv2rdf4lod-automation](https://github.com/timrdf/csv2rdf4lod-automation)
@@ -338,6 +340,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [DICE: Data Science Group](http://dice.cs.uni-paderborn.de/about/) Universität Paderborn
 - [Agile Knowledge Engineering and Semantic Web (AKSW)](http://aksw.org/) The Research Group Agile Knowledge Engineering and Semantic Web (AKSW) is hosted by the Chair of Business Information Systems (BIS) of the Institute of Computer Science (IfI) / University of Leipzig as well as the Institute for Applied Informatics (InfAI).
 - [Ontology Engineering Group (OEG)](http://www.oeg-upm.net/) The Ontology Engineering Group (OEG) is based at the Computer Science School at Universidad Politécnica de Madrid (UPM)
+- [Knowledge Representation and Reasoning Group (KRR)](https://krr.cs.vu.nl/) research group is based at the Vrije Universiteit Amsterdam (VU)
 
 ## Programming
 
@@ -571,7 +574,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [balloon](https://github.com/schlegel/balloon) A tool-suite for Linked Data consumption. balloon aims in offering public services and tools to take advantage of the semantic web with less effort. The basic motivation is to establish a foundation for Linked Data as a Service (LDaaS).
 - [Processor](https://github.com/AtomGraph/Processor) Generic Linked Data processor and server. Apache License. 
 - [ontodia](https://github.com/ontodia-org/ontodia) Ontodia data diagraming library
-- [grlc](https://github.com/CLARIAH/grlc)
+- [grlc](https://github.com/CLARIAH/grlc) Translates public SPARQL queries into Linked Data APIs automatically
 - [basil](https://github.com/the-open-university/basil)
 - [lodmill](https://github.com/lobid/lodmill)
 - [NoSPA-RDF-Data-Cube-Validator](https://github.com/yyz1989/NoSPA-RDF-Data-Cube-Validator)
