@@ -116,6 +116,7 @@ F - Free
 - [Sempala](https://github.com/aschaetzle/Sempala)
 - [TriplePlace](https://github.com/white-gecko/TriplePlace) a light weight and flexible Triple Store for Android
 - [Node-Quadstore](https://beautifulinteractions.github.io/node-quadstore/)
+- [KGRAM](http://wimmics.inria.fr/corese) OS
 
 ### Academic
 - [TripleRush](https://github.com/uzh/triplerush) OS
@@ -244,6 +245,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [Alibaba](https://bitbucket.org/openrdf/alibaba)
 - [rdfbeans](http://rdfbeans.sourceforge.net/)
 - [surfrdf](https://github.com/cosminbasca/surfrdf) SuRF: a python Object RDF Mapper (ORM)
+- [jtriple](https://github.com/konradreiche/jtriple) A Java object model binding for RDF. 
 
 ### RDB to RDF
 - [d2rq](https://github.com/cygri/d2rq) Database to RDF mapping engine and SPARQL server 
@@ -368,6 +370,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [N3.js](https://github.com/RubenVerborgh/N3.js)
 - [Jessa](https://www.npmjs.com/package/jassa)
 - [rdf.js](https://github.com/webr3/rdf.js)
+- [rdflib.js](https://github.com/linkeddata/rdflib.js)
 
 ## C#
 - [dotNetRDF](https://github.com/dotnetrdf/dotnetrdf)
@@ -465,9 +468,8 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [Hydra](https://github.com/lanthaler/Hydra)
 - [HydraConsole](https://github.com/lanthaler/HydraConsole)
 - [HydraBundle](https://github.com/lanthaler/HydraBundle)
-- [pinto](https://github.com/stardog-union/pinto)
-- [rdfagents](https://github.com/joshsh/rdfagents)
-- [gm-sparql](https://github.com/ssrangan/gm-sparql)
+- [rdfagents](https://github.com/joshsh/rdfagents) Real-time messaging for the Semantic Web
+- [gm-sparql](https://github.com/ssrangan/gm-sparql) Graph Mining Using SPARQL 
 - [cp-common-utils](https://github.com/mhgrove/cp-common-utils) Collection of utilty classes from Clark & Parsia 
 - [SARQ](https://github.com/castagna/SARQ) Free Text Indexing for SPARQL using a remote Solr server
 - [EARQ](https://github.com/castagna/EARQ) EARQ is a combination of ARQ and ElasticSearch
@@ -490,21 +492,20 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [docker-blazegraph](https://github.com/lyrasis/docker-blazegraph)
 - [blazegraph-service](https://github.com/vastix/blazegraph-service)
 - [banana-rdf](https://github.com/banana-rdf/banana-rdf)
-- [jena-grande](https://github.com/castagna/jena-grande)
-- [mrlin](https://github.com/mhausenblas/mrlin)
-- [TabLinker](https://github.com/Data2Semantics/TabLinker)
+- [jena-grande](https://github.com/castagna/jena-grande) Jena Grande is a collection of utilities, experiments and examples on 
+  how to use MapReduce, Pig, HBase or Giraph to process data in RDF format.
+- [mrlin](https://github.com/mhausenblas/mrlin) MapReduce processing of Linked Data
+- [TabLinker](https://github.com/Data2Semantics/TabLinker) Supervised Excel/CSV to RDF Converter 
 - [ntcat](https://github.com/cgutteridge/ntcat) Command line tool for concatenating NTriples documents 
-- [infovore](https://github.com/paulhoule/infovore)
+- [infovore](https://github.com/paulhoule/infovore) RDF-Centric Map/Reduce Framework and Freebase data conversion tool 
 - [rdf3x_path](https://github.com/agubichev/rdf3x_path)
 - [TripleChecker](https://github.com/cgutteridge/TripleChecker)
-- [jqudt](https://github.com/egonw/jqudt)
-- [rdflib.js](https://github.com/linkeddata/rdflib.js)
+- [jqudt](https://github.com/egonw/jqudt) Java library for working with the QUDT ontology and data using it. 
 - [owl2vcs](https://github.com/utapyngo/owl2vcs)
-- [dowl](https://github.com/ldodds/dowl)
+- [dowl](https://github.com/ldodds/dowl) Generate docs for RDF/OWL Schema 
 - [sesametools](https://github.com/joshsh/sesametools)
 - [SemanticNationalMap](https://github.com/dmm/SemanticNationalMap)
 - [JenaSecurity](https://github.com/Claudenw/JenaSecurity)
-- [jtriple](https://github.com/konradreiche/jtriple)
 - [ripple](https://github.com/joshsh/ripple)
 - [specgen](https://github.com/specgen/specgen)
 - [asqc](https://github.com/gklyne/asqc)
@@ -588,19 +589,19 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [linked-csv-browser](https://github.com/theodi/linked-csv-browser)
 - [OntoVerbal](https://github.com/TheOntologist/OntoVerbal) OntoVerbal is a Protege 4.2 plugin that generates natural language descriptions for classes for an ontology written in OWL
 - [semargl](https://github.com/semarglproject/semargl) Highly performant, lightweight framework for linked data processing. Supports RDFa, JSON-LD, RDF/XML and plain text formats, runs on Android and GAE, provides integration with Jena, Sesame and Clerezza. 
-- [shi3ld-http](https://github.com/lukostaz/shi3ld-http)
+- [shi3ld-http](https://github.com/lukostaz/shi3ld-http) Shi3ld for HTTP: Access control for HTTP operations on Linked Data
 - [luposdate](https://github.com/luposdate/luposdate)
 - [wordnet-lemon-to-w3c](https://github.com/jimregan/wordnet-lemon-to-w3c)
 - [hyrise](https://github.com/hyrise/hyrise)
 - [owlconvert](https://github.com/camwebb/owlconvert) Simple OWL format converter based on OWLAPI 
-- [rabel](https://github.com/linkeddata/rabel)
-- [SANSA](https://github.com/SANSA-Stack/SANSA-RDF)
-- [soarql-dl-api](https://github.com/protegeproject/sparql-dl-api)
+- [rabel](https://github.com/linkeddata/rabel) Program for reading and writing linked data in various formats
+- [SANSA](https://github.com/SANSA-Stack/SANSA-RDF) SANSA RDF is a library to read RDF files into Spark or Flink
+- [soarql-dl-api](https://github.com/protegeproject/sparql-dl-api) A query engine for SPARQL-DL
 - [graph-pattern-learner](https://github.com/RDFLib/graph-pattern-learner)
 - [schema_salad](https://github.com/common-workflow-language/schema_salad)
-- [RDFConvert](https://sourceforge.net/projects/rdfconvert/)
-- [RightField](https://github.com/myGrid/RightField)
-- [csvw-template](https://github.com/edsu/csvw-template)
+- [RDFConvert](https://sourceforge.net/projects/rdfconvert/) RDFConvert is a simple command-line tool for converting RDF file betweeen different syntax formats
+- [RightField](https://github.com/myGrid/RightField) RightField is an open-source tool for adding ontology term selection to Excel spreadsheets.
+- [csvw-template](https://github.com/edsu/csvw-template) document the semantics of your csv file
 - [babel](https://github.com/aidhog/blabel/) A library for skolemising (or canonicalising) blank node labels in RDF graphs. 
-- [jsonld-java](https://github.com/jsonld-java/jsonld-java)
+- [jsonld-java](https://github.com/jsonld-java/jsonld-java) JSON-LD implementation for Java 
 
