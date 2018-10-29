@@ -45,7 +45,7 @@ A curated list of various semantic web and linked data resources.
 - [SPARQL 1.1 Protocol](https://www.w3.org/TR/sparql11-protocol/)
 - [SPARQL 1.1 Graph Store HTTP Protocol](https://www.w3.org/TR/sparql11-http-rdf-update/)
  
-### Serializations
+### Serialization Formats
 - [RDF/XML Syntax Specification](https://www.w3.org/TR/REC-rdf-syntax/)
 - [RDF 1.1 TRIG](https://www.w3.org/TR/trig/)
 - [json-ld](https://json-ld.org/)
@@ -57,6 +57,7 @@ A curated list of various semantic web and linked data resources.
 - [manchester](https://www.w3.org/2007/OWL/draft/ED-owl2-manchester-syntax-20081128/)
 - [manchester-syntax-owl](https://github.com/rollxx/manchester-syntax-owl2)
 - [HDT](https://www.w3.org/Submission/2011/03/)
+- [aREF](https://gbv.github.io/aREF/aREF.html) 
 
 ### Linked Data Fragments (LDF)
 - [Linked Data Fragments](http://linkeddatafragments.org)
