@@ -151,7 +151,7 @@ ACTIVE
 - [Semagrow](https://github.com/semagrow)
 - [CostFed](https://github.com/dice-group/CostFed)
 - [QUETSAL](http://aksw.org/Projects/QUETSAL.html)
-- [SPLENDID]()
+- [SPLENDID](http://ceur-ws.org/Vol-782/GoerlitzAndStaab_COLD2011.pdf)
 - [ANAPSID](https://github.com/anapsid/anapsid)
 - [HiBISCuS](https://github.com/AKSW/HiBISCuS)
 - [SPARQLFederator](https://github.com/djogopatrao/SPARQLFederator)
@@ -159,6 +159,7 @@ ACTIVE
 - [DREAM](https://github.com/CMU-Q/DREAM) DREAM - Distributed RDF Engine with Adaptive Query Planner and Minimal Communication 
 - [Avalanche](http://www.ifi.uzh.ch/en/ddis/research/avalanche.html)
 - [FedX](https://github.com/VeritasOS/fedx)
+- [anapsid](https://github.com/anapsid/anapsid) An adaptive query processing engine for SPARQL endpoints. 
 
 ARCHIVE - inactive projects or old academic projects that may lack soruce code
 
@@ -191,6 +192,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [SAFE](https://github.com/yasarkhangithub/SAFE)
 - [Sparql-cli](https://github.com/lambdamusic/Sparql-cli) A command line API for SPARQL 
 - [snap-sparql-query](https://github.com/protegeproject/snap-sparql-query)
+- [asqc](https://github.com/gklyne/asqc) A SPARQL query client (pronounced "ask") 
 
 ### Linked Data Platform (LDP)
 - [warp](https://github.com/linkeddata/warp) Warp - an LDP file manager
@@ -394,7 +396,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [seabass](https://github.com/ryankohl/seabass) A library for working with RDF with Jena in Clojure
 
 ### Scala
-- [banana-rdf](https://github.com/banana-rdf/banana-rdf) - A library for RDF, SPARQL and Linked Data technologies in Scala.
+- [banana-rdf](https://github.com/banana-rdf/banana-rdf) A library for RDF, SPARQL and Linked Data technologies in Scala.
 
 ### Groovy
 - [groovyrdf](https://github.com/angelo-v/groovyrdf)
@@ -403,7 +405,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [rrdf](https://github.com/egonw/rrdf)
 
 ## VIM
-- [sparql.vim](https://github.com/vim-scripts/sparql.vim) - SPARQL syntax highlighting
+- [sparql.vim](https://github.com/vim-scripts/sparql.vim) SPARQL syntax highlighting
 - [vim-owl-tools](https://github.com/mattpap/vim-owl-tools)
 
 ## Emacs
@@ -455,7 +457,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [RDFUnit](https://github.com/AKSW/RDFUnit) - RDFUnit is implemented on top of the Test-Driven Data Validation Ontology and designed to read and produce RDF that complies to that ontology only. 
 - [IGUANA](https://github.com/AKSW/IGUANA) - IGUANA is a benchmark execution framework for triple stores 
 - [antlr-sparql-grammar](https://github.com/rollxx/antlr-sparql-grammar)
-- [xwiki](https://github.com/bblfish/xwiki)
+- [xwiki](https://github.com/bblfish/xwiki) xwiki related code for WebID 
 - [rdfdot](https://github.com/wastl/rdfdot) Tools for drawing graphs from RDF files with GraphViz 
 - [anthelion](https://github.com/yahoo/anthelion) Anthelion is a plugin for Apache Nutch to crawl semantic annotations within HTML pages 
 - [solid-spec](https://github.com/solid/solid-spec)
@@ -483,8 +485,8 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [jena-joseki](https://github.com/tingletech/jena-joseki)
 - [node-webid](https://github.com/magnetik/node-webid)
 - [stardog-ubuntu-scripts](https://github.com/semantalytics/stardog-ubuntu-scripts)
-- [qonsole](https://github.com/epimorphics/qonsole)
-- [Git2PROV](https://github.com/mmlab/Git2PROV)
+- [qonsole](https://github.com/epimorphics/qonsole) A simple console for running SPARQL queries and displaying results 
+- [Git2PROV](https://github.com/mmlab/Git2PROV) Unleash the potential of Git in the new W3C standard for provenance. 
 - [iqvoc](https://github.com/innoq/iqvoc)
 - [hydra-java](https://github.com/dschulten/hydra-java)
 - [IntervalServer](https://github.com/epimorphics/IntervalServer)
@@ -492,24 +494,22 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [blazegraph-samples](https://github.com/blazegraph/blazegraph-samples)
 - [docker-blazegraph](https://github.com/lyrasis/docker-blazegraph)
 - [blazegraph-service](https://github.com/vastix/blazegraph-service)
-- [banana-rdf](https://github.com/banana-rdf/banana-rdf)
 - [jena-grande](https://github.com/castagna/jena-grande) Jena Grande is a collection of utilities, experiments and examples on 
   how to use MapReduce, Pig, HBase or Giraph to process data in RDF format.
 - [mrlin](https://github.com/mhausenblas/mrlin) MapReduce processing of Linked Data
 - [TabLinker](https://github.com/Data2Semantics/TabLinker) Supervised Excel/CSV to RDF Converter 
 - [ntcat](https://github.com/cgutteridge/ntcat) Command line tool for concatenating NTriples documents 
 - [infovore](https://github.com/paulhoule/infovore) RDF-Centric Map/Reduce Framework and Freebase data conversion tool 
-- [rdf3x_path](https://github.com/agubichev/rdf3x_path)
+- [rdf3x_path](https://github.com/agubichev/rdf3x_path) RDF3X with path queries 
 - [TripleChecker](https://github.com/cgutteridge/TripleChecker)
 - [jqudt](https://github.com/egonw/jqudt) Java library for working with the QUDT ontology and data using it. 
-- [owl2vcs](https://github.com/utapyngo/owl2vcs)
+- [owl2vcs](https://github.com/utapyngo/owl2vcs) owl2vcs is a set of tools designed to facilitate version control of OWL 2 ontologies using version control systems.
 - [dowl](https://github.com/ldodds/dowl) Generate docs for RDF/OWL Schema 
 - [sesametools](https://github.com/joshsh/sesametools)
 - [SemanticNationalMap](https://github.com/dmm/SemanticNationalMap)
 - [JenaSecurity](https://github.com/Claudenw/JenaSecurity)
-- [ripple](https://github.com/joshsh/ripple)
+- [ripple](https://github.com/joshsh/ripple) Semantic Web scripting language 
 - [specgen](https://github.com/specgen/specgen)
-- [asqc](https://github.com/gklyne/asqc)
 - [schema-org-rdf](https://github.com/mhausenblas/schema-org-rdf)
 - [cassa](https://github.com/heuer/cassa)
 - [graphity-browser](https://github.com/AtomGraph/Web-Client)
@@ -541,15 +541,14 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [tdbloader4](https://github.com/castagna/tdbloader4)
 - [json-ld-macros](https://github.com/antoniogarrote/json-ld-macros)
 - [semweb.vim](https://github.com/seebi/semweb.vim)
-- [tac](https://github.com/magnetik/tac)
+- [tac](https://github.com/magnetik/tac) Triple access control 
 - [dbpedia-extension](https://github.com/sparkica/dbpedia-extension)
 - [commons-rdf](https://github.com/commons-rdf/commons-rdf)
-- [tawny-owl](https://github.com/phillord/tawny-owl)
+- [tawny-owl](https://github.com/phillord/tawny-owl) Build OWL Ontologies in a Programmatic Environment
 - [grefine-rdf-extension](https://github.com/OpenRefine/grefine-rdf-extension)
-- [Imperium](https://github.com/mhgrove/Imperium)
+- [Imperium](https://github.com/mhgrove/Imperium) Imperium is a plugin for the Play! framework similar to the existing JPA plugin that allows the use of Empire seamlessly in a Play! based application.
 - [vocab-transit](https://github.com/wwaites/vocab-transit)
-- [sparql4idea](https://github.com/mattnathan/sparql4idea)
-- [anapsid](https://github.com/anapsid/anapsid)
+- [sparql4idea](https://github.com/mattnathan/sparql4idea) SPARQL language plugin for IntelliJ IDEA 
 - [visu](https://github.com/jiemakel/visu)
 - [LD-FusionTool](https://github.com/mifeet/LD-FusionTool)
 - [commons-rdf](https://github.com/commons-rdf/commons-rdf)
@@ -565,7 +564,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [jvmrdftools](https://github.com/cosminbasca/jvmrdftools)
 - [ontmalizer](https://github.com/srdc/ontmalizer)
 - [levelgraph-jsonld](https://github.com/mcollina/levelgraph-jsonld)
-- [owlapi](https://github.com/owlcs/owlapi)
+- [owlapi](https://github.com/owlcs/owlapi) The OWL API is a Java API for creating, manipulating and serialising OWL Ontologies.
 - [LODGrefine](https://github.com/sparkica/LODGrefine)
 - [stardog.js](https://github.com/stardog-union/stardog.js)
 - [stardog-groovy](https://github.com/stardog-union/stardog-groovy)
