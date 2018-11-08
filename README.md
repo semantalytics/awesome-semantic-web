@@ -487,7 +487,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [EARQ](https://github.com/castagna/EARQ) EARQ is a combination of ARQ and ElasticSearch
 - [Stardog-Connection-Pool-API](https://github.com/roberttheiv/Stardog-Connection-Pool-API)
 - [webid-demo](https://github.com/digitalbazaar/webid-demo)
-- [sparks](https://github.com/sparksrdf/sparks)
+- [sparks](https://github.com/sparksrdf/sparks) Sparks is a set of JavaScript libraries designed for simplifying the access to RDF data.
 - [foafssl-java](https://github.com/bblfish/foafssl-java)
 - [webid-spec](https://github.com/webid-community/webid-spec)
 - [tdbloader3](https://github.com/castagna/tdbloader3)
@@ -496,7 +496,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [stardog-ubuntu-scripts](https://github.com/semantalytics/stardog-ubuntu-scripts)
 - [qonsole](https://github.com/epimorphics/qonsole) A simple console for running SPARQL queries and displaying results 
 - [Git2PROV](https://github.com/mmlab/Git2PROV) Unleash the potential of Git in the new W3C standard for provenance. 
-- [iqvoc](https://github.com/innoq/iqvoc)
+- [iqvoc](https://github.com/innoq/iqvoc) iQvoc - A SKOS(-XL) Vocabulary Management System for the Semantic Web
 - [hydra-java](https://github.com/dschulten/hydra-java)
 - [IntervalServer](https://github.com/epimorphics/IntervalServer)
 - [docker-blazegraph](https://github.com/zorino/docker-blazegraph)
@@ -510,28 +510,27 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [ntcat](https://github.com/cgutteridge/ntcat) Command line tool for concatenating NTriples documents 
 - [infovore](https://github.com/paulhoule/infovore) RDF-Centric Map/Reduce Framework and Freebase data conversion tool 
 - [rdf3x_path](https://github.com/agubichev/rdf3x_path) RDF3X with path queries 
-- [TripleChecker](https://github.com/cgutteridge/TripleChecker)
+- [TripleChecker](https://github.com/cgutteridge/TripleChecker) Look for common errors in an RDF Document 
 - [jqudt](https://github.com/egonw/jqudt) Java library for working with the QUDT ontology and data using it. 
 - [owl2vcs](https://github.com/utapyngo/owl2vcs) owl2vcs is a set of tools designed to facilitate version control of OWL 2 ontologies using version control systems.
 - [dowl](https://github.com/ldodds/dowl) Generate docs for RDF/OWL Schema 
-- [sesametools](https://github.com/joshsh/sesametools)
-- [SemanticNationalMap](https://github.com/dmm/SemanticNationalMap)
+- [sesametools](https://github.com/joshsh/sesametools) A collection of utilities for use with OpenRDF Sesame 
 - [JenaSecurity](https://github.com/Claudenw/JenaSecurity)
 - [ripple](https://github.com/joshsh/ripple) Semantic Web scripting language 
-- [specgen](https://github.com/specgen/specgen)
+- [specgen](https://github.com/specgen/specgen) modified, extended and more generalized version of Danbri‘s SpecGen version 5.
 - [schema-org-rdf](https://github.com/mhausenblas/schema-org-rdf)
-- [cassa](https://github.com/heuer/cassa)
-- [graphity-browser](https://github.com/AtomGraph/Web-Client)
-- [pellet](https://github.com/lepfhty/pellet)
+- [cassa](https://github.com/heuer/cassa) SPARQL 1.1 Graph Store HTTP Protocol implementation with plugable backends
+- [graphity-browser](https://github.com/AtomGraph/Web-Client) Generic Linked Data browser.
+- [pellet](https://github.com/lepfhty/pellet) 
 - [keygenapp](https://github.com/bblfish/keygenapp)
 - [owlapitools](https://github.com/owlcs/owlapitools)
 - [LD-FusionTool](https://github.com/mifeet/LD-FusionTool)
 - [docker-blazegraph](https://github.com/lyrasis/docker-blazegraph)
 - [fox-ui](https://github.com/Data2Semantics/fox-ui)
 - [prefix.cc](https://github.com/cygri/prefix.cc)
-- [LSD-Dimensions](https://github.com/albertmeronyo/LSD-Dimensions)
-- [prissma](https://github.com/lukostaz/prissma)
-- [rdf-pipeline](https://github.com/dbooth-boston/rdf-pipeline)
+- [LSD-Dimensions](https://github.com/albertmeronyo/LSD-Dimensions) All dimension values of Linked Statistical Data
+- [prissma](https://github.com/lukostaz/prissma) Context-Aware Adaptation for Linked Data 
+- [rdf-pipeline](https://github.com/rdf-pipeline)
 - [FOX](https://github.com/AKSW/FOX)
 - [fox-java](https://github.com/renespeck/fox-java)
 - [fox-py](https://github.com/earthquakesan/fox-py)
