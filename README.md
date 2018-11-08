@@ -45,6 +45,15 @@ A curated list of various semantic web and linked data resources.
 - [SPARQL 1.1 Protocol](https://www.w3.org/TR/sparql11-protocol/)
 - [SPARQL 1.1 Graph Store HTTP Protocol](https://www.w3.org/TR/sparql11-http-rdf-update/)
  
+### CSVW
+- [Model for Tabular Data and Metadata on the Web, W3C Recommendation](http://www.w3.org/TR/2015/REC-tabular-data-model-20151217/)
+- [Metadata Vocabulary for Tabular Data, W3C Recommendation](http://www.w3.org/TR/2015/REC-tabular-metadata-20151217/)
+- [Generating JSON from Tabular Data on the Web, W3C Recommendation](http://www.w3.org/TR/2015/REC-csv2json-20151217/)
+- [Generating RDF from Tabular Data on the Web](http://www.w3.org/TR/2015/REC-csv2rdf-20151217/)
+- [CSV on the Web: Use Cases and Requirements](http://www.w3.org/TR/2016/NOTE-csvw-ucr-20160225/)
+- [Embedding Tabular Metadata in HTML](http://www.w3.org/TR/2016/NOTE-csvw-html-20160225/)
+- [CSV on the Web: A Primer, W3C WG Note](http://www.w3.org/TR/2016/NOTE-tabular-data-primer-20160225/) 
+ 
 ### Serialization Formats
 - [RDF/XML Syntax Specification](https://www.w3.org/TR/REC-rdf-syntax/)
 - [RDF 1.1 TRIG](https://www.w3.org/TR/trig/)
