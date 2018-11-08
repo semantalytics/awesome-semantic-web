@@ -276,6 +276,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [R2RML-kit](https://github.com/d2rq/r2rml-kit)
 - [Juma](https://opengogs.adaptcentre.ie/crottija/juma-r2rml/) Juma, jigsaw puzzles for representing mapping, is a method that applies the block metaphor to mapping languages.
 - [pyrdb2rdf](https://github.com/nisavid/pyrdb2rdf) A Python library for RDB2RDF Direct Mapping and R2RML.
+- [sparqlmap](https://github.com/tomatophantastico/sparqlmap)
 
 ##### RML
 - [RML](https://github.com/RMLio) - RDF Mapping language for mapping JSON, CSV and XML to RDF
