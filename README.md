@@ -127,6 +127,7 @@ F - Free
 - [TriplePlace](https://github.com/white-gecko/TriplePlace) a light weight and flexible Triple Store for Android
 - [Node-Quadstore](https://beautifulinteractions.github.io/node-quadstore/)
 - [KGRAM](http://wimmics.inria.fr/corese) OS
+- [luposdate](https://github.com/luposdate/luposdate)
 
 ### Academic
 - [TripleRush](https://github.com/uzh/triplerush) OS
