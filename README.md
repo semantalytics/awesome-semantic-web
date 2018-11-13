@@ -203,6 +203,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [Sparql-cli](https://github.com/lambdamusic/Sparql-cli) A command line API for SPARQL 
 - [snap-sparql-query](https://github.com/protegeproject/snap-sparql-query)
 - [asqc](https://github.com/gklyne/asqc) A SPARQL query client (pronounced "ask") 
+- [SPARQL-parser](https://github.com/tenforce/SPARQL-parser)
 
 ### Linked Data Platform (LDP)
 - [warp](https://github.com/linkeddata/warp) Warp - an LDP file manager
