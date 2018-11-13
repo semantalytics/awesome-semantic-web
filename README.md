@@ -128,6 +128,7 @@ F - Free
 - [Node-Quadstore](https://beautifulinteractions.github.io/node-quadstore/)
 - [KGRAM](http://wimmics.inria.fr/corese) OS
 - [luposdate](https://github.com/luposdate/luposdate)
+- [wallix/triplestore](https://github.com/wallix/triplestore) Nifty library to manage, query and store RDF triples.
 
 ### Academic
 - [TripleRush](https://github.com/uzh/triplerush) OS
