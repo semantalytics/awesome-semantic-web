@@ -7,6 +7,7 @@ A curated list of various semantic web and linked data resources.
 - [Companies](#companies)
 - [Databases](#databases)
 - [SPARQL](#sparql)
+- [Programming](#programming)
 
 ## Standards
 
@@ -418,6 +419,9 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 
 ### R
 - [rrdf](https://github.com/egonw/rrdf)
+
+### Ruby
+- [ruby-rdf](http://ruby-rdf.github.io)
 
 ## VIM
 - [sparql.vim](https://github.com/vim-scripts/sparql.vim) SPARQL syntax highlighting
