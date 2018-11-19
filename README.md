@@ -366,6 +366,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 ### Java
 - [RDF4J](http://rdf4j.org)
 - [Jena](http://jena.apache.org)
+- [commons-rdf](http://commons.apache.org/proper/commons-rdf/)
 
 ### Python
 - [RdfLib](http://www.rdflib.net/)
