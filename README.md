@@ -622,4 +622,4 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [csvw-template](https://github.com/edsu/csvw-template) document the semantics of your csv file
 - [babel](https://github.com/aidhog/blabel/) A library for skolemising (or canonicalising) blank node labels in RDF graphs. 
 - [jsonld-java](https://github.com/jsonld-java/jsonld-java) JSON-LD implementation for Java 
-
+- [guide-o-matic](https://github.com/baskaufs/guid-o-matic) Xquery scripts to convert fielded text (CSV) files to RDF serialized as XML, Turtle, and JSON-LD 
