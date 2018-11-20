@@ -1,3 +1,26 @@
+# Contents
+- [Standards](#standards)
+- [Companies](#companies)
+- [Databases](#databases)
+- [SPARQL](#sparql)
+- [Web Annotations](#web-annotation-data-model)
+- [Data Cube](#data-cube)
+- [Mapping](#mapping)
+- [Ontologies](#ontologies)
+- [Reasoners](#reasoners)
+- [Benchmarks](#benchmarks)
+- [Academic Journals](#academic-journals)
+- [Research Institutions](#research-institutions)
+- [Editors](#editors)
+- [Programming](#programming)
+- [Geo](#geo)
+- [Visualization](#visualization)
+- [Datasets](#datasets)
+- [IoT](#iot)
+- [Misc](#misc)
+
+
+
 # Awesome Semantic Web [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of various semantic web and linked data resources.
@@ -390,7 +413,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [rdf.js](https://github.com/webr3/rdf.js)
 - [rdflib.js](https://github.com/linkeddata/rdflib.js)
 
-## C#
+### C#
 - [dotNetRDF](https://github.com/dotnetrdf/dotnetrdf)
 - [RDFSharp](https://github.com/mdesalvo/RDFSharp)
 
@@ -424,14 +447,16 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 ### Ruby
 - [ruby-rdf](http://ruby-rdf.github.io)
 
-## VIM
+## Editors
+
+### VIM
 - [sparql.vim](https://github.com/vim-scripts/sparql.vim) SPARQL syntax highlighting
 - [vim-owl-tools](https://github.com/mattpap/vim-owl-tools)
 
-## Emacs
+### Emacs
 - [sparql-mode](https://github.com/ljos/sparql-mode)
 
-## Bash
+### Bash
 - [rdf.sh](https://github.com/seebi/rdf.sh)
 
 ## Geo
@@ -458,7 +483,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [CubeViz](https://github.com/AKSW/cubeviz.ontowiki)
 - [QB4ST: RDF Data Cube extensions for spatio-temporal components](https://www.w3.org/TR/qb4st/)
 
-## Data
+## Datasets
 - [DBPedia](http://dbpedia.org)
 - [geonames](https://github.com/ldodds/geonames)
 
