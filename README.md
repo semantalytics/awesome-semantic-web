@@ -153,11 +153,11 @@ F - Free
 - [gh-rdf3x](https://github.com/gh-rdf3x/gh-rdf3x) OS
 - [Qamel](https://github.com/dice-group/qamel) RDF4J ported to Andriod
 - [dipLODocus](https://diuf.unifr.ch/main/xi/diplodocus)
-- [SW-Store]
-- [Yars2]
-- [Shard]
-- [Hexastore]
-- [BitMat]
+- [SW-Store](https://cs.uwaterloo.ca/~gweddell/cs848/papers/SW-Store.pdf)
+- [Yars2]()
+- [Shard](https://sourceforge.net/projects/shard-3store/)
+- [Hexastore](http://www.vldb.org/pvldb/1/1453965.pdf)
+- [BitMat](https://www.cs.ox.ac.uk/people/medha.atre/papers/atre-ssws2009.pdf)
 - [LUPOSDATE](https://www.ifis.uni-luebeck.de/index.php?id=luposdate-demo)
 
 ## SPARQL
