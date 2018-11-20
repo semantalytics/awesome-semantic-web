@@ -384,7 +384,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [commons-rdf](http://commons.apache.org/proper/commons-rdf/)
 
 ### Python
-- [RdfLib](http://www.rdflib.net/)
+- [RDFlib](https://github.com/RDFLib/rdflib) RDFLib is a Python library for working with RDF, a simple yet powerful language for representing information.
 - [RdfAlchemy](http://www.openvest.com/trac/wiki/RDFAlchemy)
 - [Fuxi](http://code.google.com/p/fuxi/)
 - [ORDF](ordf.org)
@@ -543,7 +543,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [owl2vcs](https://github.com/utapyngo/owl2vcs) owl2vcs is a set of tools designed to facilitate version control of OWL 2 ontologies using version control systems.
 - [dowl](https://github.com/ldodds/dowl) Generate docs for RDF/OWL Schema 
 - [sesametools](https://github.com/joshsh/sesametools) A collection of utilities for use with OpenRDF Sesame 
-- [JenaSecurity](https://github.com/Claudenw/JenaSecurity)
+- [JenaSecurity](https://github.com/Claudenw/JenaSecurity) Security (Permissions) wrapper around Jena RDF implementation 
 - [ripple](https://github.com/joshsh/ripple) Semantic Web scripting language 
 - [specgen](https://github.com/specgen/specgen) modified, extended and more generalized version of Danbri‘s SpecGen version 5.
 - [schema-org-rdf](https://github.com/mhausenblas/schema-org-rdf)
@@ -551,11 +551,11 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [graphity-browser](https://github.com/AtomGraph/Web-Client) Generic Linked Data browser.
 - [pellet](https://github.com/lepfhty/pellet) 
 - [keygenapp](https://github.com/bblfish/keygenapp)
-- [owlapitools](https://github.com/owlcs/owlapitools)
+- [owlapitools](https://github.com/owlcs/owlapitools) owlapitools - a set of independent add-ons for OWL API 
 - [LD-FusionTool](https://github.com/mifeet/LD-FusionTool)
 - [docker-blazegraph](https://github.com/lyrasis/docker-blazegraph)
 - [fox-ui](https://github.com/Data2Semantics/fox-ui)
-- [prefix.cc](https://github.com/cygri/prefix.cc)
+- [prefix.cc](https://github.com/cygri/prefix.cc) Source code to the prefix.cc website
 - [LSD-Dimensions](https://github.com/albertmeronyo/LSD-Dimensions) All dimension values of Linked Statistical Data
 - [prissma](https://github.com/lukostaz/prissma) Context-Aware Adaptation for Linked Data 
 - [rdf-pipeline](https://github.com/rdf-pipeline)
@@ -564,13 +564,12 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [fox-py](https://github.com/earthquakesan/fox-py)
 - [ORE](https://github.com/AKSW/ORE)
 - [rdfpatch](https://github.com/pchampin/ld-patch-py)
-- [TurtleValidator](https://github.com/mmlab/TurtleValidator)
-- [rdflib](https://github.com/RDFLib/rdflib)
+- [TurtleValidator](https://github.com/mmlab/TurtleValidator) A Turtle validator on command line and in browser
 - [signal-collect-torque](https://github.com/uzh/signal-collect-torque)
 - [singal-collect](https://github.com/uzh/signal-collect)
-- [Duke](https://github.com/larsga/Duke)
+- [Duke](https://github.com/larsga/Duke) Duke is a fast and flexible deduplication engine written in Java 
 - [redland-bindings](https://github.com/dajobe/redland-bindings)
-- [mediation](https://github.com/correndo/mediation)
+- [mediation](https://github.com/correndo/mediation) Jena based framework to implement ontological mediation of SPARQL queries 
 - [owl-functional-syntax-axiom-parser](https://github.com/dfleischhacker/owl-functional-syntax-axiom-parser)
 - [SemanticPingback](https://github.com/AKSW/SemanticPingback)
 - [vim-sparql](https://github.com/Omer/vim-sparql)
@@ -617,10 +616,10 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [NoSPA-RDF-Data-Cube-Validator](https://github.com/yyz1989/NoSPA-RDF-Data-Cube-Validator)
 - [module-extractor](https://github.com/rsgoncalves/module-extractor) a Java-based module extractor for OWL ontologies
 - [etalis](https://github.com/sspider/etalis)
-- [iRap](https://github.com/EIS-Bonn/iRap)
-- [ssso](https://github.com/gbv/ssso)
-- [dso](https://github.com/gbv/dso)
-- [turtle-in-html](https://github.com/alangrafu/turtle-in-html)
+- [iRap](https://github.com/EIS-Bonn/iRap) iRap - Interest-based RDF update propagation framework 
+- [ssso](https://github.com/gbv/ssso) Specification of Simple Service Status Ontology
+- [dso](https://github.com/gbv/dso) Specification of Document Service Ontology
+- [turtle-in-html](https://github.com/alangrafu/turtle-in-html) Bookmark to visualize RDF embedded in HTML as Turtle 
 - [lodspeakr](https://github.com/alangrafu/lodspeakr)
 - [linked-csv-browser](https://github.com/theodi/linked-csv-browser)
 - [OntoVerbal](https://github.com/TheOntologist/OntoVerbal) OntoVerbal is a Protege 4.2 plugin that generates natural language descriptions for classes for an ontology written in OWL
