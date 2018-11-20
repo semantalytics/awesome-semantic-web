@@ -99,11 +99,13 @@ A curated list of various semantic web and linked data resources.
 - [Linked Data Notifications](https://www.w3.org/TR/ldn/)
 
 ### Linked Data Platform
-
 - [Linked Data Platform 1.0 Primer](https://www.w3.org/TR/ldp-primer/)
 - [Linked Data Platform Best Practices and Guidelines](https://www.w3.org/TR/ldp-bp/)
 - [Linked Data Platform 1.0](https://www.w3.org/TR/ldp/)
 - [Linked Data Platform 1.0 Test Cases](https://dvcs.w3.org/hg/ldpwg/raw-file/tip/tests/ldp-testsuite.html)
+
+### Data Cube extensions
+- [QB4ST: RDF Data Cube extensions for spatio-temporal components](https://www.w3.org/TR/qb4st/)
 
 ## Companies
 - [Stardog Union](http://stardog.com)
@@ -235,13 +237,6 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [anno4j](https://github.com/anno4j/anno4j)
 - [annotation model](https://www.w3.org/TR/annotation-model/)
 
-## Data Cube
-- [qb4olap-tools](https://github.com/lorenae/qb4olap-tools)
-- [OpenCube-Expander](https://github.com/opencube-toolkit/OpenCube-Expander)
-- [qb4olap](https://github.com/lorenae/qb4olap)
-- [QB4ST: RDF Data Cube extensions for spatio-temporal components](https://www.w3.org/TR/qb4st/)
-- [The RDF Data Cube Vocabulary](https://www.w3.org/TR/vocab-data-cube/)
-
 ## Mapping
 - [any2rdf](https://github.com/esbranson/any2rdf)
 - [triplify](https://github.com/pebbie/triplify)
@@ -335,7 +330,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [skos](https://www.w3.org/TR/skos-reference/) SKOS Simple Knowledge Organization System Reference
 - [skos-xl](https://www.w3.org/TR/skos-reference/skos-xl.html) SKOS Simple Knowledge Organization System eXtension for Labels 
 - [qb](https://www.w3.org/TR/vocab-data-cube)
-- [QB4ST: RDF Data Cube extensions for spatio-temporal components](https://www.w3.org/TR/qb4st/)
+- [qb4olap: A Vocabulary for Business Intelligence over Linked Data](https://github.com/lorenae/qb4olap)
 
 ## Reasoners
 - [Pellet](https://github.com/stardog-union/pellet)
@@ -468,12 +463,13 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [gephi-semantic-web-import](https://github.com/Wimmics/gephi-semantic-web-import)
 - [visualRDF](https://github.com/alangrafu/visualRDF)
 
-## DataCube
-
+## Data Cube
+- [QB4ST: RDF Data Cube extensions for spatio-temporal components](https://www.w3.org/TR/qb4st/)
 - [The RDF Data Cube Vocabulary](https://www.w3.org/TR/vocab-data-cube/)
+- [qb4olap-tools](https://github.com/lorenae/qb4olap-tools)
+- [OpenCube-Expander](https://github.com/opencube-toolkit/OpenCube-Expander)
 - [OpenCube Toolkit](http://opencube-toolkit.eu/)
 - [CubeViz](https://github.com/AKSW/cubeviz.ontowiki)
-- [QB4ST: RDF Data Cube extensions for spatio-temporal components](https://www.w3.org/TR/qb4st/)
 
 ## Datasets
 - [DBPedia](http://dbpedia.org)
