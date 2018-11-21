@@ -355,15 +355,18 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [ssso](https://github.com/gbv/ssso) Specification of Simple Service Status Ontology
 - [dso](https://github.com/gbv/dso) Specification of Document Service Ontology
 
+## Books
+
+- [Linked Data](https://www.manning.com/books/linked-data)
+- [Explorer's Guide to the Semantic Web](https://www.manning.com/books/explorers-guide-to-the-semantic-web)
+- [Semantic Web Programming](https://www.wiley.com/en-us/Semantic+Web+Programming-p-9781118080603)
+- [Semantic Web for the Working Ontologist](http://workingontologist.org/)
+- [Programming the Semantic Web](http://shop.oreilly.com/product/9780596153823.do)
+
 ## Ontology Development
-
-### Books
-
-//TODO
 
 ### Tools
 - [OntoVerbal](https://github.com/TheOntologist/OntoVerbal) OntoVerbal is a Protege 4.2 plugin that generates natural language descriptions for classes for an ontology written in OWL
-
 
 ## Reasoners
 - [Pellet](https://github.com/stardog-union/pellet)
