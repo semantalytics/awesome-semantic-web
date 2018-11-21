@@ -22,6 +22,14 @@ A curated list of various semantic web and linked data resources.
 - [Visualization](#visualization)
 - [Datasets](#datasets)
 - [IoT](#iot)
+- [DevOps](#devops)
+- [Platforms](#platforms)
+- [Tools](#tools)
+- [Integrations](#integrations)
+- [Machine Learning](#machine-learning)
+- [WebID](#webid)
+
+
 - [Misc](#misc)
 
 ## Standards
@@ -122,6 +130,10 @@ F - Free
 - [Stardog](http://stardog.com) $/F
 - [Virtuoso](https://virtuoso.openlinksw.com/) $/OS
 - [Blazegraph](https://www.blazegraph.com/) $/OS
+  - [docker-blazegraph](https://github.com/zorino/docker-blazegraph)
+  - [blazegraph-samples](https://github.com/blazegraph/blazegraph-samples)
+  - [docker-blazegraph](https://github.com/lyrasis/docker-blazegraph)
+  - [blazegraph-service](https://github.com/vastix/blazegraph-service)
 - [GraphDB](http://graphdb.ontotext.com/) $/F
 - [Oracle](http://www.oracle.com/technetwork/database/options/spatialandgraph/overview/rdfsemantic-more-2239071.html) $
 - [Allegrograph](http://franz.com/agraph/allegrograph/) $/F
@@ -143,10 +155,11 @@ F - Free
 - [Strabon](http://www.strabon.di.uoa.gr/)
 - [Sempala](https://github.com/aschaetzle/Sempala)
 - [TriplePlace](https://github.com/white-gecko/TriplePlace) a light weight and flexible Triple Store for Android
-- [Node-Quadstore](https://beautifulinteractions.github.io/node-quadstore/)
+- [Node-Quadstore](https://beautifulinteractions.github.io/node-quadstore/) OS A LevelDB-backed graph database for Node.js supporting quads, SPARQL queries and the RDF/JS interface.
 - [KGRAM](http://wimmics.inria.fr/corese) OS
-- [luposdate](https://github.com/luposdate/luposdate)
+- [luposdate](https://github.com/luposdate/luposdate) OS Semantic Web database
 - [wallix/triplestore](https://github.com/wallix/triplestore) Nifty library to manage, query and store RDF triples.
+- [levelgraph](https://github.com/levelgraph/levelgraph) OS Graph database JS style for Node.js and the Browser.
 
 ### Academic
 - [TripleRush](https://github.com/uzh/triplerush) OS
@@ -173,6 +186,7 @@ F - Free
 - [Strider](https://github.com/renxiangnan/strider)
 - [cqels](https://github.com/KMax/cqels)
 - [morph](https://github.com/jpcik/morph) sparql-stream sensor queries 
+- [morph-web](https://github.com/jpcik/morph-web)
 
 ### Federated SPARQL
 
@@ -223,6 +237,8 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [snap-sparql-query](https://github.com/protegeproject/snap-sparql-query)
 - [asqc](https://github.com/gklyne/asqc) A SPARQL query client (pronounced "ask") 
 - [SPARQL-parser](https://github.com/tenforce/SPARQL-parser)
+- [antlr-sparql-grammar](https://github.com/rollxx/antlr-sparql-grammar)
+- [visu](https://github.com/jiemakel/visu)
 
 ### Linked Data Platform (LDP)
 - [warp](https://github.com/linkeddata/warp) Warp - an LDP file manager
@@ -279,6 +295,9 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [Sparqlify-Extendsions](https://github.com/AKSW/Sparqlify-Extensions)
 - [quetzal](https://github.com/Quetzal-RDF/quetzal) SPARQL to SQL translation engine for multiple backends, such as DB2, PostgreSQL and Apache Spark.
 
+### XML
+- [ontmalizer](https://github.com/srdc/ontmalizer) comprehensive transformations of XML Schemas (XSD) and XML data to RDF/OWL automatically
+
 #### R2RML
 - [R2RML-Parser](https://github.com/nkons/r2rml-parser) - An R2RML implementation that can export relational database contents as RDF graphs
 - [Morph-RDB](https://github.com/oeg-upm/morph-rdb) - An R2RML processor
@@ -292,10 +311,6 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [pyrdb2rdf](https://github.com/nisavid/pyrdb2rdf) A Python library for RDB2RDF Direct Mapping and R2RML.
 - [sparqlmap](https://github.com/tomatophantastico/sparqlmap)
 
-##### RML
-- [RML](https://github.com/RMLio) - RDF Mapping language for mapping JSON, CSV and XML to RDF
-- [CARML](https://github.com/carml/carml) - An RML engine in Java
-
 ##### xR2RML
 - [morph-xr2rml](https://github.com/frmichel/morph-xr2rml)
 - [XR2RML](https://github.com/djimloic/XR2RML)
@@ -303,6 +318,10 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 ##### R2RML-f
 - [paper](http://events.linkeddata.org/ldow2016/papers/LDOW2016_paper_14.pdf)
 - [Adapt R2RML](https://opengogs.adaptcentre.ie/debruync/r2rml)
+
+#### RML
+- [RML](https://github.com/RMLio) - RDF Mapping language for mapping JSON, CSV and XML to RDF
+- [CARML](https://github.com/carml/carml) - An RML engine in Java
 
 #### Other RDF Mappings
 - [sparql-generate](https://github.com/sparql-generate/sparql-generate)
@@ -330,7 +349,21 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [skos](https://www.w3.org/TR/skos-reference/) SKOS Simple Knowledge Organization System Reference
 - [skos-xl](https://www.w3.org/TR/skos-reference/skos-xl.html) SKOS Simple Knowledge Organization System eXtension for Labels 
 - [qb](https://www.w3.org/TR/vocab-data-cube)
-- [qb4olap: A Vocabulary for Business Intelligence over Linked Data](https://github.com/lorenae/qb4olap)
+- [qb4olap](https://github.com/lorenae/qb4olap) A Vocabulary for Business Intelligence over Linked Data
+- [Hydra](https://github.com/lanthaler/Hydra) A lightweight vocabulary for hypermedia-driven Web APIs
+- [vocab-transit](https://github.com/wwaites/vocab-transit) RDF Schema for transit data
+- [ssso](https://github.com/gbv/ssso) Specification of Simple Service Status Ontology
+- [dso](https://github.com/gbv/dso) Specification of Document Service Ontology
+
+## Ontology Development
+
+### Books
+
+//TODO
+
+### Tools
+- [OntoVerbal](https://github.com/TheOntologist/OntoVerbal) OntoVerbal is a Protege 4.2 plugin that generates natural language descriptions for classes for an ontology written in OWL
+
 
 ## Reasoners
 - [Pellet](https://github.com/stardog-union/pellet)
@@ -344,6 +377,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [elephant-reasoner](https://github.com/sertkaya/elephant-reasoner)
 - [HyLAR](https://github.com/ucbl/HyLAR-Reasoner)
 - [ruby-rdf/rdf-reasoner](https://github.com/ruby-rdf/rdf-reasoner)
+- [pellet](https://github.com/lepfhty/pellet) Pallet reasoner (old version)
 
 ## Benchmarks
 - [Berlin SPARQL Benchmark (BSBM) ](http://wifo5-03.informatik.uni-mannheim.de/bizer/berlinsparqlbenchmark/)
@@ -353,6 +387,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - https://www.w3.org/wiki/RdfStoreBenchmarking
 - [Hobbit](http://project-hobbit.eu/) HOBBIT: Holistic Benchmarking of Big Linked Data
 - [SP2Bench](http://dbis.informatik.uni-freiburg.de/index.php?project=SP2B)
+- [IGUANA](https://github.com/AKSW/IGUANA) - IGUANA is a benchmark execution framework for triple stores 
 
 ## Academic Journals
 - [Semantic Web Journal](http://www.semantic-web-journal.net/)
@@ -377,6 +412,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [RDF4J](http://rdf4j.org)
 - [Jena](http://jena.apache.org)
 - [commons-rdf](http://commons.apache.org/proper/commons-rdf/)
+- [foafssl-java](https://github.com/bblfish/foafssl-java)
 
 ### Python
 - [RDFlib](https://github.com/RDFLib/rdflib) RDFLib is a Python library for working with RDF, a simple yet powerful language for representing information.
@@ -385,11 +421,13 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [ORDF](ordf.org)
 - [Django-rdf](http://code.google.com/p/django-rdf/)
 - [Djubby](http://code.google.com/p/djubby/)
-- [Redland](http://librdf.org/)
 - [SuRF](http://packages.python.org/SuRF/)
 - [sparta](https://github.com/mnot/sparta/)
 - [rdftools](https://github.com/cosminbasca/rdftools) Simple collection of python RDF tools 
 - [librdf](https://github.com/dajobe/librdf) Redland librdf RDF API and triple stores 
+
+### C
+- [Redland](http://librdf.org/)
 
 ### JavaScript
 - [js3](https://github.com/webr3/js3)
@@ -399,6 +437,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [Jessa](https://www.npmjs.com/package/jassa)
 - [rdf.js](https://github.com/webr3/rdf.js)
 - [rdflib.js](https://github.com/linkeddata/rdflib.js)
+- [sparks](https://github.com/sparksrdf/sparks) Sparks is a set of JavaScript libraries designed for simplifying the access to RDF data.
 
 ### C#
 - [dotNetRDF](https://github.com/dotnetrdf/dotnetrdf)
@@ -424,6 +463,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 
 ### Scala
 - [banana-rdf](https://github.com/banana-rdf/banana-rdf) A library for RDF, SPARQL and Linked Data technologies in Scala.
+- [jvmrdftools](https://github.com/cosminbasca/jvmrdftools)
 
 ### Groovy
 - [groovyrdf](https://github.com/angelo-v/groovyrdf)
@@ -439,12 +479,17 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 ### VIM
 - [sparql.vim](https://github.com/vim-scripts/sparql.vim) SPARQL syntax highlighting
 - [vim-owl-tools](https://github.com/mattpap/vim-owl-tools)
+- [vim-sparql](https://github.com/Omer/vim-sparql)
+- [semweb.vim](https://github.com/seebi/semweb.vim)
 
 ### Emacs
 - [sparql-mode](https://github.com/ljos/sparql-mode)
 
 ### Bash
 - [rdf.sh](https://github.com/seebi/rdf.sh)
+
+### IntelliJ
+- [sparql4idea](https://github.com/mattnathan/sparql4idea) SPARQL language plugin for IntelliJ IDEA 
 
 ## Geo
 - [LinkedGeoData](https://github.com/GeoKnow/LinkedGeoData)
@@ -462,6 +507,8 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [VOWL](http://vowl.visualdataweb.org/) - Visual Notation for OWL Ontologies
 - [gephi-semantic-web-import](https://github.com/Wimmics/gephi-semantic-web-import)
 - [visualRDF](https://github.com/alangrafu/visualRDF)
+- [rdfdot](https://github.com/wastl/rdfdot) Tools for drawing graphs from RDF files with GraphViz 
+- [ontodia](https://github.com/ontodia-org/ontodia) Ontodia data diagraming library
 
 ## Data Cube
 - [QB4ST: RDF Data Cube extensions for spatio-temporal components](https://www.w3.org/TR/qb4st/)
@@ -470,6 +517,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [OpenCube-Expander](https://github.com/opencube-toolkit/OpenCube-Expander)
 - [OpenCube Toolkit](http://opencube-toolkit.eu/)
 - [CubeViz](https://github.com/AKSW/cubeviz.ontowiki)
+- [NoSPA-RDF-Data-Cube-Validator](https://github.com/yyz1989/NoSPA-RDF-Data-Cube-Validator)
 
 ## Datasets
 - [DBPedia](http://dbpedia.org)
@@ -477,123 +525,118 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 
 ## IoT
 - [Weviate](https://github.com/creativesoftwarefdn/weaviate)
+- [rdfagents](https://github.com/joshsh/rdfagents) Real-time messaging for the Semantic Web
+
+## DevOps
+- [r43ples](https://github.com/plt-tud/r43ples) - Revision Management for the Semantic Web
+- [RDFUnit](https://github.com/AKSW/RDFUnit) - RDFUnit is implemented on top of the Test-Driven Data Validation Ontology and designed to read and produce RDF that complies to that ontology only. 
+- [rdf-toolkit](https://github.com/edmcouncil/rdf-toolkit) RDF Serializer, to be used in a git commit-hook to force automatic correct rewrite of every OWL ontology 
+- [TripleChecker](https://github.com/cgutteridge/TripleChecker) Look for common errors in an RDF Document 
+- [owl2vcs](https://github.com/utapyngo/owl2vcs) owl2vcs is a set of tools designed to facilitate version control of OWL 2 ontologies using version control systems.
+- [dowl](https://github.com/ldodds/dowl) Generate docs for RDF/OWL Schema 
+- [rdf-pipeline](https://github.com/rdf-pipeline)
+- [rdfpatch](https://github.com/pchampin/ld-patch-py)
+- [TurtleValidator](https://github.com/mmlab/TurtleValidator) A Turtle validator on command line and in browser
+- [shi3ld-http](https://github.com/lukostaz/shi3ld-http) Shi3ld for HTTP: Access control for HTTP operations on Linked Data
+
+## Platforms
+- [trinity](https://bitbucket.org/semiodesk/trinity) An application development platform for Microsoft .NET and Mono. It allows to easily build Linked Data and Semantic Web applications based on RDF
+- [Wings](https://github.com/IKCAP/wings) - A workflow system
+- [rww-play](https://github.com/read-write-web/rww-play) An implementation in Play of a number of tools to build a Read-Write-Web server using Play2.x and akka
+- [prissma-studio](https://github.com/lukostaz/prissma-studio) PRISSMA Studio: a web application to create Prisms, context-aware presentation metadata for Linked Data visualization. 
+- [lodspeakr](https://github.com/alangrafu/lodspeakr) Framework to create Linked Data-based applications
+
+## Tools
+- [tawny-owl](https://github.com/phillord/tawny-owl) Build OWL Ontologies in a Programmatic Environment
+- [Widoco](https://github.com/dgarijo/Widoco)
+- [sesame-vocab-builder](https://github.com/tkurz/sesame-vocab-builder) Sesame Vocab Builder provides a command line tool that allows to create constants for RDF primitives for a given namespace out of RDF ontology files. 
+- [HydraConsole](https://github.com/lanthaler/HydraConsole)
+- [qonsole](https://github.com/epimorphics/qonsole) A simple console for running SPARQL queries and displaying results 
+- [ntcat](https://github.com/cgutteridge/ntcat) Command line tool for concatenating NTriples documents 
+- [ripple](https://github.com/joshsh/ripple) Semantic Web scripting language 
+- [schema_salad](https://github.com/common-workflow-language/schema_salad) Semantic Annotations for Linked Avro Data
+- [RDFConvert](https://sourceforge.net/projects/rdfconvert/) RDFConvert is a simple command-line tool for converting RDF file betweeen different syntax formats
+
+## Integrations
+- [anthelion](https://github.com/yahoo/anthelion) A plugin for Apache Nutch to crawl semantic annotations within HTML pages
+- [SolRDF](https://github.com/agazzarini/SolRDF) An RDF plugin for Solr 
+- [sesame-spring](https://github.com/ameingast/sesame-spring) Spring integration for OpenRDF/Sesame 
+- [HydraBundle](https://github.com/lanthaler/HydraBundle) Symfony2 bundle which shows how easily Hydra can be integrated in modern Web frameworks.
+- [SARQ](https://github.com/castagna/SARQ) Free Text Indexing for SPARQL using a remote Solr server
+- [EARQ](https://github.com/castagna/EARQ) EARQ is a combination of ARQ and ElasticSearch
+- [sesametools](https://github.com/joshsh/sesametools) A collection of utilities for use with OpenRDF Sesame 
+- [Imperium](https://github.com/mhgrove/Imperium) Imperium is a plugin for the Play! framework similar to the existing JPA plugin that allows the use of Empire seamlessly in a Play! based application.
+
+
+## Machine Learning
+- [LinkedPipes-ETL](https://github.com/linkedpipes/etl) - Linked Data ETL pipeline
+- [gm-sparql](https://github.com/ssrangan/gm-sparql) Graph Mining Using SPARQL 
+- [sansa-stack](http://sansa-stack.net) SANSA-Stack – Scalable Semantic Analytics Stack
+- [tdbloader4](https://github.com/castagna/tdbloader4) prototype to show how TDB indexes can be generated using
+MapReduce
+- [jena-grande](https://github.com/castagna/jena-grande) Jena Grande is a collection of utilities, experiments and examples on 
+  how to use MapReduce, Pig, HBase or Giraph to process data in RDF format.
+- [mrlin](https://github.com/mhausenblas/mrlin) MapReduce processing of Linked Data
+- [infovore](https://github.com/paulhoule/infovore) RDF-Centric Map/Reduce Framework and Freebase data conversion tool 
+- [FOX](https://github.com/AKSW/FOX) Federated Knowledge Extraction Framework
+- [singal-collect](https://github.com/uzh/signal-collect)
+- [Duke](https://github.com/larsga/Duke) Duke is a fast and flexible deduplication engine written in Java 
+- [ODCS](https://github.com/mff-uk/ODCS) The tool uses data processing pipelines for obtaining, processing, and storing RDF data.
+- [etalis](https://github.com/sspider/etalis) Event Processing SPARQL (EP-SPARQL)
+- [graph-pattern-learner](https://github.com/RDFLib/graph-pattern-learner) Evolutionary Graph Pattern Learner that learns SPARQL queries for a given set of source-target-pairs from an endpoint.
+
+## WebID
+- [xwiki](https://github.com/bblfish/xwiki) xwiki related code for WebID 
+- [solid-spec](https://github.com/solid/solid-spec)
+- [webid-demo](https://github.com/digitalbazaar/webid-demo)
+- [webid-spec](https://github.com/webid-community/webid-spec)
+- [node-webid](https://github.com/magnetik/node-webid)
 
 ## Misc
 
-- [anthelion](https://github.com/yahoo/anthelion) A plugin for Apache Nutch to crawl semantic annotations within HTML pages
-- [trinity](https://bitbucket.org/semiodesk/trinity) An application development platform for Microsoft .NET and Mono. It allows to easily build Linked Data and Semantic Web applications based on RDF
-- [r43ples](https://github.com/plt-tud/r43ples) - Revision Management for the Semantic Web
-- [Wings](https://github.com/IKCAP/wings) - A workflow system
 - [LDIF](https://github.com/wbsg/ldif) - Linked Data Integration Framework
-- [LinkedPipes-ETL](https://github.com/linkedpipes/etl) - Linked Data ETL pipeline
 - [swrlapi](https://github.com/protegeproject/swrlapi) - The SWRLAPI is a Java API for working with the OWL-based SWRL rule and SQWRL query languages. It includes graphical tools for editing and executing rules and queries.
-- [RDFUnit](https://github.com/AKSW/RDFUnit) - RDFUnit is implemented on top of the Test-Driven Data Validation Ontology and designed to read and produce RDF that complies to that ontology only. 
-- [IGUANA](https://github.com/AKSW/IGUANA) - IGUANA is a benchmark execution framework for triple stores 
-- [antlr-sparql-grammar](https://github.com/rollxx/antlr-sparql-grammar)
-- [xwiki](https://github.com/bblfish/xwiki) xwiki related code for WebID 
-- [rdfdot](https://github.com/wastl/rdfdot) Tools for drawing graphs from RDF files with GraphViz 
-- [anthelion](https://github.com/yahoo/anthelion) Anthelion is a plugin for Apache Nutch to crawl semantic annotations within HTML pages 
-- [solid-spec](https://github.com/solid/solid-spec)
-- [rww-play](https://github.com/read-write-web/rww-play) An implementation in Play of a number of tools to build a Read-Write-Web server using Play2.x and akka
-- [sesame-spring](https://github.com/ameingast/sesame-spring) Spring integration for OpenRDF/Sesame 
-- [SolRDF](https://github.com/agazzarini/SolRDF) An RDF plugin for Solr 
-- [rdf-toolkit](https://github.com/edmcouncil/rdf-toolkit) RDF Serializer, to be used in a git commit-hook to force automatic correct rewrite of every OWL ontology 
-- [prissma-studio](https://github.com/lukostaz/prissma-studio) PRISSMA Studio: a web application to create Prisms, context-aware presentation metadata for Linked Data visualization. 
-- [fox-ui](https://github.com/Data2Semantics/fox-ui)
-- [sesame-vocab-builder](https://github.com/tkurz/sesame-vocab-builder) Sesame Vocab Builder provides a command line tool that allows to create constants for RDF primitives for a given namespace out of RDF ontology files. 
-- [Hydra](https://github.com/lanthaler/Hydra)
-- [HydraConsole](https://github.com/lanthaler/HydraConsole)
-- [HydraBundle](https://github.com/lanthaler/HydraBundle)
-- [rdfagents](https://github.com/joshsh/rdfagents) Real-time messaging for the Semantic Web
-- [gm-sparql](https://github.com/ssrangan/gm-sparql) Graph Mining Using SPARQL 
 - [cp-common-utils](https://github.com/mhgrove/cp-common-utils) Collection of utilty classes from Clark & Parsia 
-- [SARQ](https://github.com/castagna/SARQ) Free Text Indexing for SPARQL using a remote Solr server
-- [EARQ](https://github.com/castagna/EARQ) EARQ is a combination of ARQ and ElasticSearch
-- [Stardog-Connection-Pool-API](https://github.com/roberttheiv/Stardog-Connection-Pool-API)
-- [webid-demo](https://github.com/digitalbazaar/webid-demo)
-- [sparks](https://github.com/sparksrdf/sparks) Sparks is a set of JavaScript libraries designed for simplifying the access to RDF data.
-- [foafssl-java](https://github.com/bblfish/foafssl-java)
-- [webid-spec](https://github.com/webid-community/webid-spec)
-- [tdbloader3](https://github.com/castagna/tdbloader3)
 - [jena-joseki](https://github.com/tingletech/jena-joseki)
-- [node-webid](https://github.com/magnetik/node-webid)
 - [stardog-ubuntu-scripts](https://github.com/semantalytics/stardog-ubuntu-scripts)
-- [qonsole](https://github.com/epimorphics/qonsole) A simple console for running SPARQL queries and displaying results 
 - [Git2PROV](https://github.com/mmlab/Git2PROV) Unleash the potential of Git in the new W3C standard for provenance. 
 - [iqvoc](https://github.com/innoq/iqvoc) iQvoc - A SKOS(-XL) Vocabulary Management System for the Semantic Web
 - [hydra-java](https://github.com/dschulten/hydra-java)
 - [IntervalServer](https://github.com/epimorphics/IntervalServer)
-- [docker-blazegraph](https://github.com/zorino/docker-blazegraph)
-- [blazegraph-samples](https://github.com/blazegraph/blazegraph-samples)
-- [docker-blazegraph](https://github.com/lyrasis/docker-blazegraph)
-- [blazegraph-service](https://github.com/vastix/blazegraph-service)
-- [jena-grande](https://github.com/castagna/jena-grande) Jena Grande is a collection of utilities, experiments and examples on 
-  how to use MapReduce, Pig, HBase or Giraph to process data in RDF format.
-- [mrlin](https://github.com/mhausenblas/mrlin) MapReduce processing of Linked Data
 - [TabLinker](https://github.com/Data2Semantics/TabLinker) Supervised Excel/CSV to RDF Converter 
-- [ntcat](https://github.com/cgutteridge/ntcat) Command line tool for concatenating NTriples documents 
-- [infovore](https://github.com/paulhoule/infovore) RDF-Centric Map/Reduce Framework and Freebase data conversion tool 
 - [rdf3x_path](https://github.com/agubichev/rdf3x_path) RDF3X with path queries 
-- [TripleChecker](https://github.com/cgutteridge/TripleChecker) Look for common errors in an RDF Document 
 - [jqudt](https://github.com/egonw/jqudt) Java library for working with the QUDT ontology and data using it. 
-- [owl2vcs](https://github.com/utapyngo/owl2vcs) owl2vcs is a set of tools designed to facilitate version control of OWL 2 ontologies using version control systems.
-- [dowl](https://github.com/ldodds/dowl) Generate docs for RDF/OWL Schema 
-- [sesametools](https://github.com/joshsh/sesametools) A collection of utilities for use with OpenRDF Sesame 
 - [JenaSecurity](https://github.com/Claudenw/JenaSecurity) Security (Permissions) wrapper around Jena RDF implementation 
-- [ripple](https://github.com/joshsh/ripple) Semantic Web scripting language 
 - [specgen](https://github.com/specgen/specgen) modified, extended and more generalized version of Danbri‘s SpecGen version 5.
 - [schema-org-rdf](https://github.com/mhausenblas/schema-org-rdf)
 - [cassa](https://github.com/heuer/cassa) SPARQL 1.1 Graph Store HTTP Protocol implementation with plugable backends
 - [graphity-browser](https://github.com/AtomGraph/Web-Client) Generic Linked Data browser.
-- [pellet](https://github.com/lepfhty/pellet) 
 - [keygenapp](https://github.com/bblfish/keygenapp)
 - [owlapitools](https://github.com/owlcs/owlapitools) owlapitools - a set of independent add-ons for OWL API 
 - [LD-FusionTool](https://github.com/mifeet/LD-FusionTool)
-- [docker-blazegraph](https://github.com/lyrasis/docker-blazegraph)
 - [fox-ui](https://github.com/Data2Semantics/fox-ui)
 - [prefix.cc](https://github.com/cygri/prefix.cc) Source code to the prefix.cc website
 - [LSD-Dimensions](https://github.com/albertmeronyo/LSD-Dimensions) All dimension values of Linked Statistical Data
 - [prissma](https://github.com/lukostaz/prissma) Context-Aware Adaptation for Linked Data 
-- [rdf-pipeline](https://github.com/rdf-pipeline)
-- [FOX](https://github.com/AKSW/FOX)
 - [fox-java](https://github.com/renespeck/fox-java)
 - [fox-py](https://github.com/earthquakesan/fox-py)
 - [ORE](https://github.com/AKSW/ORE)
-- [rdfpatch](https://github.com/pchampin/ld-patch-py)
-- [TurtleValidator](https://github.com/mmlab/TurtleValidator) A Turtle validator on command line and in browser
 - [signal-collect-torque](https://github.com/uzh/signal-collect-torque)
-- [singal-collect](https://github.com/uzh/signal-collect)
-- [Duke](https://github.com/larsga/Duke) Duke is a fast and flexible deduplication engine written in Java 
 - [redland-bindings](https://github.com/dajobe/redland-bindings)
 - [mediation](https://github.com/correndo/mediation) Jena based framework to implement ontological mediation of SPARQL queries 
 - [owl-functional-syntax-axiom-parser](https://github.com/dfleischhacker/owl-functional-syntax-axiom-parser)
 - [SemanticPingback](https://github.com/AKSW/SemanticPingback)
-- [vim-sparql](https://github.com/Omer/vim-sparql)
-- [tdbloader4](https://github.com/castagna/tdbloader4)
 - [json-ld-macros](https://github.com/antoniogarrote/json-ld-macros)
-- [semweb.vim](https://github.com/seebi/semweb.vim)
 - [tac](https://github.com/magnetik/tac) Triple access control 
 - [dbpedia-extension](https://github.com/sparkica/dbpedia-extension)
-- [commons-rdf](https://github.com/commons-rdf/commons-rdf)
-- [tawny-owl](https://github.com/phillord/tawny-owl) Build OWL Ontologies in a Programmatic Environment
 - [grefine-rdf-extension](https://github.com/OpenRefine/grefine-rdf-extension)
-- [Imperium](https://github.com/mhgrove/Imperium) Imperium is a plugin for the Play! framework similar to the existing JPA plugin that allows the use of Empire seamlessly in a Play! based application.
-- [vocab-transit](https://github.com/wwaites/vocab-transit)
-- [sparql4idea](https://github.com/mattnathan/sparql4idea) SPARQL language plugin for IntelliJ IDEA 
-- [visu](https://github.com/jiemakel/visu)
 - [LD-FusionTool](https://github.com/mifeet/LD-FusionTool)
-- [commons-rdf](https://github.com/commons-rdf/commons-rdf)
-- [TurtleSyntaxPlugin](https://github.com/pkuyken/TurtleSyntaxPlugin)
 - [raptor](https://github.com/dajobe/raptor)
 - [rasqal](https://github.com/dajobe/rasqal)
-- [morph-web](https://github.com/jpcik/morph-web)
 - [xodx](https://github.com/AKSW/xodx)
 - [morph-starter](https://github.com/jpcik/morph-starter)
-- [Widoco](https://github.com/dgarijo/Widoco)
 - [sesametools](https://github.com/joshsh/sesametools)
 - [DEER](https://github.com/GeoKnow/DEER)
-- [jvmrdftools](https://github.com/cosminbasca/jvmrdftools)
-- [ontmalizer](https://github.com/srdc/ontmalizer)
 - [levelgraph-jsonld](https://github.com/mcollina/levelgraph-jsonld)
 - [owlapi](https://github.com/owlcs/owlapi) The OWL API is a Java API for creating, manipulating and serialising OWL Ontologies.
 - [LODGrefine](https://github.com/sparkica/LODGrefine)
@@ -602,35 +645,22 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [HydraClient](https://github.com/lanthaler/HydraClient)
 - [cp-openrdf-utils](https://github.com/mhgrove/cp-openrdf-utils) Utility classes for working with the OpenRdf API. 
 - [linked-csv](https://github.com/JeniT/linked-csv) A souped-up CSV-based data format 
-- [ODCS](https://github.com/mff-uk/ODCS) The tool uses data processing pipelines for obtaining, processing, and storing RDF data.
 - [balloon](https://github.com/schlegel/balloon) A tool-suite for Linked Data consumption. balloon aims in offering public services and tools to take advantage of the semantic web with less effort. The basic motivation is to establish a foundation for Linked Data as a Service (LDaaS).
 - [Processor](https://github.com/AtomGraph/Processor) Generic Linked Data processor and server. Apache License. 
-- [ontodia](https://github.com/ontodia-org/ontodia) Ontodia data diagraming library
 - [grlc](https://github.com/CLARIAH/grlc) Translates public SPARQL queries into Linked Data APIs automatically
-- [basil](https://github.com/the-open-university/basil)
-- [lodmill](https://github.com/lobid/lodmill)
-- [NoSPA-RDF-Data-Cube-Validator](https://github.com/yyz1989/NoSPA-RDF-Data-Cube-Validator)
+- [basil](https://github.com/the-open-university/basil) Building Apis SImpLy from sparql endpoints
+- [lodmill](https://github.com/lobid/lodmill) Blend, grind, and enjoy LOD – fresh from the mill!
 - [module-extractor](https://github.com/rsgoncalves/module-extractor) a Java-based module extractor for OWL ontologies
-- [etalis](https://github.com/sspider/etalis)
 - [iRap](https://github.com/EIS-Bonn/iRap) iRap - Interest-based RDF update propagation framework 
-- [ssso](https://github.com/gbv/ssso) Specification of Simple Service Status Ontology
-- [dso](https://github.com/gbv/dso) Specification of Document Service Ontology
 - [turtle-in-html](https://github.com/alangrafu/turtle-in-html) Bookmark to visualize RDF embedded in HTML as Turtle 
-- [lodspeakr](https://github.com/alangrafu/lodspeakr)
 - [linked-csv-browser](https://github.com/theodi/linked-csv-browser)
-- [OntoVerbal](https://github.com/TheOntologist/OntoVerbal) OntoVerbal is a Protege 4.2 plugin that generates natural language descriptions for classes for an ontology written in OWL
 - [semargl](https://github.com/semarglproject/semargl) Highly performant, lightweight framework for linked data processing. Supports RDFa, JSON-LD, RDF/XML and plain text formats, runs on Android and GAE, provides integration with Jena, Sesame and Clerezza. 
-- [shi3ld-http](https://github.com/lukostaz/shi3ld-http) Shi3ld for HTTP: Access control for HTTP operations on Linked Data
-- [luposdate](https://github.com/luposdate/luposdate)
 - [wordnet-lemon-to-w3c](https://github.com/jimregan/wordnet-lemon-to-w3c)
 - [hyrise](https://github.com/hyrise/hyrise)
 - [owlconvert](https://github.com/camwebb/owlconvert) Simple OWL format converter based on OWLAPI 
 - [rabel](https://github.com/linkeddata/rabel) Program for reading and writing linked data in various formats
 - [SANSA](https://github.com/SANSA-Stack/SANSA-RDF) SANSA RDF is a library to read RDF files into Spark or Flink
 - [soarql-dl-api](https://github.com/protegeproject/sparql-dl-api) A query engine for SPARQL-DL
-- [graph-pattern-learner](https://github.com/RDFLib/graph-pattern-learner)
-- [schema_salad](https://github.com/common-workflow-language/schema_salad)
-- [RDFConvert](https://sourceforge.net/projects/rdfconvert/) RDFConvert is a simple command-line tool for converting RDF file betweeen different syntax formats
 - [RightField](https://github.com/myGrid/RightField) RightField is an open-source tool for adding ontology term selection to Excel spreadsheets.
 - [csvw-template](https://github.com/edsu/csvw-template) document the semantics of your csv file
 - [babel](https://github.com/aidhog/blabel/) A library for skolemising (or canonicalising) blank node labels in RDF graphs. 
