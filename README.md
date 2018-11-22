@@ -28,8 +28,6 @@ A curated list of various semantic web and linked data resources.
 - [Integrations](#integrations)
 - [Machine Learning](#machine-learning)
 - [WebID](#webid)
-
-
 - [Misc](#misc)
 
 ## Standards
@@ -116,10 +114,11 @@ A curated list of various semantic web and linked data resources.
 - [QB4ST: RDF Data Cube extensions for spatio-temporal components](https://www.w3.org/TR/qb4st/)
 
 ## Companies
-- [Stardog Union](http://stardog.com)
+- [Stardog Union](http://stardog.com) - Knowledge Graph Platform for the Enterprise
 - [Epimorphics](https://www.epimorphics.com/)
 - [Franz](http://franz.com)
 - [PoolParty](https://www.poolparty.biz/)
+- [Metaphacts](http://metaphacts.com) - End-to-end platform to create and utilize enterprise knowledge graphs
 
 ## Databases
 
