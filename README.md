@@ -12,6 +12,7 @@ A curated list of various semantic web and linked data resources.
 - [Data Cube](#data-cube)
 - [Mapping](#mapping)
 - [Ontologies](#ontologies)
+- [Books](#books)
 - [Reasoners](#reasoners)
 - [Benchmarks](#benchmarks)
 - [Academic Journals](#academic-journals)
@@ -355,12 +356,13 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [dso](https://github.com/gbv/dso) Specification of Document Service Ontology
 
 ## Books
-
 - [Linked Data](https://www.manning.com/books/linked-data)
 - [Explorer's Guide to the Semantic Web](https://www.manning.com/books/explorers-guide-to-the-semantic-web)
 - [Semantic Web Programming](https://www.wiley.com/en-us/Semantic+Web+Programming-p-9781118080603)
 - [Semantic Web for the Working Ontologist](http://workingontologist.org/)
 - [Programming the Semantic Web](http://shop.oreilly.com/product/9780596153823.do)
+- [Building Ontologies with Basic Formal Ontology](https://mitpress.mit.edu/books/building-ontologies-basic-formal-ontology)
+- [Structures for Organizing Knowledge: Exploring Taxonomies, Ontologies, and Other Schema](https://www.amazon.com/Structures-Organizing-Knowledge-Taxonomies-Ontologies/dp/1555706991)
 
 ## Ontology Development
 
