@@ -477,6 +477,16 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 ### Ruby
 - [ruby-rdf](http://ruby-rdf.github.io)
 
+### Swift
+- [swift-sparql-syntax](https://github.com/kasei/swift-sparql-syntax) SPARQL 1.1 Parser
+- [URITemplate](https://github.com/kasei/URITemplate) Swift implementation of URI Template ([RFC6570](https://tools.ietf.org/html/rfc6570)).
+- [swift-serd](https://github.com/kasei/swift-serd) Swift package wrapper for the [Serd RDF library](http://drobilla.net/software/serd)
+- [kineo](https://github.com/kasei/kineo) A SPARQL endpoint and quadstore written in Swift
+- [swift-hdt](https://github.com/kasei/swift-hdt) An [HDT](http://www.rdfhdt.org/) RDF Parser
+
+### ObjectiveC
+- [SPARQLKit](https://github.com/kasei/SPARQLKit) An implementation of the SPARQL 1.1 query language in Objective-C.
+
 ## Editors
 
 ### VIM
