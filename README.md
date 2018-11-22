@@ -525,6 +525,9 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 ## Datasets
 - [DBPedia](http://dbpedia.org)
 - [geonames](https://github.com/ldodds/geonames)
+- [permid](permid.org) PermID: Connecting Data to the World
+- [wikidata](wikidata.org) Wikidata is a free and open knowledge base that can be read and edited by both humans and machines.
+- [lod-cloud](https://lod-cloud.net) The Linked Open Data Cloud
 
 ## IoT
 - [Weviate](https://github.com/creativesoftwarefdn/weaviate)
