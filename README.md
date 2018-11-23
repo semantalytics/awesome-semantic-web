@@ -329,32 +329,41 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [any23](https://any23.apache.org/)
 
 ## Ontologies
-- [wgs](https://www.w3.org/2003/01/geo/wgs84_pos#)
-- [skos]( http://www.w3.org/2004/02/skos/core#)
-- [skos-xl](http://www.w3.org/2008/05/skos-xl#)
+
+### World Wide Web Consortium (W3C)
+- [WGS84](https://www.w3.org/2003/01/geo/) - Basic Geo (WGS84 lat/long) Vocabulary
+- [skos](http://www.w3.org/2004/02/skos/core.html) - SKOS Simple Knowledge Organization System
+- [skos-xl](http://www.w3.org/TR/skos-reference/skos-xl.html) - SKOS Simple Knowledge Organization System eXtension for Labels
+- [vcard](https://www.w3.org/TR/vcard-rdf/) - vCard Ontology - for describing People and Organizations
+- [void](https://www.w3.org/TR/void/) - Describing Linked Datasets with the VoID Vocabulary
+- [time](https://w3c.github.io/sdw/time/) - Time Ontology in OWL
+- [org](https://www.w3.org/TR/vocab-org/) - The Organization Ontology
+- [data-cube](https://www.w3.org/TR/vocab-data-cube) - The RDF Data Cube Vocabulary
 - [pim](https://www.w3.org/2000/10/swap/pim/contact)
-- [vcard](https://www.w3.org/TR/vcard-rdf/)
-- [foaf](http://www.foaf-project.org/)
-- [uberon](https://github.com/obophenotype/uberon)
-- [MMOntologies](https://github.com/gatemezing/MMOntologies)
-- [juso-ontology](https://github.com/jgkim/juso-ontology)
-- [obo-relations](https://github.com/oborel/obo-relations)
-- [orderedlistonto](https://github.com/smiy/orderedlistonto)
-- [evidenceontology](https://github.com/evidenceontology/evidenceontology)
-- [bevon](https://github.com/jgkim/bevon) Beverage ontology
-- [cyber-ontology](https://github.com/daedafusion/cyber-ontology)
-- [doap](https://github.com/edumbill/doap)
-- [void](https://github.com/cygri/void)
-- [time](https://w3c.github.io/sdw/time/)
-- [org](https://www.w3.org/TR/vocab-org/)
-- [skos](https://www.w3.org/TR/skos-reference/) SKOS Simple Knowledge Organization System Reference
-- [skos-xl](https://www.w3.org/TR/skos-reference/skos-xl.html) SKOS Simple Knowledge Organization System eXtension for Labels 
-- [qb](https://www.w3.org/TR/vocab-data-cube)
+
+### Common
+- [foaf](http://www.foaf-project.org/) - Friend of a Friend (FOAF) ontology
+
+### Community
+- [uberon](http://uberon.github.io) - Integrated cross-species ontology covering anatomical structures in animals. 
+- [juso-ontology](http://rdfs.co/juso/latest/html) - Vocabulary for describing geographical addresses and features.
+- [obo-relations](http://obofoundry.org/ontology/ro.html) - Relation Ontology. Relationship types shared across multiple ontologies.
+- [orderedlistonto](https://github.com/smiy/orderedlistonto) - The Ordered List Ontology
+- [evidenceontology](http://evidenceontology.org) - EVIDENCE & CONCLUSION ONTOLOGY
+- [bevon](http://rdfs.co/bevon/latest/html) Beverage ontology
+- [cyber-ontology](https://github.com/daedafusion/cyber-ontology) - Cyber Intelligence Ontology
+- [doap](https://github.com/edumbill/doap) - RDF schema for describing software projects
 - [qb4olap](https://github.com/lorenae/qb4olap) A Vocabulary for Business Intelligence over Linked Data
 - [Hydra](https://github.com/lanthaler/Hydra) A lightweight vocabulary for hypermedia-driven Web APIs
 - [vocab-transit](https://github.com/wwaites/vocab-transit) RDF Schema for transit data
 - [ssso](https://github.com/gbv/ssso) Specification of Simple Service Status Ontology
 - [dso](https://github.com/gbv/dso) Specification of Document Service Ontology
+
+### Educational
+- [MMOntologies](https://github.com/gatemezing/MMOntologies) - Multimedia ontologies studied for the paper "The Landscape of Multimedia Ontologies in the last Decade"
+- [Wine](https://www.quora.com/What-is-wine-ontology) - Wine Ontology is a popular example of an OWL ontology.
+- [Pizza](http://owl.cs.manchester.ac.uk/publications/talks-and-tutorials/protg-owl-tutorial/) - A step-by-step guide to modelling in OWL using the popular Protégé OWL tools.
+
 
 ## Books
 - [Linked Data](https://www.manning.com/books/linked-data)
