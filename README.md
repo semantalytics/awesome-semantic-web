@@ -498,10 +498,11 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [SuRF](http://packages.python.org/SuRF/)
 - [sparta](https://github.com/mnot/sparta/)
 - [rdftools](https://github.com/cosminbasca/rdftools) Simple collection of python RDF tools 
-- [librdf](https://github.com/dajobe/librdf) Redland librdf RDF API and triple stores 
 
 ### C
-- [Redland](http://librdf.org/)
+- [librdf](https://github.com/dajobe/librdf) - Redland librdf RDF API and triple stores
+- [raptor](https://github.com/dajobe/raptor) - Redland Raptor RDF syntax library
+- [rasqal](https://github.com/dajobe/rasqal) - Redland Rasqal RDF Query Library
 
 ### JavaScript
 - [js3](https://github.com/webr3/js3)
@@ -720,8 +721,6 @@ MapReduce
 - [dbpedia-extension](https://github.com/sparkica/dbpedia-extension)
 - [grefine-rdf-extension](https://github.com/OpenRefine/grefine-rdf-extension)
 - [LD-FusionTool](https://github.com/mifeet/LD-FusionTool)
-- [raptor](https://github.com/dajobe/raptor)
-- [rasqal](https://github.com/dajobe/rasqal)
 - [xodx](https://github.com/AKSW/xodx)
 - [morph-starter](https://github.com/jpcik/morph-starter)
 - [sesametools](https://github.com/joshsh/sesametools)
