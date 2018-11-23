@@ -89,20 +89,14 @@ A curated list of various semantic web and linked data resources.
 
 ## Standards
 
-### XML Schema
-- [XSD](https://www.w3.org/XML/Schema)
-
 ### RDF
+- [RDF 1.1 Primer](https://www.w3.org/TR/rdf11-primer/)
+- [RDF 1.1 Semantics](https://www.w3.org/TR/rdf11-mt/)
 - [RDF Concepts and Abstract Syntax](https://www.w3.org/TR/rdf11-concepts/)
+- [RDF 1.1: On Semantics of RDF Datasets](https://www.w3.org/TR/rdf11-datasets/)
  
 ### RDFS
  - [RDF Schema 1.1](https://www.w3.org/TR/rdf-schema/)
-
-### RDFa
-- [XHTML+RDFa 1.1 - Third Edition](https://www.w3.org/TR/xhtml-rdfa/)
-- [RDFa Lite 1.1 - Second Edition](https://www.w3.org/TR/rdfa-lite/)
-- [RDFa Lite 1.1 - Second Edition](https://www.w3.org/TR/rdfa-lite/)
-- [HTML+RDFa 1.1 - Second Edition](https://www.w3.org/TR/html-rdfa/)
 
 ### OWL
 - [OWL 2 Web Ontology Language Document Overview](https://www.w3.org/TR/owl-overview/)
@@ -123,16 +117,15 @@ A curated list of various semantic web and linked data resources.
 - [SPARQL 1.1 Entailment Regimes](https://www.w3.org/TR/sparql11-entailment/)
 - [SPARQL 1.1 Protocol](https://www.w3.org/TR/sparql11-protocol/)
 - [SPARQL 1.1 Graph Store HTTP Protocol](https://www.w3.org/TR/sparql11-http-rdf-update/)
- 
-### CSVW
-- [Model for Tabular Data and Metadata on the Web, W3C Recommendation](http://www.w3.org/TR/2015/REC-tabular-data-model-20151217/)
-- [Metadata Vocabulary for Tabular Data, W3C Recommendation](http://www.w3.org/TR/2015/REC-tabular-metadata-20151217/)
-- [Generating JSON from Tabular Data on the Web, W3C Recommendation](http://www.w3.org/TR/2015/REC-csv2json-20151217/)
-- [Generating RDF from Tabular Data on the Web](http://www.w3.org/TR/2015/REC-csv2rdf-20151217/)
-- [CSV on the Web: Use Cases and Requirements](http://www.w3.org/TR/2016/NOTE-csvw-ucr-20160225/)
-- [Embedding Tabular Metadata in HTML](http://www.w3.org/TR/2016/NOTE-csvw-html-20160225/)
-- [CSV on the Web: A Primer, W3C WG Note](http://www.w3.org/TR/2016/NOTE-tabular-data-primer-20160225/) 
- 
+
+### XML Schema
+- [XSD](https://www.w3.org/XML/Schema)
+
+### RDFa
+- [XHTML+RDFa 1.1 - Third Edition](https://www.w3.org/TR/xhtml-rdfa/)
+- [RDFa Lite 1.1 - Second Edition](https://www.w3.org/TR/rdfa-lite/)
+- [HTML+RDFa 1.1 - Second Edition](https://www.w3.org/TR/html-rdfa/)
+
 ### Serialization Formats
 - [RDF/XML Syntax Specification](https://www.w3.org/TR/REC-rdf-syntax/)
 - [RDF 1.1 TRIG](https://www.w3.org/TR/trig/)
@@ -147,6 +140,15 @@ A curated list of various semantic web and linked data resources.
 - [HDT](https://www.w3.org/Submission/2011/03/)
 - [aREF](https://gbv.github.io/aREF/aREF.html) 
 
+### CSVW
+- [Model for Tabular Data and Metadata on the Web, W3C Recommendation](http://www.w3.org/TR/2015/REC-tabular-data-model-20151217/)
+- [Metadata Vocabulary for Tabular Data, W3C Recommendation](http://www.w3.org/TR/2015/REC-tabular-metadata-20151217/)
+- [Generating JSON from Tabular Data on the Web, W3C Recommendation](http://www.w3.org/TR/2015/REC-csv2json-20151217/)
+- [Generating RDF from Tabular Data on the Web](http://www.w3.org/TR/2015/REC-csv2rdf-20151217/)
+- [CSV on the Web: Use Cases and Requirements](http://www.w3.org/TR/2016/NOTE-csvw-ucr-20160225/)
+- [Embedding Tabular Metadata in HTML](http://www.w3.org/TR/2016/NOTE-csvw-html-20160225/)
+- [CSV on the Web: A Primer, W3C WG Note](http://www.w3.org/TR/2016/NOTE-tabular-data-primer-20160225/) 
+ 
 ### Linked Data Fragments (LDF)
 - [Linked Data Fragments](http://linkeddatafragments.org)
    
