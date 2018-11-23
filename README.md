@@ -584,7 +584,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [EARQ](https://github.com/castagna/EARQ) EARQ is a combination of ARQ and ElasticSearch
 - [sesametools](https://github.com/joshsh/sesametools) A collection of utilities for use with OpenRDF Sesame 
 - [Imperium](https://github.com/mhgrove/Imperium) Imperium is a plugin for the Play! framework similar to the existing JPA plugin that allows the use of Empire seamlessly in a Play! based application.
-
+- [jekyll-rdf](https://github.com/white-gecko/jekyll-rdf) - A Jekyll plugin for including RDF data in your static site
 
 ## Machine Learning
 - [LinkedPipes-ETL](https://github.com/linkedpipes/etl) - Linked Data ETL pipeline
