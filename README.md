@@ -5,15 +5,15 @@ A curated list of various semantic web and linked data resources.
 
 # Contents
 - [Standards](#standards)
-  * [XML Schema](#xml-schema)
   * [RDF](#rdf)
   * [RDFS](#rdfs)
-  * [RDFa](#rdfa)
   * [OWL](#owl)
   * [SHACL](#shacl)
   * [SPARQL](#sparql)
-  * [CSVW](#csvw)
+  * [XML Schema](#xml-schema)
+  * [RDFa](#rdfa)
   * [Serialization Formats](#serialization-formats)
+  * [CSVW](#csvw)
   * [Linked Data Fragments (LDF)](#linked-data-fragments-ldf)
   * [Open Services for Lifecycle Collaboration (OSLC)](#open-services-for-lifecycle-collaboration-oslc)
   * [Web Annotation Data Model](#web-annotation-data-model)
