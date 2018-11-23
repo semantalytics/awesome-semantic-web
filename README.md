@@ -358,6 +358,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [vocab-transit](https://github.com/wwaites/vocab-transit) RDF Schema for transit data
 - [ssso](https://github.com/gbv/ssso) Specification of Simple Service Status Ontology
 - [dso](https://github.com/gbv/dso) Specification of Document Service Ontology
+- [schema.org](https://schema.org/docs/datamodel.html) - Structured data on the Internet (Google, Microsoft, Yahoo and Yandex)
 
 ### Educational
 - [MMOntologies](https://github.com/gatemezing/MMOntologies) - Multimedia ontologies studied for the paper "The Landscape of Multimedia Ontologies in the last Decade"
@@ -635,7 +636,6 @@ MapReduce
 - [jqudt](https://github.com/egonw/jqudt) Java library for working with the QUDT ontology and data using it. 
 - [JenaSecurity](https://github.com/Claudenw/JenaSecurity) Security (Permissions) wrapper around Jena RDF implementation 
 - [specgen](https://github.com/specgen/specgen) modified, extended and more generalized version of Danbri‘s SpecGen version 5.
-- [schema-org-rdf](https://github.com/mhausenblas/schema-org-rdf)
 - [cassa](https://github.com/heuer/cassa) SPARQL 1.1 Graph Store HTTP Protocol implementation with plugable backends
 - [graphity-browser](https://github.com/AtomGraph/Web-Client) Generic Linked Data browser.
 - [keygenapp](https://github.com/bblfish/keygenapp)
