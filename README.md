@@ -486,6 +486,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [Jena](http://jena.apache.org)
 - [commons-rdf](http://commons.apache.org/proper/commons-rdf/)
 - [foafssl-java](https://github.com/bblfish/foafssl-java)
+- [soarql-dl-api](https://github.com/protegeproject/sparql-dl-api) - A query engine for SPARQL-DL
 
 ### Python
 - [RDFlib](https://github.com/RDFLib/rdflib) RDFLib is a Python library for working with RDF, a simple yet powerful language for representing information.
@@ -537,6 +538,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 ### Scala
 - [banana-rdf](https://github.com/banana-rdf/banana-rdf) A library for RDF, SPARQL and Linked Data technologies in Scala.
 - [jvmrdftools](https://github.com/cosminbasca/jvmrdftools)
+- [SANSA-RDF](https://github.com/SANSA-Stack/SANSA-RDF) - library to read RDF files into Spark or Flink
 
 ### Groovy
 - [groovyrdf](https://github.com/angelo-v/groovyrdf)
@@ -624,6 +626,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [rdfpatch](https://github.com/pchampin/ld-patch-py)
 - [TurtleValidator](https://github.com/mmlab/TurtleValidator) A Turtle validator on command line and in browser
 - [shi3ld-http](https://github.com/lukostaz/shi3ld-http) Shi3ld for HTTP: Access control for HTTP operations on Linked Data
+- [babel](https://github.com/aidhog/blabel/) A library for skolemising (or canonicalising) blank node labels in RDF graphs. 
 
 ## Platforms
 - [trinity](https://bitbucket.org/semiodesk/trinity) An application development platform for Microsoft .NET and Mono. It allows to easily build Linked Data and Semantic Web applications based on RDF
@@ -653,6 +656,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [sesametools](https://github.com/joshsh/sesametools) A collection of utilities for use with OpenRDF Sesame 
 - [Imperium](https://github.com/mhgrove/Imperium) Imperium is a plugin for the Play! framework similar to the existing JPA plugin that allows the use of Empire seamlessly in a Play! based application.
 - [jekyll-rdf](https://github.com/white-gecko/jekyll-rdf) - A Jekyll plugin for including RDF data in your static site
+- [RightField](https://github.com/myGrid/RightField) RightField is an open-source tool for adding ontology term selection to Excel spreadsheets.
 
 ## Machine Learning
 - [LinkedPipes-ETL](https://github.com/linkedpipes/etl) - Linked Data ETL pipeline
@@ -744,10 +748,6 @@ MapReduce
 - [hyrise](https://github.com/hyrise/hyrise)
 - [owlconvert](https://github.com/camwebb/owlconvert) Simple OWL format converter based on OWLAPI 
 - [rabel](https://github.com/linkeddata/rabel) Program for reading and writing linked data in various formats
-- [SANSA](https://github.com/SANSA-Stack/SANSA-RDF) SANSA RDF is a library to read RDF files into Spark or Flink
-- [soarql-dl-api](https://github.com/protegeproject/sparql-dl-api) A query engine for SPARQL-DL
-- [RightField](https://github.com/myGrid/RightField) RightField is an open-source tool for adding ontology term selection to Excel spreadsheets.
 - [csvw-template](https://github.com/edsu/csvw-template) document the semantics of your csv file
-- [babel](https://github.com/aidhog/blabel/) A library for skolemising (or canonicalising) blank node labels in RDF graphs. 
 - [jsonld-java](https://github.com/jsonld-java/jsonld-java) JSON-LD implementation for Java 
 - [guide-o-matic](https://github.com/baskaufs/guid-o-matic) Xquery scripts to convert fielded text (CSV) files to RDF serialized as XML, Turtle, and JSON-LD 
