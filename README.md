@@ -129,6 +129,7 @@ F - Free
 
 - [Stardog](http://stardog.com) $/F
 - [Virtuoso](https://virtuoso.openlinksw.com/) $/OS
+  - [virtuoso-opensource](https://github.com/openlink/virtuoso-opensource)
 - [Blazegraph](https://www.blazegraph.com/) $/OS
   - [docker-blazegraph](https://github.com/zorino/docker-blazegraph)
   - [blazegraph-samples](https://github.com/blazegraph/blazegraph-samples)
