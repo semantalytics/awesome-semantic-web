@@ -33,15 +33,9 @@ A curated list of various semantic web and linked data resources.
   * [Geo](#geo)
   * [Excel](#excel)
   * [CSV/Tabular](#csvtabular)
-    + [CSVW](#csvw-1)
   * [Object to RDF Mapping](#object-to-rdf-mapping)
   * [RDB to RDF](#rdb-to-rdf)
   * [XML](#xml)
-    + [R2RML](#r2rml)
-      - [xR2RML](#xr2rml)
-      - [R2RML-f](#r2rml-f)
-    + [RML](#rml)
-    + [Other RDF Mappings](#other-rdf-mappings)
 - [Ontologies](#ontologies)
   * [World Wide Web Consortium (W3C)](#world-wide-web-consortium-w3c)
   * [Common](#common)
@@ -86,7 +80,6 @@ A curated list of various semantic web and linked data resources.
 - [Machine Learning](#machine-learning)
 - [WebID](#webid)
 - [Misc](#misc)
-
 ## Standards
 
 ### RDF
