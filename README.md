@@ -174,50 +174,50 @@ A curated list of various semantic web and linked data resources.
 
 ## Databases
 
-**$** - Proprietary  
-**OS** - OpenSource  
-**F** - Free  
+$ - Proprietary
+OS - OpenSource
+F - Free
 
-- [Jena TDB](http://jena.apache.org/documentation/tdb/index.html) **OS**
-- [rdf4j](http://rdf4j.org/rdf4j-databases/) **OS**
-  - [Ontotext GraphDB™](http://graphdb.ontotext.com/) **$**/**F**
-  - [Halyard](https://github.com/Merck/Halyard) **OS**
-  - [Stardog](http://stardog.com) **$**/**F**
+- [Jena TDB](http://jena.apache.org/documentation/tdb/index.html) OS
+- [rdf4j](http://rdf4j.org/rdf4j-databases/) OS
+  - [Ontotext GraphDB™](http://graphdb.ontotext.com/) $/F
+  - [Halyard](https://github.com/Merck/Halyard) OS
+  - [Stardog](http://stardog.com) $/F
   - [Strabon](http://www.strabon.di.uoa.gr/)
-  - [Systap Blazegraph™](https://www.blazegraph.com/) **$**/**OS**
+  - [Systap Blazegraph™](https://www.blazegraph.com/) $/OS
     - [docker-blazegraph](https://github.com/zorino/docker-blazegraph)
     - [blazegraph-samples](https://github.com/blazegraph/blazegraph-samples)
     - [docker-blazegraph](https://github.com/lyrasis/docker-blazegraph)
     - [blazegraph-service](https://github.com/vastix/blazegraph-service)
-- [Marklogic](https://github.com/marklogic/semantic) **$**
-- [Virtuoso](https://virtuoso.openlinksw.com/) **$**/**OS**
+- [Marklogic](https://github.com/marklogic/semantic) $
+- [Virtuoso](https://virtuoso.openlinksw.com/) $/OS
   - [virtuoso-opensource](https://github.com/openlink/virtuoso-opensource)
-- [Oracle](http://www.oracle.com/technetwork/database/options/spatialandgraph/overview/rdfsemantic-more-2239071.html) **$**
-- [Allegrograph](http://franz.com/agraph/allegrograph/) **$**/**F**
-- [BrightstarDB](http://brightstardb.com/) **OS** - A native RDF database for the .NET platform written in C#.
-- [CM-Well](https://github.com/thomsonreuters/CM-Well) **OS**
-- [Apache Rya](http://rya.incubator.apache.org/) **OS**
-- [4Store](https://github.com/garlik/4store) **OS**
-- [Mulgara](http://mulgara.org/) **OS**
-- [Parliament](http://parliament.semwebcentral.org/) **OS**
-- [wallix/triplestore](https://github.com/wallix/triplestore) **OS** - Nifty library written in Go-Lang.
-- [SANSA](http://sansa-stack.net/) **OS**
-- [hbase-rdf](https://github.com/castagna/hbase-rdf) **OS**
+- [Oracle](http://www.oracle.com/technetwork/database/options/spatialandgraph/overview/rdfsemantic-more-2239071.html) $
+- [Allegrograph](http://franz.com/agraph/allegrograph/) $/F
+- [BrightstarDB](http://brightstardb.com/) OS - A native RDF database for the .NET platform written in C#.
+- [CM-Well](https://github.com/thomsonreuters/CM-Well) OS
+- [Apache Rya](http://rya.incubator.apache.org/) OS
+- [4Store](https://github.com/garlik/4store) OS
+- [Mulgara](http://mulgara.org/) OS
+- [Parliament](http://parliament.semwebcentral.org/) OS
+- [wallix/triplestore](https://github.com/wallix/triplestore) OS - Nifty library written in Go-Lang.
+- [SANSA](http://sansa-stack.net/) OS
+- [hbase-rdf](https://github.com/castagna/hbase-rdf) OS
 - [Anzograph](https://www.cambridgesemantics.com/product/anzograph/)
 - [CumulusRDF](https://github.com/cumulusrdf/cumulusrdf)
 - [Sempala](https://github.com/aschaetzle/Sempala)
 - [TriplePlace](https://github.com/white-gecko/TriplePlace) a light weight and flexible Triple Store for Android
-- [Node-Quadstore](https://beautifulinteractions.github.io/node-quadstore/) **OS** - A LevelDB-backed graph database for Node.js supporting quads, SPARQL queries and the RDF/JS interface.
-- [KGRAM](http://wimmics.inria.fr/corese) **OS**
-- [luposdate](https://github.com/luposdate/luposdate) **OS** - Semantic Web database
+- [Node-Quadstore](https://beautifulinteractions.github.io/node-quadstore/) OS - A LevelDB-backed graph database for Node.js supporting quads, SPARQL queries and the RDF/JS interface.
+- [KGRAM](http://wimmics.inria.fr/corese) OS
+- [luposdate](https://github.com/luposdate/luposdate) OS - Semantic Web database
 - [wallix/triplestore](https://github.com/wallix/triplestore) Nifty library to manage, query and store RDF triples.
-- [levelgraph](https://github.com/levelgraph/levelgraph) **OS** - Graph database JS style for Node.js and the Browser.
+- [levelgraph](https://github.com/levelgraph/levelgraph) OS - Graph database JS style for Node.js and the Browser.
 
 ### Academic
-- [TripleRush](https://github.com/uzh/triplerush) **OS**
-- [Corese](http://wimmics.inria.fr/corese) **OS**
-- [rdf3x](https://code.google.com/archive/p/rdf3x/) **OS**
-- [gh-rdf3x](https://github.com/gh-rdf3x/gh-rdf3x) **OS**
+- [TripleRush](https://github.com/uzh/triplerush) OS
+- [Corese](http://wimmics.inria.fr/corese) OS
+- [rdf3x](https://code.google.com/archive/p/rdf3x/) OS
+- [gh-rdf3x](https://github.com/gh-rdf3x/gh-rdf3x) OS
 - [Qamel](https://github.com/dice-group/qamel) RDF4J ported to Andriod
 - [dipLODocus](https://diuf.unifr.ch/main/xi/diplodocus)
 - [SW-Store](https://cs.uwaterloo.ca/~gweddell/cs848/papers/SW-Store.pdf)
