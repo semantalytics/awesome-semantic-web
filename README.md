@@ -174,9 +174,9 @@ A curated list of various semantic web and linked data resources.
 
 ## Databases
 
-$ - Proprietary
-OS - OpenSource
-F - Free
+$ - Proprietary  
+OS - OpenSource  
+F - Free  
 
 - [Jena TDB](http://jena.apache.org/documentation/tdb/index.html) OS
 - [rdf4j](http://rdf4j.org/rdf4j-databases/) OS
