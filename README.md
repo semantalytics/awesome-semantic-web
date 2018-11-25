@@ -178,6 +178,8 @@ $ - Proprietary
 OS - OpenSource
 F - Free
 
+- [rdf4j](http://rdf4j.org/rdf4j-databases/) OS
+- [Jena TDB](http://jena.apache.org/documentation/tdb/index.html) OS
 - [Stardog](http://stardog.com) $/F
 - [Virtuoso](https://virtuoso.openlinksw.com/) $/OS
   - [virtuoso-opensource](https://github.com/openlink/virtuoso-opensource)
@@ -190,8 +192,6 @@ F - Free
 - [Oracle](http://www.oracle.com/technetwork/database/options/spatialandgraph/overview/rdfsemantic-more-2239071.html) $
 - [Allegrograph](http://franz.com/agraph/allegrograph/) $/F
 - [marklogic-semantic](https://github.com/marklogic/semantic) $
-- [RDF4J](http://rdf4j.org) OS
-- [Jena TDB](http://jena.apache.org/documentation/tdb/index.html) OS
 - [BrightstarDB](http://brightstardb.com/) OS - A native RDF database for the .NET platform written in C#.
 - [CM-Well](https://github.com/thomsonreuters/CM-Well) OS
 - [Apache Rya](http://rya.incubator.apache.org/) OS
