@@ -179,16 +179,15 @@ OS - OpenSource
 F - Free  
 
 - [Jena TDB](http://jena.apache.org/documentation/tdb/index.html) OS
-- [rdf4j](http://rdf4j.org/rdf4j-databases/) OS
-  - [Ontotext GraphDB™](http://graphdb.ontotext.com/) $/F
-  - [Halyard](https://github.com/Merck/Halyard) OS
-  - [Stardog](http://stardog.com) $/F
-  - [Strabon](http://www.strabon.di.uoa.gr/)
-  - [Systap Blazegraph™](https://www.blazegraph.com/) $/OS
-    - [docker-blazegraph](https://github.com/zorino/docker-blazegraph)
-    - [blazegraph-samples](https://github.com/blazegraph/blazegraph-samples)
-    - [docker-blazegraph](https://github.com/lyrasis/docker-blazegraph)
-    - [blazegraph-service](https://github.com/vastix/blazegraph-service)
+- [Ontotext GraphDB™](http://graphdb.ontotext.com/) $/F
+- [Halyard](https://github.com/Merck/Halyard) OS
+- [Stardog](http://stardog.com) $/F
+- [Strabon](http://www.strabon.di.uoa.gr/)
+- [Systap Blazegraph™](https://www.blazegraph.com/) $/OS
+  - [docker-blazegraph](https://github.com/zorino/docker-blazegraph)
+  - [blazegraph-samples](https://github.com/blazegraph/blazegraph-samples)
+  - [docker-blazegraph](https://github.com/lyrasis/docker-blazegraph)
+  - [blazegraph-service](https://github.com/vastix/blazegraph-service)
 - [Marklogic](https://github.com/marklogic/semantic) $
 - [Virtuoso](https://virtuoso.openlinksw.com/) $/OS
   - [virtuoso-opensource](https://github.com/openlink/virtuoso-opensource)
