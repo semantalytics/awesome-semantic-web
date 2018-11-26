@@ -120,12 +120,12 @@ A curated list of various semantic web and linked data resources.
 - [HTML+RDFa 1.1 - Second Edition](https://www.w3.org/TR/html-rdfa/)
 
 ### Serialization Formats
-- [RDF/XML Syntax Specification](https://www.w3.org/TR/REC-rdf-syntax/)
-- [RDF 1.1 TRIG](https://www.w3.org/TR/trig/)
+- [RDF/XML](https://www.w3.org/TR/REC-rdf-syntax/)
 - [json-ld](https://json-ld.org/)
-- [Turtle v1.1](https://www.w3.org/TR/turtle/)
+- [Turtle](https://www.w3.org/TR/turtle/)
 - [n-triples](https://www.w3.org/TR/n-triples/)
 - [n-quads](https://www.w3.org/TR/n-quads/)
+- [notation3](https://www.w3.org/TeamSubmission/n3/)
 - [trix](http://www.hpl.hp.com/techreports/2004/HPL-2004-56.html)
 - [trig](https://www.w3.org/TR/trig/)
 - [manchester](https://www.w3.org/2007/OWL/draft/ED-owl2-manchester-syntax-20081128/)
