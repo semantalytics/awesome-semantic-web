@@ -524,7 +524,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 ### Python
 
 - [RDFlib](https://github.com/RDFLib/rdflib) - RDFLib is a Python library for working with RDF, a simple yet powerful language for representing information.
-- [RdfAlchemy](http://www.openvest.com/trac/wiki/RDFAlchemy)
+- [RdfAlchemy](https://github.com/gjhiggins/RDFAlchemy)
 - [Fuxi](http://code.google.com/p/fuxi/)
 - [ORDF](http://ordf.org)
 - [Django-rdf](http://code.google.com/p/django-rdf/)
@@ -611,7 +611,6 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 ### VIM
 
 - [sparql.vim](https://github.com/vim-scripts/sparql.vim) - SPARQL syntax highlighting.
-- [vim-owl-tools](https://github.com/mattpap/vim-owl-tools)
 - [vim-sparql](https://github.com/Omer/vim-sparql)
 - [semweb.vim](https://github.com/seebi/semweb.vim)
 
