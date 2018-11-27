@@ -610,7 +610,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 
 ## DevOps
 - [r43ples](https://github.com/plt-tud/r43ples) - Revision Management for the Semantic Web
-- [RDFUnit](https://github.com/AKSW/RDFUnit) - RDFUnit is unit testing framework that can be used either as a JVM (Java) RDF validation library or integrated in a CI/CD environment. RDFUnit checks if the given RDF data conforms to a set of OWL/RDFS ontologies or against SHACL constraints. 
+- [RDFUnit](https://github.com/AKSW/RDFUnit) - RDF Unit testing and validation framework
 - [rdf-toolkit](https://github.com/edmcouncil/rdf-toolkit) RDF Serializer, to be used in a git commit-hook to force automatic correct rewrite of every OWL ontology 
 - [TripleChecker](https://github.com/cgutteridge/TripleChecker) Look for common errors in an RDF Document 
 - [owl2vcs](https://github.com/utapyngo/owl2vcs) owl2vcs is a set of tools designed to facilitate version control of OWL 2 ontologies using version control systems.
