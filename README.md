@@ -423,6 +423,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [org](https://www.w3.org/TR/vocab-org/) - The Organization Ontology.
 - [data-cube](https://www.w3.org/TR/vocab-data-cube) - The RDF Data Cube Vocabulary.
 - [pim](https://www.w3.org/2000/10/swap/pim/contact)
+- [dqv](http://www.w3.org/ns/dqv#) - Vocabulary for describing quality metadata.
 
 ### Common
 
@@ -808,3 +809,4 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [csvw-template](https://github.com/edsu/csvw-template) - Document the semantics of your csv file.
 - [jsonld-java](https://github.com/jsonld-java/jsonld-java) - JSON-LD implementation for Java.
 - [guide-o-matic](https://github.com/baskaufs/guid-o-matic) - Xquery scripts to convert fielded text (CSV) files to RDF serialized as XML, Turtle, and JSON-LD.
+- [Luzzu](https://github.com/Luzzu/Framework/) - A scalable and extensible Linked Data quality assessment framework.
