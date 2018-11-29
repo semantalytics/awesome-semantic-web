@@ -770,7 +770,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [cassa](https://github.com/heuer/cassa) - SPARQL 1.1 Graph Store HTTP Protocol implementation with plugable backends.
 - [graphity-browser](https://github.com/AtomGraph/Web-Client) - Generic Linked Data browser.
 - [keygenapp](https://github.com/bblfish/keygenapp)
-- [owlapitools](https://github.com/owlcs/owlapitools) - owlapitools - a set of independent add-ons for OWL API.
+- [owlapitools](https://github.com/owlcs/owlapitools) - Set of independent add-ons for OWL API.
 - [LD-FusionTool](https://github.com/mifeet/LD-FusionTool)
 - [fox-ui](https://github.com/Data2Semantics/fox-ui)
 - [prefix.cc](https://github.com/cygri/prefix.cc) - Source code to the prefix.cc website.
