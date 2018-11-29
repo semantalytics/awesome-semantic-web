@@ -237,9 +237,9 @@ F - Free
 - [rdf3x](https://code.google.com/archive/p/rdf3x/) - (OS).
 - [gh-rdf3x](https://github.com/gh-rdf3x/gh-rdf3x) - (OS).
 - [Qamel](https://github.com/dice-group/qamel) - RDF4J ported to Andriod.
-- [dipLODocus](https://diuf.unifr.ch/main/xi/diplodocus)
+- [dipLODocus](https://www.semanticscholar.org/paper/a1510214a16c73f464a8d1ae631054870114bbc8)
 - [SW-Store](https://cs.uwaterloo.ca/~gweddell/cs848/papers/SW-Store.pdf)
-- [Yars2]()
+- [Yars2](https://www.semanticscholar.org/paper/08bae32492f4f8a262ec990853613151cc484dc5)
 - [Shard](https://sourceforge.net/projects/shard-3store/)
 - [Hexastore](http://www.vldb.org/pvldb/1/1453965.pdf)
 - [BitMat](https://www.cs.ox.ac.uk/people/medha.atre/papers/atre-ssws2009.pdf)
