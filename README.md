@@ -188,7 +188,6 @@ A curated list of various semantic web and linked data resources.
 - [Epimorphics](https://www.epimorphics.com/)
 - [Franz](http://franz.com)
 - [PoolParty](https://www.poolparty.biz/)
-- [Metaphacts](http://metaphacts.com) - End-to-end platform to create and utilize enterprise knowledge graphs.
 
 ## Databases
 
@@ -244,6 +243,15 @@ F - Free
 - [Hexastore](http://www.vldb.org/pvldb/1/1453965.pdf)
 - [BitMat](https://www.cs.ox.ac.uk/people/medha.atre/papers/atre-ssws2009.pdf)
 - [LUPOSDATE](https://www.ifis.uni-luebeck.de/index.php?id=luposdate-demo)
+
+## Knowledge Graph Management
+
+$ - Proprietary  
+OS - OpenSource  
+
+- [Metaphacts](http://metaphacts.com) - ($) End-to-end platform to create and utilize enterprise knowledge graphs.
+- [OntoWiki](https://github.com/AKSW/OntoWiki) - (OS) Semantic data wiki as well as Linked Data publishing engine.
+- [GNOSS-Sherlock](https://www.gnoss.com/en/semantic-framework/knowledge-graph-management) - ($) Cognitive Intelligence tool for machines to understand us.
 
 ## SPARQL Implementations
 
