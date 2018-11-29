@@ -24,6 +24,7 @@ A curated list of various semantic web and linked data resources.
 - [Companies](#companies)
 - [Databases](#databases)
   - [Academic](#academic)
+- [Knowledge Graph Management](#knowledge-graph-management)
 - [SPARQL Implementations](#sparql-implementations)
   - [Streaming SPARQL](#streaming-sparql)
   - [Federated SPARQL](#federated-sparql)
