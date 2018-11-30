@@ -621,6 +621,11 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 
 - [SWI-Prolog Semantic Web Library](http://www.swi-prolog.org/pldoc/doc_for?object=section(%27packages/semweb.html%27))
 
+### Perl
+
+- [Attean](https://metacpan.org/pod/Attean)
+- [RDF::Trine](https://metacpan.org/pod/RDF::Trine)
+
 ## Editors
 
 ### VIM
