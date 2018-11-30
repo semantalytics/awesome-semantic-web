@@ -65,6 +65,7 @@ A curated list of various semantic web and linked data resources.
   - [Ruby](#ruby)
   - [Swift](#swift)
   - [ObjectiveC](#objectivec)
+  - [Prolog](#prolog)
 - [Editors](#editors)
   - [VIM](#vim)
   - [Emacs](#emacs)
@@ -615,6 +616,10 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 ### ObjectiveC
 
 - [SPARQLKit](https://github.com/kasei/SPARQLKit) - An implementation of the SPARQL 1.1 query language in Objective-C.
+
+### Prolog
+
+- [SWI-Prolog Semantic Web Library](http://www.swi-prolog.org/pldoc/doc_for?object=section(%27packages/semweb.html%27))
 
 ## Editors
 
