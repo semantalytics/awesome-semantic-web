@@ -399,6 +399,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [Juma](https://opengogs.adaptcentre.ie/crottija/juma-r2rml/) - Juma, jigsaw puzzles for representing mapping, is a method that applies the block metaphor to mapping languages.
 - [pyrdb2rdf](https://github.com/nisavid/pyrdb2rdf) - A Python library for RDB2RDF Direct Mapping and R2RML.
 - [sparqlmap](https://github.com/tomatophantastico/sparqlmap)
+- [rdf2rml](https://github.com/VladimirAlexiev/rdf2rml) for R2RML Generation from simple examples
 
 ##### xR2RML
 
@@ -666,6 +667,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [visualRDF](https://github.com/alangrafu/visualRDF)
 - [rdfdot](https://github.com/wastl/rdfdot) - Tools for drawing graphs from RDF files with GraphViz.
 - [ontodia](https://github.com/ontodia-org/ontodia) - Ontodia data diagraming library.
+- [rdfpuml](https://github.com/VladimirAlexiev/rdf2rml) for True RDF Diagrams
 
 ## Data Cube
 
