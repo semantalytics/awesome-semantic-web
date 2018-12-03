@@ -519,7 +519,6 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [WESO](http://www.weso.es/) - WESO is a research group at the University of Oviedo founded in 2004.
 - [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/) - Department D5 of the Max Planck Institute for Informatics.
 - [DICE: Data Science Group](http://dice.cs.uni-paderborn.de/about/) - Universität Paderborn.
-- [Agile Knowledge Engineering and Semantic Web (AKSW)](http://aksw.org/) - The Research Group Agile Knowledge Engineering and Semantic Web (AKSW) is hosted by the Chair of Business Information Systems (BIS) of the Institute of Computer Science (IfI) / University of Leipzig as well as the Institute for Applied Informatics (InfAI).
 - [Ontology Engineering Group (OEG)](http://www.oeg-upm.net/) - The Ontology Engineering Group (OEG) is based at the Computer Science School at Universidad Politécnica de Madrid (UPM).
 - [Knowledge Representation and Reasoning Group (KRR)](https://krr.cs.vu.nl/) - Research group is based at the Vrije Universiteit Amsterdam (VU).
 
