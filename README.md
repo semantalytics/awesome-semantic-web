@@ -45,7 +45,6 @@ A curated list of various semantic web and linked data resources.
   - [Educational](#educational)
 - [Books](#books)
 - [Ontology Development](#ontology-development)
-  - [Tools](#tools)
 - [Reasoners](#reasoners)
 - [Benchmarks](#benchmarks)
 - [Academic Journals](#academic-journals)
@@ -78,7 +77,7 @@ A curated list of various semantic web and linked data resources.
 - [IoT](#iot)
 - [DevOps](#devops)
 - [Platforms](#platforms)
-- [Tools](#tools-1)
+- [Tools](#tools)
 - [Integrations](#integrations)
 - [Machine Learning](#machine-learning)
 - [WebID](#webid)
@@ -475,8 +474,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 
 ## Ontology Development
 
-### Tools
-
+- [protégé](http://protege.stanford.edu) - Ontology editor and framework for building intelligent systems.
 - [OntoVerbal](https://github.com/TheOntologist/OntoVerbal) - OntoVerbal is a Protege 4.2 plugin that generates natural language descriptions for classes for an ontology written in OWL.
 
 ## Reasoners
@@ -724,6 +722,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [ripple](https://github.com/joshsh/ripple) - Semantic Web scripting language.
 - [schema_salad](https://github.com/common-workflow-language/schema_salad) - Semantic Annotations for Linked Avro Data.
 - [RDFConvert](https://sourceforge.net/projects/rdfconvert/) - RDFConvert is a simple command-line tool for converting RDF file betweeen different syntax formats.
+- [How to diff RDF](https://www.w3.org/2001/sw/wiki/How_to_diff_RDF)
 
 ## Integrations
 
