@@ -65,6 +65,7 @@ A curated list of various semantic web and linked data resources.
   - [ObjectiveC](#objectivec)
   - [Prolog](#prolog)
   - [Perl](#perl)
+  - [Haskell](#haskell)
 - [Editors](#editors)
   - [VIM](#vim)
   - [Emacs](#emacs)
@@ -621,6 +622,13 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 
 - [Attean](https://metacpan.org/pod/Attean)
 - [RDF::Trine](https://metacpan.org/pod/RDF::Trine)
+
+### Haskell
+
+- [rdf4h](https://github.com/robstewart57/rdf4h)
+- [swish](https://bitbucket.org/doug_burke/swish/wiki/Home)
+- [hsparql](https://github.com/robstewart57/hsparql)
+- [Ha-Sparql](https://github.com/lhpaladin/HaSparql-Client)
 
 ## Editors
 
