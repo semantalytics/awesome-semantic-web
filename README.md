@@ -11,7 +11,6 @@ A curated list of various semantic web and linked data resources.
   - [OWL](#owl)
   - [SHACL](#shacl)
   - [SPARQL](#sparql)
-  - [XML Schema](#xml-schema)
   - [RDFa](#rdfa)
   - [Serialization Formats](#serialization-formats)
   - [CSVW](#csvw)
@@ -85,6 +84,8 @@ A curated list of various semantic web and linked data resources.
 
 ## Standards
 
+- [XSD Datatypes](https://www.w3.org/2011/rdf-wg/wiki/XSD_Datatypes)
+
 ### RDF
 
 - [RDF 1.1 Primer](https://www.w3.org/TR/rdf11-primer/)
@@ -118,10 +119,6 @@ A curated list of various semantic web and linked data resources.
 - [SPARQL 1.1 Entailment Regimes](https://www.w3.org/TR/sparql11-entailment/)
 - [SPARQL 1.1 Protocol](https://www.w3.org/TR/sparql11-protocol/)
 - [SPARQL 1.1 Graph Store HTTP Protocol](https://www.w3.org/TR/sparql11-http-rdf-update/)
-
-### XML Schema
-
-- [XSD](https://www.w3.org/XML/Schema)
 
 ### RDFa
 
