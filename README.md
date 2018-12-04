@@ -64,6 +64,7 @@ A curated list of various semantic web and linked data resources.
   - [Swift](#swift)
   - [ObjectiveC](#objectivec)
   - [Prolog](#prolog)
+  - [Perl](#perl)
 - [Editors](#editors)
   - [VIM](#vim)
   - [Emacs](#emacs)
