@@ -433,6 +433,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [data-cube](https://www.w3.org/TR/vocab-data-cube) - The RDF Data Cube Vocabulary.
 - [pim](https://www.w3.org/2000/10/swap/pim/contact)
 - [dqv](http://www.w3.org/ns/dqv#) - Vocabulary for describing quality metadata.
+- [PROV-O](https://www.w3.org/TR/prov-o/) - Represent provenance information.
 
 ### Common
 
@@ -454,6 +455,9 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [ssso](https://github.com/gbv/ssso) - Specification of Simple Service Status Ontology.
 - [dso](https://github.com/gbv/dso) - Specification of Document Service Ontology.
 - [schema.org](https://schema.org/docs/datamodel.html) - Structured data on the Internet (Google, Microsoft, Yahoo and Yandex).
+- [SPAR](http://www.sparontologies.net) - Semantic Publishing and Referencing Ontologies.
+- [BFO](http://basic-formal-ontology.org) - Basic Formal Ontology.
+- [VIVO ISF](https://wiki.duraspace.org/display/VTDA/VIVO-ISF+Ontology) - Researchers and the full context in which they work.
 
 ### Educational
 
