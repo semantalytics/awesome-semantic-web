@@ -143,7 +143,7 @@ A curated list of various semantic web and linked data resources.
 - [HDT](https://www.w3.org/Submission/2011/03/)
 - [aREF](https://gbv.github.io/aREF/aREF.html)
 
-### CSVW
+### Tabular
 
 - [CSV on the Web: A Primer](http://www.w3.org/TR/tabular-data-primer/)
 - [Model for Tabular Data and Metadata on the Web](https://www.w3.org/TR/tabular-data-model/)
@@ -323,6 +323,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 
 ### Linked Data Platform (LDP)
 
+- [fedora](https://duraspace.org/fedora/) - Repository platform with native linked data support.
 - [warp](https://github.com/linkeddata/warp) - Warp an LDP file manager.
 - [Marmotta](https://github.com/apache/marmotta) - Apache linked data platform implementation.
 - [Elda](https://github.com/epimorphics/elda) - Linked data platform from Epimorphics.
