@@ -355,6 +355,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 
 ### CSV/Tabular
 
+- [guide-o-matic](https://github.com/baskaufs/guid-o-matic) - Xquery scripts to convert fielded text (CSV) files to RDF serialized as XML, Turtle, and JSON-LD.
 - [COW](https://github.com/CLARIAH/COW) - CSV On the Web (CSVW) converter.
 - [CSV2RDF](https://github.com/clarkparsia/csv2rdf) - CSV to RDF mapper.
 - [csv2rdf](https://github.com/notruthless/csv2rdf)
@@ -837,5 +838,4 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [rabel](https://github.com/linkeddata/rabel) - Program for reading and writing linked data in various formats.
 - [csvw-template](https://github.com/edsu/csvw-template) - Document the semantics of your csv file.
 - [jsonld-java](https://github.com/jsonld-java/jsonld-java) - JSON-LD implementation for Java.
-- [guide-o-matic](https://github.com/baskaufs/guid-o-matic) - Xquery scripts to convert fielded text (CSV) files to RDF serialized as XML, Turtle, and JSON-LD.
 - [Luzzu](https://github.com/Luzzu/Framework/) - A scalable and extensible Linked Data quality assessment framework.
