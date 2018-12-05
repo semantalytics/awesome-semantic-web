@@ -12,8 +12,8 @@ A curated list of various semantic web and linked data resources.
   - [SHACL](#shacl)
   - [SPARQL](#sparql)
   - [RDFa](#rdfa)
-  - [Serialization Formats](#serialization-formats)
-  - [CSVW](#csvw)
+  - [Serialization](#serialization)
+  - [Tabular](#tabular)
   - [Linked Data Fragments (LDF)](#linked-data-fragments-ldf)
   - [Open Services for Lifecycle Collaboration (OSLC)](#open-services-for-lifecycle-collaboration-oslc)
   - [Web Annotation Data Model](#web-annotation-data-model)
@@ -128,7 +128,7 @@ A curated list of various semantic web and linked data resources.
 - [RDFa Lite 1.1 - Second Edition](https://www.w3.org/TR/rdfa-lite/)
 - [HTML+RDFa 1.1 - Second Edition](https://www.w3.org/TR/html-rdfa/)
 
-### Serialization Formats
+### Serialization
 
 - [RDF/XML](https://www.w3.org/TR/REC-rdf-syntax/)
 - [json-ld](https://json-ld.org/)
