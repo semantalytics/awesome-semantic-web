@@ -189,6 +189,8 @@ A curated list of various semantic web and linked data resources.
 - [Franz](http://franz.com)
 - [PoolParty](https://www.poolparty.biz/)
 - [Cambridge Semantics](https://www.cambridgesemantics.com/)
+- [Oxford Semantic Technologies](https://www.oxfordsemantic.tech/)
+- [Capsenta](https://capsenta.com/)
 
 ## Databases
 
