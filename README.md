@@ -188,6 +188,7 @@ A curated list of various semantic web and linked data resources.
 - [Epimorphics](https://www.epimorphics.com/)
 - [Franz](http://franz.com)
 - [PoolParty](https://www.poolparty.biz/)
+- [Cambridge Semantics](https://www.cambridgesemantics.com/)
 
 ## Databases
 
