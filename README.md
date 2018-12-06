@@ -404,6 +404,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [pyrdb2rdf](https://github.com/nisavid/pyrdb2rdf) - A Python library for RDB2RDF Direct Mapping and R2RML.
 - [sparqlmap](https://github.com/tomatophantastico/sparqlmap)
 - [rdf2rml](https://github.com/VladimirAlexiev/rdf2rml) - R2RML Generation from simple examples.
+- [ultrawrap](https://capsenta.com/)
 
 ##### xR2RML
 
