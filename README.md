@@ -739,6 +739,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [schema_salad](https://github.com/common-workflow-language/schema_salad) - Semantic Annotations for Linked Avro Data.
 - [RDFConvert](https://sourceforge.net/projects/rdfconvert/) - RDFConvert is a simple command-line tool for converting RDF file betweeen different syntax formats.
 - [How to diff RDF](https://www.w3.org/2001/sw/wiki/How_to_diff_RDF)
+- [nxparser](https://github.com/nxparser/nxparser)
 
 ## Integrations
 
