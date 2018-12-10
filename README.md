@@ -6,23 +6,9 @@ A curated list of various semantic web and linked data resources.
 ## Contents
 
 - [Standards](#standards)
-  - [RDF](#rdf)
-  - [RDFS](#rdfs)
-  - [OWL](#owl)
-  - [SHACL](#shacl)
-  - [SPARQL](#sparql)
-  - [RDFa](#rdfa)
-  - [Serialization](#serialization)
-  - [Tabular](#tabular)
-  - [Linked Data Fragments (LDF)](#linked-data-fragments-ldf)
-  - [Open Services for Lifecycle Collaboration (OSLC)](#open-services-for-lifecycle-collaboration-oslc)
-  - [Web Annotation Data Model](#web-annotation-data-model)
-  - [Linked Data Notifications](#linked-data-notifications)
-  - [Linked Data Platform](#linked-data-platform)
-  - [Data Cube extensions](#data-cube-extensions)
 - [Companies](#companies)
 - [Databases](#databases)
-  - [Academic](#academic)
+- [Ecosystem](#ecosystem)
 - [Knowledge Graph Management](#knowledge-graph-management)
 - [SPARQL Implementations](#sparql-implementations)
   - [Streaming SPARQL](#streaming-sparql)
@@ -31,23 +17,11 @@ A curated list of various semantic web and linked data resources.
   - [Linked Data Platform (LDP)](#linked-data-platform-ldp)
 - [Web Annotations](#web-annotations)
 - [Mapping](#mapping)
-  - [Geo](#geo)
-  - [Excel](#excel)
-  - [CSV/Tabular](#csvtabular)
-  - [Object to RDF Mapping](#object-to-rdf-mapping)
-  - [RDB to RDF](#rdb-to-rdf)
-  - [XML](#xml)
 - [Ontologies](#ontologies)
-  - [World Wide Web Consortium (W3C)](#world-wide-web-consortium-w3c)
-  - [Common](#common)
-  - [Community](#community)
-  - [Educational](#educational)
 - [Books](#books)
 - [Ontology Development](#ontology-development)
 - [Reasoners](#reasoners)
 - [Benchmarks](#benchmarks)
-- [Academic Journals](#academic-journals)
-- [Research Institutions](#research-institutions)
 - [Programming](#programming)
   - [Java](#java)
   - [Python](#python)
@@ -67,10 +41,6 @@ A curated list of various semantic web and linked data resources.
   - [Perl](#perl)
   - [Haskell](#haskell)
 - [Editors](#editors)
-  - [VIM](#vim)
-  - [Emacs](#emacs)
-  - [Bash](#bash)
-  - [IntelliJ](#intellij)
 - [Geo](#geo-1)
 - [Visualization](#visualization)
 - [Data Cube](#data-cube)
@@ -247,6 +217,53 @@ F - Free
 - [Hexastore](http://www.vldb.org/pvldb/1/1453965.pdf)
 - [BitMat](https://www.cs.ox.ac.uk/people/medha.atre/papers/atre-ssws2009.pdf)
 - [LUPOSDATE](https://www.ifis.uni-luebeck.de/index.php?id=luposdate-demo)
+
+## Ecosystem
+
+### Conferences
+
+- [International Semantic Web Conference (ISWC 2019)](http://iswc2019.semanticweb.org)
+- [European Semantic Web Conference (ESWC 2019)](https://2019.eswc-conferences.org)
+
+### Blogs
+
+- [Bob DuCharme's weblog technology for representing and linking information](http://www.snee.com/bobdc.blog/)
+- [Planet RDF](http://planetrdf.com)
+- [Jörn's Blog](https://joernhees.de/blog/)
+
+### Podcasts
+
+TODO
+
+### Meetups
+
+TODO
+
+### Mailing Lists
+
+- [w3c semantic web](https://lists.w3.org/Archives/Public/semantic-web/)
+
+### Academic Journals
+
+- [Semantic Web Journal](http://www.semantic-web-journal.net/)
+- [Journal of Web Semantics](https://www.journals.elsevier.com/journal-of-web-semantics)
+- [International Journal of Web and Semantic Technology](http://www.airccse.org/journal/ijwest/ijwest.html)
+
+### Research Institutions
+
+- [The Smart Data Analytics (SDA)](http://sda.tech/) - Research group, Institute for Computer Science at the University of Bonn, the Fraunhofer Institute for Intelligent Analysis and Information Systems (IAIS) and the Institute for Applied Computer Science Leipzig.
+- [Agile Knowledge Engineering and Semantic Web (AKSW)](http://aksw.org) - The Research Group Agile Knowledge Engineering and Semantic Web (AKSW) is hosted by the Chair of Business Information Systems (BIS) of the Institute of Computer Science (IfI) / University of Leipzig as well as the Institute for Applied Informatics (InfAI).
+- [University of Zurich Dynamic and Distributed Information Systems Group](http://www.ifi.uzh.ch/en/ddis.html)
+- [WESO](http://www.weso.es/) - WESO is a research group at the University of Oviedo founded in 2004.
+- [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/) - Department D5 of the Max Planck Institute for Informatics.
+- [DICE: Data Science Group](http://dice.cs.uni-paderborn.de/about/) - Universität Paderborn.
+- [Ontology Engineering Group (OEG)](http://www.oeg-upm.net/) - The Ontology Engineering Group (OEG) is based at the Computer Science School at Universidad Politécnica de Madrid (UPM).
+- [Knowledge Representation and Reasoning Group (KRR)](https://krr.cs.vu.nl/) - Research group is based at the Vrije Universiteit Amsterdam (VU).
+
+### Follow
+
+- [@csarven](https://twitter.com/csarven)
+- [@danbri](https://twitter.com/danbri)
 
 ## Knowledge Graph Management
 
@@ -512,23 +529,6 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [Hobbit](http://project-hobbit.eu/) - Holistic Benchmarking of Big Linked Data.
 - [SP2Bench](http://dbis.informatik.uni-freiburg.de/index.php?project=SP2B)
 - [IGUANA](https://github.com/AKSW/IGUANA) - IGUANA is a benchmark execution framework for triple stores.
-
-## Academic Journals
-
-- [Semantic Web Journal](http://www.semantic-web-journal.net/)
-- [Journal of Web Semantics](https://www.journals.elsevier.com/journal-of-web-semantics)
-- [International Journal of Web and Semantic Technology](http://www.airccse.org/journal/ijwest/ijwest.html)
-
-## Research Institutions
-
-- [The Smart Data Analytics (SDA)](http://sda.tech/) - Research group, Institute for Computer Science at the University of Bonn, the Fraunhofer Institute for Intelligent Analysis and Information Systems (IAIS) and the Institute for Applied Computer Science Leipzig.
-- [Agile Knowledge Engineering and Semantic Web (AKSW)](http://aksw.org) - The Research Group Agile Knowledge Engineering and Semantic Web (AKSW) is hosted by the Chair of Business Information Systems (BIS) of the Institute of Computer Science (IfI) / University of Leipzig as well as the Institute for Applied Informatics (InfAI).
-- [University of Zurich Dynamic and Distributed Information Systems Group](http://www.ifi.uzh.ch/en/ddis.html)
-- [WESO](http://www.weso.es/) - WESO is a research group at the University of Oviedo founded in 2004.
-- [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/) - Department D5 of the Max Planck Institute for Informatics.
-- [DICE: Data Science Group](http://dice.cs.uni-paderborn.de/about/) - Universität Paderborn.
-- [Ontology Engineering Group (OEG)](http://www.oeg-upm.net/) - The Ontology Engineering Group (OEG) is based at the Computer Science School at Universidad Politécnica de Madrid (UPM).
-- [Knowledge Representation and Reasoning Group (KRR)](https://krr.cs.vu.nl/) - Research group is based at the Vrije Universiteit Amsterdam (VU).
 
 ## Programming
 
