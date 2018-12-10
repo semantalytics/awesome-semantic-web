@@ -40,6 +40,7 @@ A curated list of various semantic web and linked data resources.
   - [Prolog](#prolog)
   - [Perl](#perl)
   - [Haskell](#haskell)
+  - [OCamel](#ocamel)
 - [Editors](#editors)
 - [Geo](#geo-1)
 - [Visualization](#visualization)
@@ -641,6 +642,10 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [rdf4h](https://github.com/robstewart57/rdf4h)
 - [swish](https://bitbucket.org/doug_burke/swish/wiki/Home)
 - [hsparql](https://github.com/robstewart57/hsparql)
+
+### OCamel
+
+- [ocaml-rdf](https://www.good-eris.net/ocaml-rdf/) - Manipulate RDF graphs and execute Sparql queries.
 
 ## Editors
 
