@@ -539,6 +539,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [commons-rdf](http://commons.apache.org/proper/commons-rdf/)
 - [foafssl-java](https://github.com/bblfish/foafssl-java)
 - [soarql-dl-api](https://github.com/protegeproject/sparql-dl-api) - A query engine for SPARQL-DL.
+- [nxparser](https://github.com/nxparser/nxparser) - Java parsers for different RDF serialisations + API + tools + JAX-RS integration.
 
 ### Python
 
@@ -740,7 +741,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [schema_salad](https://github.com/common-workflow-language/schema_salad) - Semantic Annotations for Linked Avro Data.
 - [RDFConvert](https://sourceforge.net/projects/rdfconvert/) - RDFConvert is a simple command-line tool for converting RDF file betweeen different syntax formats.
 - [How to diff RDF](https://www.w3.org/2001/sw/wiki/How_to_diff_RDF)
-- [nxparser](https://github.com/nxparser/nxparser)
+- [grlc](https://github.com/CLARIAH/grlc) - Web APIs from SPARQL queries.
 
 ## Integrations
 
