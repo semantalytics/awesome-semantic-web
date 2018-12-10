@@ -542,7 +542,8 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 
 ### Python
 
-- [RDFlib](https://github.com/RDFLib/rdflib) - RDFLib is a Python library for working with RDF, a simple yet powerful language for representing information.
+- [RDFlib](https://github.com/RDFLib/rdflib) - Pythonic RDF API.
+- [SPARQLWrapper](https://github.com/RDFLib/sparqlwrapper) - A wrapper for a remote SPARQL endpoint.
 - [RdfAlchemy](https://github.com/gjhiggins/RDFAlchemy)
 - [Fuxi](http://code.google.com/p/fuxi/)
 - [ORDF](http://ordf.org)
