@@ -571,6 +571,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [rdf.js](https://github.com/webr3/rdf.js)
 - [rdflib.js](https://github.com/linkeddata/rdflib.js)
 - [sparks](https://github.com/sparksrdf/sparks) - Sparks is a set of JavaScript libraries designed for simplifying the access to RDF data.
+- [SPARQL.js](https://github.com/RubenVerborgh/SPARQL.js/) - A parser for the SPARQL query language in JavaScript.
 
 ### C#
 
