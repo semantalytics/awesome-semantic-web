@@ -210,6 +210,7 @@ F - Free
 - [Corese](http://wimmics.inria.fr/corese) - (OS).
 - [rdf3x](https://code.google.com/archive/p/rdf3x/) - (OS).
 - [gh-rdf3x](https://github.com/gh-rdf3x/gh-rdf3x) - (OS).
+- [rdf3x-mpi](https://bitbucket.org/saikrishnan/rdf3x-mpi)
 - [Qamel](https://github.com/dice-group/qamel) - RDF4J ported to Andriod.
 - [dipLODocus](https://www.semanticscholar.org/paper/a1510214a16c73f464a8d1ae631054870114bbc8)
 - [SW-Store](https://cs.uwaterloo.ca/~gweddell/cs848/papers/SW-Store.pdf)
