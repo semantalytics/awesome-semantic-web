@@ -218,6 +218,7 @@ F - Free
 - [Hexastore](http://www.vldb.org/pvldb/1/1453965.pdf)
 - [BitMat](https://www.cs.ox.ac.uk/people/medha.atre/papers/atre-ssws2009.pdf)
 - [LUPOSDATE](https://www.ifis.uni-luebeck.de/index.php?id=luposdate-demo)
+- [DREAM](https://github.com/CMU-Q/DREAM) - DREAM - Distributed RDF Engine with Adaptive Query Planner and Minimal Communication.
 
 ## Ecosystem
 
@@ -301,7 +302,6 @@ ACTIVE
 - [HiBISCuS](https://github.com/AKSW/HiBISCuS)
 - [SPARQLFederator](https://github.com/djogopatrao/SPARQLFederator)
 - [rdffederator](https://github.com/goerlitz/rdffederator)
-- [DREAM](https://github.com/CMU-Q/DREAM) - DREAM - Distributed RDF Engine with Adaptive Query Planner and Minimal Communication.
 - [Avalanche](http://www.ifi.uzh.ch/en/ddis/research/avalanche.html)
 - [FedX](https://github.com/VeritasOS/fedx)
 - [anapsid](https://github.com/anapsid/anapsid) - An adaptive query processing engine for SPARQL endpoints.
