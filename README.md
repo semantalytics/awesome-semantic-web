@@ -27,7 +27,7 @@ A curated list of various semantic web and linked data resources.
   - [Python](#python)
   - [C](#c)
   - [JavaScript](#javascript)
-  - [C#](#c%23)
+  - [C#](#c-1)
   - [Go-Lang](#go-lang)
   - [PHP](#php)
   - [Clojure](#clojure)
