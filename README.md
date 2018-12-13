@@ -27,7 +27,7 @@ A curated list of various semantic web and linked data resources.
   - [Python](#python)
   - [C](#c)
   - [JavaScript](#javascript)
-  - [C#](#c-1)
+  - [C\#](#c-1)
   - [Go-Lang](#go-lang)
   - [PHP](#php)
   - [Clojure](#clojure)
@@ -341,7 +341,8 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [asqc](https://github.com/gklyne/asqc) - SPARQL query client (pronounced "ask").
 - [SPARQL-parser](https://github.com/tenforce/SPARQL-parser)
 - [antlr-sparql-grammar](https://github.com/rollxx/antlr-sparql-grammar)
-- [visu](https://github.com/jiemakel/visu)
+- [visu](https://github.com/jiemakel/visu) - Visual SPARQL query tool.
+- [Porthole](https://itunes.apple.com/us/app/porthole/id984035787) - Mac SPARQL editor and client.
 
 ### Linked Data Platform (LDP)
 
@@ -668,10 +669,6 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 ### IntelliJ
 
 - [sparql4idea](https://github.com/mattnathan/sparql4idea) - SPARQL language plugin for IntelliJ IDEA.
-
-### Stand-alone
-
-- [Porthole](https://itunes.apple.com/us/app/porthole/id984035787) - Mac SPARQL editor and client
 
 ## Geo
 
