@@ -733,6 +733,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [rww-play](https://github.com/read-write-web/rww-play) - An implementation in Play of a number of tools to build a Read-Write-Web server using Play2.x and akka.
 - [prissma-studio](https://github.com/lukostaz/prissma-studio) - PRISSMA Studio: a web application to create Prisms, context-aware presentation metadata for Linked Data visualization.
 - [lodspeakr](https://github.com/alangrafu/lodspeakr) - Framework to create Linked Data-based applications.
+- [comunica](https://github.com/comunica/comunica) - Flexible meta query engine for the Web.
 
 ## Tools
 
