@@ -306,6 +306,7 @@ ACTIVE
 - [Avalanche](http://www.ifi.uzh.ch/en/ddis/research/avalanche.html)
 - [FedX](https://github.com/VeritasOS/fedx)
 - [anapsid](https://github.com/anapsid/anapsid) - An adaptive query processing engine for SPARQL endpoints.
+- [luposdate](https://github.com/luposdate/luposdate) - A Semantic Web Database Management System developed by IFIS at the University of Lübeck.
 
 ARCHIVE - inactive projects or old academic projects that may lack soruce code
 
