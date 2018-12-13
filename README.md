@@ -669,6 +669,10 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 
 - [sparql4idea](https://github.com/mattnathan/sparql4idea) - SPARQL language plugin for IntelliJ IDEA.
 
+### Stand-alone
+
+- [Porthole](https://itunes.apple.com/us/app/porthole/id984035787) - Mac SPARQL editor and client
+
 ## Geo
 
 - [LinkedGeoData](https://github.com/GeoKnow/LinkedGeoData)
