@@ -662,10 +662,6 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 
 - [sparql-mode](https://github.com/ljos/sparql-mode)
 
-### Bash
-
-- [rdf.sh](https://github.com/seebi/rdf.sh)
-
 ### IntelliJ
 
 - [sparql4idea](https://github.com/mattnathan/sparql4idea) - SPARQL language plugin for IntelliJ IDEA.
@@ -728,6 +724,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [TurtleValidator](https://github.com/mmlab/TurtleValidator) - A Turtle validator on command line and in browser.
 - [shi3ld-http](https://github.com/lukostaz/shi3ld-http) - Shi3ld for HTTP: Access control for HTTP operations on Linked Data.
 - [babel](https://github.com/aidhog/blabel/) - A library for skolemising (or canonicalising) blank node labels in RDF graphs.
+- [rdf.sh](https://github.com/seebi/rdf.sh) - A multi-tool shell script for doing Semantic Web jobs on the command line.
 
 ## Platforms
 
