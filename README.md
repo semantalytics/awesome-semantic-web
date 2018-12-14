@@ -291,6 +291,7 @@ OS - OpenSource
 - [cqels](https://github.com/KMax/cqels)
 - [morph](https://github.com/jpcik/morph) - Sparql-stream sensor queries.
 - [morph-web](https://github.com/jpcik/morph-web)
+- [sepa](https://github.com/arces-wot/SEPA) - A JAVA implementation of the SPARQL Event Processing Architecture including the engine, APIs and tools.
 
 ### Federated SPARQL
 
