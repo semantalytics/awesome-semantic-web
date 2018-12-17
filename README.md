@@ -562,6 +562,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 
 ### C
 
+- [serd](https://github.com/drobilla/serd) - Lightweight C library for RDF syntax.
 - [librdf](https://github.com/dajobe/librdf) - Redland librdf RDF API and triple stores.
 - [raptor](https://github.com/dajobe/raptor) - Redland Raptor RDF syntax library.
 - [rasqal](https://github.com/dajobe/rasqal) - Redland Rasqal RDF Query Library.
