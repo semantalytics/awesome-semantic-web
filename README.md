@@ -143,7 +143,7 @@ A curated list of various semantic web and linked data resources.
 
 ## Serialization
 
-| Format  | | Description | Mime-type |
+| Format  | Description | Mime-type |
 | :--- | :--- | :---: |
 | [Turtle](https://www.w3.org/TR/turtle/) | Terse RDF Triple Language. | `text/turtle`, `application/x-turtle` |
 | [JSON-LD](https://json-ld.org/) | JSON-based Serialization for Linked Data. | `application/ld+json` |
