@@ -74,6 +74,8 @@ A curated list of various semantic web and linked data resources.
 
 - [OWL 2 Web Ontology Language Document Overview](https://www.w3.org/TR/owl-overview/)
 - [OWL 2 Web Ontology Language Primer](https://www.w3.org/TR/owl-primer/)
+- [manchester](https://www.w3.org/2007/OWL/draft/ED-owl2-manchester-syntax-20081128/)
+- [manchester-syntax-owl](https://github.com/rollxx/manchester-syntax-owl2)
 
 ### SHACL
 
@@ -98,21 +100,6 @@ A curated list of various semantic web and linked data resources.
 - [XHTML+RDFa 1.1 - Third Edition](https://www.w3.org/TR/xhtml-rdfa/)
 - [RDFa Lite 1.1 - Second Edition](https://www.w3.org/TR/rdfa-lite/)
 - [HTML+RDFa 1.1 - Second Edition](https://www.w3.org/TR/html-rdfa/)
-
-### Serialization
-
-- [RDF/XML](https://www.w3.org/TR/REC-rdf-syntax/)
-- [json-ld](https://json-ld.org/)
-- [Turtle](https://www.w3.org/TR/turtle/)
-- [n-triples](https://www.w3.org/TR/n-triples/)
-- [n-quads](https://www.w3.org/TR/n-quads/)
-- [notation3](https://www.w3.org/TeamSubmission/n3/)
-- [trix](http://www.hpl.hp.com/techreports/2004/HPL-2004-56.html)
-- [trig](https://www.w3.org/TR/trig/)
-- [manchester](https://www.w3.org/2007/OWL/draft/ED-owl2-manchester-syntax-20081128/)
-- [manchester-syntax-owl](https://github.com/rollxx/manchester-syntax-owl2)
-- [HDT](https://www.w3.org/Submission/2011/03/)
-- [aREF](https://gbv.github.io/aREF/aREF.html)
 
 ### Tabular
 
@@ -152,6 +139,20 @@ A curated list of various semantic web and linked data resources.
 ### Data Cube extensions
 
 - [QB4ST: RDF Data Cube extensions for spatio-temporal components](https://www.w3.org/TR/qb4st/)
+
+## Serialization
+
+- [Turtle](https://www.w3.org/TR/turtle/) - (`text/turtle`, `application/x-turtle`) Terse RDF Triple Language.
+- [json-ld](https://json-ld.org/) - (`application/ld+json`) JSON-based Serialization for Linked Data.
+- [RDF/XML](https://www.w3.org/TR/REC-rdf-syntax/) - (`application/rdf+xml`, `application/xml`) RDF/XML Syntax Specification.
+- [n-triples](https://www.w3.org/TR/n-triples/) - (`application/n-triples`) Line-based syntax for RDF datasets.
+- [n-quads](https://www.w3.org/TR/n-quads/) - (`application/n-quads`, `text/x-nquads`, `text/nquads`) Line-based syntax for RDF datasets.
+- [notation3](https://www.w3.org/TeamSubmission/n3/) - (`text/n3`, `text/rdf+n3`) Notation3 (N3): A readable RDF syntax.
+- [trix](http://www.hpl.hp.com/techreports/2004/HPL-2004-56.html) - (`application/trix`) RDF Triples in XML.
+- [trig](https://www.w3.org/TR/trig/) - (`application/trig`, `application/x-trig`) Plain text format for serializing named graphs and RDF Datasets.
+- [HDT](https://www.w3.org/Submission/2011/03/) - (`application/x-binary-rdf`) Binary RDF Representation for Publication and Exchange.
+- [aREF](https://gbv.github.io/aREF/aREF.html) - Another RDF Encoding Form.
+- [RDF/JSON](https://www.w3.org/TR/rdf-json/) - (`application/rdf+json`) RDF 1.1 JSON Alternate Serialization.
 
 ## Companies
 
