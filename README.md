@@ -6,6 +6,7 @@ A curated list of various semantic web and linked data resources.
 ## Contents
 
 - [Standards](#standards)
+- [Serialization](#serialization)
 - [Companies](#companies)
 - [Databases](#databases)
 - [Ecosystem](#ecosystem)
@@ -142,17 +143,17 @@ A curated list of various semantic web and linked data resources.
 
 ## Serialization
 
-- [Turtle](https://www.w3.org/TR/turtle/) - (`text/turtle`, `application/x-turtle`) Terse RDF Triple Language.
-- [json-ld](https://json-ld.org/) - (`application/ld+json`) JSON-based Serialization for Linked Data.
-- [RDF/XML](https://www.w3.org/TR/REC-rdf-syntax/) - (`application/rdf+xml`, `application/xml`) RDF/XML Syntax Specification.
-- [n-triples](https://www.w3.org/TR/n-triples/) - (`application/n-triples`) Line-based syntax for RDF datasets.
-- [n-quads](https://www.w3.org/TR/n-quads/) - (`application/n-quads`, `text/x-nquads`, `text/nquads`) Line-based syntax for RDF datasets.
-- [notation3](https://www.w3.org/TeamSubmission/n3/) - (`text/n3`, `text/rdf+n3`) Notation3 (N3): A readable RDF syntax.
-- [trix](http://www.hpl.hp.com/techreports/2004/HPL-2004-56.html) - (`application/trix`) RDF Triples in XML.
-- [trig](https://www.w3.org/TR/trig/) - (`application/trig`, `application/x-trig`) Plain text format for serializing named graphs and RDF Datasets.
-- [HDT](https://www.w3.org/Submission/2011/03/) - (`application/x-binary-rdf`) Binary RDF Representation for Publication and Exchange.
+- [Turtle](https://www.w3.org/TR/turtle/) - Terse RDF Triple Language (`text/turtle`, `application/x-turtle`).
+- [json-ld](https://json-ld.org/) - JSON-based Serialization for Linked Data (`application/ld+json`).
+- [RDF/XML](https://www.w3.org/TR/REC-rdf-syntax/) - RDF/XML Syntax Specification (`application/rdf+xml`, `application/xml`).
+- [n-triples](https://www.w3.org/TR/n-triples/) - Line-based syntax for RDF datasets (`application/n-triples`).
+- [n-quads](https://www.w3.org/TR/n-quads/) - Line-based syntax for RDF datasets (`application/n-quads`, `text/x-nquads`, `text/nquads`).
+- [notation3](https://www.w3.org/TeamSubmission/n3/) - Notation3 (N3): A readable RDF syntax (`text/n3`, `text/rdf+n3`).
+- [trix](http://www.hpl.hp.com/techreports/2004/HPL-2004-56.html) - RDF Triples in XML (`application/trix`).
+- [trig](https://www.w3.org/TR/trig/) - Plain text format for serializing named graphs and RDF Datasets (`application/trig`, `application/x-trig`).
+- [HDT](https://www.w3.org/Submission/2011/03/) - Binary RDF Representation for Publication and Exchange (`application/x-binary-rdf`).
 - [aREF](https://gbv.github.io/aREF/aREF.html) - Another RDF Encoding Form.
-- [RDF/JSON](https://www.w3.org/TR/rdf-json/) - (`application/rdf+json`) RDF 1.1 JSON Alternate Serialization.
+- [RDF/JSON](https://www.w3.org/TR/rdf-json/) - RDF 1.1 JSON Alternate Serialization (`application/rdf+json`).
 
 ## Companies
 
