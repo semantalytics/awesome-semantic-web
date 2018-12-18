@@ -143,7 +143,9 @@ A curated list of various semantic web and linked data resources.
 
 ## Serialization
 
-- [Turtle](https://www.w3.org/TR/turtle/) - Terse RDF Triple Language (`text/turtle`, `application/x-turtle`).
+| Format  | Mime-type |
+| [Turtle](https://www.w3.org/TR/turtle/) - Terse RDF Triple Language. | `text/turtle`, `application/x-turtle` |
+
 - [JSON-LD](https://json-ld.org/) - JSON-based Serialization for Linked Data (`application/ld+json`).
 - [RDF/XML](https://www.w3.org/TR/REC-rdf-syntax/) - RDF/XML Syntax Specification (`application/rdf+xml`, `application/xml`).
 - [N-Triples](https://www.w3.org/TR/n-triples/) - Line-based syntax for RDF datasets (`application/n-triples`).
