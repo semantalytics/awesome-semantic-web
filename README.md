@@ -338,7 +338,6 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [fluent-sparql](https://github.com/stoewer/fluent-sparql)
 - [FlintSparqlEditor](https://github.com/TSO-Openup/FlintSparqlEditor)
 - [reactive-sparql](https://github.com/modelfabric/reactive-sparql)
-- [cysparql](https://github.com/cosminbasca/cysparql) - CySparql is a python wrapper over the excellent rasqal RDF library for parsing SPARQL queries.
 - [sparql-transformer](https://github.com/D2KLab/sparql-transformer)
 - [spanqit](https://github.com/anqit/spanqit) - Java-based SPARQL query generator.
 - [squebi](https://github.com/tkurz/squebi) - Squebi is a SPARQL editor and SPARQL result visualizer.
@@ -555,14 +554,17 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 
 - [RDFlib](https://github.com/RDFLib/rdflib) - Pythonic RDF API.
 - [SPARQLWrapper](https://github.com/RDFLib/sparqlwrapper) - A wrapper for a remote SPARQL endpoint.
+- [sparql-client](https://github.com/eea/sparql-client) - Python API to query a SPARQL endpoint.
 - [RdfAlchemy](https://github.com/gjhiggins/RDFAlchemy)
-- [Fuxi](http://code.google.com/p/fuxi/)
+- [Fuxi](http://code.google.com/p/fuxi/) - Bi-directional logical reasoning system for the semantic web.
+- [pySHACL](https://github.com/RDFLib/pySHACL) - A Python validator for SHACL.
 - [ORDF](http://ordf.org)
-- [Django-rdf](http://code.google.com/p/django-rdf/)
-- [Djubby](http://code.google.com/p/djubby/)
+- [Django-rdf](http://code.google.com/p/django-rdf/) - An RDF engine for Django projects.
+- [Djubby](https://github.com/wikier/djubby) - Linked Data frontend for SPARQL endpoints for Django.
 - [SuRF](http://packages.python.org/SuRF/)
-- [sparta](https://github.com/mnot/sparta/)
+- [sparta](https://github.com/mnot/sparta/) - Simple API for RDF.
 - [rdftools](https://github.com/cosminbasca/rdftools) - Simple collection of python RDF tools.
+- [cysparql](https://github.com/cosminbasca/cysparql) - CySparql is a python wrapper over the excellent rasqal RDF library for parsing SPARQL queries.
 
 ### C
 
