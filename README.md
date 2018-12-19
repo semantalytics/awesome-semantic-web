@@ -247,9 +247,12 @@ TODO
 
 TODO
 
-### Mailing Lists
+### Groups
 
+- [RDF-DEV](https://www.w3.org/community/rdf-dev/) - RDF-DEV COMMUNITY GROUP.
 - [w3c semantic web](https://lists.w3.org/Archives/Public/semantic-web/)
+- [JSON-LD Working Group](https://www.w3.org/2018/json-ld-wg/)
+- [w3c activities](https://www.w3.org/Consortium/activities)
 
 ### Academic Journals
 
