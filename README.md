@@ -748,7 +748,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [prissma-studio](https://github.com/lukostaz/prissma-studio) - PRISSMA Studio: a web application to create Prisms, context-aware presentation metadata for Linked Data visualization.
 - [lodspeakr](https://github.com/alangrafu/lodspeakr) - Framework to create Linked Data-based applications.
 - [comunica](https://github.com/comunica/comunica) - Flexible meta query engine for the Web.
-- [imagesnippets](http://www.imagesnippets.com/) - mageSnippets is a complete metadata editing interface that enables someone who knows little to nothing about RDF, OWL, ontologies, or even URIs to create descriptions for images using Linked Data which is written in RDF.
+- [imagesnippets](http://www.imagesnippets.com/) - ImageSnippets is a complete metadata editing interface that enables someone who knows little to nothing about RDF, OWL, ontologies, or even URIs to create descriptions for images using Linked Data which is written in RDF.
 
 ## Tools
 
