@@ -763,6 +763,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [RDFConvert](https://sourceforge.net/projects/rdfconvert/) - RDFConvert is a simple command-line tool for converting RDF file betweeen different syntax formats.
 - [How to diff RDF](https://www.w3.org/2001/sw/wiki/How_to_diff_RDF)
 - [grlc](https://github.com/CLARIAH/grlc) - Web APIs from SPARQL queries.
+- [Openlink Structured Data Sniffer](http://osds.openlinksw.com/) - Browser extension for Google Chrome, Microsoft Edge, Mozilla Firefox, Opera, and Vivaldi that unveils structured metadata embedded within HTML documents and web pages. 
 
 ## Integrations
 
