@@ -510,6 +510,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [Programming the Semantic Web](http://shop.oreilly.com/product/9780596153823.do)
 - [Building Ontologies with Basic Formal Ontology](https://mitpress.mit.edu/books/building-ontologies-basic-formal-ontology)
 - [Structures for Organizing Knowledge: Exploring Taxonomies, Ontologies, and Other Schema](https://www.amazon.com/Structures-Organizing-Knowledge-Taxonomies-Ontologies/dp/1555706991)
+- [Validating RDF Data](http://book.validatingrdf.com/)
 
 ## Ontology Development
 
