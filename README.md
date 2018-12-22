@@ -594,6 +594,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [sparks](https://github.com/sparksrdf/sparks) - Sparks is a set of JavaScript libraries designed for simplifying the access to RDF data.
 - [SPARQL.js](https://github.com/RubenVerborgh/SPARQL.js/) - A parser for the SPARQL query language in JavaScript.
 - [sparqlalgebrajs](https://github.com/joachimvh/SPARQLAlgebra.js) - SPARQL to SPARQL Algebra converter.
+- [RDForms](https://rdforms.org) - Construct form-based RDF editors in a web environment.
 
 ### C\#
 
@@ -745,6 +746,8 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [shi3ld-http](https://github.com/lukostaz/shi3ld-http) - Shi3ld for HTTP: Access control for HTTP operations on Linked Data.
 - [babel](https://github.com/aidhog/blabel/) - A library for skolemising (or canonicalising) blank node labels in RDF graphs.
 - [rdf.sh](https://github.com/seebi/rdf.sh) - A multi-tool shell script for doing Semantic Web jobs on the command line.
+- [QuitStore](https://github.com/AKSW/QuitStore) - Quads in Git - Distributed Version Control for RDF Knowledge Bases.
+- [QuitDiff](https://github.com/AKSW/QuitDiff) - Git diff into SparQL / Eccrev vocabulary.
 
 ## Platforms
 
@@ -770,6 +773,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [How to diff RDF](https://www.w3.org/2001/sw/wiki/How_to_diff_RDF)
 - [grlc](https://github.com/CLARIAH/grlc) - Web APIs from SPARQL queries.
 - [Openlink Structured Data Sniffer](http://osds.openlinksw.com/) - Browser extension for Google Chrome, Microsoft Edge, Mozilla Firefox, Opera, and Vivaldi that unveils structured metadata embedded within HTML documents and web pages. 
+- [ShacShifter](https://github.com/AKSW/ShacShifter) - Shapes Constraint Language (SHACL) to various other format.
 
 ## Integrations
 
