@@ -82,6 +82,10 @@ A curated list of various semantic web and linked data resources.
 
 - [Shapes Constraint Language](https://www.w3.org/TR/shacl/)
 
+### ShEx
+
+- [ShEx - Shape Expressions](http://shex.io)
+
 ### SPARQL
 
 - [SPARQL 1.1 Overview](https://www.w3.org/TR/sparql11-overview/)
@@ -562,6 +566,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [RdfAlchemy](https://github.com/gjhiggins/RDFAlchemy)
 - [Fuxi](http://code.google.com/p/fuxi/) - Bi-directional logical reasoning system for the semantic web.
 - [pySHACL](https://github.com/RDFLib/pySHACL) - A Python validator for SHACL.
+- [PyShEx](https://github.com/hsolbrig/PyShEx) - ShEx interpreter for ShEx 2.0.
 - [ORDF](http://ordf.org)
 - [Django-rdf](http://code.google.com/p/django-rdf/) - An RDF engine for Django projects.
 - [Djubby](https://github.com/wikier/djubby) - Linked Data frontend for SPARQL endpoints for Django.
