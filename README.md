@@ -211,6 +211,7 @@ F - Free
 - [wallix/triplestore](https://github.com/wallix/triplestore) - Nifty library to manage, query and store RDF triples.
 - [levelgraph](https://github.com/levelgraph/levelgraph) - (OS) Graph database JS style for Node.js and the Browser.
 - [Oxford Semantic RDFox](https://www.oxfordsemantic.tech) - ($) Horizontly scalalbe in-memory triple store with parallel Datalog reasoning.
+- [gStore](https://github.com/pkumod/gStore) - (OS).
 
 ### Academic
 
