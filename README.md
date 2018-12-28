@@ -141,7 +141,7 @@ A curated list of various semantic web and linked data resources.
 - [Linked Data Platform 1.0](https://www.w3.org/TR/ldp/)
 - [Linked Data Platform 1.0 Test Cases](https://dvcs.w3.org/hg/ldpwg/raw-file/tip/tests/ldp-testsuite.html)
 
-### Data Cube extensions
+### Data Cube extensions/
 
 - [QB4ST: RDF Data Cube extensions for spatio-temporal components](https://www.w3.org/TR/qb4st/)
 
@@ -557,6 +557,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [Hobbit](http://project-hobbit.eu/) - Holistic Benchmarking of Big Linked Data.
 - [SP2Bench](http://dbis.informatik.uni-freiburg.de/index.php?project=SP2B)
 - [IGUANA](https://github.com/AKSW/IGUANA) - IGUANA is a benchmark execution framework for triple stores.
+- [SRBench](https://github.com/jpcik/srbench) - A streaming sparql benchmark.
 
 ## Programming
 
