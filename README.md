@@ -170,6 +170,7 @@ A curated list of various semantic web and linked data resources.
 - [Cambridge Semantics](https://www.cambridgesemantics.com/)
 - [Oxford Semantic Technologies](https://www.oxfordsemantic.tech/)
 - [Capsenta](https://capsenta.com/)
+- [Zazuko](https://zazuko.com/)
 
 ## Databases
 
@@ -331,6 +332,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 
 - [sparqlab](https://github.com/jindrichmynarz/sparqlab) - Lab for exercising SPARQL.
 - [SNORQL](https://github.com/kurtjx/SNORQL) - Ajaxy front-end for exploring triple stores.
+- [d3-sparql](https://github.com/zazuko/d3-sparql/) - Query a SPARQL endpoint with a SELECT query and get the data ready to be used with d3js
 - [d3sparql](https://github.com/ktym/d3sparql) - JavaScript library for executing SPARQL query and transforming resulted JSON for visualization in D3.js.
 - [jdbc4sparql](https://github.com/Claudenw/jdbc4sparql) - A JDBC driver that takes data from SPARQL endpoints or RDF graphs.
 - [sparql2xquery](https://github.com/marklogic/sparql2xquery) - SPARQL to XQuery Translator for use with MarkLogic Semantic Toolkit.
@@ -353,6 +355,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [SAFE](https://github.com/yasarkhangithub/SAFE)
 - [Sparql-cli](https://github.com/lambdamusic/Sparql-cli) - Command line API for SPARQL.
 - [snap-sparql-query](https://github.com/protegeproject/snap-sparql-query)
+- [Trifid](https://github.com/zazuko/trifid) - Lightweight Linked Data Server and Proxy
 - [asqc](https://github.com/gklyne/asqc) - SPARQL query client (pronounced "ask").
 - [SPARQL-parser](https://github.com/tenforce/SPARQL-parser)
 - [antlr-sparql-grammar](https://github.com/rollxx/antlr-sparql-grammar)
@@ -454,7 +457,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 #### RML
 
 - [RML](https://github.com/RMLio) - RDF Mapping language for mapping JSON, CSV and XML to RDF.
-- [CARML](https://github.com/carml/carml) - An RML engine in Java.
+- [CARML](https://github.com/carml/carml) - CARML RML engine for mapping CSV, XML and JSON files to RDF
 
 #### Other RDF Mappings
 
@@ -591,6 +594,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [rdf-ext](https://github.com/rdf-ext/rdf-ext)
 - [N3.js](https://github.com/RubenVerborgh/N3.js)
 - [Jessa](https://www.npmjs.com/package/jassa)
+- [RDFJS](https://github.com/rdfjs) - Github Organization that maintains modern JavaScript RDF libraries based on open, maintained standards
 - [rdf.js](https://github.com/webr3/rdf.js)
 - [rdflib.js](https://github.com/linkeddata/rdflib.js) - Linked Data API for JavaScript.
 - [sparks](https://github.com/sparksrdf/sparks) - Sparks is a set of JavaScript libraries designed for simplifying the access to RDF data.
