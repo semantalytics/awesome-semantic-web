@@ -171,6 +171,12 @@ A curated list of various semantic web and linked data resources.
 - [Oxford Semantic Technologies](https://www.oxfordsemantic.tech/)
 - [Capsenta](https://capsenta.com/)
 - [Zazuko](https://zazuko.com/)
+- [MarkLogic](https://www.marklogic.com/product/marklogic-database-overview/database-features/semantics/)
+- [Oracle](https://www.oracle.com/technetwork/database/options/spatialandgraph/overview/rdfsemantic-graph-1902016.html)
+- [OntoText](https://www.ontotext.com/)
+- [TopQuadrant](https://www.topquadrant.com/)
+- [OpenLinkSoftware](https://www.openlinksw.com/)
+- [Cognitum](http://www.cognitum.eu/)
 
 ## Databases
 
