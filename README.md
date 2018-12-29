@@ -7,6 +7,7 @@ A curated list of various semantic web and linked data resources.
 
 - [Standards](#standards)
 - [Serialization](#serialization)
+- [Datatypes](#datatypes)
 - [Companies](#companies)
 - [Databases](#databases)
 - [Ecosystem](#ecosystem)
@@ -160,6 +161,11 @@ A curated list of various semantic web and linked data resources.
 | [TriX](http://www.hpl.hp.com/techreports/2004/HPL-2004-56.html) | RDF Triples in XML. | `application/trix` |
 | [HDT](https://www.w3.org/Submission/2011/03/) | Binary RDF Representation for Publication and Exchange. | `application/x-binary-rdf` |
 | [aREF](https://gbv.github.io/aREF/aREF.html) | Another RDF Encoding Form. | |
+
+## Datatypes
+
+- [Supporting Arbitrary Custom Datatypes in RDF and SPARQL](http://www.maxime-lefrancois.info/research/lindt/)
+- [QUDT](http://www.qudt.org)
 
 ## Companies
 
