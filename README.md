@@ -30,7 +30,7 @@ A curated list of various semantic web and linked data resources.
   - [C](#c)
   - [JavaScript](#javascript)
   - [C\#](#c-1)
-  - [Go-Lang](#go-lang)
+  - [Go](#go)
   - [PHP](#php)
   - [Clojure](#clojure)
   - [Scala](#scala)
@@ -620,7 +620,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [dotNetRDF](https://github.com/dotnetrdf/dotnetrdf)
 - [RDFSharp](https://github.com/mdesalvo/RDFSharp)
 
-### Go-Lang
+### Go
 
 - [knakk/rdf](https://github.com/knakk/rdf)
 - [rdf2go](https://github.com/deiu/rdf2go) - Native golang library for RDF.
