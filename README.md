@@ -622,7 +622,6 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 
 ### Go
 
-- [knakk/rdf](https://github.com/knakk/rdf)
 - [rdf2go](https://github.com/deiu/rdf2go) - Native golang library for RDF.
 - [knakk/rdf](https://github.com/knakk/rdf) - RDF library for Go.
 
