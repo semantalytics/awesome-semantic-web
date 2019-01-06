@@ -431,7 +431,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 
 ### RDB to RDF
 
-- [d2rq](https://github.com/cygri/d2rq) - Database to RDF mapping engine and SPARQL server.
+- [d2rq](https://github.com/d2rq/d2rq) - Database to RDF mapping engine and SPARQL server.
 - [Sparqlify](https://github.com/AKSW/Sparqlify) - Sparql -> SQL Rewriter enabling virtual RDB -> RDF mappings.
 - [Sparqlify-Extendsions](https://github.com/AKSW/Sparqlify-Extensions) - Extension projects for Sparqlify.
 - [quetzal](https://github.com/Quetzal-RDF/quetzal) - SPARQL to SQL translation engine for multiple backends, such as DB2, PostgreSQL and Apache Spark.
