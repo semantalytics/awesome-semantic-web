@@ -56,6 +56,8 @@ A curated list of various semantic web and linked data resources.
 - [Machine Learning](#machine-learning)
 - [WebID](#webid)
 - [Misc](#misc)
+- [Industry]
+- [Jobs]
 
 ## Standards
 
@@ -293,6 +295,7 @@ TODO
 
 - [@csarven](https://twitter.com/csarven)
 - [@danbri](https://twitter.com/danbri)
+- [@danmccreary](https://www.linkedin.com/in/danmccreary/detail/recent-activity/shares/)
 
 ## Knowledge Graph Management
 
@@ -900,3 +903,9 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [Luzzu](https://github.com/Luzzu/Framework/) - A scalable and extensible Linked Data quality assessment framework.
 - [odmtp-tpf](https://github.com/benjimor/odmtp-tpf) - Triple pattern matching over non-RDF datasources with inference .
 - [shacl](https://github.com/TopQuadrant/shacl) - SHACL API in Java based on Apache Jena.
+
+## Industry
+### Health
+- [optum](https://www.optum.com) - known to use semantic graphs (marklogic).
+
+## Jobs
