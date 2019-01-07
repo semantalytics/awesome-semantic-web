@@ -56,8 +56,8 @@ A curated list of various semantic web and linked data resources.
 - [Machine Learning](#machine-learning)
 - [WebID](#webid)
 - [Misc](#misc)
-- [Industry]
-- [Jobs]
+- [Industry](#industry)
+- [Jobs](#jobs)
 
 ## Standards
 
