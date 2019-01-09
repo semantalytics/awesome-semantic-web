@@ -708,6 +708,18 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 
 - [sparql4idea](https://github.com/mattnathan/sparql4idea) - SPARQL language plugin for IntelliJ IDEA.
 
+### TextMate
+
+[sparql/turtle extension](https://github.com/peta/turtle.tmbundle)
+
+### Sublime Text 3
+
+- [Turtle and SPARQL syntax highlighter](https://github.com/abcoates/sublime-text-turtle-sparql)
+
+### BBedit
+
+- [Turtle syntax highlighter](https://github.com/njh/bbedit-turtle)
+
 ## Geo
 
 - [LinkedGeoData](https://github.com/GeoKnow/LinkedGeoData)
@@ -729,6 +741,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [rdfdot](https://github.com/wastl/rdfdot) - Tools for drawing graphs from RDF files with GraphViz.
 - [ontodia](https://github.com/ontodia-org/ontodia) - Ontodia data diagraming library.
 - [rdfpuml](https://github.com/VladimirAlexiev/rdf2rml) - True RDF Diagrams.
+- [Ontology Visualisation](https://github.com/usc-isi-i2/ontology-visualization) - Create graphs from RDF using GraphViz.
 
 ## Data Cube
 
