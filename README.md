@@ -69,6 +69,7 @@ A curated list of various semantic web and linked data resources.
 - [RDF 1.1 Semantics](https://www.w3.org/TR/rdf11-mt/)
 - [RDF 1.1 Concepts and Abstract Syntax](https://www.w3.org/TR/rdf11-concepts/)
 - [RDF 1.1: On Semantics of RDF Datasets](https://www.w3.org/TR/rdf11-datasets/)
+- [RDF Dataset Normalization](https://json-ld.github.io/normalization/spec/)
 
 ### RDFS
 
