@@ -191,7 +191,7 @@ Companies or businesses selling products with a primary focus is semantic web te
 ## Industry
 Companies or businesses using semantic web technologies
 
-- [Optum](https://www.optum.com) - Health. Known to use semantic graphs (marklogic).
+- [Optum](https://www.optum.com) - Health related, known to use semantic graphs (marklogic).
 - [DarkLight](https://www.darklight.ai) - DarkLight is an Artificial Intelligence Expert System for Active Cyber Defense and           Trusted Information Sharing.
 - [Volkswagen UK](https://www.volkswagen.co.uk)
 - [Siemans](https://www.siemens.com)
@@ -202,7 +202,7 @@ Companies or businesses using semantic web technologies
 - [Facebook](http://facebook.com)
 - [BBC](https://www.bbc.com)
 - [NASA](https://www.nasa.gov)
-- [K Health](https://khealth.ai) - Health. Self diagnosing app.
+- [K Health](https://khealth.ai) - Self diagnosing app.
 
 ## Databases
 
