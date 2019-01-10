@@ -9,6 +9,7 @@ A curated list of various semantic web and linked data resources.
 - [Serialization](#serialization)
 - [Datatypes](#datatypes)
 - [Companies](#companies)
+- [Industry](#industry)
 - [Databases](#databases)
 - [Ecosystem](#ecosystem)
 - [Knowledge Graph Management](#knowledge-graph-management)
@@ -56,7 +57,6 @@ A curated list of various semantic web and linked data resources.
 - [Machine Learning](#machine-learning)
 - [WebID](#webid)
 - [Misc](#misc)
-- [Industry](#industry)
 - [Jobs](#jobs)
 
 ## Standards
@@ -171,6 +171,7 @@ A curated list of various semantic web and linked data resources.
 - [QUDT](http://www.qudt.org)
 
 ## Companies
+Companies or businesses selling products with a primary focus is semantic web technology
 
 - [Stardog Union](http://stardog.com) - Knowledge Graph Platform for the Enterprise.
 - [Epimorphics](https://www.epimorphics.com/)
@@ -186,6 +187,21 @@ A curated list of various semantic web and linked data resources.
 - [TopQuadrant](https://www.topquadrant.com/)
 - [OpenLinkSoftware](https://www.openlinksw.com/)
 - [Cognitum](http://www.cognitum.eu/)
+
+## Industry
+Companies or businesses using semantic web technologies
+
+- [optum](https://www.optum.com) - known to use semantic graphs (marklogic).
+- [DarkLight](https://www.darklight.ai/)
+- [Volkswagen UK](https://www.volkswagen.co.uk/)
+- [Siemans](https://www.siemens.com/us/en/home.html)
+- [IBM](http://www.ibm.com)
+- [Elsevier](https://www.elsevier.com/)
+- [BestBuy](http://bestbuy.com)
+- [Google](http://google.com)
+- [Facebook](http://facebook.com)
+- [BBC](https://www.bbc.com/)
+- [NASA](https://www.nasa.gov/)
 
 ## Databases
 
@@ -915,9 +931,5 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [Luzzu](https://github.com/Luzzu/Framework/) - A scalable and extensible Linked Data quality assessment framework.
 - [odmtp-tpf](https://github.com/benjimor/odmtp-tpf) - Triple pattern matching over non-RDF datasources with inference .
 - [shacl](https://github.com/TopQuadrant/shacl) - SHACL API in Java based on Apache Jena.
-
-## Industry
-### Health
-- [optum](https://www.optum.com) - known to use semantic graphs (marklogic).
 
 ## Jobs
