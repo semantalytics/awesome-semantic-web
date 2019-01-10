@@ -291,12 +291,6 @@ TODO
 - [Ontology Engineering Group (OEG)](http://www.oeg-upm.net/) - The Ontology Engineering Group (OEG) is based at the Computer Science School at Universidad Politécnica de Madrid (UPM).
 - [Knowledge Representation and Reasoning Group (KRR)](https://krr.cs.vu.nl/) - Research group is based at the Vrije Universiteit Amsterdam (VU).
 
-### Follow
-
-- [@csarven](https://twitter.com/csarven)
-- [@danbri](https://twitter.com/danbri)
-- [@danmccreary](https://www.linkedin.com/in/danmccreary/detail/recent-activity/shares/)
-
 ## Knowledge Graph Management
 
 $ - Proprietary  
