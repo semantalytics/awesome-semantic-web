@@ -702,6 +702,10 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 
 - [sparql4idea](https://github.com/mattnathan/sparql4idea) - SPARQL language plugin for IntelliJ IDEA.
 
+### Visual Studio Code
+
+- [Stardog RDF Grammars](https://marketplace.visualstudio.com/items?itemName=stardog-union.stardog-rdf-grammars)
+
 ### TextMate
 
 [sparql/turtle extension](https://github.com/peta/turtle.tmbundle)
