@@ -708,7 +708,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 
 ### TextMate
 
-[sparql/turtle extension](https://github.com/peta/turtle.tmbundle)
+- [sparql/turtle extension](https://github.com/peta/turtle.tmbundle)
 
 ### Sublime Text 3
 
