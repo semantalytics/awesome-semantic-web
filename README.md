@@ -191,7 +191,7 @@ Companies or businesses selling products with a primary focus is semantic web te
 ## Industry
 Companies or businesses using semantic web technologies
 
-- [optum](https://www.optum.com) - Health. Known to use semantic graphs (marklogic).
+- [Optum](https://www.optum.com) - Health. Known to use semantic graphs (marklogic).
 - [DarkLight](https://www.darklight.ai) - DarkLight is an Artificial Intelligence Expert System for Active Cyber Defense and           Trusted Information Sharing.
 - [Volkswagen UK](https://www.volkswagen.co.uk)
 - [Siemans](https://www.siemens.com)
@@ -202,6 +202,7 @@ Companies or businesses using semantic web technologies
 - [Facebook](http://facebook.com)
 - [BBC](https://www.bbc.com)
 - [NASA](https://www.nasa.gov)
+- [K Health](https://khealth.ai) - Health. Self diagnosing app.
 
 ## Databases
 
@@ -212,7 +213,7 @@ F - Free
 - [Jena TDB](http://jena.apache.org/documentation/tdb/index.html) - (OS).
 - [Ontotext GraphDB™](http://graphdb.ontotext.com/) - ($/F).
 - [Halyard](https://github.com/Merck/Halyard) - (OS).
-- [Stardog](http://stardog.com) - ($/F).
+- [h](http://stardog.com) - ($/F).
 - [Strabon](http://www.strabon.di.uoa.gr/)
 - [Systap Blazegraph™](https://www.blazegraph.com/) - ($/OS).
   - [docker-blazegraph](https://github.com/zorino/docker-blazegraph)
