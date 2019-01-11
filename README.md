@@ -874,7 +874,6 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [iqvoc](https://github.com/innoq/iqvoc) - SKOS(-XL) Vocabulary Management System for the Semantic Web.
 - [hydra-java](https://github.com/dschulten/hydra-java)
 - [IntervalServer](https://github.com/epimorphics/IntervalServer)
-- [TabLinker](https://github.com/Data2Semantics/TabLinker) - Supervised Excel/CSV to RDF Converter.
 - [jdbc-for-rdf3x](https://github.com/dbiir/jdbc-for-rdf3x)
 - [rdf3x_path](https://github.com/agubichev/rdf3x_path) - RDF3X with path queries.
 - [jqudt](https://github.com/egonw/jqudt) - Java library for working with the QUDT ontology and data using it.
