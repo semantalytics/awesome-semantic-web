@@ -864,6 +864,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 
 ## Misc
 
+- [psps](https://github.com/factsmission/psps) - Personal Structured Publishing Space.
 - [LDIF](https://github.com/wbsg/ldif) - Linked Data Integration Framework.
 - [swrlapi](https://github.com/protegeproject/swrlapi) - The SWRLAPI is a Java API for working with the OWL-based SWRL rule and SQWRL query languages. It includes graphical tools for editing and executing rules and queries.
 - [cp-common-utils](https://github.com/mhgrove/cp-common-utils) - Collection of utilty classes from Clark & Parsia.
