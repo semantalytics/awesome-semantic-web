@@ -636,6 +636,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [SPARQL.js](https://github.com/RubenVerborgh/SPARQL.js/) - A parser for the SPARQL query language in JavaScript.
 - [sparqlalgebrajs](https://github.com/joachimvh/SPARQLAlgebra.js) - SPARQL to SPARQL Algebra converter.
 - [RDForms](https://rdforms.org) - Construct form-based RDF editors in a web environment.
+- [graphy.js](https://github.com/blake-regalia/graphy.js) - A collection of RDF libraries for JavaScript developers with a focus on performance and usability.
 
 ### C\#
 
