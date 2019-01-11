@@ -11,6 +11,7 @@ A curated list of various semantic web and linked data resources.
 - [Companies](#companies)
 - [Industry](#industry)
 - [Databases](#databases)
+- [Linked Data Fragments](#linked-data-fragments)
 - [Ecosystem](#ecosystem)
 - [Knowledge Graph Management](#knowledge-graph-management)
 - [SPARQL Implementations](#sparql-implementations)
@@ -263,6 +264,12 @@ F - Free
 - [LUPOSDATE](https://www.ifis.uni-luebeck.de/index.php?id=luposdate-demo)
 - [DREAM](https://github.com/CMU-Q/DREAM) - DREAM - Distributed RDF Engine with Adaptive Query Planner and Minimal Communication.
 - [RIQ](https://github.com/UMKC-BigDataLab/RIQ) - RIQ is a new software tool for fast processing of SPARQL queries on RDF quadruples.
+
+## Linked Data Fragments
+
+- [Linked Data Fragments](http://linkeddatafragments.org/)
+- [tomayac/ldf-client](https://github.com/tomayac/ldf-client) - Polymer Linked Data Fragments client.
+- [LDFlex](https://github.com/RubenVerborgh/LDflex) - A JavaScript DSL for querying Linked Data on the Web.
 
 ## Ecosystem
 
