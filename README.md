@@ -512,14 +512,13 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [data-cube](https://www.w3.org/TR/vocab-data-cube) - The RDF Data Cube Vocabulary.
 - [pim](https://www.w3.org/2000/10/swap/pim/contact)
 - [dqv](http://www.w3.org/ns/dqv#) - Vocabulary for describing quality metadata.
-- [PROV-O](https://www.w3.org/TR/prov-o/) - Represent provenance information.
-
-### Common
-
-- [foaf](http://www.foaf-project.org/) - Friend of a Friend (FOAF) ontology.
+- [prov-o](https://www.w3.org/TR/prov-o/) - Represent provenance information.
+- [dcat](https://www.w3.org/TR/vocab-dcat/) - DCAT is an RDF vocabulary designed to facilitate interoperability between data catalogs published on the Web.
+- [prof](https://w3c.github.io/dxwg/profilesont/) The Profiles Ontology is an RDF vocabulary to describe profiles of (one or more) standards for information resources.
 
 ### Community
 
+- [foaf](http://www.foaf-project.org/) - Friend of a Friend (FOAF) ontology.
 - [uberon](http://uberon.github.io) - Integrated cross-species ontology covering anatomical structures in animals.
 - [juso-ontology](http://rdfs.co/juso/latest/html) - Vocabulary for describing geographical addresses and features.
 - [obo-relations](http://obofoundry.org/ontology/ro.html) - Relation Ontology. Relationship types shared across multiple ontologies.
@@ -537,6 +536,8 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [SPAR](http://www.sparontologies.net) - Semantic Publishing and Referencing Ontologies.
 - [BFO](http://basic-formal-ontology.org) - Basic Formal Ontology.
 - [VIVO ISF](https://wiki.duraspace.org/display/VTDA/VIVO-ISF+Ontology) - Researchers and the full context in which they work.
+- [yago](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/yago/) YAGO is a huge semantic knowledge base, derived from Wikipedia WordNet and GeoNames.
+- [dbpedia](http://dbpedia.org/ontology/)
 
 ### Educational
 
