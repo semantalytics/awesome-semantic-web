@@ -573,7 +573,6 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [elephant-reasoner](https://github.com/sertkaya/elephant-reasoner)
 - [HyLAR](https://github.com/ucbl/HyLAR-Reasoner)
 - [ruby-rdf/rdf-reasoner](https://github.com/ruby-rdf/rdf-reasoner)
-- [pellet](https://github.com/lepfhty/pellet) - Pallet reasoner (old version).
 
 ## Benchmarks
 
