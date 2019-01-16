@@ -315,6 +315,7 @@ TODO
 - [DICE: Data Science Group](http://dice.cs.uni-paderborn.de/about/) - Universität Paderborn.
 - [Ontology Engineering Group (OEG)](http://www.oeg-upm.net/) - The Ontology Engineering Group (OEG) is based at the Computer Science School at Universidad Politécnica de Madrid (UPM).
 - [Knowledge Representation and Reasoning Group (KRR)](https://krr.cs.vu.nl/) - Research group is based at the Vrije Universiteit Amsterdam (VU).
+- [eXascale Infolab](https://exascale.info/) - eXascale Infolab, University of Fribourg, Switzerland.
 
 ## Knowledge Graph Management
 
