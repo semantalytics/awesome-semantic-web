@@ -545,6 +545,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [MMOntologies](https://github.com/gatemezing/MMOntologies) - Multimedia ontologies studied for the paper "The Landscape of Multimedia Ontologies in the last Decade".
 - [Wine](https://www.quora.com/What-is-wine-ontology) - Wine Ontology is a popular example of an OWL ontology.
 - [Pizza](http://owl.cs.manchester.ac.uk/publications/talks-and-tutorials/protg-owl-tutorial/) - A step-by-step guide to modelling in OWL using the popular Protégé OWL tools.
+- [W3C Best Practices for Publishing Linked Data](https://www.w3.org/TR/ld-bp/)
 
 ## Books
 
