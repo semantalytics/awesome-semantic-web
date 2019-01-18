@@ -874,6 +874,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 
 ## Misc
 
+- [n3pygments](https://github.com/gniezen/n3pygments) - Pygments lexer to perform syntax highlighting for N3, Turtle and SPARQL.
 - [levelgraph-n3](https://github.com/levelgraph/levelgraph-n3) - LevelGraph plugin for storing N3/Turtle/RDF data.
 - [psps](https://github.com/factsmission/psps) - Personal Structured Publishing Space.
 - [LDIF](https://github.com/wbsg/ldif) - Linked Data Integration Framework.
