@@ -251,7 +251,7 @@ F - Free
 ### Academic
 
 - [TripleRush](https://github.com/uzh/triplerush) - (OS).
-- [Corese](http://wimmics.inria.fr/corese) - (OS).
+- [corese](https://github.com/Wimmics/corese) - (OS).
 - [rdf3x](https://code.google.com/archive/p/rdf3x/) - (OS).
 - [gh-rdf3x](https://github.com/gh-rdf3x/gh-rdf3x) - (OS).
 - [rdf3x-mpi](https://bitbucket.org/saikrishnan/rdf3x-mpi)
@@ -317,6 +317,7 @@ TODO
 - [Ontology Engineering Group (OEG)](http://www.oeg-upm.net/) - The Ontology Engineering Group (OEG) is based at the Computer Science School at Universidad Politécnica de Madrid (UPM).
 - [Knowledge Representation and Reasoning Group (KRR)](https://krr.cs.vu.nl/) - Research group is based at the Vrije Universiteit Amsterdam (VU).
 - [eXascale Infolab](https://exascale.info/) - eXascale Infolab, University of Fribourg, Switzerland.
+- [Wimmics](http://wimmics.inria.fr/corese) - Wimmics stands for Web-Instrumented Man-Machine Interactions, Communities, and Semantics, a joint research team between INRIA Sophia Antipolis - Méditerranée and I3S (CNRS and Université Côte d'Azur).
 
 ## Knowledge Graph Management
 
