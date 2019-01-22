@@ -848,6 +848,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [Imperium](https://github.com/mhgrove/Imperium) - Imperium is a plugin for the Play! framework similar to the existing JPA plugin that allows the use of Empire seamlessly in a Play! based application.
 - [jekyll-rdf](https://github.com/white-gecko/jekyll-rdf) - A Jekyll plugin for including RDF data in your static site.
 - [RightField](https://github.com/myGrid/RightField) - RightField is an open-source tool for adding ontology term selection to Excel spreadsheets.
+- [mu-semtech](https://github.com/mu-semtech) - An Ecosystem of User-facing Microservices supported by Semantic Models.
 
 ## Machine Learning
 
