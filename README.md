@@ -187,6 +187,8 @@ Companies or businesses selling products with a primary focus is semantic web te
 - [TopQuadrant](https://www.topquadrant.com/)
 - [OpenLinkSoftware](https://www.openlinksw.com/)
 - [Cognitum](http://www.cognitum.eu/)
+- [entryscape](https://entryscape.com)
+
 
 ## Industry
 Companies or businesses using semantic web technologies
