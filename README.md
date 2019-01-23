@@ -171,6 +171,7 @@ A curated list of various semantic web and linked data resources.
 
 - [CDT](https://ci.mines-stetienne.fr/lindt/v2/custom_datatypes.html)
 - [QUDT](http://www.qudt.org)
+- [RDF Datatyping](http://infolab.stanford.edu/~melnik/rdf/datatyping/) - This document summarizes the common understanding of the RDF Core Working Group (further referred to as WG) with regards to the theoretical foundation for datatyping of literal values and serves as a basis of definition, discussion, and comparison of all proposed schemes for achieving a complete datatyping solution which are to be considered by the WG.
 
 ## Companies
 Companies or businesses selling products with a primary focus is semantic web technology
