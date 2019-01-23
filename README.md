@@ -147,7 +147,7 @@ A curated list of various semantic web and linked data resources.
 - [Linked Data Platform 1.0](https://www.w3.org/TR/ldp/)
 - [Linked Data Platform 1.0 Test Cases](https://dvcs.w3.org/hg/ldpwg/raw-file/tip/tests/ldp-testsuite.html)
 
-### Data Cube extensions/
+### Data Cube extensions
 
 - [QB4ST: RDF Data Cube extensions for spatio-temporal components](https://www.w3.org/TR/qb4st/)
 
