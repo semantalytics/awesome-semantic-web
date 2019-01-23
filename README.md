@@ -551,6 +551,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [Wine](https://www.quora.com/What-is-wine-ontology) - Wine Ontology is a popular example of an OWL ontology.
 - [Pizza](http://owl.cs.manchester.ac.uk/publications/talks-and-tutorials/protg-owl-tutorial/) - A step-by-step guide to modelling in OWL using the popular Protégé OWL tools.
 - [W3C Best Practices for Publishing Linked Data](https://www.w3.org/TR/ld-bp/)
+- [Coursera - Web of Data](https://www.coursera.org/learn/web-data/) - A joint initiative between EIT Digital, Université de Nice Sophia-Antipolis / Université Côte d'Azur and INRIA - introduces the Linked Data standards and principles that provide the foundation of the Semantic web.
 
 ## Books
 
