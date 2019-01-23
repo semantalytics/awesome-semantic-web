@@ -274,6 +274,7 @@ F - Free
 - [Linked Data Fragments](http://linkeddatafragments.org/)
 - [tomayac/ldf-client](https://github.com/tomayac/ldf-client) - Polymer Linked Data Fragments client.
 - [LDFlex](https://github.com/RubenVerborgh/LDflex) - A JavaScript DSL for querying Linked Data on the Web.
+- [communica](http://comunica.linkeddatafragments.org/) - A modular framework for querying Linked Data on the Web.
 
 ## Ecosystem
 
