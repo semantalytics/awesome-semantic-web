@@ -169,7 +169,7 @@ A curated list of various semantic web and linked data resources.
 
 ## Datatypes
 
-- [Supporting Arbitrary Custom Datatypes in RDF and SPARQL](http://www.maxime-lefrancois.info/research/lindt/)
+- [CDT](https://ci.mines-stetienne.fr/lindt/v2/custom_datatypes.html)
 - [QUDT](http://www.qudt.org)
 
 ## Companies
