@@ -86,6 +86,7 @@ A curated list of various semantic web and linked data resources.
 
 - [Shapes Constraint Language](https://www.w3.org/TR/shacl/)
 - [SHACL Advanced Features](https://www.w3.org/TR/shacl-af/)
+- [SHACL JavaScript Extensions](https://www.w3.org/TR/shacl-js/)
 
 ### ShEx
 
