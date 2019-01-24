@@ -57,6 +57,7 @@ A curated list of various semantic web and linked data resources.
 - [Integrations](#integrations)
 - [Machine Learning](#machine-learning)
 - [WebID](#webid)
+- [SHACL Implementations](#shacl-implementations)
 - [Misc](#misc)
 
 ## Standards
@@ -87,6 +88,8 @@ A curated list of various semantic web and linked data resources.
 - [Shapes Constraint Language](https://www.w3.org/TR/shacl/)
 - [SHACL Advanced Features](https://www.w3.org/TR/shacl-af/)
 - [SHACL JavaScript Extensions](https://www.w3.org/TR/shacl-js/)
+- [SHACL Test Suite and Implementation Report](https://w3c.github.io/data-shapes/data-shapes-test-suite/#test-cases-format-and-process)
+
 
 ### ShEx
 
@@ -617,7 +620,6 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [sparql-client](https://github.com/eea/sparql-client) - Python API to query a SPARQL endpoint.
 - [RdfAlchemy](https://github.com/gjhiggins/RDFAlchemy)
 - [Fuxi](http://code.google.com/p/fuxi/) - Bi-directional logical reasoning system for the semantic web.
-- [pySHACL](https://github.com/RDFLib/pySHACL) - A Python validator for SHACL.
 - [PyShEx](https://github.com/hsolbrig/PyShEx) - ShEx interpreter for ShEx 2.0.
 - [ORDF](http://ordf.org)
 - [Django-rdf](http://code.google.com/p/django-rdf/) - An RDF engine for Django projects.
@@ -883,6 +885,12 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [webid-spec](https://github.com/webid-community/webid-spec)
 - [node-webid](https://github.com/magnetik/node-webid)
 
+## SHACL Implementations
+- [TopQuadrant/shacl](https://github.com/TopQuadrant/shacl) - SHACL API in Java based on Apache Jena.
+- [RDFunit](https://github.com/AKSW/RDFUnit/)
+- [labra/shaclex](https://github.com/labra/shaclex)
+- [pySHACL](https://github.com/RDFLib/pySHACL) - A Python validator for SHACL.
+
 ## Misc
 
 - [n3pygments](https://github.com/gniezen/n3pygments) - Pygments lexer to perform syntax highlighting for N3, Turtle and SPARQL.
@@ -954,5 +962,4 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [jsonld-java](https://github.com/jsonld-java/jsonld-java) - JSON-LD implementation for Java.
 - [Luzzu](https://github.com/Luzzu/Framework/) - A scalable and extensible Linked Data quality assessment framework.
 - [odmtp-tpf](https://github.com/benjimor/odmtp-tpf) - Triple pattern matching over non-RDF datasources with inference .
-- [shacl](https://github.com/TopQuadrant/shacl) - SHACL API in Java based on Apache Jena.
 - [ISWCRecursive](https://github.com/alanezz/ISWCRecursive)
