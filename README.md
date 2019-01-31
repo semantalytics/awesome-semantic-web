@@ -964,3 +964,5 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [Luzzu](https://github.com/Luzzu/Framework/) - A scalable and extensible Linked Data quality assessment framework.
 - [odmtp-tpf](https://github.com/benjimor/odmtp-tpf) - Triple pattern matching over non-RDF datasources with inference .
 - [ISWCRecursive](https://github.com/alanezz/ISWCRecursive)
+- [semantic-graphql](https://github.com/nelson-ai/semantic-graphql)
+- [hypergraphql](https://github.com/semantic-integration/hypergraphql)
