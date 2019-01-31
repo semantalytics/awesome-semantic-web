@@ -575,6 +575,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 
 - [protégé](http://protege.stanford.edu) - Ontology editor and framework for building intelligent systems.
 - [OntoVerbal](https://github.com/TheOntologist/OntoVerbal) - OntoVerbal is a Protege 4.2 plugin that generates natural language descriptions for classes for an ontology written in OWL.
+- [OTTR](https://ottr.xyz) - Reasonable Ontology Templates.
 
 ## Reasoners
 
