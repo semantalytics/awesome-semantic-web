@@ -967,3 +967,4 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [ISWCRecursive](https://github.com/alanezz/ISWCRecursive)
 - [semantic-graphql](https://github.com/nelson-ai/semantic-graphql)
 - [hypergraphql](https://github.com/semantic-integration/hypergraphql)
+- [motools](https://github.com/motools) - Music ontology tools
