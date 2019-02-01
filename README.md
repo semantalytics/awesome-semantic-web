@@ -877,6 +877,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [ODCS](https://github.com/mff-uk/ODCS) - The tool uses data processing pipelines for obtaining, processing, and storing RDF data.
 - [etalis](https://github.com/sspider/etalis) - Event Processing SPARQL (EP-SPARQL).
 - [graph-pattern-learner](https://github.com/RDFLib/graph-pattern-learner) - Evolutionary Graph Pattern Learner that learns SPARQL queries for a given set of source-target-pairs from an endpoint.
+- [Sieve](sieve.wbsg.de) - Sieve - Linked Data Quality Assessment and Fusion.
 
 ## WebID
 
