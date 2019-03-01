@@ -848,7 +848,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [grlc](https://github.com/CLARIAH/grlc) - Web APIs from SPARQL queries.
 - [Openlink Structured Data Sniffer](http://osds.openlinksw.com/) - Browser extension for Google Chrome, Microsoft Edge, Mozilla Firefox, Opera, and Vivaldi that unveils structured metadata embedded within HTML documents and web pages. 
 - [ShacShifter](https://github.com/AKSW/ShacShifter) - Shapes Constraint Language (SHACL) to various other format.
-
+- [prefix.cc](https://prefix.cc) - namespace lookup for RDF developers
 ## Integrations
 
 - [anthelion](https://github.com/yahoo/anthelion) - A plugin for Apache Nutch to crawl semantic annotations within HTML pages.
