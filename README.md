@@ -3,6 +3,8 @@
 
 A curated list of various semantic web and linked data resources.
 
+To add something to the list please either submit a pull request or add a comment with a link to [issues/awesomelets](https://github.com/semantalytics/issues/81). Pull requests will be evaluated immediately for inclusion while posts while awesomelets will be evaluated at some indeterminate time in the future. 
+
 ## Contents
 
 - [Standards](#standards)
