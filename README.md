@@ -297,14 +297,6 @@ F - Free
 - [Planet RDF](http://planetrdf.com)
 - [Jörn's Blog](https://joernhees.de/blog/)
 
-### Podcasts
-
-TODO
-
-### Meetups
-
-TODO
-
 ### Groups
 
 - [RDF-DEV](https://www.w3.org/community/rdf-dev/) - RDF-DEV COMMUNITY GROUP.
