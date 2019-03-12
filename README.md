@@ -372,6 +372,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 
 ### SPARQL Applications
 
+- [SPARQL2Git](https://github.com/albertmeronyo/SPARQL2Git) - Easily store and curate SPARQL queries (and their associated Linked Data APIs) in GitHub.
 - [sparql-transformer](https://github.com/D2KLab/sparql-transformer) - A generic JSON-LD transformer.
 - [sparqlab](https://github.com/jindrichmynarz/sparqlab) - Lab for exercising SPARQL.
 - [SNORQL](https://github.com/kurtjx/SNORQL) - Ajaxy front-end for exploring triple stores.
