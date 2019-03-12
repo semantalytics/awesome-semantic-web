@@ -198,7 +198,7 @@ Companies or businesses selling products with a primary focus is semantic web te
 - [OpenLinkSoftware](https://www.openlinksw.com/)
 - [Cognitum](http://www.cognitum.eu/)
 - [entryscape](https://entryscape.com)
-
+- [zazuko](https://zazuko.com/)
 
 ## Industry
 Companies or businesses using semantic web technologies
