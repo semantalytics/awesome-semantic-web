@@ -372,6 +372,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 
 ### SPARQL Applications
 
+- [sparql-transformer](https://github.com/D2KLab/sparql-transformer) - A generic JSON-LD transformer.
 - [sparqlab](https://github.com/jindrichmynarz/sparqlab) - Lab for exercising SPARQL.
 - [SNORQL](https://github.com/kurtjx/SNORQL) - Ajaxy front-end for exploring triple stores.
 - [d3-sparql](https://github.com/zazuko/d3-sparql/) - Query a SPARQL endpoint with a SELECT query and get the data ready to be used with d3js
