@@ -612,6 +612,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [foafssl-java](https://github.com/bblfish/foafssl-java)
 - [soarql-dl-api](https://github.com/protegeproject/sparql-dl-api) - A query engine for SPARQL-DL.
 - [nxparser](https://github.com/nxparser/nxparser) - Java parsers for different RDF serialisations + API + tools + JAX-RS integration.
+- [Eclipse Lyo](https://www.eclipse.org/lyo/)
 
 ### Python
 
