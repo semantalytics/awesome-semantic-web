@@ -258,6 +258,7 @@ F - Free
 - [Oxford Semantic RDFox](https://www.oxfordsemantic.tech) - ($) Horizontly scalalbe in-memory triple store with parallel Datalog reasoning.
 - [gStore](https://github.com/pkumod/gStore) - (OS).
 - [ostrich](https://github.com/rdfostrich/ostrich) - (OS) bird Versioned RDF triple store (Offset-enabled TRIple store for CHangesets).
+- [NitrosBase](http://nitrosbase.com/) - (?)
 
 ### Academic
 
