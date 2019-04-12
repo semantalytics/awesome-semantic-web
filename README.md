@@ -216,6 +216,20 @@ Companies or businesses using semantic web technologies
 - [NASA](https://www.nasa.gov)
 - [K Health](https://khealth.ai) - Self diagnosing app.
 
+### Research Institutions
+
+- [The Smart Data Analytics (SDA)](http://sda.tech/) - Research group, Institute for Computer Science at the University of Bonn, the Fraunhofer Institute for Intelligent Analysis and Information Systems (IAIS) and the Institute for Applied Computer Science Leipzig.
+- [Agile Knowledge Engineering and Semantic Web (AKSW)](http://aksw.org) - The Research Group Agile Knowledge Engineering and Semantic Web (AKSW) is hosted by the Chair of Business Information Systems (BIS) of the Institute of Computer Science (IfI) / University of Leipzig as well as the Institute for Applied Informatics (InfAI).
+- [University of Zurich Dynamic and Distributed Information Systems Group](http://www.ifi.uzh.ch/en/ddis.html)
+- [WESO](http://www.weso.es/) - WESO is a research group at the University of Oviedo founded in 2004.
+- [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/) - Department D5 of the Max Planck Institute for Informatics.
+- [DICE: Data Science Group](http://dice.cs.uni-paderborn.de/about/) - Universität Paderborn.
+- [Ontology Engineering Group (OEG)](http://www.oeg-upm.net/) - The Ontology Engineering Group (OEG) is based at the Computer Science School at Universidad Politécnica de Madrid (UPM).
+- [Knowledge Representation and Reasoning Group (KRR)](https://krr.cs.vu.nl/) - Research group is based at the Vrije Universiteit Amsterdam (VU).
+- [eXascale Infolab](https://exascale.info/) - eXascale Infolab, University of Fribourg, Switzerland.
+- [Wimmics](http://wimmics.inria.fr/corese) - Wimmics stands for Web-Instrumented Man-Machine Interactions, Communities, and Semantics, a joint research team between INRIA Sophia Antipolis - Méditerranée and I3S (CNRS and Université Côte d'Azur).
+- [Data Semantics Lab](https://dase.cs.wright.edu/) - Data Semantics Lab, Wright State University
+
 ## Databases
 
 $ - Proprietary  
@@ -310,19 +324,6 @@ F - Free
 - [Semantic Web Journal](http://www.semantic-web-journal.net/)
 - [Journal of Web Semantics](https://www.journals.elsevier.com/journal-of-web-semantics)
 - [International Journal of Web and Semantic Technology](http://www.airccse.org/journal/ijwest/ijwest.html)
-
-### Research Institutions
-
-- [The Smart Data Analytics (SDA)](http://sda.tech/) - Research group, Institute for Computer Science at the University of Bonn, the Fraunhofer Institute for Intelligent Analysis and Information Systems (IAIS) and the Institute for Applied Computer Science Leipzig.
-- [Agile Knowledge Engineering and Semantic Web (AKSW)](http://aksw.org) - The Research Group Agile Knowledge Engineering and Semantic Web (AKSW) is hosted by the Chair of Business Information Systems (BIS) of the Institute of Computer Science (IfI) / University of Leipzig as well as the Institute for Applied Informatics (InfAI).
-- [University of Zurich Dynamic and Distributed Information Systems Group](http://www.ifi.uzh.ch/en/ddis.html)
-- [WESO](http://www.weso.es/) - WESO is a research group at the University of Oviedo founded in 2004.
-- [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/) - Department D5 of the Max Planck Institute for Informatics.
-- [DICE: Data Science Group](http://dice.cs.uni-paderborn.de/about/) - Universität Paderborn.
-- [Ontology Engineering Group (OEG)](http://www.oeg-upm.net/) - The Ontology Engineering Group (OEG) is based at the Computer Science School at Universidad Politécnica de Madrid (UPM).
-- [Knowledge Representation and Reasoning Group (KRR)](https://krr.cs.vu.nl/) - Research group is based at the Vrije Universiteit Amsterdam (VU).
-- [eXascale Infolab](https://exascale.info/) - eXascale Infolab, University of Fribourg, Switzerland.
-- [Wimmics](http://wimmics.inria.fr/corese) - Wimmics stands for Web-Instrumented Man-Machine Interactions, Communities, and Semantics, a joint research team between INRIA Sophia Antipolis - Méditerranée and I3S (CNRS and Université Côte d'Azur).
 
 ## Knowledge Graph Management
 
