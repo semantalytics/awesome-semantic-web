@@ -49,6 +49,7 @@ Looking for something but can't find it? Add it to the ["Does it exist"](https:/
   - [Perl](#perl)
   - [Haskell](#haskell)
   - [OCamel](#ocamel)
+  - [Kotlin](#kotlin)
 - [Editors](#editors)
 - [Geo](#geo-1)
 - [Visualization](#visualization)
@@ -728,6 +729,10 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 ### OCamel
 
 - [ocaml-rdf](https://www.good-eris.net/ocaml-rdf/) - Manipulate RDF graphs and execute Sparql queries.
+
+### Kotlin
+
+- [kotlin-rdf](https://github.com/nicholashauschild/kotlin-rdf)
 
 ## Editors
 
