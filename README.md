@@ -455,6 +455,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 
 ### Object to RDF Mapping
 
+- [PA4RDF](https://github.com/Claudenw/PA4RDF)
 - [Empire](https://github.com/mhgrove/Empire/)
 - [Pinto](https://github.com/stardog-union/pinto)
 - [Som(m)er](https://github.com/bblfish/sommer)
