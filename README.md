@@ -856,6 +856,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [Openlink Structured Data Sniffer](http://osds.openlinksw.com/) - Browser extension for Google Chrome, Microsoft Edge, Mozilla Firefox, Opera, and Vivaldi that unveils structured metadata embedded within HTML documents and web pages. 
 - [ShacShifter](https://github.com/AKSW/ShacShifter) - Shapes Constraint Language (SHACL) to various other format.
 - [prefix.cc](https://prefix.cc) - namespace lookup for RDF developers
+
 ## Integrations
 
 - [anthelion](https://github.com/yahoo/anthelion) - A plugin for Apache Nutch to crawl semantic annotations within HTML pages.
@@ -896,10 +897,12 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [node-webid](https://github.com/magnetik/node-webid)
 
 ## SHACL Implementations
+
 - [TopQuadrant/shacl](https://github.com/TopQuadrant/shacl) - SHACL API in Java based on Apache Jena.
 - [RDFunit](https://github.com/AKSW/RDFUnit/)
 - [labra/shaclex](https://github.com/labra/shaclex)
 - [pySHACL](https://github.com/RDFLib/pySHACL) - A Python validator for SHACL.
+- [rdf4j-shacl](http://docs.rdf4j.org/programming/#_validation_with_shacl)
 
 ## Misc
 
