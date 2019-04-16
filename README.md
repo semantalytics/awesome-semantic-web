@@ -460,7 +460,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [Som(m)er](https://github.com/bblfish/sommer)
 - [jennabean](https://code.google.com/p/jenabean/)
 - [Alibaba](https://bitbucket.org/openrdf/alibaba)
-- [rdfbeans](http://rdfbeans.sourceforge.net/)
+- [rdfbeans](https://github.com/cyberborean/rdfbeans)
 - [surfrdf](https://github.com/cosminbasca/surfrdf) - SuRF: a python Object RDF Mapper (ORM).
 - [jtriple](https://github.com/konradreiche/jtriple) - A Java object model binding for RDF.
 - [sparql-template](https://github.com/gushakov/sparql-template) - RDF store traversal with Jena API via automatic mapping between POJO and SPARQL. 
