@@ -207,7 +207,7 @@ Companies or businesses using semantic web technologies
 - [Optum](https://www.optum.com) - Health related, known to use semantic graphs (marklogic).
 - [DarkLight](https://www.darklight.ai) - DarkLight is an Artificial Intelligence Expert System for Active Cyber Defense and           Trusted Information Sharing.
 - [Volkswagen UK](https://www.volkswagen.co.uk)
-- [Siemans](https://www.siemens.com)
+- [Siemens](https://www.siemens.com)
 - [IBM](http://www.ibm.com)
 - [Elsevier](https://www.elsevier.com) - Global information analytics business that helps institutions and professionals advance healthcare, open science and improve performance for the benefit of humanity
 - [BestBuy](http://bestbuy.com)
@@ -240,7 +240,7 @@ F - Free
 - [Jena TDB](http://jena.apache.org/documentation/tdb/index.html) - (OS).
 - [Ontotext GraphDB™](http://graphdb.ontotext.com/) - ($/F).
 - [Halyard](https://github.com/Merck/Halyard) - (OS).
-- [h](http://stardog.com) - ($/F).
+- [Stardog](http://stardog.com) - ($/F).
 - [Strabon](http://www.strabon.di.uoa.gr/)
 - [Systap Blazegraph™](https://www.blazegraph.com/) - ($/OS).
   - [docker-blazegraph](https://github.com/zorino/docker-blazegraph)
