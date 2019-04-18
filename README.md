@@ -50,6 +50,7 @@ Looking for something but can't find it? Add it to the ["Does it exist"](https:/
   - [Haskell](#haskell)
   - [OCamel](#ocamel)
   - [Kotlin](#kotlin)
+  - [Elixir](#elixir)
 - [Editors](#editors)
 - [Geo](#geo-1)
 - [Visualization](#visualization)
@@ -734,6 +735,10 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 ### Kotlin
 
 - [kotlin-rdf](https://github.com/nicholashauschild/kotlin-rdf)
+
+### Elixir
+
+- [RDF.ex](https://github.com/marcelotto/rdf-ex)
 
 ## Editors
 
