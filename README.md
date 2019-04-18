@@ -31,26 +31,26 @@ Looking for something but can't find it? Add it to the ["Does it exist"](https:/
 - [Reasoners](#reasoners)
 - [Benchmarks](#benchmarks)
 - [Programming](#programming)
-  - [Java](#java)
-  - [Python](#python)
   - [C](#c)
-  - [JavaScript](#javascript)
   - [C\#](#c-1)
-  - [Go](#go)
-  - [PHP](#php)
   - [Clojure](#clojure)
-  - [Scala](#scala)
+  - [Elixir](#elixir)
+  - [Go](#go)
   - [Groovy](#groovy)
+  - [Haskell](#haskell)
+  - [Java](#java)
+  - [JavaScript](#javascript)
+  - [Kotlin](#kotlin)
+  - [ObjectiveC](#objectivec)
+  - [OCamel](#ocamel)
+  - [Perl](#perl)
+  - [PHP](#php)
+  - [Prolog](#prolog)
+  - [Python](#python)
   - [R](#r)
   - [Ruby](#ruby)
+  - [Scala](#scala)
   - [Swift](#swift)
-  - [ObjectiveC](#objectivec)
-  - [Prolog](#prolog)
-  - [Perl](#perl)
-  - [Haskell](#haskell)
-  - [OCamel](#ocamel)
-  - [Kotlin](#kotlin)
-  - [Elixir](#elixir)
 - [Editors](#editors)
 - [Geo](#geo-1)
 - [Visualization](#visualization)
@@ -609,6 +609,44 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 
 ## Programming
 
+### C
+
+- [serd](https://github.com/drobilla/serd) - Lightweight C library for RDF syntax.
+- [librdf](https://github.com/dajobe/librdf) - Redland librdf RDF API and triple stores.
+- [raptor](https://github.com/dajobe/raptor) - Redland Raptor RDF syntax library.
+- [rasqal](https://github.com/dajobe/rasqal) - Redland Rasqal RDF Query Library.
+
+### C\#
+
+- [dotNetRDF](https://github.com/dotnetrdf/dotnetrdf)
+- [RDFSharp](https://github.com/mdesalvo/RDFSharp)
+
+### Clojure
+
+- [grafter](https://github.com/Swirrl/grafter) - Linked Data & RDF Manufacturing Tools in Clojure.
+- [kr](https://github.com/drlivingston/kr) - Clojure API for RDF and SPARQL - provides consistent access to APIs including Jena and Sesame.
+- [clj-plaza](https://github.com/antoniogarrote/clj-plaza) - Clojure rdf framework.
+- [seabass](https://github.com/ryankohl/seabass) - A library for working with RDF with Jena in Clojure.
+
+### Elixir
+
+- [RDF.ex](https://github.com/marcelotto/rdf-ex)
+
+### Go
+
+- [rdf2go](https://github.com/deiu/rdf2go) - Native golang library for RDF.
+- [knakk/rdf](https://github.com/knakk/rdf) - RDF library for Go.
+
+### Groovy
+
+- [groovyrdf](https://github.com/angelo-v/groovyrdf)
+
+### Haskell
+
+- [rdf4h](https://github.com/robstewart57/rdf4h)
+- [swish](https://bitbucket.org/doug_burke/swish/wiki/Home)
+- [hsparql](https://github.com/robstewart57/hsparql)
+
 ### Java
 
 - [RDF4J](http://rdf4j.org)
@@ -618,29 +656,6 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [soarql-dl-api](https://github.com/protegeproject/sparql-dl-api) - A query engine for SPARQL-DL.
 - [nxparser](https://github.com/nxparser/nxparser) - Java parsers for different RDF serialisations + API + tools + JAX-RS integration.
 - [Eclipse Lyo](https://www.eclipse.org/lyo/)
-
-### Python
-
-- [RDFlib](https://github.com/RDFLib/rdflib) - Pythonic RDF API.
-- [SPARQLWrapper](https://github.com/RDFLib/sparqlwrapper) - A wrapper for a remote SPARQL endpoint.
-- [sparql-client](https://github.com/eea/sparql-client) - Python API to query a SPARQL endpoint.
-- [RdfAlchemy](https://github.com/gjhiggins/RDFAlchemy)
-- [Fuxi](http://code.google.com/p/fuxi/) - Bi-directional logical reasoning system for the semantic web.
-- [PyShEx](https://github.com/hsolbrig/PyShEx) - ShEx interpreter for ShEx 2.0.
-- [ORDF](http://ordf.org)
-- [Django-rdf](http://code.google.com/p/django-rdf/) - An RDF engine for Django projects.
-- [Djubby](https://github.com/wikier/djubby) - Linked Data frontend for SPARQL endpoints for Django.
-- [SuRF](http://packages.python.org/SuRF/)
-- [sparta](https://github.com/mnot/sparta/) - Simple API for RDF.
-- [rdftools](https://github.com/cosminbasca/rdftools) - Simple collection of python RDF tools.
-- [cysparql](https://github.com/cosminbasca/cysparql) - CySparql is a python wrapper over the excellent rasqal RDF library for parsing SPARQL queries.
-
-### C
-
-- [serd](https://github.com/drobilla/serd) - Lightweight C library for RDF syntax.
-- [librdf](https://github.com/dajobe/librdf) - Redland librdf RDF API and triple stores.
-- [raptor](https://github.com/dajobe/raptor) - Redland Raptor RDF syntax library.
-- [rasqal](https://github.com/dajobe/rasqal) - Redland Rasqal RDF Query Library.
 
 ### JavaScript
 
@@ -658,15 +673,22 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [RDForms](https://rdforms.org) - Construct form-based RDF editors in a web environment.
 - [graphy.js](https://github.com/blake-regalia/graphy.js) - A collection of RDF libraries for JavaScript developers with a focus on performance and usability.
 
-### C\#
+### Kotlin
 
-- [dotNetRDF](https://github.com/dotnetrdf/dotnetrdf)
-- [RDFSharp](https://github.com/mdesalvo/RDFSharp)
+- [kotlin-rdf](https://github.com/nicholashauschild/kotlin-rdf)
 
-### Go
+### ObjectiveC
 
-- [rdf2go](https://github.com/deiu/rdf2go) - Native golang library for RDF.
-- [knakk/rdf](https://github.com/knakk/rdf) - RDF library for Go.
+- [SPARQLKit](https://github.com/kasei/SPARQLKit) - An implementation of the SPARQL 1.1 query language in Objective-C.
+
+### OCamel
+
+- [ocaml-rdf](https://www.good-eris.net/ocaml-rdf/) - Manipulate RDF graphs and execute Sparql queries.
+
+### Perl
+
+- [Attean](https://metacpan.org/pod/Attean)
+- [RDF::Trine](https://metacpan.org/pod/RDF::Trine)
 
 ### PHP
 
@@ -676,22 +698,25 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [Graphite](http://graphite.ecs.soton.ac.uk/)
 - [sparqllib](http://graphite.ecs.soton.ac.uk/sparqllib/)
 
-### Clojure
+### Prolog
 
-- [grafter](https://github.com/Swirrl/grafter) - Linked Data & RDF Manufacturing Tools in Clojure.
-- [kr](https://github.com/drlivingston/kr) - Clojure API for RDF and SPARQL - provides consistent access to APIs including Jena and Sesame.
-- [clj-plaza](https://github.com/antoniogarrote/clj-plaza) - Clojure rdf framework.
-- [seabass](https://github.com/ryankohl/seabass) - A library for working with RDF with Jena in Clojure.
+- [SWI-Prolog Semantic Web Library](http://www.swi-prolog.org/pldoc/doc_for?object=section(%27packages/semweb.html%27))
 
-### Scala
+### Python
 
-- [banana-rdf](https://github.com/banana-rdf/banana-rdf) - A library for RDF, SPARQL and Linked Data technologies in Scala.
-- [jvmrdftools](https://github.com/cosminbasca/jvmrdftools)
-- [SANSA-RDF](https://github.com/SANSA-Stack/SANSA-RDF) - Library to read RDF files into Spark or Flink.
-
-### Groovy
-
-- [groovyrdf](https://github.com/angelo-v/groovyrdf)
+- [RDFlib](https://github.com/RDFLib/rdflib) - Pythonic RDF API.
+- [SPARQLWrapper](https://github.com/RDFLib/sparqlwrapper) - A wrapper for a remote SPARQL endpoint.
+- [sparql-client](https://github.com/eea/sparql-client) - Python API to query a SPARQL endpoint.
+- [RdfAlchemy](https://github.com/gjhiggins/RDFAlchemy)
+- [Fuxi](http://code.google.com/p/fuxi/) - Bi-directional logical reasoning system for the semantic web.
+- [PyShEx](https://github.com/hsolbrig/PyShEx) - ShEx interpreter for ShEx 2.0.
+- [ORDF](http://ordf.org)
+- [Django-rdf](http://code.google.com/p/django-rdf/) - An RDF engine for Django projects.
+- [Djubby](https://github.com/wikier/djubby) - Linked Data frontend for SPARQL endpoints for Django.
+- [SuRF](http://packages.python.org/SuRF/)
+- [sparta](https://github.com/mnot/sparta/) - Simple API for RDF.
+- [rdftools](https://github.com/cosminbasca/rdftools) - Simple collection of python RDF tools.
+- [cysparql](https://github.com/cosminbasca/cysparql) - CySparql is a python wrapper over the excellent rasqal RDF library for parsing SPARQL queries.
 
 ### R
 
@@ -701,6 +726,12 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 
 - [ruby-rdf](http://ruby-rdf.github.io)
 
+### Scala
+
+- [banana-rdf](https://github.com/banana-rdf/banana-rdf) - A library for RDF, SPARQL and Linked Data technologies in Scala.
+- [jvmrdftools](https://github.com/cosminbasca/jvmrdftools)
+- [SANSA-RDF](https://github.com/SANSA-Stack/SANSA-RDF) - Library to read RDF files into Spark or Flink.
+
 ### Swift
 
 - [swift-sparql-syntax](https://github.com/kasei/swift-sparql-syntax) - SPARQL 1.1 Parser.
@@ -708,37 +739,6 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [swift-serd](https://github.com/kasei/swift-serd) - Swift package wrapper for the [Serd RDF library](http://drobilla.net/software/serd).
 - [kineo](https://github.com/kasei/kineo) - A SPARQL endpoint and quadstore written in Swift.
 - [swift-hdt](https://github.com/kasei/swift-hdt) - An [HDT](http://www.rdfhdt.org/) RDF Parser.
-
-### ObjectiveC
-
-- [SPARQLKit](https://github.com/kasei/SPARQLKit) - An implementation of the SPARQL 1.1 query language in Objective-C.
-
-### Prolog
-
-- [SWI-Prolog Semantic Web Library](http://www.swi-prolog.org/pldoc/doc_for?object=section(%27packages/semweb.html%27))
-
-### Perl
-
-- [Attean](https://metacpan.org/pod/Attean)
-- [RDF::Trine](https://metacpan.org/pod/RDF::Trine)
-
-### Haskell
-
-- [rdf4h](https://github.com/robstewart57/rdf4h)
-- [swish](https://bitbucket.org/doug_burke/swish/wiki/Home)
-- [hsparql](https://github.com/robstewart57/hsparql)
-
-### OCamel
-
-- [ocaml-rdf](https://www.good-eris.net/ocaml-rdf/) - Manipulate RDF graphs and execute Sparql queries.
-
-### Kotlin
-
-- [kotlin-rdf](https://github.com/nicholashauschild/kotlin-rdf)
-
-### Elixir
-
-- [RDF.ex](https://github.com/marcelotto/rdf-ex)
 
 ## Editors
 
