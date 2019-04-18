@@ -258,7 +258,7 @@ F - Free
 - [Apache Rya](http://rya.incubator.apache.org/) - (OS).
 - [4Store](https://github.com/garlik/4store) - (OS).
 - [Mulgara](http://mulgara.org/) - (OS).
-- [Parliament](http://parliament.semwebcentral.org/) - (OS).
+- [Parliament](https://github.com/SemWebCentral/parliament) - (OS).
 - [wallix/triplestore](https://github.com/wallix/triplestore) - (OS) Nifty library written in Go-Lang.
 - [SANSA](http://sansa-stack.net/) - (OS).
 - [hbase-rdf](https://github.com/castagna/hbase-rdf) - (OS).
