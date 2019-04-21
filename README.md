@@ -91,7 +91,7 @@ Looking for something but can't find it? Add it to the ["Does it exist"](https:/
 
 ### SHACL
 
-- [Shapes Constraint Language](https://www.w3.org/TR/shacl/)
+- [SHACL Shapes Constraint Language](https://www.w3.org/TR/shacl/)
 - [SHACL Advanced Features](https://www.w3.org/TR/shacl-af/)
 - [SHACL JavaScript Extensions](https://www.w3.org/TR/shacl-js/)
 - [SHACL Test Suite and Implementation Report](https://w3c.github.io/data-shapes/data-shapes-test-suite/#test-cases-format-and-process)
