@@ -18,7 +18,7 @@ Looking for something but can't find it? Add it to the ["Does it exist"](https:/
 - [Linked Data Fragments](#linked-data-fragments)
 - [Ecosystem](#ecosystem)
 - [Knowledge Graph Management](#knowledge-graph-management)
-- [SPARQL Implementations](#sparql-implementations)
+- [SPARQL](#sparql)
   - [Streaming SPARQL](#streaming-sparql)
   - [Federated SPARQL](#federated-sparql)
   - [SPARQL Applications](#sparql-applications)
@@ -337,7 +337,7 @@ OS - OpenSource
 - [GNOSS-Sherlock](https://www.gnoss.com/en/semantic-framework/knowledge-graph-management) - ($) Cognitive Intelligence tool for machines to understand us.
 - [Wikibase](http://wikiba.se) - (OS) Collection of applications and libraries for creating, managing and sharing structured data.
 
-## SPARQL Implementations
+## SPARQL
 
 ### Streaming SPARQL
 
