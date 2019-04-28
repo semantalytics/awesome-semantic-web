@@ -65,6 +65,7 @@ Looking for something but can't find it? Add it to the ["Does it exist"](https:/
 - [Machine Learning](#machine-learning)
 - [WebID](#webid)
 - [SHACL Implementations](#shacl-implementations)
+- [Other Awesome](#other-awesome)
 - [Misc](#misc)
 
 ## Standards
@@ -915,6 +916,14 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [labra/shaclex](https://github.com/labra/shaclex)
 - [pySHACL](https://github.com/RDFLib/pySHACL) - A Python validator for SHACL.
 - [rdf4j-shacl](http://docs.rdf4j.org/programming/#_validation_with_shacl)
+
+## Other Awesome
+
+- [awesome-graph](https://github.com/jbmusso/awesome-graph)
+- [awesome-prolog](https://github.com/klaussinani/awesome-prolog)
+- [awesome-ontologies](htps://github.com/semantalytics/awesome-ontologies)
+- [shaoxiongi/awesome-knowlege-graph](https://github.com/shaoxiongji/awesome-knowledge-graph)
+- [totogo/awesome-knowledge-graph](https://github.com/totogo/awesome-knowledge-graph)
 
 ## Misc
 
