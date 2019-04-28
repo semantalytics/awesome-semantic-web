@@ -16,7 +16,7 @@ Looking for something but can't find it? Add it to the ["Does it exist"](https:/
 - [Industry](#industry)
 - [Databases](#databases)
 - [Linked Data Fragments](#linked-data-fragments)
-- [Linked Data Platform (LDP)](#linked-data-platform-ldp)
+- [Linked Data Platform](#linked-data-platform-ldp)
 - [Ecosystem](#ecosystem)
 - [Knowledge Graph Management](#knowledge-graph-management)
 - [SPARQL](#sparql)
