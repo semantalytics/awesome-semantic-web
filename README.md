@@ -132,10 +132,6 @@ Looking for something but can't find it? Add it to the ["Does it exist"](https:/
 - [CSV on the Web: Use Cases and Requirements](http://www.w3.org/TR/csvw-ucr/)
 - [Embedding Tabular Metadata in HTML](http://www.w3.org/TR/csvw-html/)
 
-### Linked Data Fragments (LDF)
-
-- [Linked Data Fragments](http://linkeddatafragments.org)
-
 ### Open Services for Lifecycle Collaboration (OSLC)
 
 - [open-services.net](https://open-services.net/)
@@ -156,6 +152,10 @@ Looking for something but can't find it? Add it to the ["Does it exist"](https:/
 - [Linked Data Platform Best Practices and Guidelines](https://www.w3.org/TR/ldp-bp/)
 - [Linked Data Platform 1.0](https://www.w3.org/TR/ldp/)
 - [Linked Data Platform 1.0 Test Cases](https://dvcs.w3.org/hg/ldpwg/raw-file/tip/tests/ldp-testsuite.html)
+
+### Linked Data Fragments (LDF)
+
+- [Linked Data Fragments](http://linkeddatafragments.org)
 
 ### Data Cube extensions
 
