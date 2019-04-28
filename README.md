@@ -49,6 +49,7 @@ Looking for something but can't find it? Add it to the ["Does it exist"](https:/
   - [Python](#python)
   - [R](#r)
   - [Ruby](#ruby)
+  - [Rust](#rust)
   - [Scala](#scala)
   - [Swift](#swift)
 - [Editors](#editors)
@@ -726,6 +727,11 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 ### Ruby
 
 - [ruby-rdf](http://ruby-rdf.github.io)
+
+### Rust
+
+- [sophia_rs](https://github.com/pchampin/sophia_rs) - Sophia: a Rust toolkit for RDF and Linked Data.
+
 
 ### Scala
 
