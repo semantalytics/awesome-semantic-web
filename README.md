@@ -16,13 +16,13 @@ Looking for something but can't find it? Add it to the ["Does it exist"](https:/
 - [Industry](#industry)
 - [Databases](#databases)
 - [Linked Data Fragments](#linked-data-fragments)
+- [Linked Data Platform (LDP)](#linked-data-platform-ldp)
 - [Ecosystem](#ecosystem)
 - [Knowledge Graph Management](#knowledge-graph-management)
 - [SPARQL](#sparql)
   - [Streaming SPARQL](#streaming-sparql)
   - [Federated SPARQL](#federated-sparql)
   - [SPARQL Applications](#sparql-applications)
-  - [Linked Data Platform (LDP)](#linked-data-platform-ldp)
 - [Web Annotations](#web-annotations)
 - [Mapping](#mapping)
 - [Ontologies](#ontologies)
@@ -302,6 +302,17 @@ F - Free
 - [LDFlex](https://github.com/RubenVerborgh/LDflex) - A JavaScript DSL for querying Linked Data on the Web.
 - [communica](http://comunica.linkeddatafragments.org/) - A modular framework for querying Linked Data on the Web.
 
+## Linked Data Platform (LDP)
+
+- [fedora](https://duraspace.org/fedora/) - Repository platform with native linked data support.
+- [warp](https://github.com/linkeddata/warp) - Warp an LDP file manager.
+- [Marmotta](https://github.com/apache/marmotta) - Apache linked data platform implementation.
+- [Elda](https://github.com/epimorphics/elda) - Linked data platform from Epimorphics.
+- [LDP4j](https://github.com/ldp4j/ldp4j)
+- [gold](https://github.com/linkeddata/gold) - Linked Data server for Go.
+- [CarbonLDP](https://github.com/CarbonLDP)
+- [trellis](https://github.com/trellis-ldp/trellis)
+
 ## Ecosystem
 
 ### Conferences
@@ -411,17 +422,6 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [visu](https://github.com/jiemakel/visu) - Visual SPARQL query tool.
 - [Porthole](https://itunes.apple.com/us/app/porthole/id984035787) - Mac SPARQL editor and client.
 - [datastudio-sparql-connector](https://github.com/DataFabricRus/datastudio-sparql-connector) - SPARQL Connector for Google Data Studio.
-
-### Linked Data Platform (LDP)
-
-- [fedora](https://duraspace.org/fedora/) - Repository platform with native linked data support.
-- [warp](https://github.com/linkeddata/warp) - Warp an LDP file manager.
-- [Marmotta](https://github.com/apache/marmotta) - Apache linked data platform implementation.
-- [Elda](https://github.com/epimorphics/elda) - Linked data platform from Epimorphics.
-- [LDP4j](https://github.com/ldp4j/ldp4j)
-- [gold](https://github.com/linkeddata/gold) - Linked Data server for Go.
-- [CarbonLDP](https://github.com/CarbonLDP)
-- [trellis](https://github.com/trellis-ldp/trellis)
 
 ## Web Annotations
 
