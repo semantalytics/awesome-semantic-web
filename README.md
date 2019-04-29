@@ -930,6 +930,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [skosmos](http://skosmos.org/)
 - [Vocbench](http://vocbench.uniroma2.it/doc/user/skos_editing.jsf)
 - [SKOS Play!](http://labs.sparna.fr/skos-play/about)
+- [skosapi](http://skosapi.sourceforge.net/)
 
 ## Other Awesome
 
