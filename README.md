@@ -929,6 +929,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [protege skos editor](https://protegewiki.stanford.edu/wiki/SKOS_Editor)
 - [skosmos](http://skosmos.org/)
 - [Vocbench](http://vocbench.uniroma2.it/doc/user/skos_editing.jsf)
+- [SKOS Play!](http://labs.sparna.fr/skos-play/about)
 
 ## Other Awesome
 
