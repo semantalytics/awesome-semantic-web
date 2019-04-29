@@ -920,6 +920,15 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 
 ## SKOS
 
+- [iQvoc](https://github.com/innoq/iqvoc) - SKOS(-XL) Vocabulary Management System for the Semantic Web.
+- [Poolparty](https://www.poolparty.biz/skos-and-skos-xl) ($)
+- [skosprovider](https://skosprovider.readthedocs.io/en/latest/intro.html) - Skosprovider provides an interface that can be included in an application to allow it to talk to different SKOS vocabularies. 
+- [skosshuttle](https://skosshuttle.ch/) ($)
+- [atramhasis](https://github.com/OnroerendErfgoed/atramhasis)
+- [ThManager](http://thmanager.sourceforge.net/)
+- [protege skos editor](https://protegewiki.stanford.edu/wiki/SKOS_Editor)
+- [skosmos](http://skosmos.org/)
+
 ## Other Awesome
 
 - [awesome-graph](https://github.com/jbmusso/awesome-graph)
@@ -939,7 +948,6 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [jena-joseki](https://github.com/tingletech/jena-joseki)
 - [stardog-ubuntu-scripts](https://github.com/semantalytics/stardog-ubuntu-scripts)
 - [Git2PROV](https://github.com/mmlab/Git2PROV) - Unleash the potential of Git in the new W3C standard for provenance.
-- [iqvoc](https://github.com/innoq/iqvoc) - SKOS(-XL) Vocabulary Management System for the Semantic Web.
 - [hydra-java](https://github.com/dschulten/hydra-java)
 - [IntervalServer](https://github.com/epimorphics/IntervalServer)
 - [jdbc-for-rdf3x](https://github.com/dbiir/jdbc-for-rdf3x)
