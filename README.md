@@ -65,6 +65,7 @@ Looking for something but can't find it? Add it to the ["Does it exist"](https:/
 - [Machine Learning](#machine-learning)
 - [WebID](#webid)
 - [SHACL Implementations](#shacl-implementations)
+- [SKOS](#skos)
 - [Other Awesome](#other-awesome)
 - [Misc](#misc)
 
@@ -916,6 +917,8 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [labra/shaclex](https://github.com/labra/shaclex)
 - [pySHACL](https://github.com/RDFLib/pySHACL) - A Python validator for SHACL.
 - [rdf4j-shacl](http://docs.rdf4j.org/programming/#_validation_with_shacl)
+
+## SKOS
 
 ## Other Awesome
 
