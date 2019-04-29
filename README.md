@@ -931,6 +931,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [Vocbench](http://vocbench.uniroma2.it/doc/user/skos_editing.jsf)
 - [SKOS Play!](http://labs.sparna.fr/skos-play/about)
 - [skosapi](http://skosapi.sourceforge.net/)
+- [java-skos-api](https://github.com/simonjupp/java-skos-api)
 
 ## Other Awesome
 
