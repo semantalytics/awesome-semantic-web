@@ -928,6 +928,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [ThManager](http://thmanager.sourceforge.net/)
 - [protege skos editor](https://protegewiki.stanford.edu/wiki/SKOS_Editor)
 - [skosmos](http://skosmos.org/)
+- [Vocbench](http://vocbench.uniroma2.it/doc/user/skos_editing.jsf)
 
 ## Other Awesome
 
