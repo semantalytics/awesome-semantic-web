@@ -853,6 +853,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [lodspeakr](https://github.com/alangrafu/lodspeakr) - Framework to create Linked Data-based applications.
 - [comunica](https://github.com/comunica/comunica) - Flexible meta query engine for the Web.
 - [imagesnippets](http://www.imagesnippets.com/) - ImageSnippets is a complete metadata editing interface that enables someone who knows little to nothing about RDF, OWL, ontologies, or even URIs to create descriptions for images using Linked Data which is written in RDF.
+- [Linked Data Reactor (LD-R)](http://ld-r.org) - A full-stack platform for building adaptive component-based Linked Data applications in NodeJS and React.
 
 ## Tools
 
