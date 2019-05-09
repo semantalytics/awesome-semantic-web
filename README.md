@@ -424,6 +424,8 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [visu](https://github.com/jiemakel/visu) - Visual SPARQL query tool.
 - [Porthole](https://itunes.apple.com/us/app/porthole/id984035787) - Mac SPARQL editor and client.
 - [datastudio-sparql-connector](https://github.com/DataFabricRus/datastudio-sparql-connector) - SPARQL Connector for Google Data Studio.
+- [QLever](https://github.com/ad-freiburg/QLever) - Highly efficient query engine for SPARQL+Text .
+
 
 ## Web Annotations
 
