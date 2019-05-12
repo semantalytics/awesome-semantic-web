@@ -204,6 +204,8 @@ Companies or businesses selling products with a primary focus is semantic web te
 - [Cognitum](http://www.cognitum.eu/)
 - [entryscape](https://entryscape.com)
 - [zazuko](https://zazuko.com/)
+- [inova8](http://www.inova8.com/)
+- [in4mium](http://www.in4mium.com/)
 
 ## Industry
 Companies or businesses using semantic web technologies
@@ -228,11 +230,11 @@ Companies or businesses using semantic web technologies
 - [University of Zurich Dynamic and Distributed Information Systems Group](http://www.ifi.uzh.ch/en/ddis.html)
 - [WESO](http://www.weso.es/) - WESO is a research group at the University of Oviedo founded in 2004.
 - [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/) - Department D5 of the Max Planck Institute for Informatics.
-- [DICE: Data Science Group](http://dice.cs.uni-paderborn.de/about/) - Universität Paderborn.
-- [Ontology Engineering Group (OEG)](http://www.oeg-upm.net/) - The Ontology Engineering Group (OEG) is based at the Computer Science School at Universidad Politécnica de Madrid (UPM).
+- [DICE: Data Science Group](http://dice.cs.uni-paderborn.de/about/) - UniversitÃ¤t Paderborn.
+- [Ontology Engineering Group (OEG)](http://www.oeg-upm.net/) - The Ontology Engineering Group (OEG) is based at the Computer Science School at Universidad PolitÃ©cnica de Madrid (UPM).
 - [Knowledge Representation and Reasoning Group (KRR)](https://krr.cs.vu.nl/) - Research group is based at the Vrije Universiteit Amsterdam (VU).
 - [eXascale Infolab](https://exascale.info/) - eXascale Infolab, University of Fribourg, Switzerland.
-- [Wimmics](http://wimmics.inria.fr/corese) - Wimmics stands for Web-Instrumented Man-Machine Interactions, Communities, and Semantics, a joint research team between INRIA Sophia Antipolis - Méditerranée and I3S (CNRS and Université Côte d'Azur).
+- [Wimmics](http://wimmics.inria.fr/corese) - Wimmics stands for Web-Instrumented Man-Machine Interactions, Communities, and Semantics, a joint research team between INRIA Sophia Antipolis - MÃ©diterranÃ©e and I3S (CNRS and UniversitÃ© CÃ´te d'Azur).
 - [Data Semantics Lab](https://dase.cs.wright.edu/) - Data Semantics Lab, Wright State University
 
 ## Databases
@@ -242,11 +244,11 @@ OS - OpenSource
 F - Free  
 
 - [Jena TDB](http://jena.apache.org/documentation/tdb/index.html) - (OS).
-- [Ontotext GraphDB™](http://graphdb.ontotext.com/) - ($/F).
+- [Ontotext GraphDBâ„¢](http://graphdb.ontotext.com/) - ($/F).
 - [Halyard](https://github.com/Merck/Halyard) - (OS).
 - [Stardog](http://stardog.com) - ($/F).
 - [Strabon](http://www.strabon.di.uoa.gr/)
-- [Systap Blazegraph™](https://www.blazegraph.com/) - ($/OS).
+- [Systap Blazegraphâ„¢](https://www.blazegraph.com/) - ($/OS).
   - [docker-blazegraph](https://github.com/zorino/docker-blazegraph)
   - [blazegraph-samples](https://github.com/blazegraph/blazegraph-samples)
   - [docker-blazegraph](https://github.com/lyrasis/docker-blazegraph)
@@ -326,7 +328,7 @@ F - Free
 
 - [Bob DuCharme's weblog technology for representing and linking information](http://www.snee.com/bobdc.blog/)
 - [Planet RDF](http://planetrdf.com)
-- [Jörn's Blog](https://joernhees.de/blog/)
+- [JÃ¶rn's Blog](https://joernhees.de/blog/)
 
 ### Groups
 
@@ -381,7 +383,7 @@ ACTIVE
 - [Avalanche](http://www.ifi.uzh.ch/en/ddis/research/avalanche.html)
 - [FedX](https://github.com/VeritasOS/fedx)
 - [anapsid](https://github.com/anapsid/anapsid) - An adaptive query processing engine for SPARQL endpoints.
-- [luposdate](https://github.com/luposdate/luposdate) - A Semantic Web Database Management System developed by IFIS at the University of Lübeck.
+- [luposdate](https://github.com/luposdate/luposdate) - A Semantic Web Database Management System developed by IFIS at the University of LÃ¼beck.
 
 ARCHIVE - inactive projects or old academic projects that may lack soruce code
 
@@ -397,6 +399,8 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [d3-sparql](https://github.com/zazuko/d3-sparql/) - Query a SPARQL endpoint with a SELECT query and get the data ready to be used with d3js
 - [d3sparql](https://github.com/ktym/d3sparql) - JavaScript library for executing SPARQL query and transforming resulted JSON for visualization in D3.js.
 - [jdbc4sparql](https://github.com/Claudenw/jdbc4sparql) - A JDBC driver that takes data from SPARQL endpoints or RDF graphs.
+- [odata2sparql](https://github.com/peterjohnlawrence/com.inova8.odata2sparql.v4) - An OData proxy server that takes data from SPARQL endpoints or RDF graphs and publishes as OData V4 endpoint.
+- [lens2odata](https://github.com/peterjohnlawrence/com.inova8.lens.framework.v4) - A GUI for discovery, search, and graph of RDF sources.
 - [sparql2xquery](https://github.com/marklogic/sparql2xquery) - SPARQL to XQuery Translator for use with MarkLogic Semantic Toolkit.
 - [SparqlAnalytics](https://github.com/AKSW/SparqlAnalytics)
 - [decentsparql](https://github.com/itm/decentsparql)
@@ -564,9 +568,9 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 
 - [MMOntologies](https://github.com/gatemezing/MMOntologies) - Multimedia ontologies studied for the paper "The Landscape of Multimedia Ontologies in the last Decade".
 - [Wine](https://www.quora.com/What-is-wine-ontology) - Wine Ontology is a popular example of an OWL ontology.
-- [Pizza](http://owl.cs.manchester.ac.uk/publications/talks-and-tutorials/protg-owl-tutorial/) - A step-by-step guide to modelling in OWL using the popular Protégé OWL tools.
+- [Pizza](http://owl.cs.manchester.ac.uk/publications/talks-and-tutorials/protg-owl-tutorial/) - A step-by-step guide to modelling in OWL using the popular ProtÃ©gÃ© OWL tools.
 - [W3C Best Practices for Publishing Linked Data](https://www.w3.org/TR/ld-bp/)
-- [Coursera - Web of Data](https://www.coursera.org/learn/web-data/) - A joint initiative between EIT Digital, Université de Nice Sophia-Antipolis / Université Côte d'Azur and INRIA - introduces the Linked Data standards and principles that provide the foundation of the Semantic web.
+- [Coursera - Web of Data](https://www.coursera.org/learn/web-data/) - A joint initiative between EIT Digital, UniversitÃ© de Nice Sophia-Antipolis / UniversitÃ© CÃ´te d'Azur and INRIA - introduces the Linked Data standards and principles that provide the foundation of the Semantic web.
 - [Linked Data Patterns](http://patterns.dataincubator.org/book/index.html)
 
 ## Books
@@ -583,7 +587,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 
 ## Ontology Development
 
-- [protégé](http://protege.stanford.edu) - Ontology editor and framework for building intelligent systems.
+- [protÃ©gÃ©](http://protege.stanford.edu) - Ontology editor and framework for building intelligent systems.
 - [OntoVerbal](https://github.com/TheOntologist/OntoVerbal) - OntoVerbal is a Protege 4.2 plugin that generates natural language descriptions for classes for an ontology written in OWL.
 - [OTTR](https://ottr.xyz) - Reasonable Ontology Templates.
 
@@ -961,7 +965,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [rdf3x_path](https://github.com/agubichev/rdf3x_path) - RDF3X with path queries.
 - [jqudt](https://github.com/egonw/jqudt) - Java library for working with the QUDT ontology and data using it.
 - [JenaSecurity](https://github.com/Claudenw/JenaSecurity) - Security (Permissions) wrapper around Jena RDF implementation.
-- [specgen](https://github.com/specgen/specgen) - Modified, extended and more generalized version of Danbri‘s SpecGen version 5.
+- [specgen](https://github.com/specgen/specgen) - Modified, extended and more generalized version of Danbriâ€˜s SpecGen version 5.
 - [cassa](https://github.com/heuer/cassa) - SPARQL 1.1 Graph Store HTTP Protocol implementation with plugable backends.
 - [graphity-browser](https://github.com/AtomGraph/Web-Client) - Generic Linked Data browser.
 - [keygenapp](https://github.com/bblfish/keygenapp)
@@ -1000,7 +1004,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [Processor](https://github.com/AtomGraph/Processor) - Generic Linked Data processor and server. Apache License.
 - [grlc](https://github.com/CLARIAH/grlc) - Translates public SPARQL queries into Linked Data APIs automatically.
 - [basil](https://github.com/the-open-university/basil) - Building Apis SImpLy from sparql endpoints.
-- [lodmill](https://github.com/lobid/lodmill) - Blend, grind, and enjoy LOD – fresh from the mill!
+- [lodmill](https://github.com/lobid/lodmill) - Blend, grind, and enjoy LOD â€“ fresh from the mill!
 - [module-extractor](https://github.com/rsgoncalves/module-extractor) - Java-based module extractor for OWL ontologies.
 - [iRap](https://github.com/EIS-Bonn/iRap) - iRap - Interest-based RDF update propagation framework.
 - [turtle-in-html](https://github.com/alangrafu/turtle-in-html) - Bookmark to visualize RDF embedded in HTML as Turtle.
