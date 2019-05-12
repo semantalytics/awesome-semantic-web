@@ -220,6 +220,7 @@ Companies or businesses using semantic web technologies
 - [BBC](https://www.bbc.com)
 - [NASA](https://www.nasa.gov)
 - [K Health](https://khealth.ai) - Self diagnosing app.
+- [Schneider Electric](https://www.schneider-electric.com/ww/en/)
 
 ### Research Institutions
 
