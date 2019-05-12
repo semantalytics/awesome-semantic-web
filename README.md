@@ -204,6 +204,8 @@ Companies or businesses selling products with a primary focus is semantic web te
 - [Cognitum](http://www.cognitum.eu/)
 - [entryscape](https://entryscape.com)
 - [zazuko](https://zazuko.com/)
+- [inova8](http://www.inova8.com/)
+- [in4mium](http://www.in4mium.com/)
 
 ## Industry
 Companies or businesses using semantic web technologies
@@ -398,6 +400,8 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [d3-sparql](https://github.com/zazuko/d3-sparql/) - Query a SPARQL endpoint with a SELECT query and get the data ready to be used with d3js
 - [d3sparql](https://github.com/ktym/d3sparql) - JavaScript library for executing SPARQL query and transforming resulted JSON for visualization in D3.js.
 - [jdbc4sparql](https://github.com/Claudenw/jdbc4sparql) - A JDBC driver that takes data from SPARQL endpoints or RDF graphs.
+- [odata2sparql](https://github.com/peterjohnlawrence/com.inova8.odata2sparql.v4) - An OData proxy server that takes data from SPARQL endpoints or RDF graphs and publishes as OData V4 endpoint.
+- [lens2odata](https://github.com/peterjohnlawrence/com.inova8.lens.framework.v4) - A GUI for discovery, search, and graph of RDF sources.
 - [sparql2xquery](https://github.com/marklogic/sparql2xquery) - SPARQL to XQuery Translator for use with MarkLogic Semantic Toolkit.
 - [SparqlAnalytics](https://github.com/AKSW/SparqlAnalytics)
 - [decentsparql](https://github.com/itm/decentsparql)
