@@ -206,6 +206,7 @@ Companies or businesses selling products with a primary focus is semantic web te
 - [zazuko](https://zazuko.com/)
 - [inova8](http://www.inova8.com/)
 - [in4mium](http://www.in4mium.com/)
+- [Xylem Technologies](https://www.xylem-technologies.com/en/)
 
 ## Industry
 Companies or businesses using semantic web technologies
