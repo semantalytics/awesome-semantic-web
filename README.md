@@ -28,9 +28,9 @@ Looking for something but can't find it? Add it to the ["Does it exist"](https:/
 - [Web Annotations](#web-annotations)
 - [Mapping](#mapping)
 - [Ontologies](#ontologies)
-- [Books](#books)
 - [Ontology Development](#ontology-development)
 - [Reasoners](#reasoners)
+- [Books](#books)
 - [Benchmarks](#benchmarks)
 - [Programming](#programming)
   - [C](#c)
@@ -577,18 +577,6 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [Coursera - Web of Data](https://www.coursera.org/learn/web-data/) - A joint initiative between EIT Digital, Université de Nice Sophia-Antipolis / Université Côte d'Azur and INRIA - introduces the Linked Data standards and principles that provide the foundation of the Semantic web.
 - [Linked Data Patterns](http://patterns.dataincubator.org/book/index.html)
 
-## Books
-
-- [Linked Data](https://www.manning.com/books/linked-data)
-- [Explorer's Guide to the Semantic Web](https://www.manning.com/books/explorers-guide-to-the-semantic-web)
-- [Semantic Web Programming](https://www.wiley.com/en-us/Semantic+Web+Programming-p-9781118080603)
-- [Semantic Web for the Working Ontologist](http://workingontologist.org/)
-- [Demystifying OWL for the Enterprise](http://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?products_id=1252)
-- [Programming the Semantic Web](http://shop.oreilly.com/product/9780596153823.do)
-- [Building Ontologies with Basic Formal Ontology](https://mitpress.mit.edu/books/building-ontologies-basic-formal-ontology)
-- [Structures for Organizing Knowledge: Exploring Taxonomies, Ontologies, and Other Schema](https://www.amazon.com/Structures-Organizing-Knowledge-Taxonomies-Ontologies/dp/1555706991)
-- [Validating RDF Data](http://book.validatingrdf.com/)
-
 ## Ontology Development
 
 - [protégé](http://protege.stanford.edu) - Ontology editor and framework for building intelligent systems.
@@ -609,6 +597,18 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [HyLAR](https://github.com/ucbl/HyLAR-Reasoner)
 - [ruby-rdf/rdf-reasoner](https://github.com/ruby-rdf/rdf-reasoner)
 - [cel](https://github.com/julianmendez/cel) -A lightweight Description Logic reasoner for large-scale biomedical ontologies.
+
+## Books
+
+- [Linked Data](https://www.manning.com/books/linked-data)
+- [Explorer's Guide to the Semantic Web](https://www.manning.com/books/explorers-guide-to-the-semantic-web)
+- [Semantic Web Programming](https://www.wiley.com/en-us/Semantic+Web+Programming-p-9781118080603)
+- [Semantic Web for the Working Ontologist](http://workingontologist.org/)
+- [Demystifying OWL for the Enterprise](http://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?products_id=1252)
+- [Programming the Semantic Web](http://shop.oreilly.com/product/9780596153823.do)
+- [Building Ontologies with Basic Formal Ontology](https://mitpress.mit.edu/books/building-ontologies-basic-formal-ontology)
+- [Structures for Organizing Knowledge: Exploring Taxonomies, Ontologies, and Other Schema](https://www.amazon.com/Structures-Organizing-Knowledge-Taxonomies-Ontologies/dp/1555706991)
+- [Validating RDF Data](http://book.validatingrdf.com/)
 
 ## Benchmarks
 
