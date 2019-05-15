@@ -14,6 +14,8 @@ Looking for something but can't find it? Add it to the ["Does it exist"](https:/
 - [Datatypes](#datatypes)
 - [Companies](#companies)
 - [Industry](#industry)
+- [Research Institutions](#research-institutions)
+- [Academic Journals](academic-journals)
 - [Databases](#databases)
 - [Linked Data Fragments](#linked-data-fragments)
 - [Linked Data Platform](#linked-data-platform-ldp)
@@ -225,7 +227,7 @@ Companies or businesses using semantic web technologies
 - [K Health](https://khealth.ai) - Self diagnosing app.
 - [Schneider Electric](https://www.schneider-electric.com/ww/en/)
 
-### Research Institutions
+## Research Institutions
 
 - [The Smart Data Analytics (SDA)](http://sda.tech/) - Research group, Institute for Computer Science at the University of Bonn, the Fraunhofer Institute for Intelligent Analysis and Information Systems (IAIS) and the Institute for Applied Computer Science Leipzig.
 - [Agile Knowledge Engineering and Semantic Web (AKSW)](http://aksw.org) - The Research Group Agile Knowledge Engineering and Semantic Web (AKSW) is hosted by the Chair of Business Information Systems (BIS) of the Institute of Computer Science (IfI) / University of Leipzig as well as the Institute for Applied Informatics (InfAI).
@@ -238,6 +240,12 @@ Companies or businesses using semantic web technologies
 - [eXascale Infolab](https://exascale.info/) - eXascale Infolab, University of Fribourg, Switzerland.
 - [Wimmics](http://wimmics.inria.fr/corese) - Wimmics stands for Web-Instrumented Man-Machine Interactions, Communities, and Semantics, a joint research team between INRIA Sophia Antipolis - Méditerranée and I3S (CNRS and Université Côte d'Azur).
 - [Data Semantics Lab](https://dase.cs.wright.edu/) - Data Semantics Lab, Wright State University
+
+## Academic Journals
+
+- [Semantic Web Journal](http://www.semantic-web-journal.net/)
+- [Journal of Web Semantics](https://www.journals.elsevier.com/journal-of-web-semantics)
+- [International Journal of Web and Semantic Technology](http://www.airccse.org/journal/ijwest/ijwest.html)
 
 ## Databases
 
@@ -338,12 +346,6 @@ F - Free
 - [w3c semantic web](https://lists.w3.org/Archives/Public/semantic-web/)
 - [JSON-LD Working Group](https://www.w3.org/2018/json-ld-wg/)
 - [w3c activities](https://www.w3.org/Consortium/activities)
-
-### Academic Journals
-
-- [Semantic Web Journal](http://www.semantic-web-journal.net/)
-- [Journal of Web Semantics](https://www.journals.elsevier.com/journal-of-web-semantics)
-- [International Journal of Web and Semantic Technology](http://www.airccse.org/journal/ijwest/ijwest.html)
 
 ## Knowledge Graph Management
 
