@@ -17,14 +17,14 @@ Looking for something but can't find it? Add it to the ["Does it exist"](https:/
 - [Research Institutions](#research-institutions)
 - [Academic Journals](academic-journals)
 - [Databases](#databases)
-- [Linked Data Fragments](#linked-data-fragments)
-- [Linked Data Platform](#linked-data-platform-ldp)
-- [Ecosystem](#ecosystem)
-- [Knowledge Graph Management](#knowledge-graph-management)
 - [SPARQL](#sparql)
   - [Streaming](#streaming-sparql)
   - [Federated](#federated-sparql)
   - [Applications](#sparql-applications)
+- [Linked Data Fragments](#linked-data-fragments)
+- [Linked Data Platform](#linked-data-platform-ldp)
+- [Ecosystem](#ecosystem)
+- [Knowledge Graph Management](#knowledge-graph-management)
 - [Web Annotations](#web-annotations)
 - [Mapping](#mapping)
 - [Ontologies](#ontologies)
@@ -309,54 +309,6 @@ F - Free
 - [DREAM](https://github.com/CMU-Q/DREAM) - DREAM - Distributed RDF Engine with Adaptive Query Planner and Minimal Communication.
 - [RIQ](https://github.com/UMKC-BigDataLab/RIQ) - RIQ is a new software tool for fast processing of SPARQL queries on RDF quadruples.
 
-## Linked Data Fragments
-
-- [Linked Data Fragments](http://linkeddatafragments.org/)
-- [tomayac/ldf-client](https://github.com/tomayac/ldf-client) - Polymer Linked Data Fragments client.
-- [LDFlex](https://github.com/RubenVerborgh/LDflex) - A JavaScript DSL for querying Linked Data on the Web.
-- [communica](http://comunica.linkeddatafragments.org/) - A modular framework for querying Linked Data on the Web.
-
-## Linked Data Platform (LDP)
-
-- [fedora](https://duraspace.org/fedora/) - Repository platform with native linked data support.
-- [warp](https://github.com/linkeddata/warp) - Warp an LDP file manager.
-- [Marmotta](https://github.com/apache/marmotta) - Apache linked data platform implementation.
-- [Elda](https://github.com/epimorphics/elda) - Linked data platform from Epimorphics.
-- [LDP4j](https://github.com/ldp4j/ldp4j)
-- [gold](https://github.com/linkeddata/gold) - Linked Data server for Go.
-- [CarbonLDP](https://github.com/CarbonLDP)
-- [trellis](https://github.com/trellis-ldp/trellis)
-
-## Ecosystem
-
-### Conferences
-
-- [International Semantic Web Conference (ISWC 2019)](http://iswc2019.semanticweb.org)
-- [European Semantic Web Conference (ESWC 2019)](https://2019.eswc-conferences.org)
-
-### Blogs
-
-- [Bob DuCharme's weblog technology for representing and linking information](http://www.snee.com/bobdc.blog/)
-- [Planet RDF](http://planetrdf.com)
-- [Jörn's Blog](https://joernhees.de/blog/)
-
-### Groups
-
-- [RDF-DEV](https://www.w3.org/community/rdf-dev/) - RDF-DEV COMMUNITY GROUP.
-- [w3c semantic web](https://lists.w3.org/Archives/Public/semantic-web/)
-- [JSON-LD Working Group](https://www.w3.org/2018/json-ld-wg/)
-- [w3c activities](https://www.w3.org/Consortium/activities)
-
-## Knowledge Graph Management
-
-$ - Proprietary  
-OS - OpenSource  
-
-- [Metaphacts](http://metaphacts.com) - ($) End-to-end platform to create and utilize enterprise knowledge graphs.
-- [OntoWiki](https://github.com/AKSW/OntoWiki) - (OS) Semantic data wiki as well as Linked Data publishing engine.
-- [GNOSS-Sherlock](https://www.gnoss.com/en/semantic-framework/knowledge-graph-management) - ($) Cognitive Intelligence tool for machines to understand us.
-- [Wikibase](http://wikiba.se) - (OS) Collection of applications and libraries for creating, managing and sharing structured data.
-
 ## SPARQL
 
 ### Streaming SPARQL
@@ -435,6 +387,54 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [QLever](https://github.com/ad-freiburg/QLever) - Highly efficient query engine for SPARQL+Text.
 - [sage-engine](https://github.com/sage-org/sage-engine) - a SPARQL query engine for public Linked Data providers. 
 - [SEPA](https://github.com/arces-wot/SEPA) - A JAVA implementation of the SPARQL Event Processing Architecture including the engine, APIs and tools.
+
+## Linked Data Fragments
+
+- [Linked Data Fragments](http://linkeddatafragments.org/)
+- [tomayac/ldf-client](https://github.com/tomayac/ldf-client) - Polymer Linked Data Fragments client.
+- [LDFlex](https://github.com/RubenVerborgh/LDflex) - A JavaScript DSL for querying Linked Data on the Web.
+- [communica](http://comunica.linkeddatafragments.org/) - A modular framework for querying Linked Data on the Web.
+
+## Linked Data Platform (LDP)
+
+- [fedora](https://duraspace.org/fedora/) - Repository platform with native linked data support.
+- [warp](https://github.com/linkeddata/warp) - Warp an LDP file manager.
+- [Marmotta](https://github.com/apache/marmotta) - Apache linked data platform implementation.
+- [Elda](https://github.com/epimorphics/elda) - Linked data platform from Epimorphics.
+- [LDP4j](https://github.com/ldp4j/ldp4j)
+- [gold](https://github.com/linkeddata/gold) - Linked Data server for Go.
+- [CarbonLDP](https://github.com/CarbonLDP)
+- [trellis](https://github.com/trellis-ldp/trellis)
+
+## Ecosystem
+
+### Conferences
+
+- [International Semantic Web Conference (ISWC 2019)](http://iswc2019.semanticweb.org)
+- [European Semantic Web Conference (ESWC 2019)](https://2019.eswc-conferences.org)
+
+### Blogs
+
+- [Bob DuCharme's weblog technology for representing and linking information](http://www.snee.com/bobdc.blog/)
+- [Planet RDF](http://planetrdf.com)
+- [Jörn's Blog](https://joernhees.de/blog/)
+
+### Groups
+
+- [RDF-DEV](https://www.w3.org/community/rdf-dev/) - RDF-DEV COMMUNITY GROUP.
+- [w3c semantic web](https://lists.w3.org/Archives/Public/semantic-web/)
+- [JSON-LD Working Group](https://www.w3.org/2018/json-ld-wg/)
+- [w3c activities](https://www.w3.org/Consortium/activities)
+
+## Knowledge Graph Management
+
+$ - Proprietary  
+OS - OpenSource  
+
+- [Metaphacts](http://metaphacts.com) - ($) End-to-end platform to create and utilize enterprise knowledge graphs.
+- [OntoWiki](https://github.com/AKSW/OntoWiki) - (OS) Semantic data wiki as well as Linked Data publishing engine.
+- [GNOSS-Sherlock](https://www.gnoss.com/en/semantic-framework/knowledge-graph-management) - ($) Cognitive Intelligence tool for machines to understand us.
+- [Wikibase](http://wikiba.se) - (OS) Collection of applications and libraries for creating, managing and sharing structured data.
 
 ## Web Annotations
 
