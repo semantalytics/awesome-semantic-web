@@ -434,6 +434,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [datastudio-sparql-connector](https://github.com/DataFabricRus/datastudio-sparql-connector) - SPARQL Connector for Google Data Studio.
 - [QLever](https://github.com/ad-freiburg/QLever) - Highly efficient query engine for SPARQL+Text.
 - [sage-engine](https://github.com/sage-org/sage-engine) - a SPARQL query engine for public Linked Data providers. 
+- [SEPA](https://github.com/arces-wot/SEPA) - A JAVA implementation of the SPARQL Event Processing Architecture including the engine, APIs and tools.
 
 ## Web Annotations
 
