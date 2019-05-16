@@ -622,6 +622,7 @@ OS - OpenSource
 - [SP2Bench](http://dbis.informatik.uni-freiburg.de/index.php?project=SP2B)
 - [IGUANA](https://github.com/AKSW/IGUANA) - IGUANA is a benchmark execution framework for triple stores.
 - [SRBench](https://github.com/jpcik/srbench) - A streaming sparql benchmark.
+- [TFT](https://github.com/BorderCloud/TFT) - TFT (Tester for Triplestore) is a script PHP to pass tests through a SPARQL service.
 
 ## Programming
 
