@@ -21,6 +21,7 @@ Looking for something but can't find it? Add it to the ["Does it exist"](https:/
   - [Streaming](#streaming-sparql)
   - [Federated](#federated-sparql)
   - [Applications](#sparql-applications)
+  - [Benchmarks](#benchmarks)
 - [Linked Data Fragments](#linked-data-fragments)
 - [Linked Data Platform](#linked-data-platform-ldp)
 - [Ecosystem](#ecosystem)
@@ -31,7 +32,6 @@ Looking for something but can't find it? Add it to the ["Does it exist"](https:/
 - [Ontology Development](#ontology-development)
 - [Reasoners](#reasoners)
 - [Books](#books)
-- [Benchmarks](#benchmarks)
 - [Programming](#programming)
   - [C](#c)
   - [C\#](#c-1)
@@ -346,6 +346,19 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [SemWIQ](https://sourceforge.net/projects/semwiq/)
 - [DARQ](http://darq.sourceforge.net/)
 
+## Benchmarks
+
+- [Berlin SPARQL Benchmark (BSBM)](http://wifo5-03.informatik.uni-mannheim.de/bizer/berlinsparqlbenchmark/)
+- [Lehigh University Benchmark (LUBM)](http://swat.cse.lehigh.edu/projects/lubm/)
+- [IGUANA](https://github.com/dice-group/IGUANA)
+- [dice-group/triplestore-benchmarks](https://web.archive.org/web/20180627155808/https://github.com/dice-group/triplestore-benchmarks) - An Evaluation of Triplestore Benchamrks.
+- [RdfStoreBenchmarking](https://www.w3.org/wiki/RdfStoreBenchmarking)
+- [Hobbit](http://project-hobbit.eu/) - Holistic Benchmarking of Big Linked Data.
+- [SP2Bench](http://dbis.informatik.uni-freiburg.de/index.php?project=SP2B)
+- [IGUANA](https://github.com/AKSW/IGUANA) - IGUANA is a benchmark execution framework for triple stores.
+- [SRBench](https://github.com/jpcik/srbench) - A streaming sparql benchmark.
+- [TFT](https://github.com/BorderCloud/TFT) - TFT (Tester for Triplestore) is a script PHP to pass tests through a SPARQL service.
+
 ### SPARQL Applications
 
 - [SPARQL2Git](https://github.com/albertmeronyo/SPARQL2Git) - Easily store and curate SPARQL queries (and their associated Linked Data APIs) in GitHub.
@@ -610,19 +623,6 @@ OS - OpenSource
 - [Building Ontologies with Basic Formal Ontology](https://mitpress.mit.edu/books/building-ontologies-basic-formal-ontology)
 - [Structures for Organizing Knowledge: Exploring Taxonomies, Ontologies, and Other Schema](https://www.amazon.com/Structures-Organizing-Knowledge-Taxonomies-Ontologies/dp/1555706991)
 - [Validating RDF Data](http://book.validatingrdf.com/)
-
-## Benchmarks
-
-- [Berlin SPARQL Benchmark (BSBM)](http://wifo5-03.informatik.uni-mannheim.de/bizer/berlinsparqlbenchmark/)
-- [Lehigh University Benchmark (LUBM)](http://swat.cse.lehigh.edu/projects/lubm/)
-- [IGUANA](https://github.com/dice-group/IGUANA)
-- [dice-group/triplestore-benchmarks](https://web.archive.org/web/20180627155808/https://github.com/dice-group/triplestore-benchmarks) - An Evaluation of Triplestore Benchamrks.
-- [RdfStoreBenchmarking](https://www.w3.org/wiki/RdfStoreBenchmarking)
-- [Hobbit](http://project-hobbit.eu/) - Holistic Benchmarking of Big Linked Data.
-- [SP2Bench](http://dbis.informatik.uni-freiburg.de/index.php?project=SP2B)
-- [IGUANA](https://github.com/AKSW/IGUANA) - IGUANA is a benchmark execution framework for triple stores.
-- [SRBench](https://github.com/jpcik/srbench) - A streaming sparql benchmark.
-- [TFT](https://github.com/BorderCloud/TFT) - TFT (Tester for Triplestore) is a script PHP to pass tests through a SPARQL service.
 
 ## Programming
 
