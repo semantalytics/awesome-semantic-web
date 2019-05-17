@@ -419,6 +419,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [gold](https://github.com/linkeddata/gold) - Linked Data server for Go.
 - [CarbonLDP](https://github.com/CarbonLDP)
 - [trellis](https://github.com/trellis-ldp/trellis)
+- [Metreeca/link](https://github.com/metreeca/link)
 
 ## Ecosystem
 
