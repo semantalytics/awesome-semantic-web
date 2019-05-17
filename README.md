@@ -562,6 +562,7 @@ OS - OpenSource
 
 ### Community
 
+- [LOV](https://lov.linkeddata.es) - Linked Open Vocabularies. Portal / search tool for vocabularies.
 - [foaf](http://www.foaf-project.org/) - Friend of a Friend (FOAF) ontology.
 - [uberon](http://uberon.github.io) - Integrated cross-species ontology covering anatomical structures in animals.
 - [juso-ontology](http://rdfs.co/juso/latest/html) - Vocabulary for describing geographical addresses and features.
