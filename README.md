@@ -560,6 +560,9 @@ OS - OpenSource
 - [dcat](https://www.w3.org/TR/vocab-dcat/) - DCAT is an RDF vocabulary designed to facilitate interoperability between data catalogs published on the Web.
 - [prof](https://w3c.github.io/dxwg/profilesont/) The Profiles Ontology is an RDF vocabulary to describe profiles of (one or more) standards for information resources.
 
+### European Commission
+ - [Core Vocabularies](https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic/core-vocabularies) - Vocabularies developed for/by public administrations.
+
 ### Community
 
 - [foaf](http://www.foaf-project.org/) - Friend of a Friend (FOAF) ontology.
