@@ -421,6 +421,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [trellis](https://github.com/trellis-ldp/trellis)
 - [Metreeca/link](https://github.com/metreeca/link)
 - [ldpserver](https://github.com/hectorcorrea/ldpserver) - A mini LDP Server written in Go.
+- [ldp-coap-framework](https://github.com/sisinflab-swot/ldp-coap-framework) - Linked Data Platform for the Constrained Application Protocol 
 
 ## Ecosystem
 
