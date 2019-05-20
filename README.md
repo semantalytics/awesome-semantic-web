@@ -420,6 +420,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [CarbonLDP](https://github.com/CarbonLDP) - ($)
 - [trellis](https://github.com/trellis-ldp/trellis)
 - [Metreeca/link](https://github.com/metreeca/link)
+- [ldpserver](https://github.com/hectorcorrea/ldpserver) - A mini LDP Server written in Go.
 
 ## Ecosystem
 
