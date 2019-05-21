@@ -547,6 +547,8 @@ OS - OpenSource
 
 ## Ontologies
 
+- [LOV](https://lov.linkeddata.es) - Linked Open Vocabularies. Portal / search tool for vocabularies.
+
 ### World Wide Web Consortium (W3C)
 
 - [WGS84](https://www.w3.org/2003/01/geo/) - Basic Geo (WGS84 lat/long) Vocabulary.
