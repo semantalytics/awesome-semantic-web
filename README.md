@@ -292,6 +292,7 @@ F - Free
 - [NitrosBase](http://nitrosbase.com/) - (F)
 - [Dydra](https://dydra.com) - ($) A cloud-based graph database.
 - [redstore](https://github.com/njh/redstore) - ($OS) RedStore is a lightweight RDF triplestore written in C using the Redland library.
+- [librdf.sqlite](https://github.com/mro/librdf.sqlite) - $(OS) improved SQLite RDF triple store for Redland librdf.
 
 ### Academic
 
