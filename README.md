@@ -291,6 +291,7 @@ F - Free
 - [ostrich](https://github.com/rdfostrich/ostrich) - (OS) bird Versioned RDF triple store (Offset-enabled TRIple store for CHangesets).
 - [NitrosBase](http://nitrosbase.com/) - (F)
 - [Dydra](https://dydra.com) - ($) A cloud-based graph database.
+- [redstore](https://github.com/njh/redstore) - ($OS) RedStore is a lightweight RDF triplestore written in C using the Redland library.
 
 ### Academic
 
