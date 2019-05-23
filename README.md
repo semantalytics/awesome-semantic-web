@@ -291,9 +291,9 @@ F - Free
 - [ostrich](https://github.com/rdfostrich/ostrich) - (OS) bird Versioned RDF triple store (Offset-enabled TRIple store for CHangesets).
 - [NitrosBase](http://nitrosbase.com/) - (F)
 - [Dydra](https://dydra.com) - ($) A cloud-based graph database.
-- [redstore](https://github.com/njh/redstore) - ($OS) RedStore is a lightweight RDF triplestore written in C using the Redland library.
-- [librdf.sqlite](https://github.com/mro/librdf.sqlite) - $(OS) improved SQLite RDF triple store for Redland librdf.
-
+- [redstore](https://github.com/njh/redstore) - (OS) RedStore is a lightweight RDF triplestore written in C using the Redland library.
+- [librdf.sqlite](https://github.com/mro/librdf.sqlite) - (OS) improved SQLite RDF triple store for Redland librdf.
+- [neptune](https://aws.amazon.com/neptune/) - ($) Amazon Neptune is a fast, reliable, fully managed graph database service that makes it easy to build and run applications that work with highly connected datasets.
 ### Academic
 
 - [TripleRush](https://github.com/uzh/triplerush) - (OS).
