@@ -294,6 +294,8 @@ F - Free
 - [redstore](https://github.com/njh/redstore) - (OS) RedStore is a lightweight RDF triplestore written in C using the Redland library.
 - [librdf.sqlite](https://github.com/mro/librdf.sqlite) - (OS) improved SQLite RDF triple store for Redland librdf.
 - [neptune](https://aws.amazon.com/neptune/) - ($) Amazon Neptune is a fast, reliable, fully managed graph database service that makes it easy to build and run applications that work with highly connected datasets.
+- [fabric](https://github.com/spy16/fabric) - (OS) Fabric is a simple triplestore written in Golang.
+
 ### Academic
 
 - [TripleRush](https://github.com/uzh/triplerush) - (OS).
