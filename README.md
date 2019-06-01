@@ -157,6 +157,10 @@ Looking for something but can't find it? Add it to the ["Does it exist"](https:/
 - [Linked Data Platform 1.0](https://www.w3.org/TR/ldp/)
 - [Linked Data Platform 1.0 Test Cases](https://dvcs.w3.org/hg/ldpwg/raw-file/tip/tests/ldp-testsuite.html)
 
+### Linked Data Templates
+
+- [Linked Data Templates](https://atomgraph.github.io/Linked-Data-Templates/)
+
 ### Linked Data Fragments (LDF)
 
 - [Linked Data Fragments](http://linkeddatafragments.org)
@@ -180,6 +184,7 @@ Looking for something but can't find it? Add it to the ["Does it exist"](https:/
 | [TriX](http://www.hpl.hp.com/techreports/2004/HPL-2004-56.html) | RDF Triples in XML. | `application/trix` |
 | [HDT](https://www.w3.org/Submission/2011/03/) | Binary RDF Representation for Publication and Exchange. | `application/x-binary-rdf` |
 | [aREF](https://gbv.github.io/aREF/aREF.html) | Another RDF Encoding Form. | |
+| [RDF/POST](http://www.lsrn.org/semweb/rdfpost.html) | RDF/POST Encoding for RDF. | `application/rdf+x-www-form-urlencoded` |
 
 ## Datatypes
 
@@ -405,6 +410,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [QLever](https://github.com/ad-freiburg/QLever) - Highly efficient query engine for SPARQL+Text.
 - [sage-engine](https://github.com/sage-org/sage-engine) - a SPARQL query engine for public Linked Data providers. 
 - [SEPA](https://github.com/arces-wot/SEPA) - A JAVA implementation of the SPARQL Event Processing Architecture including the engine, APIs and tools.
+- [Processor](https://github.com/AtomGraph/Processor) - Ontology-driven Linked Data processor and server for SPARQL backends.
 
 ## Linked Data Fragments
 
@@ -488,6 +494,7 @@ OS - OpenSource
 - [csv2rdf4lod-automation](https://github.com/timrdf/csv2rdf4lod-automation)
 - [tarql-component](https://github.com/opencube-toolkit/tarql-component)
 - [tarql](https://github.com/tarql/tarql)
+- [CSV2RDF](https://github.com/AtomGraph/CSV2RDF) - Streaming, transforming, SPARQL-based CSV to RDF converter
 
 ### Object to RDF Mapping
 
@@ -636,6 +643,7 @@ OS - OpenSource
 - [Building Ontologies with Basic Formal Ontology](https://mitpress.mit.edu/books/building-ontologies-basic-formal-ontology)
 - [Structures for Organizing Knowledge: Exploring Taxonomies, Ontologies, and Other Schema](https://www.amazon.com/Structures-Organizing-Knowledge-Taxonomies-Ontologies/dp/1555706991)
 - [Validating RDF Data](http://book.validatingrdf.com/)
+- [Learning SPARQL](http://www.learningsparql.com/)
 
 ## Programming
 
@@ -898,6 +906,7 @@ OS - OpenSource
 - [ShacShifter](https://github.com/AKSW/ShacShifter) - Shapes Constraint Language (SHACL) to various other format.
 - [prefix.cc](https://prefix.cc) - namespace lookup for RDF developers
 - [rdf2rdf](https://github.com/knakk/rdf2rdf) - Tool for converting between different RDF serialization formats.
+- [Web-Client](https://github.com/AtomGraph/Web-Client) - Generic Linked Data browser and UX component framework.
 
 ## Integrations
 
@@ -988,7 +997,6 @@ OS - OpenSource
 - [JenaSecurity](https://github.com/Claudenw/JenaSecurity) - Security (Permissions) wrapper around Jena RDF implementation.
 - [specgen](https://github.com/specgen/specgen) - Modified, extended and more generalized version of Danbri‘s SpecGen version 5.
 - [cassa](https://github.com/heuer/cassa) - SPARQL 1.1 Graph Store HTTP Protocol implementation with plugable backends.
-- [graphity-browser](https://github.com/AtomGraph/Web-Client) - Generic Linked Data browser.
 - [keygenapp](https://github.com/bblfish/keygenapp)
 - [owlapitools](https://github.com/owlcs/owlapitools) - Set of independent add-ons for OWL API.
 - [LD-FusionTool](https://github.com/mifeet/LD-FusionTool)
@@ -1022,7 +1030,6 @@ OS - OpenSource
 - [cp-openrdf-utils](https://github.com/mhgrove/cp-openrdf-utils) - Utility classes for working with the OpenRdf API.
 - [linked-csv](https://github.com/JeniT/linked-csv) - A souped-up CSV-based data format.
 - [balloon](https://github.com/schlegel/balloon) - A tool-suite for Linked Data consumption. balloon aims in offering public services and tools to take advantage of the semantic web with less effort. The basic motivation is to establish a foundation for Linked Data as a Service (LDaaS).
-- [Processor](https://github.com/AtomGraph/Processor) - Generic Linked Data processor and server. Apache License.
 - [grlc](https://github.com/CLARIAH/grlc) - Translates public SPARQL queries into Linked Data APIs automatically.
 - [basil](https://github.com/the-open-university/basil) - Building Apis SImpLy from sparql endpoints.
 - [lodmill](https://github.com/lobid/lodmill) - Blend, grind, and enjoy LOD – fresh from the mill!
