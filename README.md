@@ -760,6 +760,9 @@ OS - OpenSource
 ### R
 
 - [rrdf](https://github.com/egonw/rrdf)
+- [rdflib](https://github.com/ropensci/rdflib)
+- [redland](https://github.com/ropensci/redland-bindings)
+- [jsonld](https://github.com/ropensci/jsonld)
 
 ### Ruby
 
