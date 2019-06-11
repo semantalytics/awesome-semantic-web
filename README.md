@@ -411,6 +411,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [sage-engine](https://github.com/sage-org/sage-engine) - a SPARQL query engine for public Linked Data providers. 
 - [SEPA](https://github.com/arces-wot/SEPA) - A JAVA implementation of the SPARQL Event Processing Architecture including the engine, APIs and tools.
 - [Processor](https://github.com/AtomGraph/Processor) - Ontology-driven Linked Data processor and server for SPARQL backends.
+- [SparqlBlocks](http://sparqlblocks.org/) - Build SPARQL queries with blocks
 
 ## Linked Data Fragments
 
@@ -841,6 +842,7 @@ OS - OpenSource
 - [ontodia](https://github.com/ontodia-org/ontodia) - Ontodia data diagraming library.
 - [rdfpuml](https://github.com/VladimirAlexiev/rdf2rml) - True RDF Diagrams.
 - [Ontology Visualisation](https://github.com/usc-isi-i2/ontology-visualization) - Create graphs from RDF using GraphViz.
+- [SparqlBlocks](http://sparqlblocks.org/) - Build SPARQL queries with blocks
 
 ## Data Cube
 
