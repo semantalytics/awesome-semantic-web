@@ -301,6 +301,7 @@ F - Free
 - [librdf.sqlite](https://github.com/mro/librdf.sqlite) - (OS) improved SQLite RDF triple store for Redland librdf.
 - [neptune](https://aws.amazon.com/neptune/) - ($) Amazon Neptune is a fast, reliable, fully managed graph database service that makes it easy to build and run applications that work with highly connected datasets.
 - [fabric](https://github.com/spy16/fabric) - (OS) Fabric is a simple triplestore written in Golang.
+- [Beam](https://github.com/eBay/beam) - (OS) distributed RDF store written in Golang.
 
 ### Academic
 
