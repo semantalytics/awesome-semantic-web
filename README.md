@@ -22,6 +22,7 @@ Looking for something but can't find it? Add it to the ["Does it exist"](https:/
   - [Federated](#federated-sparql)
   - [Applications](#sparql-applications)
   - [Benchmarks](#benchmarks)
+- [GraphQL](#graphql)
 - [Linked Data Fragments](#linked-data-fragments)
 - [Linked Data Platform](#linked-data-platform-ldp)
 - [Ecosystem](#ecosystem)
@@ -414,6 +415,10 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [SEPA](https://github.com/arces-wot/SEPA) - A JAVA implementation of the SPARQL Event Processing Architecture including the engine, APIs and tools.
 - [Processor](https://github.com/AtomGraph/Processor) - Ontology-driven Linked Data processor and server for SPARQL backends.
 - [SparqlBlocks](http://sparqlblocks.org/) - Build SPARQL queries with blocks
+
+## GraphQL
+- [semantic-graphql](https://github.com/nelson-ai/semantic-graphql) - Create GraphQL schemas from RDF ontologies.
+- [hypergraphql](https://github.com/semantic-integration/hypergraphql) - GraphQL interface for querying and serving linked data on the Web.
 
 ## Linked Data Fragments
 
@@ -1057,6 +1062,4 @@ OS - OpenSource
 - [jsonld-java](https://github.com/jsonld-java/jsonld-java) - JSON-LD implementation for Java.
 - [Luzzu](https://github.com/Luzzu/Framework/) - A scalable and extensible Linked Data quality assessment framework.
 - [odmtp-tpf](https://github.com/benjimor/odmtp-tpf) - Triple pattern matching over non-RDF datasources with inference .
-- [semantic-graphql](https://github.com/nelson-ai/semantic-graphql)
-- [hypergraphql](https://github.com/semantic-integration/hypergraphql)
 - [motools](https://github.com/motools) - Music ontology tools
