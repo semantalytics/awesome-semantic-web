@@ -1057,7 +1057,6 @@ OS - OpenSource
 - [jsonld-java](https://github.com/jsonld-java/jsonld-java) - JSON-LD implementation for Java.
 - [Luzzu](https://github.com/Luzzu/Framework/) - A scalable and extensible Linked Data quality assessment framework.
 - [odmtp-tpf](https://github.com/benjimor/odmtp-tpf) - Triple pattern matching over non-RDF datasources with inference .
-- [ISWCRecursive](https://github.com/alanezz/ISWCRecursive)
 - [semantic-graphql](https://github.com/nelson-ai/semantic-graphql)
 - [hypergraphql](https://github.com/semantic-integration/hypergraphql)
 - [motools](https://github.com/motools) - Music ontology tools
