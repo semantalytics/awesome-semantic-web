@@ -1055,7 +1055,7 @@ OS - OpenSource
 - [linked-csv-browser](https://github.com/theodi/linked-csv-browser)
 - [semargl](https://github.com/semarglproject/semargl) - Highly performant, lightweight framework for linked data processing. Supports RDFa, JSON-LD, RDF/XML and plain text formats, runs on Android and GAE, provides integration with Jena, Sesame and Clerezza.
 - [wordnet-lemon-to-w3c](https://github.com/jimregan/wordnet-lemon-to-w3c)
-- [hyrise](https://github.com/hyrise/hyrise)
+- [hyrise](https://github.com/hyrise/hyrise) - Hyrise is a research in-memory database.
 - [owlconvert](https://github.com/camwebb/owlconvert) - Simple OWL format converter based on OWLAPI.
 - [rabel](https://github.com/linkeddata/rabel) - Program for reading and writing linked data in various formats.
 - [csvw-template](https://github.com/edsu/csvw-template) - Document the semantics of your csv file.
