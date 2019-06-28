@@ -1003,9 +1003,7 @@ OS - OpenSource
 - [swrlapi](https://github.com/protegeproject/swrlapi) - The SWRLAPI is a Java API for working with the OWL-based SWRL rule and SQWRL query languages. It includes graphical tools for editing and executing rules and queries.
 - [cp-common-utils](https://github.com/mhgrove/cp-common-utils) - Collection of utilty classes from Clark & Parsia.
 - [jena-joseki](https://github.com/tingletech/jena-joseki)
-- [stardog-ubuntu-scripts](https://github.com/semantalytics/stardog-ubuntu-scripts)
 - [Git2PROV](https://github.com/mmlab/Git2PROV) - Unleash the potential of Git in the new W3C standard for provenance.
-- [hydra-java](https://github.com/dschulten/hydra-java)
 - [IntervalServer](https://github.com/epimorphics/IntervalServer)
 - [jdbc-for-rdf3x](https://github.com/dbiir/jdbc-for-rdf3x)
 - [rdf3x_path](https://github.com/agubichev/rdf3x_path) - RDF3X with path queries.
@@ -1013,35 +1011,37 @@ OS - OpenSource
 - [JenaSecurity](https://github.com/Claudenw/JenaSecurity) - Security (Permissions) wrapper around Jena RDF implementation.
 - [specgen](https://github.com/specgen/specgen) - Modified, extended and more generalized version of Danbri‘s SpecGen version 5.
 - [cassa](https://github.com/heuer/cassa) - SPARQL 1.1 Graph Store HTTP Protocol implementation with plugable backends.
-- [keygenapp](https://github.com/bblfish/keygenapp)
+- [keygenapp](https://github.com/bblfish/keygenapp) - Utilities and WebApp for certificate creation within a browser, for FOAF+SSL.
 - [owlapitools](https://github.com/owlcs/owlapitools) - Set of independent add-ons for OWL API.
-- [LD-FusionTool](https://github.com/mifeet/LD-FusionTool)
-- [fox-ui](https://github.com/Data2Semantics/fox-ui)
+- [LD-FusionTool](https://github.com/mifeet/LD-FusionTool) - Data Fusion & Conflict Resolution tool for Linked Data.
 - [prefix.cc](https://github.com/cygri/prefix.cc) - Source code to the prefix.cc website.
 - [LSD-Dimensions](https://github.com/albertmeronyo/LSD-Dimensions) - All dimension values of Linked Statistical Data.
 - [prissma](https://github.com/lukostaz/prissma) - Context-Aware Adaptation for Linked Data.
-- [fox-java](https://github.com/renespeck/fox-java)
-- [fox-py](https://github.com/earthquakesan/fox-py)
-- [ORE](https://github.com/AKSW/ORE)
-- [signal-collect-torque](https://github.com/uzh/signal-collect-torque)
-- [redland-bindings](https://github.com/dajobe/redland-bindings)
+- [fox-java](https://github.com/renespeck/fox-java) - Java bindings for FOX - Federated Knowledge Extraction Framework.
+- [fox-py](https://github.com/earthquakesan/fox-py) - Python bindings for FOX - Federated Knowledge Extraction Framework.
+- [fox-ui](https://github.com/Data2Semantics/fox-ui) - Web UI for FoxPSL.
+- [ORE](https://github.com/AKSW/ORE) - Ontology Repair and Enrichment.
+- [signal-collect-torque](https://github.com/uzh/signal-collect-torque) - Support for Signal/Collect Torque deployment.
+- [redland-bindings](https://github.com/dajobe/redland-bindings) - Redland librdf language bindings.
 - [mediation](https://github.com/correndo/mediation) - Jena based framework to implement ontological mediation of SPARQL queries.
 - [owl-functional-syntax-axiom-parser](https://github.com/dfleischhacker/owl-functional-syntax-axiom-parser)
-- [SemanticPingback](https://github.com/AKSW/SemanticPingback)
-- [json-ld-macros](https://github.com/antoniogarrote/json-ld-macros)
+- [SemanticPingback](https://github.com/AKSW/SemanticPingback) - This small vocabulary defines resources which are used in the context of Semantic Pingback.
+- [json-ld-macros](https://github.com/antoniogarrote/json-ld-macros)  Declarative transformation of JSON APIs into JSON-LD.
 - [tac](https://github.com/magnetik/tac) - Triple access control.
 - [dbpedia-extension](https://github.com/sparkica/dbpedia-extension)
-- [grefine-rdf-extension](https://github.com/OpenRefine/grefine-rdf-extension)
-- [LD-FusionTool](https://github.com/mifeet/LD-FusionTool)
-- [xodx](https://github.com/AKSW/xodx)
-- [morph-starter](https://github.com/jpcik/morph-starter)
-- [sesametools](https://github.com/joshsh/sesametools)
-- [DEER](https://github.com/GeoKnow/DEER)
-- [levelgraph-jsonld](https://github.com/mcollina/levelgraph-jsonld)
+- [grefine-rdf-extension](https://github.com/OpenRefine/grefine-rdf-extension) - An extension to Google Refine that enables graphical mapping of Google Refine project data to an RDF skeleton and then exporting it in RDF format.
+- [LD-FusionTool](https://github.com/mifeet/LD-FusionTool) - Data Fusion & Conflict Resolution tool for Linked Data.
+- [xodx](https://github.com/AKSW/xodx) - An implementation of Semantic Pingback and PuSH for a DSSN.
+- [morph-starter](https://github.com/jpcik/morph-starter) - this project is a simple Java (and Scala) demo of how to use morph.
+- [sesametools](https://github.com/joshsh/sesametools) - A collection of utilities for use with OpenRDF Sesame (as of recently, Eclipse RDF4J).
+- [DEER](https://github.com/dice-group/DEER) - RDF Dataset Enrichment Framework.
+- [levelgraph-jsonld](https://github.com/mcollina/levelgraph-jsonld) - The Object Document Mapper for LevelGraph based on JSON-LD
 - [owlapi](https://github.com/owlcs/owlapi) - The OWL API is a Java API for creating, manipulating and serialising OWL Ontologies.
-- [LODGrefine](https://github.com/sparkica/LODGrefine)
+- [LODGrefine](https://github.com/sparkica/LODGrefine) - LOD-enabled Google Refine: linked open data related extensions included.
 - [stardog.js](https://github.com/stardog-union/stardog.js)
 - [stardog-groovy](https://github.com/stardog-union/stardog-groovy)
+- [stardog-ubuntu-scripts](https://github.com/semantalytics/stardog-ubuntu-scripts)
+- [hydra-java](https://github.com/dschulten/hydra-java)
 - [HydraClient](https://github.com/lanthaler/HydraClient)
 - [cp-openrdf-utils](https://github.com/mhgrove/cp-openrdf-utils) - Utility classes for working with the OpenRdf API.
 - [linked-csv](https://github.com/JeniT/linked-csv) - A souped-up CSV-based data format.
