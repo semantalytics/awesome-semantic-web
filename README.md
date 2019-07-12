@@ -517,6 +517,7 @@ OS - OpenSource
 - [surfrdf](https://github.com/cosminbasca/surfrdf) - SuRF: a python Object RDF Mapper (ORM).
 - [jtriple](https://github.com/konradreiche/jtriple) - A Java object model binding for RDF.
 - [sparql-template](https://github.com/gushakov/sparql-template) - RDF store traversal with Jena API via automatic mapping between POJO and SPARQL. 
+- [JOPA](https://github.com/kbss-cvut/jopa) - A Java object-triple mapping library for RDF4J, Jena and OWL API.
 
 ### RDB to RDF
 
