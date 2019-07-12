@@ -371,6 +371,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [IGUANA](https://github.com/AKSW/IGUANA) - IGUANA is a benchmark execution framework for triple stores.
 - [SRBench](https://github.com/jpcik/srbench) - A streaming sparql benchmark.
 - [TFT](https://github.com/BorderCloud/TFT) - TFT (Tester for Triplestore) is a script PHP to pass tests through a SPARQL service.
+- [OTM Benchmark](https://kbss.felk.cvut.cz/web/kbss/otm-benchmark) - A benchmark of object-triple mapping (OTM) libraries.
 
 ### SPARQL Applications
 
@@ -517,6 +518,7 @@ OS - OpenSource
 - [surfrdf](https://github.com/cosminbasca/surfrdf) - SuRF: a python Object RDF Mapper (ORM).
 - [jtriple](https://github.com/konradreiche/jtriple) - A Java object model binding for RDF.
 - [sparql-template](https://github.com/gushakov/sparql-template) - RDF store traversal with Jena API via automatic mapping between POJO and SPARQL. 
+- [JOPA](https://github.com/kbss-cvut/jopa) - A Java object-triple mapping library for RDF4J, Jena and OWL API.
 
 ### RDB to RDF
 
