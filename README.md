@@ -484,6 +484,7 @@ OS - OpenSource
 - [triplify](https://github.com/pebbie/triplify)
 - [pyrdb2rdf](https://github.com/nisavid/pyrdb2rdf)
 - [xsparql](https://www.w3.org/Submission/xsparql-language-specification/)
+- [Karma](https://github.com/usc-isi-i2/Web-Karma) - Transform data expressed in multiple data formats into RDF.
 
 ### Geo
 
