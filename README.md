@@ -14,22 +14,25 @@ Looking for something but can't find it? Add it to the ["Does it exist"](https:/
 - [Datatypes](#datatypes)
 - [Companies](#companies)
 - [Industry](#industry)
+- [Research Institutions](#research-institutions)
+- [Academic Journals](academic-journals)
 - [Databases](#databases)
-- [Linked Data Fragments](#linked-data-fragments)
-- [Linked Data Platform](#linked-data-platform-ldp)
-- [Ecosystem](#ecosystem)
-- [Knowledge Graph Management](#knowledge-graph-management)
 - [SPARQL](#sparql)
   - [Streaming](#streaming-sparql)
   - [Federated](#federated-sparql)
   - [Applications](#sparql-applications)
+  - [Benchmarks](#benchmarks)
+- [GraphQL](#graphql)
+- [Linked Data Fragments](#linked-data-fragments)
+- [Linked Data Platform](#linked-data-platform-ldp)
+- [Ecosystem](#ecosystem)
+- [Knowledge Graph Management](#knowledge-graph-management)
 - [Web Annotations](#web-annotations)
 - [Mapping](#mapping)
 - [Ontologies](#ontologies)
-- [Books](#books)
 - [Ontology Development](#ontology-development)
 - [Reasoners](#reasoners)
-- [Benchmarks](#benchmarks)
+- [Books](#books)
 - [Programming](#programming)
   - [C](#c)
   - [C\#](#c-1)
@@ -63,6 +66,7 @@ Looking for something but can't find it? Add it to the ["Does it exist"](https:/
 - [Tools](#tools)
 - [Integrations](#integrations)
 - [Machine Learning](#machine-learning)
+- [Linked Data](#linked-data)
 - [WebID](#webid)
 - [SHACL Implementations](#shacl-implementations)
 - [SKOS](#skos)
@@ -155,6 +159,10 @@ Looking for something but can't find it? Add it to the ["Does it exist"](https:/
 - [Linked Data Platform 1.0](https://www.w3.org/TR/ldp/)
 - [Linked Data Platform 1.0 Test Cases](https://dvcs.w3.org/hg/ldpwg/raw-file/tip/tests/ldp-testsuite.html)
 
+### Linked Data Templates
+
+- [Linked Data Templates](https://atomgraph.github.io/Linked-Data-Templates/)
+
 ### Linked Data Fragments (LDF)
 
 - [Linked Data Fragments](http://linkeddatafragments.org)
@@ -178,6 +186,7 @@ Looking for something but can't find it? Add it to the ["Does it exist"](https:/
 | [TriX](http://www.hpl.hp.com/techreports/2004/HPL-2004-56.html) | RDF Triples in XML. | `application/trix` |
 | [HDT](https://www.w3.org/Submission/2011/03/) | Binary RDF Representation for Publication and Exchange. | `application/x-binary-rdf` |
 | [aREF](https://gbv.github.io/aREF/aREF.html) | Another RDF Encoding Form. | |
+| [RDF/POST](http://www.lsrn.org/semweb/rdfpost.html) | RDF/POST Encoding for RDF. | `application/rdf+x-www-form-urlencoded` |
 
 ## Datatypes
 
@@ -204,6 +213,9 @@ Companies or businesses selling products with a primary focus is semantic web te
 - [Cognitum](http://www.cognitum.eu/)
 - [entryscape](https://entryscape.com)
 - [zazuko](https://zazuko.com/)
+- [inova8](http://www.inova8.com/)
+- [in4mium](http://www.in4mium.com/)
+- [Xylem Technologies](https://www.xylem-technologies.com/en/)
 
 ## Industry
 Companies or businesses using semantic web technologies
@@ -222,7 +234,7 @@ Companies or businesses using semantic web technologies
 - [K Health](https://khealth.ai) - Self diagnosing app.
 - [Schneider Electric](https://www.schneider-electric.com/ww/en/)
 
-### Research Institutions
+## Research Institutions
 
 - [The Smart Data Analytics (SDA)](http://sda.tech/) - Research group, Institute for Computer Science at the University of Bonn, the Fraunhofer Institute for Intelligent Analysis and Information Systems (IAIS) and the Institute for Applied Computer Science Leipzig.
 - [Agile Knowledge Engineering and Semantic Web (AKSW)](http://aksw.org) - The Research Group Agile Knowledge Engineering and Semantic Web (AKSW) is hosted by the Chair of Business Information Systems (BIS) of the Institute of Computer Science (IfI) / University of Leipzig as well as the Institute for Applied Informatics (InfAI).
@@ -235,6 +247,12 @@ Companies or businesses using semantic web technologies
 - [eXascale Infolab](https://exascale.info/) - eXascale Infolab, University of Fribourg, Switzerland.
 - [Wimmics](http://wimmics.inria.fr/corese) - Wimmics stands for Web-Instrumented Man-Machine Interactions, Communities, and Semantics, a joint research team between INRIA Sophia Antipolis - Méditerranée and I3S (CNRS and Université Côte d'Azur).
 - [Data Semantics Lab](https://dase.cs.wright.edu/) - Data Semantics Lab, Wright State University
+
+## Academic Journals
+
+- [Semantic Web Journal](http://www.semantic-web-journal.net/)
+- [Journal of Web Semantics](https://www.journals.elsevier.com/journal-of-web-semantics)
+- [International Journal of Web and Semantic Technology](http://www.airccse.org/journal/ijwest/ijwest.html)
 
 ## Databases
 
@@ -278,7 +296,13 @@ F - Free
 - [Oxford Semantic RDFox](https://www.oxfordsemantic.tech) - ($) Horizontly scalalbe in-memory triple store with parallel Datalog reasoning.
 - [gStore](https://github.com/pkumod/gStore) - (OS).
 - [ostrich](https://github.com/rdfostrich/ostrich) - (OS) bird Versioned RDF triple store (Offset-enabled TRIple store for CHangesets).
-- [NitrosBase](http://nitrosbase.com/) - (?)
+- [NitrosBase](http://nitrosbase.com/) - (F)
+- [Dydra](https://dydra.com) - ($) A cloud-based graph database.
+- [redstore](https://github.com/njh/redstore) - (OS) RedStore is a lightweight RDF triplestore written in C using the Redland library.
+- [librdf.sqlite](https://github.com/mro/librdf.sqlite) - (OS) improved SQLite RDF triple store for Redland librdf.
+- [neptune](https://aws.amazon.com/neptune/) - ($) Amazon Neptune is a fast, reliable, fully managed graph database service that makes it easy to build and run applications that work with highly connected datasets.
+- [fabric](https://github.com/spy16/fabric) - (OS) Fabric is a simple triplestore written in Golang.
+- [Beam](https://github.com/eBay/beam) - (OS) distributed RDF store written in Golang.
 
 ### Academic
 
@@ -297,60 +321,6 @@ F - Free
 - [LUPOSDATE](https://www.ifis.uni-luebeck.de/index.php?id=luposdate-demo)
 - [DREAM](https://github.com/CMU-Q/DREAM) - DREAM - Distributed RDF Engine with Adaptive Query Planner and Minimal Communication.
 - [RIQ](https://github.com/UMKC-BigDataLab/RIQ) - RIQ is a new software tool for fast processing of SPARQL queries on RDF quadruples.
-
-## Linked Data Fragments
-
-- [Linked Data Fragments](http://linkeddatafragments.org/)
-- [tomayac/ldf-client](https://github.com/tomayac/ldf-client) - Polymer Linked Data Fragments client.
-- [LDFlex](https://github.com/RubenVerborgh/LDflex) - A JavaScript DSL for querying Linked Data on the Web.
-- [communica](http://comunica.linkeddatafragments.org/) - A modular framework for querying Linked Data on the Web.
-
-## Linked Data Platform (LDP)
-
-- [fedora](https://duraspace.org/fedora/) - Repository platform with native linked data support.
-- [warp](https://github.com/linkeddata/warp) - Warp an LDP file manager.
-- [Marmotta](https://github.com/apache/marmotta) - Apache linked data platform implementation.
-- [Elda](https://github.com/epimorphics/elda) - Linked data platform from Epimorphics.
-- [LDP4j](https://github.com/ldp4j/ldp4j)
-- [gold](https://github.com/linkeddata/gold) - Linked Data server for Go.
-- [CarbonLDP](https://github.com/CarbonLDP)
-- [trellis](https://github.com/trellis-ldp/trellis)
-
-## Ecosystem
-
-### Conferences
-
-- [International Semantic Web Conference (ISWC 2019)](http://iswc2019.semanticweb.org)
-- [European Semantic Web Conference (ESWC 2019)](https://2019.eswc-conferences.org)
-
-### Blogs
-
-- [Bob DuCharme's weblog technology for representing and linking information](http://www.snee.com/bobdc.blog/)
-- [Planet RDF](http://planetrdf.com)
-- [Jörn's Blog](https://joernhees.de/blog/)
-
-### Groups
-
-- [RDF-DEV](https://www.w3.org/community/rdf-dev/) - RDF-DEV COMMUNITY GROUP.
-- [w3c semantic web](https://lists.w3.org/Archives/Public/semantic-web/)
-- [JSON-LD Working Group](https://www.w3.org/2018/json-ld-wg/)
-- [w3c activities](https://www.w3.org/Consortium/activities)
-
-### Academic Journals
-
-- [Semantic Web Journal](http://www.semantic-web-journal.net/)
-- [Journal of Web Semantics](https://www.journals.elsevier.com/journal-of-web-semantics)
-- [International Journal of Web and Semantic Technology](http://www.airccse.org/journal/ijwest/ijwest.html)
-
-## Knowledge Graph Management
-
-$ - Proprietary  
-OS - OpenSource  
-
-- [Metaphacts](http://metaphacts.com) - ($) End-to-end platform to create and utilize enterprise knowledge graphs.
-- [OntoWiki](https://github.com/AKSW/OntoWiki) - (OS) Semantic data wiki as well as Linked Data publishing engine.
-- [GNOSS-Sherlock](https://www.gnoss.com/en/semantic-framework/knowledge-graph-management) - ($) Cognitive Intelligence tool for machines to understand us.
-- [Wikibase](http://wikiba.se) - (OS) Collection of applications and libraries for creating, managing and sharing structured data.
 
 ## SPARQL
 
@@ -389,6 +359,20 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [SemWIQ](https://sourceforge.net/projects/semwiq/)
 - [DARQ](http://darq.sourceforge.net/)
 
+## Benchmarks
+
+- [Berlin SPARQL Benchmark (BSBM)](http://wifo5-03.informatik.uni-mannheim.de/bizer/berlinsparqlbenchmark/)
+- [Lehigh University Benchmark (LUBM)](http://swat.cse.lehigh.edu/projects/lubm/)
+- [IGUANA](https://github.com/dice-group/IGUANA)
+- [dice-group/triplestore-benchmarks](https://web.archive.org/web/20180627155808/https://github.com/dice-group/triplestore-benchmarks) - An Evaluation of Triplestore Benchamrks.
+- [RdfStoreBenchmarking](https://www.w3.org/wiki/RdfStoreBenchmarking)
+- [Hobbit](http://project-hobbit.eu/) - Holistic Benchmarking of Big Linked Data.
+- [SP2Bench](http://dbis.informatik.uni-freiburg.de/index.php?project=SP2B)
+- [IGUANA](https://github.com/AKSW/IGUANA) - IGUANA is a benchmark execution framework for triple stores.
+- [SRBench](https://github.com/jpcik/srbench) - A streaming sparql benchmark.
+- [TFT](https://github.com/BorderCloud/TFT) - TFT (Tester for Triplestore) is a script PHP to pass tests through a SPARQL service.
+- [OTM Benchmark](https://kbss.felk.cvut.cz/web/kbss/otm-benchmark) - A benchmark of object-triple mapping (OTM) libraries.
+
 ### SPARQL Applications
 
 - [SPARQL2Git](https://github.com/albertmeronyo/SPARQL2Git) - Easily store and curate SPARQL queries (and their associated Linked Data APIs) in GitHub.
@@ -398,6 +382,8 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [d3-sparql](https://github.com/zazuko/d3-sparql/) - Query a SPARQL endpoint with a SELECT query and get the data ready to be used with d3js
 - [d3sparql](https://github.com/ktym/d3sparql) - JavaScript library for executing SPARQL query and transforming resulted JSON for visualization in D3.js.
 - [jdbc4sparql](https://github.com/Claudenw/jdbc4sparql) - A JDBC driver that takes data from SPARQL endpoints or RDF graphs.
+- [odata2sparql](https://github.com/peterjohnlawrence/com.inova8.odata2sparql.v4) - An OData proxy server that takes data from SPARQL endpoints or RDF graphs and publishes as OData V4 endpoint.
+- [lens2odata](https://github.com/peterjohnlawrence/com.inova8.lens.framework.v4) - A GUI for discovery, search, and graph of RDF sources.
 - [sparql2xquery](https://github.com/marklogic/sparql2xquery) - SPARQL to XQuery Translator for use with MarkLogic Semantic Toolkit.
 - [SparqlAnalytics](https://github.com/AKSW/SparqlAnalytics)
 - [decentsparql](https://github.com/itm/decentsparql)
@@ -425,6 +411,67 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [visu](https://github.com/jiemakel/visu) - Visual SPARQL query tool.
 - [Porthole](https://itunes.apple.com/us/app/porthole/id984035787) - Mac SPARQL editor and client.
 - [datastudio-sparql-connector](https://github.com/DataFabricRus/datastudio-sparql-connector) - SPARQL Connector for Google Data Studio.
+- [QLever](https://github.com/ad-freiburg/QLever) - Highly efficient query engine for SPARQL+Text.
+- [sage-engine](https://github.com/sage-org/sage-engine) - a SPARQL query engine for public Linked Data providers. 
+- [SEPA](https://github.com/arces-wot/SEPA) - A JAVA implementation of the SPARQL Event Processing Architecture including the engine, APIs and tools.
+- [Processor](https://github.com/AtomGraph/Processor) - Ontology-driven Linked Data processor and server for SPARQL backends.
+- [SparqlBlocks](http://sparqlblocks.org/) - Build SPARQL queries with blocks
+
+## GraphQL
+- [semantic-graphql](https://github.com/nelson-ai/semantic-graphql) - Create GraphQL schemas from RDF ontologies.
+- [hypergraphql](https://github.com/semantic-integration/hypergraphql) - GraphQL interface for querying and serving linked data on the Web.
+
+## Linked Data Fragments
+
+- [Linked Data Fragments](http://linkeddatafragments.org/)
+- [tomayac/ldf-client](https://github.com/tomayac/ldf-client) - Polymer Linked Data Fragments client.
+- [LDFlex](https://github.com/RubenVerborgh/LDflex) - A JavaScript DSL for querying Linked Data on the Web.
+- [communica](http://comunica.linkeddatafragments.org/) - A modular framework for querying Linked Data on the Web.
+
+## Linked Data Platform (LDP)
+
+- [fedora](https://duraspace.org/fedora/) - Repository platform with native linked data support.
+- [warp](https://github.com/linkeddata/warp) - Warp an LDP file manager.
+- [Marmotta](https://github.com/apache/marmotta) - Apache linked data platform implementation.
+- [Elda](https://github.com/epimorphics/elda) - Linked data platform from Epimorphics.
+- [LDP4j](https://github.com/ldp4j/ldp4j)
+- [gold](https://github.com/linkeddata/gold) - Linked Data server for Go.
+- [CarbonLDP](https://github.com/CarbonLDP) - ($)
+- [trellis](https://github.com/trellis-ldp/trellis)
+- [Metreeca/link](https://github.com/metreeca/link)
+- [ldpserver](https://github.com/hectorcorrea/ldpserver) - A mini LDP Server written in Go.
+- [ldp-coap-framework](https://github.com/sisinflab-swot/ldp-coap-framework) - Linked Data Platform for the Constrained Application Protocol 
+- [cavendish](https://github.com/cavendish-ldp/cavendish) - A LDP Implementation backed by BlazeGraph.
+
+## Ecosystem
+
+### Conferences
+
+- [International Semantic Web Conference (ISWC 2019)](http://iswc2019.semanticweb.org)
+- [European Semantic Web Conference (ESWC 2019)](https://2019.eswc-conferences.org)
+
+### Blogs
+
+- [Bob DuCharme's weblog technology for representing and linking information](http://www.snee.com/bobdc.blog/)
+- [Planet RDF](http://planetrdf.com)
+- [Jörn's Blog](https://joernhees.de/blog/)
+
+### Groups
+
+- [RDF-DEV](https://www.w3.org/community/rdf-dev/) - RDF-DEV COMMUNITY GROUP.
+- [w3c semantic web](https://lists.w3.org/Archives/Public/semantic-web/)
+- [JSON-LD Working Group](https://www.w3.org/2018/json-ld-wg/)
+- [w3c activities](https://www.w3.org/Consortium/activities)
+
+## Knowledge Graph Management
+
+$ - Proprietary  
+OS - OpenSource  
+
+- [Metaphacts](http://metaphacts.com) - ($) End-to-end platform to create and utilize enterprise knowledge graphs.
+- [OntoWiki](https://github.com/AKSW/OntoWiki) - (OS) Semantic data wiki as well as Linked Data publishing engine.
+- [GNOSS-Sherlock](https://www.gnoss.com/en/semantic-framework/knowledge-graph-management) - ($) Cognitive Intelligence tool for machines to understand us.
+- [Wikibase](http://wikiba.se) - (OS) Collection of applications and libraries for creating, managing and sharing structured data.
 
 ## Web Annotations
 
@@ -437,6 +484,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [triplify](https://github.com/pebbie/triplify)
 - [pyrdb2rdf](https://github.com/nisavid/pyrdb2rdf)
 - [xsparql](https://www.w3.org/Submission/xsparql-language-specification/)
+- [Karma](https://github.com/usc-isi-i2/Web-Karma) - Transform data expressed in multiple data formats into RDF.
 
 ### Geo
 
@@ -457,6 +505,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [csv2rdf4lod-automation](https://github.com/timrdf/csv2rdf4lod-automation)
 - [tarql-component](https://github.com/opencube-toolkit/tarql-component)
 - [tarql](https://github.com/tarql/tarql)
+- [CSV2RDF](https://github.com/AtomGraph/CSV2RDF) - Streaming, transforming, SPARQL-based CSV to RDF converter
 
 ### Object to RDF Mapping
 
@@ -470,6 +519,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [surfrdf](https://github.com/cosminbasca/surfrdf) - SuRF: a python Object RDF Mapper (ORM).
 - [jtriple](https://github.com/konradreiche/jtriple) - A Java object model binding for RDF.
 - [sparql-template](https://github.com/gushakov/sparql-template) - RDF store traversal with Jena API via automatic mapping between POJO and SPARQL. 
+- [JOPA](https://github.com/kbss-cvut/jopa) - A Java object-triple mapping library for RDF4J, Jena and OWL API.
 
 ### RDB to RDF
 
@@ -520,6 +570,8 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 
 ## Ontologies
 
+- [LOV](https://lov.linkeddata.es) - Linked Open Vocabularies. Portal / search tool for vocabularies.
+
 ### World Wide Web Consortium (W3C)
 
 - [WGS84](https://www.w3.org/2003/01/geo/) - Basic Geo (WGS84 lat/long) Vocabulary.
@@ -535,6 +587,9 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [prov-o](https://www.w3.org/TR/prov-o/) - Represent provenance information.
 - [dcat](https://www.w3.org/TR/vocab-dcat/) - DCAT is an RDF vocabulary designed to facilitate interoperability between data catalogs published on the Web.
 - [prof](https://w3c.github.io/dxwg/profilesont/) The Profiles Ontology is an RDF vocabulary to describe profiles of (one or more) standards for information resources.
+
+### European Commission
+ - [Core Vocabularies](https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic/core-vocabularies) - Vocabularies developed for/by public administrations.
 
 ### Community
 
@@ -568,18 +623,6 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [Coursera - Web of Data](https://www.coursera.org/learn/web-data/) - A joint initiative between EIT Digital, Université de Nice Sophia-Antipolis / Université Côte d'Azur and INRIA - introduces the Linked Data standards and principles that provide the foundation of the Semantic web.
 - [Linked Data Patterns](http://patterns.dataincubator.org/book/index.html)
 
-## Books
-
-- [Linked Data](https://www.manning.com/books/linked-data)
-- [Explorer's Guide to the Semantic Web](https://www.manning.com/books/explorers-guide-to-the-semantic-web)
-- [Semantic Web Programming](https://www.wiley.com/en-us/Semantic+Web+Programming-p-9781118080603)
-- [Semantic Web for the Working Ontologist](http://workingontologist.org/)
-- [Demystifying OWL for the Enterprise](http://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?products_id=1252)
-- [Programming the Semantic Web](http://shop.oreilly.com/product/9780596153823.do)
-- [Building Ontologies with Basic Formal Ontology](https://mitpress.mit.edu/books/building-ontologies-basic-formal-ontology)
-- [Structures for Organizing Knowledge: Exploring Taxonomies, Ontologies, and Other Schema](https://www.amazon.com/Structures-Organizing-Knowledge-Taxonomies-Ontologies/dp/1555706991)
-- [Validating RDF Data](http://book.validatingrdf.com/)
-
 ## Ontology Development
 
 - [protégé](http://protege.stanford.edu) - Ontology editor and framework for building intelligent systems.
@@ -599,18 +642,20 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [elephant-reasoner](https://github.com/sertkaya/elephant-reasoner)
 - [HyLAR](https://github.com/ucbl/HyLAR-Reasoner)
 - [ruby-rdf/rdf-reasoner](https://github.com/ruby-rdf/rdf-reasoner)
+- [cel](https://github.com/julianmendez/cel) -A lightweight Description Logic reasoner for large-scale biomedical ontologies.
 
-## Benchmarks
+## Books
 
-- [Berlin SPARQL Benchmark (BSBM)](http://wifo5-03.informatik.uni-mannheim.de/bizer/berlinsparqlbenchmark/)
-- [Lehigh University Benchmark (LUBM)](http://swat.cse.lehigh.edu/projects/lubm/)
-- [IGUANA](https://github.com/dice-group/IGUANA)
-- [dice-group/triplestore-benchmarks](https://web.archive.org/web/20180627155808/https://github.com/dice-group/triplestore-benchmarks) - An Evaluation of Triplestore Benchamrks.
-- [RdfStoreBenchmarking](https://www.w3.org/wiki/RdfStoreBenchmarking)
-- [Hobbit](http://project-hobbit.eu/) - Holistic Benchmarking of Big Linked Data.
-- [SP2Bench](http://dbis.informatik.uni-freiburg.de/index.php?project=SP2B)
-- [IGUANA](https://github.com/AKSW/IGUANA) - IGUANA is a benchmark execution framework for triple stores.
-- [SRBench](https://github.com/jpcik/srbench) - A streaming sparql benchmark.
+- [Linked Data](https://www.manning.com/books/linked-data)
+- [Explorer's Guide to the Semantic Web](https://www.manning.com/books/explorers-guide-to-the-semantic-web)
+- [Semantic Web Programming](https://www.wiley.com/en-us/Semantic+Web+Programming-p-9781118080603)
+- [Semantic Web for the Working Ontologist](http://workingontologist.org/)
+- [Demystifying OWL for the Enterprise](http://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?products_id=1252)
+- [Programming the Semantic Web](http://shop.oreilly.com/product/9780596153823.do)
+- [Building Ontologies with Basic Formal Ontology](https://mitpress.mit.edu/books/building-ontologies-basic-formal-ontology)
+- [Structures for Organizing Knowledge: Exploring Taxonomies, Ontologies, and Other Schema](https://www.amazon.com/Structures-Organizing-Knowledge-Taxonomies-Ontologies/dp/1555706991)
+- [Validating RDF Data](http://book.validatingrdf.com/)
+- [Learning SPARQL](http://www.learningsparql.com/)
 
 ## Programming
 
@@ -726,6 +771,9 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 ### R
 
 - [rrdf](https://github.com/egonw/rrdf)
+- [rdflib](https://github.com/ropensci/rdflib)
+- [redland](https://github.com/ropensci/redland-bindings)
+- [jsonld](https://github.com/ropensci/jsonld)
 
 ### Ruby
 
@@ -804,6 +852,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [ontodia](https://github.com/ontodia-org/ontodia) - Ontodia data diagraming library.
 - [rdfpuml](https://github.com/VladimirAlexiev/rdf2rml) - True RDF Diagrams.
 - [Ontology Visualisation](https://github.com/usc-isi-i2/ontology-visualization) - Create graphs from RDF using GraphViz.
+- [SparqlBlocks](http://sparqlblocks.org/) - Build SPARQL queries with blocks
 
 ## Data Cube
 
@@ -872,6 +921,8 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [Openlink Structured Data Sniffer](http://osds.openlinksw.com/) - Browser extension for Google Chrome, Microsoft Edge, Mozilla Firefox, Opera, and Vivaldi that unveils structured metadata embedded within HTML documents and web pages. 
 - [ShacShifter](https://github.com/AKSW/ShacShifter) - Shapes Constraint Language (SHACL) to various other format.
 - [prefix.cc](https://prefix.cc) - namespace lookup for RDF developers
+- [rdf2rdf](https://github.com/knakk/rdf2rdf) - Tool for converting between different RDF serialization formats.
+- [Web-Client](https://github.com/AtomGraph/Web-Client) - Generic Linked Data browser and UX component framework.
 
 ## Integrations
 
@@ -902,7 +953,10 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [ODCS](https://github.com/mff-uk/ODCS) - The tool uses data processing pipelines for obtaining, processing, and storing RDF data.
 - [etalis](https://github.com/sspider/etalis) - Event Processing SPARQL (EP-SPARQL).
 - [graph-pattern-learner](https://github.com/RDFLib/graph-pattern-learner) - Evolutionary Graph Pattern Learner that learns SPARQL queries for a given set of source-target-pairs from an endpoint.
-- [Sieve](sieve.wbsg.de) - Sieve - Linked Data Quality Assessment and Fusion.
+
+## Linked Data
+
+- [sieve](https://github.com/wbsg/sieve) - Linked Data Quality Assessment and Fusion.
 
 ## WebID
 
@@ -952,9 +1006,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [swrlapi](https://github.com/protegeproject/swrlapi) - The SWRLAPI is a Java API for working with the OWL-based SWRL rule and SQWRL query languages. It includes graphical tools for editing and executing rules and queries.
 - [cp-common-utils](https://github.com/mhgrove/cp-common-utils) - Collection of utilty classes from Clark & Parsia.
 - [jena-joseki](https://github.com/tingletech/jena-joseki)
-- [stardog-ubuntu-scripts](https://github.com/semantalytics/stardog-ubuntu-scripts)
 - [Git2PROV](https://github.com/mmlab/Git2PROV) - Unleash the potential of Git in the new W3C standard for provenance.
-- [hydra-java](https://github.com/dschulten/hydra-java)
 - [IntervalServer](https://github.com/epimorphics/IntervalServer)
 - [jdbc-for-rdf3x](https://github.com/dbiir/jdbc-for-rdf3x)
 - [rdf3x_path](https://github.com/agubichev/rdf3x_path) - RDF3X with path queries.
@@ -962,41 +1014,41 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [JenaSecurity](https://github.com/Claudenw/JenaSecurity) - Security (Permissions) wrapper around Jena RDF implementation.
 - [specgen](https://github.com/specgen/specgen) - Modified, extended and more generalized version of Danbri‘s SpecGen version 5.
 - [cassa](https://github.com/heuer/cassa) - SPARQL 1.1 Graph Store HTTP Protocol implementation with plugable backends.
-- [graphity-browser](https://github.com/AtomGraph/Web-Client) - Generic Linked Data browser.
-- [keygenapp](https://github.com/bblfish/keygenapp)
+- [keygenapp](https://github.com/bblfish/keygenapp) - Utilities and WebApp for certificate creation within a browser, for FOAF+SSL.
 - [owlapitools](https://github.com/owlcs/owlapitools) - Set of independent add-ons for OWL API.
-- [LD-FusionTool](https://github.com/mifeet/LD-FusionTool)
-- [fox-ui](https://github.com/Data2Semantics/fox-ui)
+- [LD-FusionTool](https://github.com/mifeet/LD-FusionTool) - Data Fusion & Conflict Resolution tool for Linked Data.
 - [prefix.cc](https://github.com/cygri/prefix.cc) - Source code to the prefix.cc website.
 - [LSD-Dimensions](https://github.com/albertmeronyo/LSD-Dimensions) - All dimension values of Linked Statistical Data.
 - [prissma](https://github.com/lukostaz/prissma) - Context-Aware Adaptation for Linked Data.
-- [fox-java](https://github.com/renespeck/fox-java)
-- [fox-py](https://github.com/earthquakesan/fox-py)
-- [ORE](https://github.com/AKSW/ORE)
-- [signal-collect-torque](https://github.com/uzh/signal-collect-torque)
-- [redland-bindings](https://github.com/dajobe/redland-bindings)
+- [fox-java](https://github.com/renespeck/fox-java) - Java bindings for FOX - Federated Knowledge Extraction Framework.
+- [fox-py](https://github.com/earthquakesan/fox-py) - Python bindings for FOX - Federated Knowledge Extraction Framework.
+- [fox-ui](https://github.com/Data2Semantics/fox-ui) - Web UI for FoxPSL.
+- [ORE](https://github.com/AKSW/ORE) - Ontology Repair and Enrichment.
+- [signal-collect-torque](https://github.com/uzh/signal-collect-torque) - Support for Signal/Collect Torque deployment.
+- [redland-bindings](https://github.com/dajobe/redland-bindings) - Redland librdf language bindings.
 - [mediation](https://github.com/correndo/mediation) - Jena based framework to implement ontological mediation of SPARQL queries.
 - [owl-functional-syntax-axiom-parser](https://github.com/dfleischhacker/owl-functional-syntax-axiom-parser)
-- [SemanticPingback](https://github.com/AKSW/SemanticPingback)
-- [json-ld-macros](https://github.com/antoniogarrote/json-ld-macros)
+- [SemanticPingback](https://github.com/AKSW/SemanticPingback) - This small vocabulary defines resources which are used in the context of Semantic Pingback.
+- [json-ld-macros](https://github.com/antoniogarrote/json-ld-macros)  Declarative transformation of JSON APIs into JSON-LD.
 - [tac](https://github.com/magnetik/tac) - Triple access control.
 - [dbpedia-extension](https://github.com/sparkica/dbpedia-extension)
-- [grefine-rdf-extension](https://github.com/OpenRefine/grefine-rdf-extension)
-- [LD-FusionTool](https://github.com/mifeet/LD-FusionTool)
-- [xodx](https://github.com/AKSW/xodx)
-- [morph-starter](https://github.com/jpcik/morph-starter)
-- [sesametools](https://github.com/joshsh/sesametools)
-- [DEER](https://github.com/GeoKnow/DEER)
-- [levelgraph-jsonld](https://github.com/mcollina/levelgraph-jsonld)
+- [grefine-rdf-extension](https://github.com/OpenRefine/grefine-rdf-extension) - An extension to Google Refine that enables graphical mapping of Google Refine project data to an RDF skeleton and then exporting it in RDF format.
+- [LD-FusionTool](https://github.com/mifeet/LD-FusionTool) - Data Fusion & Conflict Resolution tool for Linked Data.
+- [xodx](https://github.com/AKSW/xodx) - An implementation of Semantic Pingback and PuSH for a DSSN.
+- [morph-starter](https://github.com/jpcik/morph-starter) - this project is a simple Java (and Scala) demo of how to use morph.
+- [sesametools](https://github.com/joshsh/sesametools) - A collection of utilities for use with OpenRDF Sesame (as of recently, Eclipse RDF4J).
+- [DEER](https://github.com/dice-group/DEER) - RDF Dataset Enrichment Framework.
+- [levelgraph-jsonld](https://github.com/mcollina/levelgraph-jsonld) - The Object Document Mapper for LevelGraph based on JSON-LD
 - [owlapi](https://github.com/owlcs/owlapi) - The OWL API is a Java API for creating, manipulating and serialising OWL Ontologies.
-- [LODGrefine](https://github.com/sparkica/LODGrefine)
+- [LODGrefine](https://github.com/sparkica/LODGrefine) - LOD-enabled Google Refine: linked open data related extensions included.
 - [stardog.js](https://github.com/stardog-union/stardog.js)
 - [stardog-groovy](https://github.com/stardog-union/stardog-groovy)
+- [stardog-ubuntu-scripts](https://github.com/semantalytics/stardog-ubuntu-scripts)
+- [hydra-java](https://github.com/dschulten/hydra-java)
 - [HydraClient](https://github.com/lanthaler/HydraClient)
 - [cp-openrdf-utils](https://github.com/mhgrove/cp-openrdf-utils) - Utility classes for working with the OpenRdf API.
 - [linked-csv](https://github.com/JeniT/linked-csv) - A souped-up CSV-based data format.
 - [balloon](https://github.com/schlegel/balloon) - A tool-suite for Linked Data consumption. balloon aims in offering public services and tools to take advantage of the semantic web with less effort. The basic motivation is to establish a foundation for Linked Data as a Service (LDaaS).
-- [Processor](https://github.com/AtomGraph/Processor) - Generic Linked Data processor and server. Apache License.
 - [grlc](https://github.com/CLARIAH/grlc) - Translates public SPARQL queries into Linked Data APIs automatically.
 - [basil](https://github.com/the-open-university/basil) - Building Apis SImpLy from sparql endpoints.
 - [lodmill](https://github.com/lobid/lodmill) - Blend, grind, and enjoy LOD – fresh from the mill!
@@ -1006,14 +1058,11 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [linked-csv-browser](https://github.com/theodi/linked-csv-browser)
 - [semargl](https://github.com/semarglproject/semargl) - Highly performant, lightweight framework for linked data processing. Supports RDFa, JSON-LD, RDF/XML and plain text formats, runs on Android and GAE, provides integration with Jena, Sesame and Clerezza.
 - [wordnet-lemon-to-w3c](https://github.com/jimregan/wordnet-lemon-to-w3c)
-- [hyrise](https://github.com/hyrise/hyrise)
+- [hyrise](https://github.com/hyrise/hyrise) - Hyrise is a research in-memory database.
 - [owlconvert](https://github.com/camwebb/owlconvert) - Simple OWL format converter based on OWLAPI.
 - [rabel](https://github.com/linkeddata/rabel) - Program for reading and writing linked data in various formats.
 - [csvw-template](https://github.com/edsu/csvw-template) - Document the semantics of your csv file.
 - [jsonld-java](https://github.com/jsonld-java/jsonld-java) - JSON-LD implementation for Java.
 - [Luzzu](https://github.com/Luzzu/Framework/) - A scalable and extensible Linked Data quality assessment framework.
 - [odmtp-tpf](https://github.com/benjimor/odmtp-tpf) - Triple pattern matching over non-RDF datasources with inference .
-- [ISWCRecursive](https://github.com/alanezz/ISWCRecursive)
-- [semantic-graphql](https://github.com/nelson-ai/semantic-graphql)
-- [hypergraphql](https://github.com/semantic-integration/hypergraphql)
 - [motools](https://github.com/motools) - Music ontology tools
