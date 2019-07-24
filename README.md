@@ -571,6 +571,7 @@ OS - OpenSource
 ## Ontologies
 
 - [LOV](https://lov.linkeddata.es) - Linked Open Vocabularies. Portal / search tool for vocabularies.
+- [prefix.zazuko.com](https://prefix.zazuko.com) - Similar to LOV, but with a richer search interface
 
 ### World Wide Web Consortium (W3C)
 
@@ -722,6 +723,7 @@ OS - OpenSource
 - [sparqlalgebrajs](https://github.com/joachimvh/SPARQLAlgebra.js) - SPARQL to SPARQL Algebra converter.
 - [RDForms](https://rdforms.org) - Construct form-based RDF editors in a web environment.
 - [graphy.js](https://github.com/blake-regalia/graphy.js) - A collection of RDF libraries for JavaScript developers with a focus on performance and usability.
+- [@zazuko/rdf-vocabularies](https://github.com/zazuko/rdf-vocabularies) - Library of common vocabularies
 
 ### Kotlin
 
