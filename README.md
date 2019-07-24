@@ -670,6 +670,7 @@ OS - OpenSource
 
 - [dotNetRDF](https://github.com/dotnetrdf/dotnetrdf)
 - [RDFSharp](https://github.com/mdesalvo/RDFSharp)
+- [Rdf.Vocabularies](https://github.com/wikibus/rdf.vocabularies)
 
 ### Clojure
 
