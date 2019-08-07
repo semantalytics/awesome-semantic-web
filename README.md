@@ -70,6 +70,7 @@ Looking for something but can't find it? Add it to the ["Does it exist"](https:/
 - [WebID](#webid)
 - [SHACL Implementations](#shacl-implementations)
 - [SKOS Tools](#skos-tools)
+- [NLP](#nlp)
 - [Other Awesome](#other-awesome)
 - [Misc](#misc)
 
@@ -991,6 +992,13 @@ OS - OpenSource
 - [SKOS Play!](http://labs.sparna.fr/skos-play/about)
 - [skosapi](http://skosapi.sourceforge.net/)
 - [java-skos-api](https://github.com/simonjupp/java-skos-api)
+
+## NLP
+- [fred](http://wit.istc.cnr.it/stlab-tools/fred/#About) - a machine reader for the Semantic Web
+- [NIF](https://persistence.uni-leipzig.org/nlp2rdf/) NLP Interchange Format
+- [Lemon](https://lemon-model.net/) - The Lexicon Model for Ontologies
+- [Wordnet](https://wordnet.princeton.edu/) 
+- [PreMOn](http://premon.fbk.eu/ontology/vn) - Predicate Model for Ontologies (PreMOn) - VerbNet ontology module
 
 ## Other Awesome
 
