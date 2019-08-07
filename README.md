@@ -69,7 +69,7 @@ Looking for something but can't find it? Add it to the ["Does it exist"](https:/
 - [Linked Data](#linked-data)
 - [WebID](#webid)
 - [SHACL Implementations](#shacl-implementations)
-- [SKOS](#skos)
+- [SKOS Tools](#skos-tools)
 - [Other Awesome](#other-awesome)
 - [Misc](#misc)
 
@@ -977,7 +977,7 @@ OS - OpenSource
 - [pySHACL](https://github.com/RDFLib/pySHACL) - A Python validator for SHACL.
 - [rdf4j-shacl](http://docs.rdf4j.org/programming/#_validation_with_shacl)
 
-## SKOS
+## SKOS Tools
 
 - [iQvoc](https://github.com/innoq/iqvoc) - SKOS(-XL) Vocabulary Management System for the Semantic Web.
 - [Poolparty](https://www.poolparty.biz/skos-and-skos-xl) ($)
