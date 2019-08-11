@@ -1000,6 +1000,7 @@ OS - OpenSource
 - [Lemon](https://lemon-model.net/) - The Lexicon Model for Ontologies
 - [Wordnet](https://wordnet.princeton.edu/) 
 - [PreMOn](http://premon.fbk.eu/ontology/vn) - Predicate Model for Ontologies (PreMOn) - VerbNet ontology module
+- [BabelNet](https://babelnet.org)
 
 ## Other Awesome
 
