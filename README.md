@@ -306,6 +306,7 @@ F - Free
 - [Beam](https://github.com/eBay/beam) - (OS) distributed RDF store written in Golang.
 
 ### Academic
+(Note: this classification is somewhat arbitrary and is meant to capture databases that only have a published paper or were developed for that purpose and are not actively maintained)
 
 - [TripleRush](https://github.com/uzh/triplerush) - (OS).
 - [corese](https://github.com/Wimmics/corese) - (OS).
