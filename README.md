@@ -265,7 +265,7 @@ F - Free
 - [Ontotext GraphDB™](http://graphdb.ontotext.com/) - ($/F).
 - [Halyard](https://github.com/Merck/Halyard) - (OS).
 - [Stardog](http://stardog.com) - ($/F).
-- [Strabon](http://www.strabon.di.uoa.gr/)
+- [Strabon](http://www.strabon.di.uoa.gr/) - (OS) A spatiotemporal RDF store.
 - [Systap Blazegraph™](https://www.blazegraph.com/) - ($/OS).
   - [docker-blazegraph](https://github.com/zorino/docker-blazegraph)
   - [blazegraph-samples](https://github.com/blazegraph/blazegraph-samples)
