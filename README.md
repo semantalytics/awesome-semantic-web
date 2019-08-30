@@ -1099,12 +1099,15 @@ OS - OpenSource
 - [metreeca](https://github.com/metreeca) - The model-driven linked data platform.
 - [OLGA](https://ecostruxure.github.io/OLGA/) - OLGA (Ontology Library GenerAtor) is a generic tool aiming to accelerate the adoption of Standard W3C Semantic technology among developers.
 - [Glimmer](https://github.com/Timpy/Glimmer) - An RDF Search Engine.
-- [ontodia]https://github.com/sputniq-space/ontodia) - Ontodia data diagraming library.
+- [ontodia](https://github.com/sputniq-space/ontodia) - Ontodia data diagraming library.
 - [rdf.sh](https://github.com/seebi/rdf.sh) - A multi-tool shell script for doing Semantic Web jobs on the command line.
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- https://metacpan.org/release/KJETILK/AtteanX-Store-SPARQL-0.012
+- https://github.com/stkenny/grefine-rdf-extension/releases/tag/v1.1.0
+- http://www.linklion.org/portal/
+- [yarrrml-parser](https://github.com/RMLio/yarrrml-parser) - A YARRRML parser library and CLI in Javascript.
+- http://rml.io/yarrrml/
+- [amazon-neptune-tools](https://github.com/awslabs/amazon-neptune-tools) - Tools and utilities to enable loading data and building graph applications with Amazon Neptune.
+- [sparql-ld](https://github.com/fafalios/sparql-ld) - SPARQL-LD: A SPARQL Extension for Fetching and Querying Linked Data.
+- [genealogical-trees](https://github.com/blokhin/genealogical-trees) - Semantic Web Exercise: Reasoning and Visualization of the Genealogical Ontologies.
+- http://sage.univ-nantes.fr
+- [LodLive](https://github.com/dvcama/LodLive) - browse the web of data - a SPARQL navigator http://lodlive.it
