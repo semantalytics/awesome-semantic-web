@@ -1082,3 +1082,29 @@ OS - OpenSource
 - [Luzzu](https://github.com/Luzzu/Framework/) - A scalable and extensible Linked Data quality assessment framework.
 - [odmtp-tpf](https://github.com/benjimor/odmtp-tpf) - Triple pattern matching over non-RDF datasources with inference .
 - [motools](https://github.com/motools) - Music ontology tools
+- [activitypub](https://www.w3.org/TR/2018/REC-activitypub-20180123/)
+- [ont-api](https://github.com/avicomp/ont-api)
+- [rdfsurveyor](https://github.com/guiveg/rdfsurveyor) - Exploration tool for RDF datasets.
+- [SEPA](https://github.com/arces-wot/SEPA) - A JAVA implementation of the SPARQL Event Processing Architecture including the engine, APIs and tools.
+- [fenster](https://github.com/knakk/fenster) - RDF quad-store frontend.
+- [jsonld-streaming-parser.js](https://github.com/rubensworks/jsonld-streaming-parser.js) - A fast and lightweight streaming JSON-LD parser for JavaScript. 
+- [rollxx/manchester-syntax-owl2](https://github.com/rollxx/manchester-syntax-owl2) - ANTLR grammar for simplified Manchester Syntax OWL2. 
+- [rollxx/antlr-sparql-grammar](https://github.com/rollxx/antlr-sparql-grammar) - sparql 1.1 antlr grammar.
+- [sparql-ld](https://github.com/fafalios/sparql-ld) - SPARQL-LD: A SPARQL Extension for Fetching and Querying Linked Data.
+- [jena-sparql-api](https://github.com/SmartDataAnalytics/jena-sparql-api) - A collection of Jena-extensions for hiding SPARQL-complexity from the application layer.
+- [nichtich/wdg](https://github.com/nichtich/wdq) - Command line interface to Wikidata Query Service.
+- [vocol](https://github.com/vocol/vocol) - An integrated environment to support collaborative ontology / vocabulary development in distributed settings.
+- [psps](https://github.com/factsmission/psps) - Personal Structured Publishing Space.
+- [CSO](https://cso.kmi.open.ac.uk/home) - The Computer Science Ontology (CSO) is a large-scale ontology of research areas that was automatically generated using the Klink-2 algorithm on the Rexplore dataset, which consists of about 16 million publications, mainly in the field of Computer Science.
+- [metreeca](https://github.com/metreeca) - The model-driven linked data platform.
+- [OLGA](https://ecostruxure.github.io/OLGA/) - OLGA (Ontology Library GenerAtor) is a generic tool aiming to accelerate the adoption of Standard W3C Semantic technology among developers.
+- [Glimmer](https://github.com/Timpy/Glimmer) - An RDF Search Engine.
+- [ontodia]https://github.com/sputniq-space/ontodia) - Ontodia data diagraming library.
+- [rdf.sh](https://github.com/seebi/rdf.sh) - A multi-tool shell script for doing Semantic Web jobs on the command line.
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
