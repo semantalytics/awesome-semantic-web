@@ -1111,3 +1111,4 @@ OS - OpenSource
 - [genealogical-trees](https://github.com/blokhin/genealogical-trees) - Semantic Web Exercise: Reasoning and Visualization of the Genealogical Ontologies.
 - http://sage.univ-nantes.fr
 - [LodLive](https://github.com/dvcama/LodLive) - browse the web of data - a SPARQL navigator http://lodlive.it
+- [fbrs](https://github.com/aldonline/fbrs) - Facebook RDF Sync
