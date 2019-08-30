@@ -261,6 +261,7 @@ $ - Proprietary
 OS - OpenSource  
 F - Free  
 
+- [akutan](https://github.com/eBay/akutan) - (OS) A distributed knowledge graph store.
 - [Jena TDB](http://jena.apache.org/documentation/tdb/index.html) - (OS).
 - [Ontotext GraphDB™](http://graphdb.ontotext.com/) - ($/F).
 - [Halyard](https://github.com/Merck/Halyard) - (OS).
