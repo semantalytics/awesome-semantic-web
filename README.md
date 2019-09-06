@@ -1112,3 +1112,12 @@ OS - OpenSource
 - http://sage.univ-nantes.fr
 - [LodLive](https://github.com/dvcama/LodLive) - browse the web of data - a SPARQL navigator http://lodlive.it
 - [fbrs](https://github.com/aldonline/fbrs) - Facebook RDF Sync
+- [ostrich](https://github.com/rdfostrich/ostrich) -Versioned RDF triple store (Offset-enabled TRIple store for CHangesets)
+- [ontmalizer](https://github.com/srdc/ontmalizer) - A tool that performs comprehensive transformations of XML Schemas (XSD) and XML data to RDF/OWL automatically
+- [NSpM](https://github.com/AKSW/NSpM) - robot Neural SPARQL Machines translate natural language into SPARQL queries. 
+- [ML-Schema/core](https://github.com/ML-Schema/core) - CORE ontology of ML-Schema schema. It's the mapping to others machine learning vocabularies and ontologies (DMOP, Expose, OntoDM and MEX)
+- [rocker](https://github.com/AKSW/rocker) - key A Refinement Operator Approach for Key Discovery. http://aksw.org/projects/Rocker
+- [Mandolin](https://github.com/mommi84/Mandolin) - sparkle Markov Logic Networks for the Discovery of Links
+- [docker2rdf](https://github.com/albertmeronyo/docker2rdf) - Mapper to represent Dockerfiles as RDF triples
+- [YARRML](http://rml.io/yarrrml/spec/) - YARRRML is a human readable text-based representation for declarative generation rules. It is a subset of [YAML], a widely used data serialization language designed to be human-friendly. 
+- [vsb](https://github.com/leipert/vsb) - Visual SPARQL Builder - Model SPARQL-Select-Queries in a browser https://leipert.github.io/vsb/
