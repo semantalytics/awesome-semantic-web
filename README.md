@@ -512,10 +512,11 @@ OS - OpenSource
 
 ### Object to RDF Mapping
 
-- [PA4RDF](https://github.com/Claudenw/PA4RDF)
-- [Empire](https://github.com/mhgrove/Empire/)
-- [Pinto](https://github.com/stardog-union/pinto)
-- [Som(m)er](https://github.com/bblfish/sommer)
+- [java2rdf](https://github.com/EBIBioSamples/java2rdf) - A simple library to map Java objects and Java beans onto RDF/OWL
+- [PA4RDF](https://github.com/Claudenw/PA4RDF) - functionality on top of an RDF store while accounting for and exploiting the fundamental differences between graph storage and relational storage.
+- [Empire](https://github.com/mhgrove/Empire/) - JPA implementation for RDF
+- [Pinto](https://github.com/stardog-union/pinto) - A lightweight framework for mapping Java Beans into RDF and back again 
+- [Som(m)er](https://github.com/bblfish/sommer) - Semantic Object (Metadata) MappER
 - [jennabean](https://code.google.com/p/jenabean/)
 - [Alibaba](https://bitbucket.org/openrdf/alibaba)
 - [rdfbeans](https://github.com/cyberborean/rdfbeans)
