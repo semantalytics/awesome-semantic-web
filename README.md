@@ -718,6 +718,7 @@ OS - OpenSource
 
 - [js3](https://github.com/webr3/js3)
 - [rdfstore-js](https://github.com/antoniogarrote/rdfstore-js)
+- [sparql-engine](https://github.com/Callidon/sparql-engine) - An open-source framework for building SPARQL query engines in Javascript/Typescript.
 - [rdf-ext](https://github.com/rdf-ext/rdf-ext)
 - [N3.js](https://github.com/RubenVerborgh/N3.js)
 - [Jessa](https://www.npmjs.com/package/jassa)
@@ -775,6 +776,7 @@ OS - OpenSource
 - [sparta](https://github.com/mnot/sparta/) - Simple API for RDF.
 - [rdftools](https://github.com/cosminbasca/rdftools) - Simple collection of python RDF tools.
 - [cysparql](https://github.com/cosminbasca/cysparql) - CySparql is a python wrapper over the excellent rasqal RDF library for parsing SPARQL queries.
+- [pyHDT](https://github.com/Callidon/pyHDT) - Read and query [HDT documents](http://www.rdfhdt.org/) with ease in Python
 
 ### R
 
