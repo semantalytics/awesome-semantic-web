@@ -1148,3 +1148,4 @@ OS - OpenSource
 - [CostFed](https://github.com/dice-group/CostFed) - Cost-Based Query Optimization for SPARQL Endpoint Federation.
 - [sparql-ld](https://github.com/fafalios/sparql-ld) - SPARQL-LD: A SPARQL Extension for Fetching and Querying Linked Data.
 - [vocol](https://github.com/vocol/vocol) - An integrated environment to support collaborative ontology / vocabulary development in distributed settings.
+- [sparql-to-csv](https://github.com/jindrichmynarz/sparql-to-csv) - Stream SPARQL results to CSV .
