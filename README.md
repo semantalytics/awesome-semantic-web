@@ -670,6 +670,7 @@ OS - OpenSource
 - [librdf](https://github.com/dajobe/librdf) - Redland librdf RDF API and triple stores.
 - [raptor](https://github.com/dajobe/raptor) - Redland Raptor RDF syntax library.
 - [rasqal](https://github.com/dajobe/rasqal) - Redland Rasqal RDF Query Library.
+- [cowl](https://github.com/sisinflab-swot/cowl) - A lightweight C API for working with OWL ontologies.
 
 ### C\#
 
