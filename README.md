@@ -1150,3 +1150,10 @@ OS - OpenSource
 - [sparql-ld](https://github.com/fafalios/sparql-ld) - SPARQL-LD: A SPARQL Extension for Fetching and Querying Linked Data.
 - [vocol](https://github.com/vocol/vocol) - An integrated environment to support collaborative ontology / vocabulary development in distributed settings.
 - [sparql-to-csv](https://github.com/jindrichmynarz/sparql-to-csv) - Stream SPARQL results to CSV .
+- [knowledgecubes](https://github.com/amgadmadkour/knowledgecubes) - Efficient RDF Data Management over Spark.
+- [premon](https://premon.fbk.eu) - PREdicate Model for ONtologies
+- [eso-and-ceo](https://github.com/newsreader/eso-and-ceo) - Event and Implied Situation Ontology (ESO) and the Circumstantial Event Ontology for Calamities (CEO).
+- [pikes](http://pikes.fbk.eu) - Pikes is a Knowledge Extraction Suite 
+- [rdfpro](https://github.com/dkmfbk/rdfpro) - an extensible tool for building stream-oriented RDF processing pipelines.
+- [umls2rdf](https://github.com/ncbo/umls2rdf) - These python scripts connect to the Unified Medical Language System (UMLS) database and translate the ontologies into RDF/OWL files. This is part of the BioPortal project.
+- [eye](https://github.com/josd/eye) - Euler Yet another proof Engine.
