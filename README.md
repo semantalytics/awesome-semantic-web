@@ -525,6 +525,7 @@ OS - OpenSource
 - [sparql-template](https://github.com/gushakov/sparql-template) - RDF store traversal with Jena API via automatic mapping between POJO and SPARQL. 
 - [JOPA](https://github.com/kbss-cvut/jopa) - A Java object-triple mapping library for RDF4J, Jena and OWL API.
 - [RomanticWeb](https://github.com/MakoLab/RomanticWeb) - RDF-Object Mapping for the Semantic Web.
+- [XML2RDF-DataTransformation-MappingTool](https://github.com/isl/XML2RDF-DataTransformation-MappingTool) - XML2RDF Data Transformation Tool (Mapping Tool): This generic data transformation tool maps XML data files to RDF files, given a schema matching definition, based on this Mapping Language Schema.
 
 ### RDB to RDF
 
