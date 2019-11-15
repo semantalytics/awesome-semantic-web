@@ -196,7 +196,7 @@ Looking for something but can't find it? Add it to the ["Does it exist"](https:/
 - [RDF Datatyping](http://infolab.stanford.edu/~melnik/rdf/datatyping/) - This document summarizes the common understanding of the RDF Core Working Group (further referred to as WG) with regards to the theoretical foundation for datatyping of literal values and serves as a basis of definition, discussion, and comparison of all proposed schemes for achieving a complete datatyping solution which are to be considered by the WG.
 
 ## Companies
-Companies or businesses selling products with a primary focus is semantic web technology
+Companies or businesses selling products with a primary focus on semantic web technology
 
 - [Stardog Union](http://stardog.com) - Knowledge Graph Platform for the Enterprise.
 - [Epimorphics](https://www.epimorphics.com/)
@@ -217,6 +217,7 @@ Companies or businesses selling products with a primary focus is semantic web te
 - [inova8](http://www.inova8.com/)
 - [in4mium](http://www.in4mium.com/)
 - [Xylem Technologies](https://www.xylem-technologies.com/en/)
+- [Synaptica](https://www.synaptica.com)
 
 ## Industry
 Companies or businesses using semantic web technologies
