@@ -299,6 +299,7 @@ F - Free
 - [Oxford Semantic RDFox](https://www.oxfordsemantic.tech) - ($) Horizontly scalalbe in-memory triple store with parallel Datalog reasoning.
 - [gStore](https://github.com/pkumod/gStore) - (OS).
 - [ostrich](https://github.com/rdfostrich/ostrich) - (OS) bird Versioned RDF triple store (Offset-enabled TRIple store for CHangesets).
+- [QuitStore](https://github.com/AKSW/QuitStore) - Quads in Git - Git versioned RDF Triple Store with support for branching and mergin and more.
 - [NitrosBase](http://nitrosbase.com/) - (F)
 - [Dydra](https://dydra.com) - ($) A cloud-based graph database.
 - [redstore](https://github.com/njh/redstore) - (OS) RedStore is a lightweight RDF triplestore written in C using the Redland library.
