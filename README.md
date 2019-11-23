@@ -262,7 +262,7 @@ $ - Proprietary
 OS - OpenSource  
 F - Free  
 
-- [akutan](https://github.com/eBay/akutan) - (OS) A distributed knowledge graph store.
+- [Akutan](https://github.com/eBay/akutan) - (OS) A distributed knowledge graph store written in Golang. Formerly known as Beam.
 - [Jena TDB](http://jena.apache.org/documentation/tdb/index.html) - (OS).
 - [Ontotext GraphDB™](http://graphdb.ontotext.com/) - ($/F).
 - [Halyard](https://github.com/Merck/Halyard) - (OS).
@@ -305,7 +305,6 @@ F - Free
 - [librdf.sqlite](https://github.com/mro/librdf.sqlite) - (OS) improved SQLite RDF triple store for Redland librdf.
 - [neptune](https://aws.amazon.com/neptune/) - ($) Amazon Neptune is a fast, reliable, fully managed graph database service that makes it easy to build and run applications that work with highly connected datasets.
 - [fabric](https://github.com/spy16/fabric) - (OS) Fabric is a simple triplestore written in Golang.
-- [Beam](https://github.com/eBay/beam) - (OS) distributed RDF store written in Golang.
 
 ### Academic
 (Note: this classification is somewhat arbitrary and is meant to capture databases that only have a published paper or were developed for that purpose and are not actively maintained)
