@@ -689,6 +689,7 @@ OS - OpenSource
 - [clj-plaza](https://github.com/antoniogarrote/clj-plaza) - Clojure rdf framework.
 - [seabass](https://github.com/ryankohl/seabass) - A library for working with RDF with Jena in Clojure.
 - [aristotle](https://github.com/arachne-framework/aristotle) - RDF, SPARQL and OWL for Clojure
+- [aesopica](https://github.com/newres/aesopica) -  A Clojure library designed to help create Semantic Web based applications.
 
 
 ### Elixir
