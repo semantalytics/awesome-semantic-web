@@ -45,7 +45,7 @@ Looking for something but can't find it? Add it to the ["Does it exist"](https:/
   - [JavaScript](#javascript)
   - [Kotlin](#kotlin)
   - [ObjectiveC](#objectivec)
-  - [OCamel](#ocamel)
+  - [OCaml](#ocaml)
   - [Perl](#perl)
   - [PHP](#php)
   - [Prolog](#prolog)
@@ -748,7 +748,7 @@ OS - OpenSource
 
 - [SPARQLKit](https://github.com/kasei/SPARQLKit) - An implementation of the SPARQL 1.1 query language in Objective-C.
 
-### OCamel
+### OCaml
 
 - [ocaml-rdf](https://www.good-eris.net/ocaml-rdf/) - Manipulate RDF graphs and execute Sparql queries.
 
