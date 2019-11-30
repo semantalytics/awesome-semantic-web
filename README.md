@@ -284,7 +284,6 @@ F - Free
 - [4Store](https://github.com/garlik/4store) - (OS).
 - [Mulgara](http://mulgara.org/) - (OS).
 - [Parliament](https://github.com/SemWebCentral/parliament) - (OS).
-- [wallix/triplestore](https://github.com/wallix/triplestore) - (OS) Nifty library written in Go-Lang.
 - [SANSA](http://sansa-stack.net/) - (OS).
 - [hbase-rdf](https://github.com/castagna/hbase-rdf) - (OS).
 - [Anzograph](https://www.cambridgesemantics.com/product/anzograph/)
@@ -294,7 +293,7 @@ F - Free
 - [Node-Quadstore](https://beautifulinteractions.github.io/node-quadstore/) - (OS) A LevelDB-backed graph database for Node.js supporting quads, SPARQL queries and the RDF/JS interface.
 - [KGRAM](http://wimmics.inria.fr/corese) - (OS).
 - [luposdate](https://github.com/luposdate/luposdate) - (OS) Semantic Web database.
-- [wallix/triplestore](https://github.com/wallix/triplestore) - Nifty library to manage, query and store RDF triples.
+- [wallix/triplestore](https://github.com/wallix/triplestore) - (OS) Nifty library to manage, query and store RDF triples.
 - [levelgraph](https://github.com/levelgraph/levelgraph) - (OS) Graph database JS style for Node.js and the Browser.
 - [Oxford Semantic RDFox](https://www.oxfordsemantic.tech) - ($) Horizontly scalalbe in-memory triple store with parallel Datalog reasoning.
 - [gStore](https://github.com/pkumod/gStore) - (OS).
