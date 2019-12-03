@@ -644,6 +644,7 @@ OS - OpenSource
 - [FaCT++](https://github.com/ethz-asl/libfactplusplus)
 - [HermiT](http://www.hermit-reasoner.com/)
 - [ELK](https://github.com/liveontologies/elk-reasoner)
+- [Whelk](https://github.com/balhoff/whelk)
 - [OWL-RL](https://github.com/RDFLib/OWL-RL)
 - [RacerPro](https://franz.com/agraph/racer/)
 - [Manchester List of Reasoners](http://owl.cs.manchester.ac.uk/tools/list-of-reasoners/)
