@@ -452,6 +452,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 
 - [International Semantic Web Conference (ISWC 2019)](http://iswc2019.semanticweb.org)
 - [European Semantic Web Conference (ESWC 2019)](https://2019.eswc-conferences.org)
+- [US2TS -- U.S. Semantic Technologies Symposium](http://us2ts.org)
 
 ### Blogs
 
