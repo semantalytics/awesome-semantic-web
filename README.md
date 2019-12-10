@@ -812,6 +812,7 @@ OS - OpenSource
 - [banana-rdf](https://github.com/banana-rdf/banana-rdf) - A library for RDF, SPARQL and Linked Data technologies in Scala.
 - [jvmrdftools](https://github.com/cosminbasca/jvmrdftools)
 - [SANSA-RDF](https://github.com/SANSA-Stack/SANSA-RDF) - Library to read RDF files into Spark or Flink.
+- [scowl](https://github.com/phenoscape/scowl) - A Scala DSL for programming with the OWL API.
 
 ### Swift
 
