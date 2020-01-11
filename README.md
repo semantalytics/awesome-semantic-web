@@ -218,6 +218,7 @@ Companies or businesses selling products with a primary focus on semantic web te
 - [in4mium](http://www.in4mium.com/)
 - [Xylem Technologies](https://www.xylem-technologies.com/en/)
 - [Synaptica](https://www.synaptica.com)
+- [Ontola](http://ontola.io/)
 
 ## Industry
 Companies or businesses using semantic web technologies
@@ -460,6 +461,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [Bob DuCharme's weblog technology for representing and linking information](http://www.snee.com/bobdc.blog/)
 - [Planet RDF](http://planetrdf.com)
 - [Jörn's Blog](https://joernhees.de/blog/)
+- [Ontola Linked Data Blog](https://ontola.io/blog)
 
 ### Groups
 
@@ -744,6 +746,9 @@ OS - OpenSource
 - [RDForms](https://rdforms.org) - Construct form-based RDF editors in a web environment.
 - [graphy.js](https://github.com/blake-regalia/graphy.js) - A collection of RDF libraries for JavaScript developers with a focus on performance and usability.
 - [@zazuko/rdf-vocabularies](https://github.com/zazuko/rdf-vocabularies) - Library of common vocabularies
+- [link-redux](https://github.com/fletcher91/link-redux/) - View RDF resources in React
+- [@ontologies](https://github.com/ontola/ontologies) - Like @types, but for ontologies
+- [rdfdev-js](https://github.com/ontola/rdfdev-js) - Collection of libraries to ease in JavaScript RDF development.
 
 ### Kotlin
 
@@ -801,11 +806,11 @@ OS - OpenSource
 ### Ruby
 
 - [ruby-rdf](http://ruby-rdf.github.io)
+- [rdf-serializers](https://github.com/ontola/rdf-serializers) - Adds RDF serialization to Ruby on Rails active model serializers
 
 ### Rust
 
 - [sophia_rs](https://github.com/pchampin/sophia_rs) - Sophia: a Rust toolkit for RDF and Linked Data.
-
 
 ### Scala
 
