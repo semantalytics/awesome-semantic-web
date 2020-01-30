@@ -582,7 +582,6 @@ OS - OpenSource
 
 - [LOV](https://lov.linkeddata.es) - Linked Open Vocabularies. Portal / search tool for vocabularies.
 - [prefix.zazuko.com](https://prefix.zazuko.com) - Similar to LOV, but with a richer search interface
-- [BBC - Ontologies](https://www.bbc.co.uk/ontologies) - The ontologies the BBC is using to support its audience facing applications such as BBC Sport, BBC Education, BBC Music, News projects and more.
 
 ### World Wide Web Consortium (W3C)
 
@@ -897,6 +896,7 @@ OS - OpenSource
 
 ## Datasets
 
+- [BBC - Ontologies](https://www.bbc.co.uk/ontologies) - The ontologies the BBC is using to support its audience facing applications such as BBC Sport, BBC Education, BBC Music, News projects and more.
 - [DBpedia](http://dbpedia.org)
 - [geonames](https://github.com/ldodds/geonames)
 - [permid](http://permid.org) - PermID: Connecting Data to the World.
