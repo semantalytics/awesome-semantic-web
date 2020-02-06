@@ -1019,6 +1019,7 @@ OS - OpenSource
 - [SKOS Play!](http://labs.sparna.fr/skos-play/about)
 - [skosapi](http://skosapi.sourceforge.net/)
 - [java-skos-api](https://github.com/simonjupp/java-skos-api)
+- [askos](https://github.com/WileyLabs/askos) - A SKOS browser and editor.
 
 ## NLP
 - [fred](http://wit.istc.cnr.it/stlab-tools/fred/#About) - a machine reader for the Semantic Web
