@@ -71,6 +71,7 @@ Looking for something but can't find it? Add it to the ["Does it exist"](https:/
 - [SHACL Implementations](#shacl-implementations)
 - [SKOS Tools](#skos-tools)
 - [NLP](#nlp)
+- [IIIF](#iiif)
 - [Other Awesome](#other-awesome)
 - [Misc](#misc)
 
@@ -1028,6 +1029,10 @@ OS - OpenSource
 - [Wordnet](https://wordnet.princeton.edu/) 
 - [PreMOn](http://premon.fbk.eu/ontology/vn) - Predicate Model for Ontologies (PreMOn) - VerbNet ontology module
 - [BabelNet](https://babelnet.org)
+
+## IIIF
+- [IIIF](https://iiif.io/)
+- [fester](https://github.com/UCLALibrary/fester)
 
 ## Other Awesome
 
