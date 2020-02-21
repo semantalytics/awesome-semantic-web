@@ -673,6 +673,8 @@ OS - OpenSource
 - [Structures for Organizing Knowledge: Exploring Taxonomies, Ontologies, and Other Schema](https://www.amazon.com/Structures-Organizing-Knowledge-Taxonomies-Ontologies/dp/1555706991)
 - [Validating RDF Data](http://book.validatingrdf.com/)
 - [Learning SPARQL](http://www.learningsparql.com/)
+- [A Developer's Guide to the Semantic Web, 2014,2nd Ed](https://www.springer.com/us/book/9783662437957)
+- [A Developer's Guide to the Semantic Web, 2011, 1st Ed](https://www.springer.com/us/book/9783642159701)
 
 ## Programming
 
