@@ -220,6 +220,8 @@ Companies or businesses selling products with a primary focus on semantic web te
 - [Xylem Technologies](https://www.xylem-technologies.com/en/)
 - [Synaptica](https://www.synaptica.com)
 - [Ontola](http://ontola.io/)
+- [eccenca Corporate Memory](https://www.eccenca.com) - build, explore and consume Knowledge Graphs
+
 
 ## Industry
 Companies or businesses using semantic web technologies
@@ -424,6 +426,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [SparqlProg](https://github.com/cmungall/sparqlprog) - composable SPARQL using logic programming
 
 ## GraphQL
+
 - [semantic-graphql](https://github.com/nelson-ai/semantic-graphql) - Create GraphQL schemas from RDF ontologies.
 - [hypergraphql](https://github.com/semantic-integration/hypergraphql) - GraphQL interface for querying and serving linked data on the Web.
 
@@ -480,6 +483,7 @@ OS - OpenSource
 - [OntoWiki](https://github.com/AKSW/OntoWiki) - (OS) Semantic data wiki as well as Linked Data publishing engine.
 - [GNOSS-Sherlock](https://www.gnoss.com/en/semantic-framework/knowledge-graph-management) - ($) Cognitive Intelligence tool for machines to understand us.
 - [Wikibase](http://wikiba.se) - (OS) Collection of applications and libraries for creating, managing and sharing structured data.
+- [eccenca Corporate Memory](https://www.eccenca.com) - build, explore and consume Knowledge Graphs
 
 ## Web Annotations
 
@@ -1183,3 +1187,4 @@ OS - OpenSource
 - [rdfpro](https://github.com/dkmfbk/rdfpro) - an extensible tool for building stream-oriented RDF processing pipelines.
 - [umls2rdf](https://github.com/ncbo/umls2rdf) - These python scripts connect to the Unified Medical Language System (UMLS) database and translate the ontologies into RDF/OWL files. This is part of the BioPortal project.
 - [eye](https://github.com/josd/eye) - Euler Yet another proof Engine.
+- [robot](http://robot.obolibrary.org/) - ROBOT is a command line tool for working with Open Biomedical Ontologies
