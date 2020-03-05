@@ -1046,6 +1046,7 @@ OS - OpenSource
 - [awesome-ontologies](htps://github.com/semantalytics/awesome-ontologies)
 - [shaoxiongi/awesome-knowlege-graph](https://github.com/shaoxiongji/awesome-knowledge-graph)
 - [totogo/awesome-knowledge-graph](https://github.com/totogo/awesome-knowledge-graph)
+- [awesome GLAM semweb](https://github.com/ncarboni/awesome-GLAM-semweb)
 
 ## Misc
 
