@@ -253,6 +253,7 @@ Companies or businesses using semantic web technologies
 - [eXascale Infolab](https://exascale.info/) - eXascale Infolab, University of Fribourg, Switzerland.
 - [Wimmics](http://wimmics.inria.fr/corese) - Wimmics stands for Web-Instrumented Man-Machine Interactions, Communities, and Semantics, a joint research team between INRIA Sophia Antipolis - Méditerranée and I3S (CNRS and Université Côte d'Azur).
 - [Data Semantics Lab](https://dase.cs.wright.edu/) - Data Semantics Lab, Wright State University
+- [Stanford BMIR](https://bmir.stanford.edu) - Stanford University Center for Biomedical Informatics Research
 
 ## Academic Journals
 
@@ -586,7 +587,9 @@ OS - OpenSource
 ## Ontologies
 
 - [LOV](https://lov.linkeddata.es) - Linked Open Vocabularies. Portal / search tool for vocabularies.
+- [BioPortal](https://bioportal.bioontology.org) - Open repository with tools for ontologies and SKOS vocabularies; biomedical content dominates but all research domains welcome
 - [prefix.zazuko.com](https://prefix.zazuko.com) - Similar to LOV, but with a richer search interface
+- [OntoPortal](https://ontoportal.org) - The BioPortal software in Virtual Appliance (deployable) form
 
 ### World Wide Web Consortium (W3C)
 
@@ -960,6 +963,7 @@ OS - OpenSource
 - [prefix.cc](https://prefix.cc) - namespace lookup for RDF developers
 - [rdf2rdf](https://github.com/knakk/rdf2rdf) - Tool for converting between different RDF serialization formats.
 - [Web-Client](https://github.com/AtomGraph/Web-Client) - Generic Linked Data browser and UX component framework.
+- [CEDAR Workbench](https://metadatacenter.org) - Center for Expanded Data Annotation and Retrieval offers full life cycle management for semantically linked metadata
 
 ## Integrations
 
@@ -1171,7 +1175,6 @@ OS - OpenSource
 - [Beast](https://github.com/SmartDataAnalytics/Beast) - Benchmarking, Evaluation, and Analysis Stack - A powerful yet lightweight Java8/Jena-based RDF processing stack.
 - [owlproofs](https://github.com/klinovp/owlproofs) - Extension to the OWL API to request proofs of entailments from the reasoner.
 - [basil](https://github.com/the-open-university/basil) - Building Apis SImpLy from sparql endpoints.
-- [umls2rdf](https://github.com/ncbo/umls2rdf) - These python scripts connect to the Unified Medical Language System (UMLS) database and translate the ontologies into RDF/OWL files. This is part of the BioPortal project.
 - [konclude](http://www.derivo.de/en/produkte/konclude.html) - Konclude is a high-performance reasoner for large and expressive ontologies.
 - [profilechecker](https://github.com/stain/profilechecker) - OWL API profile checker. 
 - [spdx](https://spdx.org/specifications) - Software Package Data Exchange® (SPDX®) is an open standard for communicating software bill of material information (including components, licenses, copyrights, and security references).
