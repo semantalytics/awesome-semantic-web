@@ -239,6 +239,7 @@ Companies or businesses using semantic web technologies
 - [NASA](https://www.nasa.gov)
 - [K Health](https://khealth.ai) - Self diagnosing app.
 - [Schneider Electric](https://www.schneider-electric.com/ww/en/)
+- [Osthus](https://www.osthus.com)
 
 ## Research Institutions
 
