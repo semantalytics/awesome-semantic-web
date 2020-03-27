@@ -392,8 +392,6 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [odata2sparql](https://github.com/peterjohnlawrence/com.inova8.odata2sparql.v4) - An OData proxy server that takes data from SPARQL endpoints or RDF graphs and publishes as OData V4 endpoint.
 - [lens2odata](https://github.com/peterjohnlawrence/com.inova8.lens.framework.v4) - A GUI for discovery, search, and graph of RDF sources.
 - [sparql2xquery](https://github.com/marklogic/sparql2xquery) - SPARQL to XQuery Translator for use with MarkLogic Semantic Toolkit.
-- [sparql-gremlin](https://github.com/apache/tinkerpop/tree/master/sparql-gremlin) - SPARQL to Gremlin Translator available as a plugin of the popular Apache TinkerPop graph computing framework. 
-- [Gremlinator](https://github.com/LITMUS-Benchmark-Suite/sparql-to-gremlin/) - SPARQL to Gremlin standalone Translator available as an independent implementation for open use in custom use cases.  
 - [SparqlAnalytics](https://github.com/AKSW/SparqlAnalytics)
 - [decentsparql](https://github.com/itm/decentsparql)
 - [sparqled](https://github.com/sindice/sparqled)
