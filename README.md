@@ -545,6 +545,13 @@ OS - OpenSource
 - [Sparqlify-Extendsions](https://github.com/AKSW/Sparqlify-Extensions) - Extension projects for Sparqlify.
 - [quetzal](https://github.com/Quetzal-RDF/quetzal) - SPARQL to SQL translation engine for multiple backends, such as DB2, PostgreSQL and Apache Spark.
 
+
+### RDF to Property Graphs
+
+- [sparql-gremlin](https://github.com/apache/tinkerpop/tree/master/sparql-gremlin) - SPARQL to Gremlin Translator available as a plugin of the popular Apache TinkerPop graph computing framework. 
+- [Gremlinator](https://github.com/LITMUS-Benchmark-Suite/sparql-to-gremlin/) - SPARQL to Gremlin standalone Translator available as an independent implementation for open use in custom use cases.
+
+
 ### XML
 
 - [ontmalizer](https://github.com/srdc/ontmalizer) - Comprehensive transformations of XML Schemas (XSD) and XML data to RDF/OWL automatically.
