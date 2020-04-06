@@ -199,6 +199,7 @@ Looking for something but can't find it? Add it to the ["Does it exist"](https:/
 ## Companies
 Companies or businesses selling products with a primary focus on semantic web technology
 
+- [Semantic Arts](https://semanticarts.com) - Enterprise information systems based on flexible data structures and deep semantics.
 - [Stardog Union](http://stardog.com) - Knowledge Graph Platform for the Enterprise.
 - [Epimorphics](https://www.epimorphics.com/)
 - [Franz](http://franz.com)
@@ -464,6 +465,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 
 ### Blogs
 
+- [Semantic Arts Data-Centric Architecture blog](https://www.semanticarts.com/blog/)
 - [Bob DuCharme's weblog technology for representing and linking information](http://www.snee.com/bobdc.blog/)
 - [Planet RDF](http://planetrdf.com)
 - [Jörn's Blog](https://joernhees.de/blog/)
@@ -594,6 +596,7 @@ OS - OpenSource
 
 ## Ontologies
 
+- [gist](https://www.semanticarts.com/gist/) - minimalist enterprise upper ontology - max coverage, fewest primitives, least ambiguity.
 - [LOV](https://lov.linkeddata.es) - Linked Open Vocabularies. Portal / search tool for vocabularies.
 - [BioPortal](https://bioportal.bioontology.org) - Open repository with tools for ontologies and SKOS vocabularies; biomedical content dominates but all research domains welcome
 - [prefix.zazuko.com](https://prefix.zazuko.com) - Similar to LOV, but with a richer search interface
@@ -678,6 +681,8 @@ OS - OpenSource
 
 ## Books
 
+- [The Data-Centric Revolution](https://www.amazon.co.uk/Data-Centric-Revolution-Restoring-Enterprise-Information/dp/1634625404)
+- [Ontology Engineering](https://www.morganclaypool.com/doi/abs/10.2200/S00834ED1V01Y201802WBE018)
 - [Linked Data](https://www.manning.com/books/linked-data)
 - [Explorer's Guide to the Semantic Web](https://www.manning.com/books/explorers-guide-to-the-semantic-web)
 - [Semantic Web Programming](https://www.wiley.com/en-us/Semantic+Web+Programming-p-9781118080603)
