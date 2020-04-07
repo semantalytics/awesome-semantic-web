@@ -240,6 +240,7 @@ Companies or businesses using semantic web technologies
 - [K Health](https://khealth.ai) - Self diagnosing app.
 - [Schneider Electric](https://www.schneider-electric.com/ww/en/)
 - [Osthus](https://www.osthus.com)
+- [DataLanguage](https://datalanguage.com/)
 
 ## Research Institutions
 
