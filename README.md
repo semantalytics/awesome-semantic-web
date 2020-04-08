@@ -241,6 +241,7 @@ Companies or businesses using semantic web technologies
 - [Schneider Electric](https://www.schneider-electric.com/ww/en/)
 - [Osthus](https://www.osthus.com)
 - [DataLanguage](https://datalanguage.com/)
+- [Eccenca](https://eccenca.com/en/)
 
 ## Research Institutions
 
