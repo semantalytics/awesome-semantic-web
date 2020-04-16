@@ -199,7 +199,6 @@ Looking for something but can't find it? Add it to the ["Does it exist"](https:/
 ## Companies
 Companies or businesses selling products with a primary focus on semantic web technology
 
-- [Semantic Arts](https://semanticarts.com) - Enterprise information systems based on flexible data structures and deep semantics.
 - [Stardog Union](http://stardog.com) - Knowledge Graph Platform for the Enterprise.
 - [Epimorphics](https://www.epimorphics.com/)
 - [Franz](http://franz.com)
@@ -222,6 +221,7 @@ Companies or businesses selling products with a primary focus on semantic web te
 - [Synaptica](https://www.synaptica.com)
 - [Ontola](http://ontola.io/)
 - [eccenca Corporate Memory](https://www.eccenca.com) - build, explore and consume Knowledge Graphs
+- [Semantic Arts](https://semanticarts.com) - Enterprise information systems based on flexible data structures and deep semantics.
 
 
 ## Industry
@@ -465,11 +465,11 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 
 ### Blogs
 
-- [Semantic Arts Data-Centric Architecture blog](https://www.semanticarts.com/blog/)
 - [Bob DuCharme's weblog technology for representing and linking information](http://www.snee.com/bobdc.blog/)
 - [Planet RDF](http://planetrdf.com)
 - [Jörn's Blog](https://joernhees.de/blog/)
 - [Ontola Linked Data Blog](https://ontola.io/blog)
+- [Semantic Arts Data-Centric Architecture blog](https://www.semanticarts.com/blog/)
 
 ### Groups
 
@@ -596,11 +596,11 @@ OS - OpenSource
 
 ## Ontologies
 
-- [gist](https://www.semanticarts.com/gist/) - minimalist enterprise upper ontology - max coverage, fewest primitives, least ambiguity.
 - [LOV](https://lov.linkeddata.es) - Linked Open Vocabularies. Portal / search tool for vocabularies.
 - [BioPortal](https://bioportal.bioontology.org) - Open repository with tools for ontologies and SKOS vocabularies; biomedical content dominates but all research domains welcome
 - [prefix.zazuko.com](https://prefix.zazuko.com) - Similar to LOV, but with a richer search interface
 - [OntoPortal](https://ontoportal.org) - The BioPortal software in Virtual Appliance (deployable) form
+- [gist](https://www.semanticarts.com/gist/) - minimalist enterprise upper ontology - max coverage, fewest primitives, least ambiguity.
 
 ### World Wide Web Consortium (W3C)
 
@@ -681,8 +681,6 @@ OS - OpenSource
 
 ## Books
 
-- [The Data-Centric Revolution](https://www.amazon.co.uk/Data-Centric-Revolution-Restoring-Enterprise-Information/dp/1634625404)
-- [Ontology Engineering](https://www.morganclaypool.com/doi/abs/10.2200/S00834ED1V01Y201802WBE018)
 - [Linked Data](https://www.manning.com/books/linked-data)
 - [Explorer's Guide to the Semantic Web](https://www.manning.com/books/explorers-guide-to-the-semantic-web)
 - [Semantic Web Programming](https://www.wiley.com/en-us/Semantic+Web+Programming-p-9781118080603)
@@ -694,6 +692,8 @@ OS - OpenSource
 - [Validating RDF Data](http://book.validatingrdf.com/)
 - [Learning SPARQL](http://www.learningsparql.com/)
 - [A Developer's Guide to the Semantic Web, 2014,2nd Ed](https://www.springer.com/us/book/9783662437957)
+- [Ontology Engineering](https://www.morganclaypool.com/doi/abs/10.2200/S00834ED1V01Y201802WBE018)
+- [The Data-Centric Revolution](https://www.amazon.co.uk/Data-Centric-Revolution-Restoring-Enterprise-Information/dp/1634625404)
 
 ## Programming
 
