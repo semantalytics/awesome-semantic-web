@@ -677,6 +677,7 @@ OS - OpenSource
 - [HyLAR](https://github.com/ucbl/HyLAR-Reasoner)
 - [ruby-rdf/rdf-reasoner](https://github.com/ruby-rdf/rdf-reasoner)
 - [cel](https://github.com/julianmendez/cel) -A lightweight Description Logic reasoner for large-scale biomedical ontologies.
+- [reasonable](https://github.com/gtfierro/reasonable) - OWL 2 Reasoner built on DataFrog
 
 ## Books
 
