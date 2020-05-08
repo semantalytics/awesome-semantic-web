@@ -588,6 +588,7 @@ OS - OpenSource
 
 - [RML](https://github.com/RMLio) - RDF Mapping language for mapping JSON, CSV and XML to RDF.
 - [CARML](https://github.com/carml/carml) - CARML RML engine for mapping CSV, XML and JSON files to RDF
+- [RocketRML](https://github.com/semantifyit/RocketRML)
 
 #### Other RDF Mappings
 
