@@ -221,7 +221,7 @@ Companies or businesses selling products with a primary focus on semantic web te
 - [Synaptica](https://www.synaptica.com)
 - [Ontola](http://ontola.io/)
 - [eccenca Corporate Memory](https://www.eccenca.com) - build, explore and consume Knowledge Graphs
-
+- [Same4](http://www.seme4.com)
 
 ## Industry
 Companies or businesses using semantic web technologies
