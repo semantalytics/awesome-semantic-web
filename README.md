@@ -865,6 +865,7 @@ OS - OpenSource
 ### IntelliJ
 
 - [sparql4idea](https://github.com/mattnathan/sparql4idea) - SPARQL language plugin for IntelliJ IDEA.
+- [RDF and SPARQL](https://sharedvocabs.com/products/rdfandsparql/) - RDF and SPARQL plugin for JetBrains IDEs
 
 ### Visual Studio Code
 
