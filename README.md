@@ -968,7 +968,7 @@ OS - OpenSource
 ## Tools
 
 - [tawny-owl](https://github.com/phillord/tawny-owl) - Build OWL Ontologies in a Programmatic Environment.
-- [Widoco](https://github.com/dgarijo/Widoco)
+- [Widoco](https://github.com/dgarijo/Widoco) - A Wizard for documenting and publishing ontologies on the Web.
 - [sesame-vocab-builder](https://github.com/tkurz/sesame-vocab-builder) - Sesame Vocab Builder provides a command line tool that allows to create constants for RDF primitives for a given namespace out of RDF ontology files.
 - [HydraConsole](https://github.com/lanthaler/HydraConsole)
 - [qonsole](https://github.com/epimorphics/qonsole) - A simple console for running SPARQL queries and displaying results.
@@ -984,6 +984,8 @@ OS - OpenSource
 - [rdf2rdf](https://github.com/knakk/rdf2rdf) - Tool for converting between different RDF serialization formats.
 - [Web-Client](https://github.com/AtomGraph/Web-Client) - Generic Linked Data browser and UX component framework.
 - [CEDAR Workbench](https://metadatacenter.org) - Center for Expanded Data Annotation and Retrieval offers full life cycle management for semantically linked metadata
+- [OnToology](https://github.com/OnToology/OnToology) - A system for collaborative ontology development. Given a GitHub repository with an OWL file, OnToology will survey it and produce diagrams, a complete documentation and validation based on common pitfalls.
+- [OBA](https://github.com/KnowledgeCaptureAndDiscovery/OBA/) - Automatically create OpenAPI specifications from OWL and launch a server that serves JSON objects according to your ontology.
 
 ## Integrations
 
