@@ -663,6 +663,7 @@ OS - OpenSource
 - [Ontology Development Kit](https://github.com/INCATools/ontology-development-kit/) - set up a git repo for developing an ontology
 - [ROBOT](http://robot.obolibrary.org/) - command line swiss-army knife for ontology developers
 - [grafo](http://gra.fo/) - Vistual graph development
+- [OOPS! (Ontology Pitfall Scanner!)](http://oops.linkeddata.es/) - a web application to detect (semi)automatically 33 pitfalls or errors in ontologies. A web service is also provided.
 
 ## Reasoners
 
