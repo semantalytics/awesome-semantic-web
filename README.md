@@ -222,7 +222,7 @@ Companies or businesses selling products with a primary focus on semantic web te
 - [Ontola](http://ontola.io/)
 - [eccenca Corporate Memory](https://www.eccenca.com) - build, explore and consume Knowledge Graphs
 - [Semantic Arts](https://semanticarts.com) - Enterprise information systems based on flexible data structures and deep semantics.
-
+- [Same4](http://www.seme4.com)
 
 ## Industry
 Companies or businesses using semantic web technologies
@@ -241,6 +241,8 @@ Companies or businesses using semantic web technologies
 - [K Health](https://khealth.ai) - Self diagnosing app.
 - [Schneider Electric](https://www.schneider-electric.com/ww/en/)
 - [Osthus](https://www.osthus.com)
+- [DataLanguage](https://datalanguage.com/)
+- [Eccenca](https://eccenca.com/en/)
 
 ## Research Institutions
 
@@ -588,6 +590,7 @@ OS - OpenSource
 
 - [RML](https://github.com/RMLio) - RDF Mapping language for mapping JSON, CSV and XML to RDF.
 - [CARML](https://github.com/carml/carml) - CARML RML engine for mapping CSV, XML and JSON files to RDF
+- [RocketRML](https://github.com/semantifyit/RocketRML)
 
 #### Other RDF Mappings
 
@@ -662,6 +665,7 @@ OS - OpenSource
 - [RDFSharp.Semantics](https://github.com/mdesalvo/RDFSharp.Semantics) - .NET library for OWL-DL/SKOS ontology modeling, validation and reasoning
 - [Ontology Development Kit](https://github.com/INCATools/ontology-development-kit/) - set up a git repo for developing an ontology
 - [ROBOT](http://robot.obolibrary.org/) - command line swiss-army knife for ontology developers
+- [grafo](http://gra.fo/) - Vistual graph development
 
 ## Reasoners
 
@@ -678,6 +682,7 @@ OS - OpenSource
 - [HyLAR](https://github.com/ucbl/HyLAR-Reasoner)
 - [ruby-rdf/rdf-reasoner](https://github.com/ruby-rdf/rdf-reasoner)
 - [cel](https://github.com/julianmendez/cel) -A lightweight Description Logic reasoner for large-scale biomedical ontologies.
+- [reasonable](https://github.com/gtfierro/reasonable) - OWL 2 Reasoner built on DataFrog
 
 ## Books
 
@@ -817,6 +822,7 @@ OS - OpenSource
 - [rdftools](https://github.com/cosminbasca/rdftools) - Simple collection of python RDF tools.
 - [cysparql](https://github.com/cosminbasca/cysparql) - CySparql is a python wrapper over the excellent rasqal RDF library for parsing SPARQL queries.
 - [pyHDT](https://github.com/Callidon/pyHDT) - Read and query [HDT documents](http://www.rdfhdt.org/) with ease in Python
+- [calamus](https://github.com/SwissDataScienceCenter/calamus) - JSON-LD Serialization Libary for Python based on Marshmallow
 
 ### R
 
@@ -864,6 +870,7 @@ OS - OpenSource
 ### IntelliJ
 
 - [sparql4idea](https://github.com/mattnathan/sparql4idea) - SPARQL language plugin for IntelliJ IDEA.
+- [RDF and SPARQL](https://sharedvocabs.com/products/rdfandsparql/) - RDF and SPARQL plugin for JetBrains IDEs
 
 ### Visual Studio Code
 
