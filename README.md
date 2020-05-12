@@ -867,6 +867,8 @@ OS - OpenSource
 ### Emacs
 
 - [sparql-mode](https://github.com/ljos/sparql-mode)
+- [ttl-mode](https://github.com/jeeger/ttl-mode) - Supports both ttl and n3, indentation, some electric punctuation and hungry delete.
+- [nxml-mode](https://www.emacswiki.org/emacs/NxmlMode) - nxml-mode is a major mode for editing XML
 
 ### IntelliJ
 
