@@ -384,6 +384,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [SRBench](https://github.com/jpcik/srbench) - A streaming sparql benchmark.
 - [TFT](https://github.com/BorderCloud/TFT) - TFT (Tester for Triplestore) is a script PHP to pass tests through a SPARQL service.
 - [OTM Benchmark](https://kbss.felk.cvut.cz/web/kbss/otm-benchmark) - A benchmark of object-triple mapping (OTM) libraries.
+- [LDBC](http://ldbcouncil.org/benchmarks)
 
 ### SPARQL Applications
 
