@@ -17,6 +17,7 @@ Looking for something but can't find it? Add it to the ["Does it exist"](https:/
 - [Research Institutions](#research-institutions)
 - [Academic Journals](academic-journals)
 - [Databases](#databases)
+- [Search Engines](#search-engines)
 - [SPARQL](#sparql)
   - [Streaming](#streaming-sparql)
   - [Federated](#federated-sparql)
@@ -199,6 +200,7 @@ Looking for something but can't find it? Add it to the ["Does it exist"](https:/
 ## Companies
 Companies or businesses selling products with a primary focus on semantic web technology
 
+- [SeMI Technologies](https://semi.technology/) - Weaviate Search Graph.
 - [Stardog Union](http://stardog.com) - Knowledge Graph Platform for the Enterprise.
 - [Epimorphics](https://www.epimorphics.com/)
 - [Franz](http://franz.com)
@@ -314,6 +316,14 @@ F - Free
 - [librdf.sqlite](https://github.com/mro/librdf.sqlite) - (OS) improved SQLite RDF triple store for Redland librdf.
 - [neptune](https://aws.amazon.com/neptune/) - ($) Amazon Neptune is a fast, reliable, fully managed graph database service that makes it easy to build and run applications that work with highly connected datasets.
 - [fabric](https://github.com/spy16/fabric) - (OS) Fabric is a simple triplestore written in Golang.
+
+## Search Engines
+
+$ - Proprietary  
+OS - OpenSource  
+F - Free 
+
+- [Weaviate](https://www.semi.technology/documentation/weaviate/current/) - (OS/$) Weaviate Search Graph, search engine with build-in vectorization models ([intro video](https://www.youtube.com/watch?v=SOUtWj2szOM) - [demo video](https://www.youtube.com/watch?v=3NfcAF4qm2k)).
 
 ### Academic
 (Note: this classification is somewhat arbitrary and is meant to capture databases that only have a published paper or were developed for that purpose and are not actively maintained)
@@ -433,6 +443,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 
 ## GraphQL
 
+- [Weaviate Search Graph](https://www.semi.technology/documentation/weaviate/current/) - GraphQL based search engine ([more info about GraphQL-design](https://hackernoon.com/how-weaviates-graphql-api-was-designed-t93932tl))
 - [semantic-graphql](https://github.com/nelson-ai/semantic-graphql) - Create GraphQL schemas from RDF ontologies.
 - [hypergraphql](https://github.com/semantic-integration/hypergraphql) - GraphQL interface for querying and serving linked data on the Web.
 
@@ -671,6 +682,7 @@ OS - OpenSource
 
 ## Reasoners
 
+- [Weaviate's Contextionary](https://www.semi.technology/documentation/weaviate/current/about/philosophy.html#about-the-contextionary)
 - [Pellet](https://github.com/stardog-union/pellet)
 - [openllet](https://github.com/Galigator/openllet)
 - [FaCT++](https://github.com/ethz-asl/libfactplusplus)
