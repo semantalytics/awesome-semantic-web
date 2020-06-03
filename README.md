@@ -348,6 +348,7 @@ F - Free
 - [morph](https://github.com/jpcik/morph) - Sparql-stream sensor queries.
 - [morph-web](https://github.com/jpcik/morph-web)
 - [sepa](https://github.com/arces-wot/SEPA) - A JAVA implementation of the SPARQL Event Processing Architecture including the engine, APIs and tools.
+- [StreamingMASSIF](https://github.com/IBCNServices/StreamingMASSIF)
 
 ### Federated SPARQL
 
