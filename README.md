@@ -767,7 +767,7 @@ OS - OpenSource
 - [sparql-engine](https://github.com/Callidon/sparql-engine) - An open-source framework for building SPARQL query engines in Javascript/Typescript.
 - [rdf-ext](https://github.com/rdf-ext/rdf-ext)
 - [N3.js](https://github.com/RubenVerborgh/N3.js)
-- [Jessa](https://www.npmjs.com/package/jassa)
+- [Jessa](https://www.npmjs.com/package/jassa) - JAvascript Suite for Sparql Access.
 - [RDFJS](https://github.com/rdfjs) - Github Organization that maintains modern JavaScript RDF libraries based on open, maintained standards
 - [rdf.js](https://github.com/webr3/rdf.js)
 - [rdflib.js](https://github.com/linkeddata/rdflib.js) - Linked Data API for JavaScript.
