@@ -323,7 +323,7 @@ $ - Proprietary
 OS - OpenSource  
 F - Free 
 
-- [Weaviate](https://www.semi.technology/documentation/weaviate/current/) - (OS/$) Weaviate Search Graph, search engine with build-in vectorization models ([intro video](https://www.youtube.com/watch?v=SOUtWj2szOM) - [demo video](https://www.youtube.com/watch?v=3NfcAF4qm2k)).
+- [Weaviate](https://www.semi.technology/documentation/weaviate/current/) - (OS/$) Weaviate Search Graph, search engine with build-in vectorization models.
 
 ### Academic
 (Note: this classification is somewhat arbitrary and is meant to capture databases that only have a published paper or were developed for that purpose and are not actively maintained)
