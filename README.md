@@ -223,6 +223,7 @@ Companies or businesses selling products with a primary focus on semantic web te
 - [eccenca Corporate Memory](https://www.eccenca.com) - build, explore and consume Knowledge Graphs
 - [Semantic Arts](https://semanticarts.com) - Enterprise information systems based on flexible data structures and deep semantics.
 - [Same4](http://www.seme4.com)
+- [Derivo](https://www.derivo.de/en/home/)
 
 ## Industry
 Companies or businesses using semantic web technologies
