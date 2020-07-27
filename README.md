@@ -431,6 +431,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [sage-engine](https://github.com/sage-org/sage-engine) - a SPARQL query engine for public Linked Data providers. 
 - [SEPA](https://github.com/arces-wot/SEPA) - A JAVA implementation of the SPARQL Event Processing Architecture including the engine, APIs and tools.
 - [Processor](https://github.com/AtomGraph/Processor) - Ontology-driven Linked Data processor and server for SPARQL backends.
+- [LinkedDataHub](https://atomgraph.github.io/LinkedDataHub/) - SPARQL-powered Knowledge Graph management system.
 - [SparqlBlocks](http://sparqlblocks.org/) - Build SPARQL queries with blocks
 - [SparqlProg](https://github.com/cmungall/sparqlprog) - composable SPARQL using logic programming
 
