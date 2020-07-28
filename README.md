@@ -670,8 +670,9 @@ OS - OpenSource
 - [RDFSharp.Semantics](https://github.com/mdesalvo/RDFSharp.Semantics) - .NET library for OWL-DL/SKOS ontology modeling, validation and reasoning
 - [Ontology Development Kit](https://github.com/INCATools/ontology-development-kit/) - set up a git repo for developing an ontology
 - [ROBOT](http://robot.obolibrary.org/) - command line swiss-army knife for ontology developers
-- [grafo](http://gra.fo/) - Vistual graph development
+- [grafo](http://gra.fo/) - Visual graph development
 - [OOPS! (Ontology Pitfall Scanner!)](http://oops.linkeddata.es/) - a web application to detect (semi)automatically 33 pitfalls or errors in ontologies. A web service is also provided.
+- [Cameo Concept Modeler](https://www.nomagic.com/product-addons/magicdraw-addons/cameo-concept-modeler-plugin#key-benefits) - a cross-platform app for OWL ontology modeling, visualization, and natural-language validation
 
 ## Reasoners
 
@@ -920,6 +921,7 @@ OS - OpenSource
 - [rdfpuml](https://github.com/VladimirAlexiev/rdf2rml) - True RDF Diagrams.
 - [Ontology Visualisation](https://github.com/usc-isi-i2/ontology-visualization) - Create graphs from RDF using GraphViz.
 - [SparqlBlocks](http://sparqlblocks.org/) - Build SPARQL queries with blocks
+- [Cameo Concept Modeler](https://www.nomagic.com/product-addons/magicdraw-addons/cameo-concept-modeler-plugin#key-benefits) - a cross-platform app for OWL ontology modeling, visualization, and natural-language validation
 
 ## Data Cube
 
