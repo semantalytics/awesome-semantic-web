@@ -259,6 +259,7 @@ Companies or businesses using semantic web technologies
 - [Wimmics](http://wimmics.inria.fr/corese) - Wimmics stands for Web-Instrumented Man-Machine Interactions, Communities, and Semantics, a joint research team between INRIA Sophia Antipolis - Méditerranée and I3S (CNRS and Université Côte d'Azur).
 - [Data Semantics Lab](https://dase.cs.wright.edu/) - Data Semantics Lab, Wright State University
 - [Stanford BMIR](https://bmir.stanford.edu) - Stanford University Center for Biomedical Informatics Research
+- [Exascale Infolab](https://exascale.info/projects/research/) - University of Fribourg, Switzerland
 
 ## Academic Journals
 
