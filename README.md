@@ -894,7 +894,7 @@ OS - OpenSource
 ### Sublime Text 3
 
 - [Turtle and SPARQL syntax highlighter](https://github.com/abcoates/sublime-text-turtle-sparql)
-- [Linked Data syntaxes](https://github.com/blake-regalia/linked-data.syntaxes) - Syntax highlighting for SPARQL 1.1, Turtle, TriG, N-Triples, N-Quads, Notation3 and ShExC.
+- [Linked Data syntaxes](https://github.com/blake-regalia/linked-data.syntaxes) - Syntax highlighting for SPARQL 1.1/SPARQL*, Turtle/Turtle*, TriG, N-Triples, N-Quads, Notation3, and ShExC.
 
 ### BBedit
 
