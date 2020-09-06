@@ -998,6 +998,7 @@ OS - OpenSource
 - [CEDAR Workbench](https://metadatacenter.org) - Center for Expanded Data Annotation and Retrieval offers full life cycle management for semantically linked metadata
 - [OnToology](https://github.com/OnToology/OnToology) - A system for collaborative ontology development. Given a GitHub repository with an OWL file, OnToology will survey it and produce diagrams, a complete documentation and validation based on common pitfalls.
 - [OBA](https://github.com/KnowledgeCaptureAndDiscovery/OBA/) - Automatically create OpenAPI specifications from OWL and launch a server that serves JSON objects according to your ontology.
+- [RDF Processing Toolkit](https://github.com/SmartDataAnalytics/RdfProcessingToolkit) - Command line interface based RDF processing toolkit to run sequences of SPARQL statements ad-hoc on RDF datasets, streams of bindings and streams of named graphs with support for processing JSON, CSV and XML using function extensions
 
 ## Integrations
 
