@@ -229,7 +229,7 @@ Companies or businesses selling products with a primary focus on semantic web te
 Companies or businesses using semantic web technologies
 
 - [Optum](https://www.optum.com) - Health related, known to use semantic graphs (marklogic).
-- [DarkLight](https://www.darklight.ai) - DarkLight is an Artificial Intelligence Expert System for Active Cyber Defense and           Trusted Information Sharing.
+- [DarkLight](https://www.darklight.ai) - DarkLight is an Artificial Intelligence Expert System for Active Cyber Defense and Trusted Information Sharing.
 - [Volkswagen UK](https://www.volkswagen.co.uk)
 - [Siemens](https://www.siemens.com)
 - [IBM](http://www.ibm.com)
@@ -243,7 +243,7 @@ Companies or businesses using semantic web technologies
 - [Schneider Electric](https://www.schneider-electric.com/ww/en/)
 - [Osthus](https://www.osthus.com)
 - [DataLanguage](https://datalanguage.com/)
-- [Eccenca](https://eccenca.com/en/)
+- [eccenca](https://eccenca.com/en/) - German SME, keen in building and exploiting Knowledge Graphs (see also [Corporate Memory](https://documentation.eccenca.com))
 
 ## Research Institutions
 
@@ -496,7 +496,7 @@ OS - OpenSource
 - [OntoWiki](https://github.com/AKSW/OntoWiki) - (OS) Semantic data wiki as well as Linked Data publishing engine.
 - [GNOSS-Sherlock](https://www.gnoss.com/en/semantic-framework/knowledge-graph-management) - ($) Cognitive Intelligence tool for machines to understand us.
 - [Wikibase](http://wikiba.se) - (OS) Collection of applications and libraries for creating, managing and sharing structured data.
-- [eccenca Corporate Memory](https://www.eccenca.com) - build, explore and consume Knowledge Graphs
+- [eccenca Corporate Memory](https://documentation.eccenca.com) - build, explore and consume Knowledge Graphs
 
 ## Web Annotations
 
