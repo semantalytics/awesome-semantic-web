@@ -847,6 +847,8 @@ OS - OpenSource
 
 ### Rust
 
+- [Horned OWL](https://github.com/phillord/horned-owl) - Horned-OWL is a library for manipulating OWL data.
+- [Oxigraph](https://github.com/oxigraph/oxigraph) - Oxigraph is a graph database implementing the SPARQL standard.
 - [sophia_rs](https://github.com/pchampin/sophia_rs) - Sophia: a Rust toolkit for RDF and Linked Data.
 
 ### Scala
