@@ -189,6 +189,7 @@ Looking for something but can't find it? Add it to the ["Does it exist"](https:/
 | [HDT](https://www.w3.org/Submission/2011/03/) | Binary RDF Representation for Publication and Exchange. | `application/x-binary-rdf` |
 | [aREF](https://gbv.github.io/aREF/aREF.html) | Another RDF Encoding Form. | |
 | [RDF/POST](http://www.lsrn.org/semweb/rdfpost.html) | RDF/POST Encoding for RDF. | `application/rdf+x-www-form-urlencoded` |
+| [YARRML](http://rml.io/yarrrml/spec/) | YARRRML is a human readable text-based representation for declarative generation rules. It is a subset of [YAML], a widely used data serialization language designed to be human-friendly. | |
 
 ## Datatypes
 
@@ -336,6 +337,7 @@ F - Free
 - [LUPOSDATE](https://www.ifis.uni-luebeck.de/index.php?id=luposdate-demo)
 - [DREAM](https://github.com/CMU-Q/DREAM) - DREAM - Distributed RDF Engine with Adaptive Query Planner and Minimal Communication.
 - [RIQ](https://github.com/UMKC-BigDataLab/RIQ) - RIQ is a new software tool for fast processing of SPARQL queries on RDF quadruples.
+- [hyrise](https://github.com/hyrise/hyrise) - Hyrise is a research in-memory database.
 
 ## SPARQL
 
@@ -582,6 +584,8 @@ OS - OpenSource
 - [sparqlmap](https://github.com/tomatophantastico/sparqlmap)
 - [rdf2rml](https://github.com/VladimirAlexiev/rdf2rml) - R2RML Generation from simple examples.
 - [ultrawrap](https://capsenta.com/) - ($)
+- [AutoMap4OBDA](https://github.com/arc-lasalle/AutoMap4OBDA) - AutoMap4OBDA: Automated Generation of R2RML Mappings for OBDA.
+- [Map-On](https://github.com/arc-lasalle/Map-On) - A web-based editor for visual ontology mapping for R2RML documents. 
 
 ##### xR2RML
 
@@ -692,6 +696,10 @@ OS - OpenSource
 - [ruby-rdf/rdf-reasoner](https://github.com/ruby-rdf/rdf-reasoner)
 - [cel](https://github.com/julianmendez/cel) -A lightweight Description Logic reasoner for large-scale biomedical ontologies.
 - [reasonable](https://github.com/gtfierro/reasonable) - OWL 2 Reasoner built on DataFrog
+- [eye](https://github.com/josd/eye) - Euler Yet another proof Engine.
+- [Sequoia](https://github.com/andrewdbate/Sequoia) - Sequoia is a consequence-based OWL 2 DL Reasoner supporting multithreaded reasoning.
+- [konclude](http://www.derivo.de/en/produkte/konclude.html) - Konclude is a high-performance reasoner for large and expressive ontologies.
+- [owlproofs](https://github.com/klinovp/owlproofs) - Extension to the OWL API to request proofs of entailments from the reasoner.
 
 ## Books
 
@@ -978,6 +986,7 @@ OS - OpenSource
 - [comunica](https://github.com/comunica/comunica) - Flexible meta query engine for the Web.
 - [imagesnippets](http://www.imagesnippets.com/) - ImageSnippets is a complete metadata editing interface that enables someone who knows little to nothing about RDF, OWL, ontologies, or even URIs to create descriptions for images using Linked Data which is written in RDF.
 - [Linked Data Reactor (LD-R)](http://ld-r.org) - A full-stack platform for building adaptive component-based Linked Data applications in NodeJS and React.
+- [LDIF](https://github.com/wbsg/ldif) - Linked Data Integration Framework.
 
 ## Tools
 
@@ -1093,7 +1102,6 @@ OS - OpenSource
 - [n3pygments](https://github.com/gniezen/n3pygments) - Pygments lexer to perform syntax highlighting for N3, Turtle and SPARQL.
 - [levelgraph-n3](https://github.com/levelgraph/levelgraph-n3) - LevelGraph plugin for storing N3/Turtle/RDF data.
 - [psps](https://github.com/factsmission/psps) - Personal Structured Publishing Space.
-- [LDIF](https://github.com/wbsg/ldif) - Linked Data Integration Framework.
 - [swrlapi](https://github.com/protegeproject/swrlapi) - The SWRLAPI is a Java API for working with the OWL-based SWRL rule and SQWRL query languages. It includes graphical tools for editing and executing rules and queries.
 - [cp-common-utils](https://github.com/mhgrove/cp-common-utils) - Collection of utilty classes from Clark & Parsia.
 - [jena-joseki](https://github.com/tingletech/jena-joseki)
@@ -1150,7 +1158,6 @@ OS - OpenSource
 - [linked-csv-browser](https://github.com/theodi/linked-csv-browser)
 - [semargl](https://github.com/semarglproject/semargl) - Highly performant, lightweight framework for linked data processing. Supports RDFa, JSON-LD, RDF/XML and plain text formats, runs on Android and GAE, provides integration with Jena, Sesame and Clerezza.
 - [wordnet-lemon-to-w3c](https://github.com/jimregan/wordnet-lemon-to-w3c)
-- [hyrise](https://github.com/hyrise/hyrise) - Hyrise is a research in-memory database.
 - [owlconvert](https://github.com/camwebb/owlconvert) - Simple OWL format converter based on OWLAPI.
 - [rabel](https://github.com/linkeddata/rabel) - Program for reading and writing linked data in various formats.
 - [csvw-template](https://github.com/edsu/csvw-template) - Document the semantics of your csv file.
@@ -1161,7 +1168,6 @@ OS - OpenSource
 - [activitypub](https://www.w3.org/TR/2018/REC-activitypub-20180123/)
 - [ont-api](https://github.com/avicomp/ont-api)
 - [rdfsurveyor](https://github.com/guiveg/rdfsurveyor) - Exploration tool for RDF datasets.
-- [SEPA](https://github.com/arces-wot/SEPA) - A JAVA implementation of the SPARQL Event Processing Architecture including the engine, APIs and tools.
 - [fenster](https://github.com/knakk/fenster) - RDF quad-store frontend.
 - [jsonld-streaming-parser.js](https://github.com/rubensworks/jsonld-streaming-parser.js) - A fast and lightweight streaming JSON-LD parser for JavaScript. 
 - [rollxx/manchester-syntax-owl2](https://github.com/rollxx/manchester-syntax-owl2) - ANTLR grammar for simplified Manchester Syntax OWL2. 
@@ -1195,7 +1201,6 @@ OS - OpenSource
 - [rocker](https://github.com/AKSW/rocker) - key A Refinement Operator Approach for Key Discovery. http://aksw.org/projects/Rocker
 - [Mandolin](https://github.com/mommi84/Mandolin) - sparkle Markov Logic Networks for the Discovery of Links
 - [docker2rdf](https://github.com/albertmeronyo/docker2rdf) - Mapper to represent Dockerfiles as RDF triples
-- [YARRML](http://rml.io/yarrrml/spec/) - YARRRML is a human readable text-based representation for declarative generation rules. It is a subset of [YAML], a widely used data serialization language designed to be human-friendly. 
 - [vsb](https://github.com/leipert/vsb) - Visual SPARQL Builder - Model SPARQL-Select-Queries in a browser https://leipert.github.io/vsb/
 - [sparti](https://github.com/amgadmadkour/sparti) - SPARTI - RDF Semantic Partitioning.
 - [carml-cli](https://github.com/netage/carml-cli) - Interface for CARML library.
@@ -1204,19 +1209,13 @@ OS - OpenSource
 - [canonical_rdf](https://github.com/iherman/canonical_rdf) - Proof-of-concept implementation of Aidan Hogan's RDF canonicalization algorithm in node.js.
 - [Linked-Data-Theatre](https://github.com/architolk/Linked-Data-Theatre) - The Linked Data Theatre is a platform for an optimal presentation of Linked Data.
 - [SEPA](https://github.com/arces-wot/SEPA) - A JAVA implementation of the SPARQL Event Processing Architecture including the engine, APIs and tools.
-- [AutoMap4OBDA](https://github.com/arc-lasalle/AutoMap4OBDA) - AutoMap4OBDA: Automated Generation of R2RML Mappings for OBDA.
-- [Map-On](https://github.com/arc-lasalle/Map-On) - A web-based editor for visual ontology mapping for R2RML documents. 
 - [GLEEN](https://github.com/RENCI-NRIG/gleen) Regular Paths for ARQ SparQL.
 - [psparql](http://exmo.inrialpes.fr/software/psparql/) - PSPARQL (for Path SPARQL) is a query language for RDF.
 - [rdf2h](https://github.com/rdf2h/rdf2h) - Render resources described in RDF using logicless templates.
 - [Beast](https://github.com/SmartDataAnalytics/Beast) - Benchmarking, Evaluation, and Analysis Stack - A powerful yet lightweight Java8/Jena-based RDF processing stack.
-- [owlproofs](https://github.com/klinovp/owlproofs) - Extension to the OWL API to request proofs of entailments from the reasoner.
 - [basil](https://github.com/the-open-university/basil) - Building Apis SImpLy from sparql endpoints.
-- [konclude](http://www.derivo.de/en/produkte/konclude.html) - Konclude is a high-performance reasoner for large and expressive ontologies.
 - [profilechecker](https://github.com/stain/profilechecker) - OWL API profile checker. 
 - [spdx](https://spdx.org/specifications) - Software Package Data Exchange® (SPDX®) is an open standard for communicating software bill of material information (including components, licenses, copyrights, and security references).
-- [elephant-reasoner](https://github.com/sertkaya/elephant-reasoner) - An OWL 2 EL Reasoner.
-- [Sequoia](https://github.com/andrewdbate/Sequoia) - Sequoia is a consequence-based OWL 2 DL Reasoner supporting multithreaded reasoning.
 - [CostFed](https://github.com/dice-group/CostFed) - Cost-Based Query Optimization for SPARQL Endpoint Federation.
 - [sparql-ld](https://github.com/fafalios/sparql-ld) - SPARQL-LD: A SPARQL Extension for Fetching and Querying Linked Data.
 - [vocol](https://github.com/vocol/vocol) - An integrated environment to support collaborative ontology / vocabulary development in distributed settings.
@@ -1227,5 +1226,6 @@ OS - OpenSource
 - [pikes](http://pikes.fbk.eu) - Pikes is a Knowledge Extraction Suite 
 - [rdfpro](https://github.com/dkmfbk/rdfpro) - an extensible tool for building stream-oriented RDF processing pipelines.
 - [umls2rdf](https://github.com/ncbo/umls2rdf) - These python scripts connect to the Unified Medical Language System (UMLS) database and translate the ontologies into RDF/OWL files. This is part of the BioPortal project.
-- [eye](https://github.com/josd/eye) - Euler Yet another proof Engine.
 - [robot](http://robot.obolibrary.org/) - ROBOT is a command line tool for working with Open Biomedical Ontologies
+- [SEPA](https://github.com/arces-wot/SEPA) - A JAVA implementation of the SPARQL Event Processing Architecture including the engine, APIs and tools.
+
