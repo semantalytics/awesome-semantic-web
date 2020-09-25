@@ -318,6 +318,7 @@ F - Free
 - [neptune](https://aws.amazon.com/neptune/) - ($) Amazon Neptune is a fast, reliable, fully managed graph database service that makes it easy to build and run applications that work with highly connected datasets.
 - [fabric](https://github.com/spy16/fabric) - (OS) Fabric is a simple triplestore written in Golang.
 - [kineo](https://github.com/kasei/kineo/) - (OS) A persistent RDF quadstore and SPARQL engine. 
+- [RDFox](http://www.oxfordsemantic.tech/) - ($) 
 
 ### Academic
 (Note: this classification is somewhat arbitrary and is meant to capture databases that only have a published paper or were developed for that purpose and are not actively maintained)
