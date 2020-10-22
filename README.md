@@ -1140,7 +1140,7 @@ OS - OpenSource
 - [DEER](https://github.com/dice-group/DEER) - RDF Dataset Enrichment Framework.
 - [levelgraph-jsonld](https://github.com/mcollina/levelgraph-jsonld) - The Object Document Mapper for LevelGraph based on JSON-LD
 - [OWL-API](https://github.com/owlcs/owlapi) - The OWL API is a Java API for creating, manipulating and serialising OWL Ontologies.
-- [ONT-API](https://github.com/avicomp/ont-api) - a Jena based OWL API implementation.
+- [ONT-API](https://github.com/owlcs/ont-api) - a Jena based OWL-API implementation.
 - [LODGrefine](https://github.com/sparkica/LODGrefine) - LOD-enabled Google Refine: linked open data related extensions included.
 - [stardog.js](https://github.com/stardog-union/stardog.js)
 - [stardog-groovy](https://github.com/stardog-union/stardog-groovy)
