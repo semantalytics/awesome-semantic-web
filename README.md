@@ -319,7 +319,7 @@ F - Free
 - [fabric](https://github.com/spy16/fabric) - (OS) Fabric is a simple triplestore written in Golang.
 - [kineo](https://github.com/kasei/kineo/) - (OS) A persistent RDF quadstore and SPARQL engine. 
 - [RDFox](http://www.oxfordsemantic.tech/) - ($) 
-- [Fluree](https://docs.flur.ee/) - Blockchain based triplestore. 
+- [Fluree](https://docs.flur.ee/) - (OS) Blockchain based triplestore. 
 
 ### Academic
 (Note: this classification is somewhat arbitrary and is meant to capture databases that only have a published paper or were developed for that purpose and are not actively maintained)
