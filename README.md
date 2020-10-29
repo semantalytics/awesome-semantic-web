@@ -440,6 +440,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [LinkedDataHub](https://atomgraph.github.io/LinkedDataHub/) - SPARQL-powered Knowledge Graph management system.
 - [SparqlBlocks](http://sparqlblocks.org/) - Build SPARQL queries with blocks
 - [SparqlProg](https://github.com/cmungall/sparqlprog) - composable SPARQL using logic programming
+- [Sparklis](https://github.com/sebferre/sparklis) - natural language query builder to explore and query endpoints with all the power of SPARQL yet without any knowledge of SPARQL.
 
 ## GraphQL
 
