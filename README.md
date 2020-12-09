@@ -491,6 +491,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [w3c semantic web](https://lists.w3.org/Archives/Public/semantic-web/)
 - [JSON-LD Working Group](https://www.w3.org/2018/json-ld-wg/)
 - [w3c activities](https://www.w3.org/Consortium/activities)
+- [KG-Construction](https://www.w3.org/community/kg-construct/) - KG-Construction W3C Community Group
 
 ## Knowledge Graph Management
 
@@ -515,6 +516,7 @@ OS - OpenSource
 - [pyrdb2rdf](https://github.com/nisavid/pyrdb2rdf)
 - [xsparql](https://www.w3.org/Submission/xsparql-language-specification/)
 - [Karma](https://github.com/usc-isi-i2/Web-Karma) - Transform data expressed in multiple data formats into RDF.
+- [Mapeathor](https://morph.oeg.fi.upm.es/tool/mapeathor) - Definition of Excel-based mappings and translation to [R2]RML mappings
 
 ### Geo
 
@@ -536,6 +538,7 @@ OS - OpenSource
 - [tarql-component](https://github.com/opencube-toolkit/tarql-component)
 - [tarql](https://github.com/tarql/tarql)
 - [CSV2RDF](https://github.com/AtomGraph/CSV2RDF) - Streaming, transforming, SPARQL-based CSV to RDF converter
+- [Morph-CSV](https://morph.oeg.fi.upm.es/tool/morph-csv) - Exploitation of RML+FnO and CSVW for ensuring the effectiveness of SPARQL-to-SQL systems.
 
 ### Object to RDF Mapping
 
@@ -605,6 +608,8 @@ OS - OpenSource
 - [RML](https://github.com/RMLio) - RDF Mapping language for mapping JSON, CSV and XML to RDF.
 - [CARML](https://github.com/carml/carml) - CARML RML engine for mapping CSV, XML and JSON files to RDF
 - [RocketRML](https://github.com/semantifyit/RocketRML)
+- [SDM-RDFizer](https://github.com/SDM-TIB/SDM-RDFizer) - RML engine for efficient transformation of CSV, RDB, XML and JSON to RDF
+- [FuMap](https://github.com/SDM-TIB/FunMap) - Efficient preprocessing of transformation rules described in RML+FnO mappings.
 
 #### Other RDF Mappings
 
