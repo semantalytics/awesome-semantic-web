@@ -767,7 +767,7 @@ OS - OpenSource
 ### Haskell
 
 - [rdf4h](https://github.com/robstewart57/rdf4h)
-- [swish](https://bitbucket.org/doug_burke/swish/wiki/Home)
+- [swish](https://hackage.haskell.org/package/swish)
 - [hsparql](https://github.com/robstewart57/hsparql)
 
 ### Java
