@@ -3,9 +3,9 @@
 
 A curated list of various semantic web and linked data resources.
 
-To add something to the list please either submit a pull request or add a comment with a link to [issues/awesomelets](https://github.com/semantalytics/awesome-semantic-web/issues/81). Pull requests will be evaluated immediately for inclusion while posts while awesomelets will be evaluated at some indeterminate time in the future. 
+To add something to the list please either submit a pull request or add a comment with a link to [issues/awesomelets](https://github.com/semantalytics/awesome-semantic-web/issues/81). Pull requests will be evaluated immediately for inclusion while posts while awesomelets will be evaluated at some indeterminate time in the future.
 
-Looking for something but can't find it? Add it to the ["Does it exist"](https://github.com/semantalytics/awesome-semantic-web/issues/74) list and we'll keep an eye out for it. If it's a good idea maybe someone will come along and create it! 
+Looking for something but can't find it? Add it to the ["Does it exist"](https://github.com/semantalytics/awesome-semantic-web/issues/74) list and we'll keep an eye out for it. If it's a good idea maybe someone will come along and create it!
 
 ## Contents
 
@@ -270,9 +270,9 @@ Companies or businesses using semantic web technologies
 
 ## Databases
 
-$ - Proprietary  
-OS - OpenSource  
-F - Free  
+$ - Proprietary
+OS - OpenSource
+F - Free
 
 - [Akutan](https://github.com/eBay/akutan) - (OS) A distributed knowledge graph store written in Golang. Formerly known as Beam.
 - [Jena TDB](http://jena.apache.org/documentation/tdb/index.html) - (OS).
@@ -317,9 +317,9 @@ F - Free
 - [librdf.sqlite](https://github.com/mro/librdf.sqlite) - (OS) improved SQLite RDF triple store for Redland librdf.
 - [neptune](https://aws.amazon.com/neptune/) - ($) Amazon Neptune is a fast, reliable, fully managed graph database service that makes it easy to build and run applications that work with highly connected datasets.
 - [fabric](https://github.com/spy16/fabric) - (OS) Fabric is a simple triplestore written in Golang.
-- [kineo](https://github.com/kasei/kineo/) - (OS) A persistent RDF quadstore and SPARQL engine. 
-- [RDFox](http://www.oxfordsemantic.tech/) - ($) 
-- [Fluree](https://docs.flur.ee/) - (OS) Blockchain based triplestore. 
+- [kineo](https://github.com/kasei/kineo/) - (OS) A persistent RDF quadstore and SPARQL engine.
+- [RDFox](http://www.oxfordsemantic.tech/) - ($)
+- [Fluree](https://docs.flur.ee/) - (OS) Blockchain based triplestore.
 
 ### Academic
 (Note: this classification is somewhat arbitrary and is meant to capture databases that only have a published paper or were developed for that purpose and are not actively maintained)
@@ -434,7 +434,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [Porthole](https://itunes.apple.com/us/app/porthole/id984035787) - Mac SPARQL editor and client.
 - [datastudio-sparql-connector](https://github.com/DataFabricRus/datastudio-sparql-connector) - SPARQL Connector for Google Data Studio.
 - [QLever](https://github.com/ad-freiburg/QLever) - Highly efficient query engine for SPARQL+Text.
-- [sage-engine](https://github.com/sage-org/sage-engine) - a SPARQL query engine for public Linked Data providers. 
+- [sage-engine](https://github.com/sage-org/sage-engine) - a SPARQL query engine for public Linked Data providers.
 - [SEPA](https://github.com/arces-wot/SEPA) - A JAVA implementation of the SPARQL Event Processing Architecture including the engine, APIs and tools.
 - [Processor](https://github.com/AtomGraph/Processor) - Ontology-driven Linked Data processor and server for SPARQL backends.
 - [LinkedDataHub](https://atomgraph.github.io/LinkedDataHub/) - SPARQL-powered Knowledge Graph management system.
@@ -466,7 +466,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [trellis](https://github.com/trellis-ldp/trellis)
 - [Metreeca/link](https://github.com/metreeca/link)
 - [ldpserver](https://github.com/hectorcorrea/ldpserver) - A mini LDP Server written in Go.
-- [ldp-coap-framework](https://github.com/sisinflab-swot/ldp-coap-framework) - Linked Data Platform for the Constrained Application Protocol 
+- [ldp-coap-framework](https://github.com/sisinflab-swot/ldp-coap-framework) - Linked Data Platform for the Constrained Application Protocol
 - [cavendish](https://github.com/cavendish-ldp/cavendish) - A LDP Implementation backed by BlazeGraph.
 
 ## Ecosystem
@@ -495,8 +495,8 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 
 ## Knowledge Graph Management
 
-$ - Proprietary  
-OS - OpenSource  
+$ - Proprietary
+OS - OpenSource
 
 - [Metaphacts](http://metaphacts.com) - ($) End-to-end platform to create and utilize enterprise knowledge graphs.
 - [OntoWiki](https://github.com/AKSW/OntoWiki) - (OS) Semantic data wiki as well as Linked Data publishing engine.
@@ -545,14 +545,14 @@ OS - OpenSource
 - [java2rdf](https://github.com/EBIBioSamples/java2rdf) - A simple library to map Java objects and Java beans onto RDF/OWL
 - [PA4RDF](https://github.com/Claudenw/PA4RDF) - functionality on top of an RDF store while accounting for and exploiting the fundamental differences between graph storage and relational storage.
 - [Empire](https://github.com/mhgrove/Empire/) - JPA implementation for RDF
-- [Pinto](https://github.com/stardog-union/pinto) - A lightweight framework for mapping Java Beans into RDF and back again 
+- [Pinto](https://github.com/stardog-union/pinto) - A lightweight framework for mapping Java Beans into RDF and back again
 - [Som(m)er](https://github.com/bblfish/sommer) - Semantic Object (Metadata) MappER
 - [jennabean](https://code.google.com/p/jenabean/)
 - [Alibaba](https://bitbucket.org/openrdf/alibaba)
 - [rdfbeans](https://github.com/cyberborean/rdfbeans)
 - [surfrdf](https://github.com/cosminbasca/surfrdf) - SuRF: a python Object RDF Mapper (ORM).
 - [jtriple](https://github.com/konradreiche/jtriple) - A Java object model binding for RDF.
-- [sparql-template](https://github.com/gushakov/sparql-template) - RDF store traversal with Jena API via automatic mapping between POJO and SPARQL. 
+- [sparql-template](https://github.com/gushakov/sparql-template) - RDF store traversal with Jena API via automatic mapping between POJO and SPARQL.
 - [JOPA](https://github.com/kbss-cvut/jopa) - A Java object-triple mapping library for RDF4J, Jena and OWL API.
 - [RomanticWeb](https://github.com/MakoLab/RomanticWeb) - RDF-Object Mapping for the Semantic Web.
 - [XML2RDF-DataTransformation-MappingTool](https://github.com/isl/XML2RDF-DataTransformation-MappingTool) - XML2RDF Data Transformation Tool (Mapping Tool): This generic data transformation tool maps XML data files to RDF files, given a schema matching definition, based on this Mapping Language Schema.
@@ -567,7 +567,7 @@ OS - OpenSource
 
 ### RDF to Property Graphs
 
-- [sparql-gremlin](https://github.com/apache/tinkerpop/tree/master/sparql-gremlin) - SPARQL to Gremlin Translator available as a plugin of the popular Apache TinkerPop graph computing framework. 
+- [sparql-gremlin](https://github.com/apache/tinkerpop/tree/master/sparql-gremlin) - SPARQL to Gremlin Translator available as a plugin of the popular Apache TinkerPop graph computing framework.
 - [Gremlinator](https://github.com/LITMUS-Benchmark-Suite/sparql-to-gremlin/) - SPARQL to Gremlin standalone Translator available as an independent implementation for open use in custom use cases.
 
 
@@ -591,7 +591,7 @@ OS - OpenSource
 - [rdf2rml](https://github.com/VladimirAlexiev/rdf2rml) - R2RML Generation from simple examples.
 - [ultrawrap](https://capsenta.com/) - ($)
 - [AutoMap4OBDA](https://github.com/arc-lasalle/AutoMap4OBDA) - AutoMap4OBDA: Automated Generation of R2RML Mappings for OBDA.
-- [Map-On](https://github.com/arc-lasalle/Map-On) - A web-based editor for visual ontology mapping for R2RML documents. 
+- [Map-On](https://github.com/arc-lasalle/Map-On) - A web-based editor for visual ontology mapping for R2RML documents.
 
 ##### xR2RML
 
@@ -848,6 +848,9 @@ OS - OpenSource
 - [cysparql](https://github.com/cosminbasca/cysparql) - CySparql is a python wrapper over the excellent rasqal RDF library for parsing SPARQL queries.
 - [pyHDT](https://github.com/Callidon/pyHDT) - Read and query [HDT documents](http://www.rdfhdt.org/) with ease in Python
 - [calamus](https://github.com/SwissDataScienceCenter/calamus) - JSON-LD Serialization Library for Python based on Marshmallow
+- [gastrodon](https://github.com/paulhoule/gastrodon) - Toolkit to display, analyze, and visualize data and documents based on RDF graphs and the SPARQL query language using Pandas, Jupyter, and other Python ecosystem tools.
+- [kglab](https://github.com/DerwenAI/kglab/) -  The kglab library provides a simple abstraction layer in Python for building knowledge graphs.
+
 
 ### R
 
@@ -943,6 +946,7 @@ OS - OpenSource
 - [SparqlBlocks](http://sparqlblocks.org/) - Build SPARQL queries with blocks
 - [Cameo Concept Modeler](https://www.nomagic.com/product-addons/magicdraw-addons/cameo-concept-modeler-plugin#key-benefits) - a cross-platform app for OWL ontology modeling, visualization, and natural-language validation
 
+
 ## Data Cube
 
 - [QB4ST: RDF Data Cube extensions for spatio-temporal components](https://www.w3.org/TR/qb4st/)
@@ -1009,7 +1013,7 @@ OS - OpenSource
 - [RDFConvert](https://sourceforge.net/projects/rdfconvert/) - RDFConvert is a simple command-line tool for converting RDF file betweeen different syntax formats.
 - [How to diff RDF](https://www.w3.org/2001/sw/wiki/How_to_diff_RDF)
 - [grlc](https://github.com/CLARIAH/grlc) - Web APIs from SPARQL queries.
-- [Openlink Structured Data Sniffer](http://osds.openlinksw.com/) - Browser extension for Google Chrome, Microsoft Edge, Mozilla Firefox, Opera, and Vivaldi that unveils structured metadata embedded within HTML documents and web pages. 
+- [Openlink Structured Data Sniffer](http://osds.openlinksw.com/) - Browser extension for Google Chrome, Microsoft Edge, Mozilla Firefox, Opera, and Vivaldi that unveils structured metadata embedded within HTML documents and web pages.
 - [ShacShifter](https://github.com/AKSW/ShacShifter) - Shapes Constraint Language (SHACL) to various other format.
 - [prefix.cc](https://prefix.cc) - namespace lookup for RDF developers
 - [rdf2rdf](https://github.com/knakk/rdf2rdf) - Tool for converting between different RDF serialization formats.
@@ -1072,7 +1076,7 @@ OS - OpenSource
 
 - [iQvoc](https://github.com/innoq/iqvoc) - SKOS(-XL) Vocabulary Management System for the Semantic Web.
 - [Poolparty](https://www.poolparty.biz/skos-and-skos-xl) ($)
-- [skosprovider](https://skosprovider.readthedocs.io/en/latest/intro.html) - Skosprovider provides an interface that can be included in an application to allow it to talk to different SKOS vocabularies. 
+- [skosprovider](https://skosprovider.readthedocs.io/en/latest/intro.html) - Skosprovider provides an interface that can be included in an application to allow it to talk to different SKOS vocabularies.
 - [skosshuttle](https://skosshuttle.ch/) ($)
 - [atramhasis](https://github.com/OnroerendErfgoed/atramhasis)
 - [ThManager](http://thmanager.sourceforge.net/)
@@ -1088,7 +1092,7 @@ OS - OpenSource
 - [fred](http://wit.istc.cnr.it/stlab-tools/fred/#About) - a machine reader for the Semantic Web
 - [NIF](https://persistence.uni-leipzig.org/nlp2rdf/) NLP Interchange Format
 - [Lemon](https://lemon-model.net/) - The Lexicon Model for Ontologies
-- [Wordnet](https://wordnet.princeton.edu/) 
+- [Wordnet](https://wordnet.princeton.edu/)
 - [PreMOn](http://premon.fbk.eu/ontology/vn) - Predicate Model for Ontologies (PreMOn) - VerbNet ontology module
 - [BabelNet](https://babelnet.org)
 
@@ -1177,8 +1181,8 @@ OS - OpenSource
 - [ont-api](https://github.com/avicomp/ont-api)
 - [rdfsurveyor](https://github.com/guiveg/rdfsurveyor) - Exploration tool for RDF datasets.
 - [fenster](https://github.com/knakk/fenster) - RDF quad-store frontend.
-- [jsonld-streaming-parser.js](https://github.com/rubensworks/jsonld-streaming-parser.js) - A fast and lightweight streaming JSON-LD parser for JavaScript. 
-- [rollxx/manchester-syntax-owl2](https://github.com/rollxx/manchester-syntax-owl2) - ANTLR grammar for simplified Manchester Syntax OWL2. 
+- [jsonld-streaming-parser.js](https://github.com/rubensworks/jsonld-streaming-parser.js) - A fast and lightweight streaming JSON-LD parser for JavaScript.
+- [rollxx/manchester-syntax-owl2](https://github.com/rollxx/manchester-syntax-owl2) - ANTLR grammar for simplified Manchester Syntax OWL2.
 - [rollxx/antlr-sparql-grammar](https://github.com/rollxx/antlr-sparql-grammar) - sparql 1.1 antlr grammar.
 - [sparql-ld](https://github.com/fafalios/sparql-ld) - SPARQL-LD: A SPARQL Extension for Fetching and Querying Linked Data.
 - [jena-sparql-api](https://github.com/SmartDataAnalytics/jena-sparql-api) - A collection of Jena-extensions for hiding SPARQL-complexity from the application layer.
@@ -1204,7 +1208,7 @@ OS - OpenSource
 - [fbrs](https://github.com/aldonline/fbrs) - Facebook RDF Sync
 - [ostrich](https://github.com/rdfostrich/ostrich) -Versioned RDF triple store (Offset-enabled TRIple store for CHangesets)
 - [ontmalizer](https://github.com/srdc/ontmalizer) - A tool that performs comprehensive transformations of XML Schemas (XSD) and XML data to RDF/OWL automatically
-- [NSpM](https://github.com/AKSW/NSpM) - robot Neural SPARQL Machines translate natural language into SPARQL queries. 
+- [NSpM](https://github.com/AKSW/NSpM) - robot Neural SPARQL Machines translate natural language into SPARQL queries.
 - [ML-Schema/core](https://github.com/ML-Schema/core) - CORE ontology of ML-Schema schema. It's the mapping to others machine learning vocabularies and ontologies (DMOP, Expose, OntoDM and MEX)
 - [rocker](https://github.com/AKSW/rocker) - key A Refinement Operator Approach for Key Discovery. http://aksw.org/projects/Rocker
 - [Mandolin](https://github.com/mommi84/Mandolin) - sparkle Markov Logic Networks for the Discovery of Links
@@ -1222,7 +1226,7 @@ OS - OpenSource
 - [rdf2h](https://github.com/rdf2h/rdf2h) - Render resources described in RDF using logicless templates.
 - [Beast](https://github.com/SmartDataAnalytics/Beast) - Benchmarking, Evaluation, and Analysis Stack - A powerful yet lightweight Java8/Jena-based RDF processing stack.
 - [basil](https://github.com/the-open-university/basil) - Building Apis SImpLy from sparql endpoints.
-- [profilechecker](https://github.com/stain/profilechecker) - OWL API profile checker. 
+- [profilechecker](https://github.com/stain/profilechecker) - OWL API profile checker.
 - [spdx](https://spdx.org/specifications) - Software Package Data Exchange® (SPDX®) is an open standard for communicating software bill of material information (including components, licenses, copyrights, and security references).
 - [CostFed](https://github.com/dice-group/CostFed) - Cost-Based Query Optimization for SPARQL Endpoint Federation.
 - [sparql-ld](https://github.com/fafalios/sparql-ld) - SPARQL-LD: A SPARQL Extension for Fetching and Querying Linked Data.
@@ -1231,9 +1235,8 @@ OS - OpenSource
 - [knowledgecubes](https://github.com/amgadmadkour/knowledgecubes) - Efficient RDF Data Management over Spark.
 - [premon](https://premon.fbk.eu) - PREdicate Model for ONtologies
 - [eso-and-ceo](https://github.com/newsreader/eso-and-ceo) - Event and Implied Situation Ontology (ESO) and the Circumstantial Event Ontology for Calamities (CEO).
-- [pikes](http://pikes.fbk.eu) - Pikes is a Knowledge Extraction Suite 
+- [pikes](http://pikes.fbk.eu) - Pikes is a Knowledge Extraction Suite
 - [rdfpro](https://github.com/dkmfbk/rdfpro) - an extensible tool for building stream-oriented RDF processing pipelines.
 - [umls2rdf](https://github.com/ncbo/umls2rdf) - These python scripts connect to the Unified Medical Language System (UMLS) database and translate the ontologies into RDF/OWL files. This is part of the BioPortal project.
 - [robot](http://robot.obolibrary.org/) - ROBOT is a command line tool for working with Open Biomedical Ontologies
 - [SEPA](https://github.com/arces-wot/SEPA) - A JAVA implementation of the SPARQL Event Processing Architecture including the engine, APIs and tools.
-
