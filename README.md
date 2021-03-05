@@ -1015,7 +1015,7 @@ OS - OpenSource
 - [grlc](https://github.com/CLARIAH/grlc) - Web APIs from SPARQL queries.
 - [Openlink Structured Data Sniffer](http://osds.openlinksw.com/) - Browser extension for Google Chrome, Microsoft Edge, Mozilla Firefox, Opera, and Vivaldi that unveils structured metadata embedded within HTML documents and web pages.
 - [ShacShifter](https://github.com/AKSW/ShacShifter) - Shapes Constraint Language (SHACL) to various other format.
-- [prefix.cc](https://prefix.cc) - namespace lookup for RDF developers (see also the corresponding [alfred workflow](https://github.com/depressiveRobot/alfred-prefix.cc))
+- [prefix.cc](https://prefix.cc) - namespace lookup for RDF developers
 - [rdf2rdf](https://github.com/knakk/rdf2rdf) - Tool for converting between different RDF serialization formats.
 - [Web-Client](https://github.com/AtomGraph/Web-Client) - Generic Linked Data browser and UX component framework.
 - [CEDAR Workbench](https://metadatacenter.org) - Center for Expanded Data Annotation and Retrieval offers full life cycle management for semantically linked metadata
@@ -1036,6 +1036,7 @@ OS - OpenSource
 - [jekyll-rdf](https://github.com/white-gecko/jekyll-rdf) - A Jekyll plugin for including RDF data in your static site.
 - [RightField](https://github.com/myGrid/RightField) - RightField is an open-source tool for adding ontology term selection to Excel spreadsheets.
 - [mu-semtech](https://github.com/mu-semtech) - An Ecosystem of User-facing Microservices supported by Semantic Models.
+- [alfred-prefix.cc](https://github.com/depressiveRobot/alfred-prefix.cc) - a workflow for the [alfred](https://www.alfredapp.com/) productivity app (macos) to search prefix declarations via prefix.cc
 
 ## Machine Learning
 
@@ -1090,6 +1091,7 @@ OS - OpenSource
 - [askos](https://github.com/WileyLabs/askos) - A SKOS browser and editor.
 
 ## NLP
+
 - [fred](http://wit.istc.cnr.it/stlab-tools/fred/#About) - a machine reader for the Semantic Web
 - [NIF](https://persistence.uni-leipzig.org/nlp2rdf/) NLP Interchange Format
 - [Lemon](https://lemon-model.net/) - The Lexicon Model for Ontologies
@@ -1098,6 +1100,7 @@ OS - OpenSource
 - [BabelNet](https://babelnet.org)
 
 ## IIIF
+
 - [IIIF](https://iiif.io/)
 - [fester](https://github.com/UCLALibrary/fester)
 
