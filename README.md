@@ -870,6 +870,9 @@ OS - OpenSource
 - [Oxigraph](https://github.com/oxigraph/oxigraph) - Oxigraph is a graph database implementing the SPARQL standard.
 - [sophia_rs](https://github.com/pchampin/sophia_rs) - Sophia: a Rust toolkit for RDF and Linked Data.
 - [rio](https://github.com/oxigraph/rio) - Rio is a low level library which provides conformant and fast parsers and formatters for RDF related file formats.
+- [rdf-rs](https://github.com/scholtzan/rdf-rs) - rdf is a library for the Resource Description Framework (RDF) and SPARQL implemented in Rust.
+- [rome](https://github.com/vandenoever/rome) - Rome is an RDF library written in safe Rust.
+
 
 ### Scala
 
