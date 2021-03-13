@@ -749,6 +749,7 @@ OS - OpenSource
 - [seabass](https://github.com/ryankohl/seabass) - A library for working with RDF with Jena in Clojure.
 - [aristotle](https://github.com/arachne-framework/aristotle) - RDF, SPARQL and OWL for Clojure
 - [aesopica](https://github.com/newres/aesopica) -  A Clojure library designed to help create Semantic Web based applications.
+- [igraph](https://github.com/ont-app/igraph) -  IGraph defines a protocol which aims to provide a general interface to a variety of graph-based representations.
 
 
 ### Elixir
