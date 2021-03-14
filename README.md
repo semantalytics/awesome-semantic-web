@@ -15,7 +15,7 @@ Looking for something but can't find it? Add it to the ["Does it exist"](https:/
 - [Companies](#companies)
 - [Industry](#industry)
 - [Research Institutions](#research-institutions)
-- [Academic Journals](academic-journals)
+- [Academic Journals](#academic-journals)
 - [Databases](#databases)
 - [SPARQL](#sparql)
   - [Streaming](#streaming-sparql)
