@@ -308,7 +308,7 @@ F - Free
 - [wallix/triplestore](https://github.com/wallix/triplestore) - (OS) Nifty library to manage, query and store RDF triples.
 - [levelgraph](https://github.com/levelgraph/levelgraph) - (OS) Graph database JS style for Node.js and the Browser.
 - [Oxford Semantic RDFox](https://www.oxfordsemantic.tech) - ($) Horizontly scalalbe in-memory triple store with parallel Datalog reasoning.
-- [gStore](https://github.com/pkumod/gStore) - (OS).
+- [gStore](https://github.com/pkumod/gStore) - (OS) - a graph based RDF triple store.
 - [ostrich](https://github.com/rdfostrich/ostrich) - (OS) bird Versioned RDF triple store (Offset-enabled TRIple store for CHangesets).
 - [QuitStore](https://github.com/AKSW/QuitStore) - Quads in Git - Git versioned RDF Triple Store with support for branching and mergin and more.
 - [NitrosBase](http://nitrosbase.com/) - (F)
