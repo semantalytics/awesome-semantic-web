@@ -1245,3 +1245,16 @@ OS - OpenSource
 - [umls2rdf](https://github.com/ncbo/umls2rdf) - These python scripts connect to the Unified Medical Language System (UMLS) database and translate the ontologies into RDF/OWL files. This is part of the BioPortal project.
 - [robot](http://robot.obolibrary.org/) - ROBOT is a command line tool for working with Open Biomedical Ontologies
 - [SEPA](https://github.com/arces-wot/SEPA) - A JAVA implementation of the SPARQL Event Processing Architecture including the engine, APIs and tools.
+- [opensemanticsearch](https://github.com/opensemanticsearch)
+- [solr-ontology-tagger](https://github.com/opensemanticsearch/solr-ontology-tagger) - Automatic tagging and analysis of documents in an Apache Solr index for faceted search by RDF(S) Ontologies & SKOS thesauri.
+- [kbpedia](https://github.com/Cognonto/kbpedia) - KBPedia Knowledge Graph & Knowledge Ontology (KKO).
+- [dione](http://www.khaos.uma.es/dione) - Khoaos Research Group
+- [TrOWL](https://github.com/TrOWL) - Tractable OWL 2 Reasoning Infrastructure
+- http://ld-r.org
+- https://mobi.inovexcorp.com
+- [activitystrams-core](https://www.w3.org/TR/activitystreams-core/)
+- [rdf4a](https://github.com/MM2-0/rdf4a) - RDF4J for Android.
+- [rdfshape](http://rdfshape.herokuapp.com/)
+- [rif4j](http://rif4j.sourceforge.net/)
+- [wsml2reasoner](http://tools.sti-innsbruck.at/wsml2reasoner/) - a highly modular framework that combines various validation, normalization and transformation algorithms that enable the translation of ontology descriptions in WSML to the appropriate syntax of several underlying reasoning engines. 
+- [silk](http://silk.semwebcentral.org/) - Semantic Inferencing on Large Knowledge (SILK) knowledge representation system.
