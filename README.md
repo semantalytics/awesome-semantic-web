@@ -730,11 +730,11 @@ OS - OpenSource
 ### C
 
 - [serd](https://github.com/drobilla/serd) - Lightweight C library for RDF syntax.
+- [sord](https://github.com/drobilla/sord) - Sord is a lightweight C library for storing RDF statements in memory. 
 - [librdf](https://github.com/dajobe/librdf) - Redland librdf RDF API and triple stores.
 - [raptor](https://github.com/dajobe/raptor) - Redland Raptor RDF syntax library.
 - [rasqal](https://github.com/dajobe/rasqal) - Redland Rasqal RDF Query Library.
 - [cowl](https://github.com/sisinflab-swot/cowl) - A lightweight C API for working with OWL ontologies.
-
 ### C\#
 
 - [dotNetRDF](https://github.com/dotnetrdf/dotnetrdf)
