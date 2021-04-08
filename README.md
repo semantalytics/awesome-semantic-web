@@ -615,6 +615,7 @@ OS - OpenSource
 
 - [sparql-generate](https://github.com/sparql-generate/sparql-generate)
 - [any23](https://any23.apache.org/)
+- [J2RM](https://github.com/g0-Builder-J2RM/g0-Builder-J2RM) - A tool to process mappings from JSON data to RDF triples guided by an OWL2 ontology structure.
 
 ## Ontologies
 
