@@ -321,6 +321,8 @@ F - Free
 - [RDFox](http://www.oxfordsemantic.tech/) - ($)
 - [Fluree](https://docs.flur.ee/) - (OS) Blockchain based triplestore.
 - [Oxigraph](https://github.com/oxigraph/oxigraph) - (OS) a graph database implementing the SPARQL standard and written in Rust.
+- [Triply](https://triply.cc) - (F/$)
+
 ### Academic
 (Note: this classification is somewhat arbitrary and is meant to capture databases that only have a published paper or were developed for that purpose and are not actively maintained)
 
