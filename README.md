@@ -261,6 +261,8 @@ Companies or businesses using semantic web technologies
 - [Data Semantics Lab](https://dase.cs.wright.edu/) - Data Semantics Lab, Wright State University
 - [Stanford BMIR](https://bmir.stanford.edu) - Stanford University Center for Biomedical Informatics Research
 - [Exascale Infolab](https://exascale.info/projects/research/) - University of Fribourg, Switzerland
+- [IDLAB](https://www.ugent.be/ea/idlab/en/research/semantic-intelligence/semantic-knowledge-generation-and-publication-at-scale.htm) - Ghent University, Belgium
+- [Data Semantics Lab](https://daselab.cs.ksu.edu/) - Kansas State University, USA
 
 ## Academic Journals
 
