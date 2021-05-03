@@ -225,6 +225,7 @@ Companies or businesses selling products with a primary focus on semantic web te
 - [Semantic Arts](https://semanticarts.com) - Enterprise information systems based on flexible data structures and deep semantics.
 - [Same4](http://www.seme4.com)
 - [Derivo](https://www.derivo.de/en/home/)
+- [Perfect Memory](https://www.perfect-memory.com/) - DAM-as-a-Brain, a Platform that collects, interprets and makes any data and content actionable. 
 
 ## Industry
 Companies or businesses using semantic web technologies
