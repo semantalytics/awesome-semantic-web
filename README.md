@@ -224,8 +224,7 @@ Companies or businesses selling products with a primary focus on semantic web te
 - [eccenca Corporate Memory](https://www.eccenca.com) - build, explore and consume Knowledge Graphs
 - [Semantic Arts](https://semanticarts.com) - Enterprise information systems based on flexible data structures and deep semantics.
 - [Same4](http://www.seme4.com)
-- [Derivo](https://www.derivo.de/en/home/)
-- [Perfect Memory](https://www.perfect-memory.com/) - DAM-as-a-Brain, a Platform that collects, interprets and makes any data and content actionable. 
+- [Derivo](https://www.derivo.de/en/home/) 
 
 ## Industry
 Companies or businesses using semantic web technologies
@@ -246,6 +245,7 @@ Companies or businesses using semantic web technologies
 - [Osthus](https://www.osthus.com)
 - [DataLanguage](https://datalanguage.com/)
 - [Eccenca](https://eccenca.com/en/)
+- [Perfect Memory](https://www.perfect-memory.com/) - DAM-as-a-Brain, a Platform that collects, interprets and makes any data and content actionable.
 
 ## Research Institutions
 
