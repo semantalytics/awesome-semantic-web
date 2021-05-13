@@ -85,7 +85,7 @@ Looking for something but can't find it? Add it to the ["Does it exist"](https:/
 - [RDF 1.1 Semantics](https://www.w3.org/TR/rdf11-mt/)
 - [RDF 1.1 Concepts and Abstract Syntax](https://www.w3.org/TR/rdf11-concepts/)
 - [RDF 1.1: On Semantics of RDF Datasets](https://www.w3.org/TR/rdf11-datasets/)
-- [RDF Dataset Canonocalization](https://json-ld.github.io/rdf-dataset-canonicalization/spec/)
+- [RDF Dataset Canonocalization](https://json-ld.github.io/rdf-dataset-canonicalization/spec/) Unofficial Draft
 
 ### RDFS
 
