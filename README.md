@@ -587,7 +587,7 @@ OS - OpenSource
 - [MusicBrainz-R2RML](https://github.com/LinkedBrainz/MusicBrainz-R2RML) - R2RML mappings for the MusicBrainz schema.
 - [ontop](https://github.com/ontop/ontop) - Ontop is a platform to query relational databases as Virtual RDF Graphs using SPARQL. It's fast and is packed with features.
 - [db2triples](https://github.com/antidot/db2triples) - Antidot implementations of R2RML and Direct Mapping specifications.
-- [ADAPT-R2RML](https://opengogs.adaptcentre.ie/debruync/r2rml)
+- [R2RML-F](https://github.com/chrdebru/r2rml)
 - [R2RML-api](https://github.com/R2RML-api/R2RML-api)
 - [R2RML-kit](https://github.com/d2rq/r2rml-kit)
 - [Juma](https://opengogs.adaptcentre.ie/crottija/juma-r2rml/) - Juma, jigsaw puzzles for representing mapping, is a method that applies the block metaphor to mapping languages.
@@ -603,10 +603,10 @@ OS - OpenSource
 - [morph-xr2rml](https://github.com/frmichel/morph-xr2rml)
 - [XR2RML](https://github.com/djimloic/XR2RML)
 
-##### R2RML-f
+##### R2RML-F
 
 - [paper](http://events.linkeddata.org/ldow2016/papers/LDOW2016_paper_14.pdf)
-- [Adapt R2RML](https://opengogs.adaptcentre.ie/debruync/r2rml)
+- [R2RML-F](https://github.com/chrdebru/r2rml)
 
 #### RML
 
