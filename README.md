@@ -522,6 +522,7 @@ OS - OpenSource
 - [xsparql](https://www.w3.org/Submission/xsparql-language-specification/)
 - [Karma](https://github.com/usc-isi-i2/Web-Karma) - Transform data expressed in multiple data formats into RDF.
 - [Mapeathor](https://morph.oeg.fi.upm.es/tool/mapeathor) - Definition of Excel-based mappings and translation to [R2]RML mappings
+- [SPARQL Anything](https://github.com/SPARQL-Anything/sparql.anything) - A system for Semantic Web [re-engineering](https://arxiv.org/pdf/2106.02361.pdf) that allows users to query anything with SPARQL.
 
 ### Geo
 
