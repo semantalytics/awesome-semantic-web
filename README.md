@@ -238,6 +238,7 @@ Companies or businesses using semantic web technologies
 - [BestBuy](http://bestbuy.com)
 - [Google](http://google.com)
 - [Facebook](http://facebook.com)
+- [Olive](https://oliveai.com) - Olive is the automation company creating the Internet of Healthcare.
 - [BBC](https://www.bbc.com)
 - [NASA](https://www.nasa.gov)
 - [K Health](https://khealth.ai) - Self diagnosing app.
