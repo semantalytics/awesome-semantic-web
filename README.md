@@ -615,7 +615,7 @@ OS - OpenSource
 
 - [sparql-generate](https://github.com/sparql-generate/sparql-generate)
 - [any23](https://any23.apache.org/)
-- [J2RM](https://github.com/g0-Builder-J2RM/g0-Builder-J2RM) - A tool to process mappings from JSON data to RDF triples guided by an OWL2 ontology structure.
+- [J2RM](https://w3id.org/KGCP/g0-Builder-J2RM) - A tool to process mappings from JSON data to RDF triples guided by an OWL2 ontology structure.
 
 ## Ontologies
 
@@ -1027,6 +1027,7 @@ OS - OpenSource
 - [CEDAR Workbench](https://metadatacenter.org) - Center for Expanded Data Annotation and Retrieval offers full life cycle management for semantically linked metadata
 - [OnToology](https://github.com/OnToology/OnToology) - A system for collaborative ontology development. Given a GitHub repository with an OWL file, OnToology will survey it and produce diagrams, a complete documentation and validation based on common pitfalls.
 - [OBA](https://github.com/KnowledgeCaptureAndDiscovery/OBA/) - Automatically create OpenAPI specifications from OWL and launch a server that serves JSON objects according to your ontology.
+- [MEL](https://w3id.org/KGCP/MEL-TNNT/) - (*Metadata Extractor & Loader*) - A tool to extract metadata (and textual content) from various file formats, as JSON objects.
 
 ## Integrations
 
@@ -1078,6 +1079,7 @@ OS - OpenSource
 - [pySHACL](https://github.com/RDFLib/pySHACL) - A Python validator for SHACL.
 - [rdf4j-shacl](http://docs.rdf4j.org/programming/#_validation_with_shacl)
 - [shperone](https://forms.hypermedia.app) - Form Builder
+- [Schímatos](https://github.com/schimatos/schimatos.org/) - A SHACL-based Web-Form Generator for Knowledge Graph Editing.
 
 ## SKOS Tools
 
@@ -1102,6 +1104,7 @@ OS - OpenSource
 - [Wordnet](https://wordnet.princeton.edu/)
 - [PreMOn](http://premon.fbk.eu/ontology/vn) - Predicate Model for Ontologies (PreMOn) - VerbNet ontology module
 - [BabelNet](https://babelnet.org)
+- [TNNT](https://w3id.org/KGCP/MEL-TNNT/) - (*The NLP/NER Toolkit*) - A tool that automates the extraction of categorised named entities from the unstructured information encoded in the source documents, using diverse NLP tools and NER models.
 
 ## IIIF
 - [IIIF](https://iiif.io/)
