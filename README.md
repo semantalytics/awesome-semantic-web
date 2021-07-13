@@ -85,7 +85,7 @@ Looking for something but can't find it? Add it to the ["Does it exist"](https:/
 - [RDF 1.1 Semantics](https://www.w3.org/TR/rdf11-mt/)
 - [RDF 1.1 Concepts and Abstract Syntax](https://www.w3.org/TR/rdf11-concepts/)
 - [RDF 1.1: On Semantics of RDF Datasets](https://www.w3.org/TR/rdf11-datasets/)
-- [RDF Dataset Normalization](https://json-ld.github.io/normalization/spec/)
+- [RDF Dataset Canonocalization](https://json-ld.github.io/rdf-dataset-canonicalization/spec/) Unofficial Draft
 
 ### RDFS
 
@@ -224,7 +224,7 @@ Companies or businesses selling products with a primary focus on semantic web te
 - [eccenca Corporate Memory](https://www.eccenca.com) - build, explore and consume Knowledge Graphs
 - [Semantic Arts](https://semanticarts.com) - Enterprise information systems based on flexible data structures and deep semantics.
 - [Same4](http://www.seme4.com)
-- [Derivo](https://www.derivo.de/en/home/)
+- [Derivo](https://www.derivo.de/en/home/) 
 
 ## Industry
 Companies or businesses using semantic web technologies
@@ -245,6 +245,7 @@ Companies or businesses using semantic web technologies
 - [Osthus](https://www.osthus.com)
 - [DataLanguage](https://datalanguage.com/)
 - [Eccenca](https://eccenca.com/en/)
+- [Perfect Memory](https://www.perfect-memory.com/) - DAM-as-a-Brain, a Platform that collects, interprets and makes any data and content actionable.
 
 ## Research Institutions
 
@@ -261,6 +262,8 @@ Companies or businesses using semantic web technologies
 - [Data Semantics Lab](https://dase.cs.wright.edu/) - Data Semantics Lab, Wright State University
 - [Stanford BMIR](https://bmir.stanford.edu) - Stanford University Center for Biomedical Informatics Research
 - [Exascale Infolab](https://exascale.info/projects/research/) - University of Fribourg, Switzerland
+- [IDLAB](https://www.ugent.be/ea/idlab/en/research/semantic-intelligence/semantic-knowledge-generation-and-publication-at-scale.htm) - Ghent University, Belgium
+- [Data Semantics Lab](https://daselab.cs.ksu.edu/) - Kansas State University, USA
 
 ## Academic Journals
 
@@ -321,6 +324,8 @@ F - Free
 - [RDFox](http://www.oxfordsemantic.tech/) - ($)
 - [Fluree](https://docs.flur.ee/) - (OS) Blockchain based triplestore.
 - [Oxigraph](https://github.com/oxigraph/oxigraph) - (OS) a graph database implementing the SPARQL standard and written in Rust.
+- [Triply](https://triply.cc) - (F/$)
+
 ### Academic
 (Note: this classification is somewhat arbitrary and is meant to capture databases that only have a published paper or were developed for that purpose and are not actively maintained)
 
@@ -610,6 +615,7 @@ OS - OpenSource
 - [RocketRML](https://github.com/semantifyit/RocketRML)
 - [SDM-RDFizer](https://github.com/SDM-TIB/SDM-RDFizer) - RML engine for efficient transformation of CSV, RDB, XML and JSON to RDF
 - [FuMap](https://github.com/SDM-TIB/FunMap) - Efficient preprocessing of transformation rules described in RML+FnO mappings.
+- [SDM-RDFizer](https://github.com/SDM-TIB/SDM-RDFizer)
 
 #### Other RDF Mappings
 
