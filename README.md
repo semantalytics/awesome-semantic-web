@@ -325,6 +325,7 @@ F - Free
 - [Fluree](https://docs.flur.ee/) - (OS) Blockchain based triplestore.
 - [Oxigraph](https://github.com/oxigraph/oxigraph) - (OS) a graph database implementing the SPARQL standard and written in Rust.
 - [Triply](https://triply.cc) - (F/$)
+- [Atomic-Server](https://crates.io/crates/atomic-server/) - (OS) Graph database + HTTP(S) server with authorization and versioning. Supports a strict subset of RDF.
 
 ### Academic
 (Note: this classification is somewhat arbitrary and is meant to capture databases that only have a published paper or were developed for that purpose and are not actively maintained)
@@ -508,6 +509,7 @@ OS - OpenSource
 - [GNOSS-Sherlock](https://www.gnoss.com/en/semantic-framework/knowledge-graph-management) - ($) Cognitive Intelligence tool for machines to understand us.
 - [Wikibase](http://wikiba.se) - (OS) Collection of applications and libraries for creating, managing and sharing structured data.
 - [eccenca Corporate Memory](https://www.eccenca.com) - build, explore and consume Knowledge Graphs
+- [Atomic Data Browser](https://github.com/joepio/atomic-data-browser) - (OS) Create, model, edit, view and share Linked Data.  
 
 ## Web Annotations
 
@@ -880,7 +882,7 @@ OS - OpenSource
 - [rio](https://github.com/oxigraph/rio) - Rio is a low level library which provides conformant and fast parsers and formatters for RDF related file formats.
 - [rdf-rs](https://github.com/scholtzan/rdf-rs) - rdf is a library for the Resource Description Framework (RDF) and SPARQL implemented in Rust.
 - [rome](https://github.com/vandenoever/rome) - Rome is an RDF library written in safe Rust.
-
+- [atomic-lib](https://crates.io/crates/atomic-lib) - Library for managing and (de)serializaing Atomic Data, a strict subset of RDF.
 
 ### Scala
 
