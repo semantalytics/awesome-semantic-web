@@ -622,6 +622,7 @@ OS - OpenSource
 #### Other RDF Mappings
 
 - [sparql-generate](https://github.com/sparql-generate/sparql-generate)
+- [SPARQL Anything](https://github.com/SPARQL-Anything/sparql.anything) - A system for Semantic Web [re-engineering](https://arxiv.org/pdf/2106.02361.pdf) that allows users to query anything with SPARQL.
 - [any23](https://any23.apache.org/)
 - [J2RM](https://w3id.org/kgcp/J2RM/) - A tool to process mappings from JSON data to RDF triples guided by an OWL2 ontology structure.
 
