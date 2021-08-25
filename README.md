@@ -400,6 +400,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [TFT](https://github.com/BorderCloud/TFT) - TFT (Tester for Triplestore) is a script PHP to pass tests through a SPARQL service.
 - [OTM Benchmark](https://kbss.felk.cvut.cz/web/kbss/otm-benchmark) - A benchmark of object-triple mapping (OTM) libraries.
 - [LDBC](http://ldbcouncil.org/benchmarks)
+- [GTFS-Madrid-Bench](https://github.com/oeg-upm/gtfs-bench) - A benchmark for performance and scalability of knowledge graph construction from heterogeneous data sources
 
 ### SPARQL Applications
 
@@ -617,7 +618,6 @@ OS - OpenSource
 - [RocketRML](https://github.com/semantifyit/RocketRML)
 - [SDM-RDFizer](https://github.com/SDM-TIB/SDM-RDFizer) - RML engine for efficient transformation of CSV, RDB, XML and JSON to RDF
 - [FuMap](https://github.com/SDM-TIB/FunMap) - Efficient preprocessing of transformation rules described in RML+FnO mappings.
-- [SDM-RDFizer](https://github.com/SDM-TIB/SDM-RDFizer)
 
 #### Other RDF Mappings
 
