@@ -586,7 +586,7 @@ OS - OpenSource
 #### R2RML
 
 - [R2RML-Parser](https://github.com/nkons/r2rml-parser) - An R2RML implementation that can export relational database contents as RDF graphs.
-- [Morph-RDB](https://github.com/oeg-upm/morph-rdb) - An R2RML processor.
+- [Morph-KGC](https://github.com/oeg-upm/morph-kgc) - An R2RML engine that creates large knowledge graphs from RDB.
 - [MusicBrainz-R2RML](https://github.com/LinkedBrainz/MusicBrainz-R2RML) - R2RML mappings for the MusicBrainz schema.
 - [ontop](https://github.com/ontop/ontop) - Ontop is a platform to query relational databases as Virtual RDF Graphs using SPARQL. It's fast and is packed with features.
 - [db2triples](https://github.com/antidot/db2triples) - Antidot implementations of R2RML and Direct Mapping specifications.
@@ -618,6 +618,7 @@ OS - OpenSource
 - [RocketRML](https://github.com/semantifyit/RocketRML)
 - [SDM-RDFizer](https://github.com/SDM-TIB/SDM-RDFizer) - RML engine for efficient transformation of CSV, RDB, XML and JSON to RDF
 - [FuMap](https://github.com/SDM-TIB/FunMap) - Efficient preprocessing of transformation rules described in RML+FnO mappings.
+- [Morph-KGC](https://github.com/oeg-upm/morph-kgc) - RML engine that creates large knowledge graphs from heterogeneous data sources
 
 #### Other RDF Mappings
 
