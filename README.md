@@ -530,6 +530,7 @@ OS - OpenSource
 
 - [geometry2rdf](https://github.com/boricles/geometry2rdf)
 - [TripleGeo](https://github.com/GeoKnow/TripleGeo) - TripleGeo utility for converting geospatial data into triples.
+- [GeoSPARQL](https://opengeospatial.github.io/ogc-geosparql/) - Major Open Geospatial Consortium Semantic Web spatial data stadard
 
 ### Excel
 
