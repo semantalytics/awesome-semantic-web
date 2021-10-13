@@ -14,6 +14,7 @@ Looking for something but can't find it? Add it to the ["Does it exist"](https:/
 - [Datatypes](#datatypes)
 - [Companies](#companies)
 - [Industry](#industry)
+- [Government](#government)
 - [Research Institutions](#research-institutions)
 - [Academic Journals](#academic-journals)
 - [Databases](#databases)
@@ -246,6 +247,11 @@ Companies or businesses using semantic web technologies
 - [DataLanguage](https://datalanguage.com/)
 - [Eccenca](https://eccenca.com/en/)
 - [Perfect Memory](https://www.perfect-memory.com/) - DAM-as-a-Brain, a Platform that collects, interprets and makes any data and content actionable.
+
+## Government
+
+- [Australian Government Linked Data Workign Group](https://www.linked.data.gov.au) - Australian government's community of practice for Linked Data & Semantic Web 
+- [W3C's Gov enrment Linked Data Working Group archived wiki](https://www.w3.org/2011/gld/wiki/Main_Page) - "Developing standards which help governments publish their data as effective and usable Linked Data, using Semantic Web technologies"
 
 ## Research Institutions
 
