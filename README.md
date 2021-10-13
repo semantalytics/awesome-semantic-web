@@ -530,11 +530,13 @@ OS - OpenSource
 
 - [geometry2rdf](https://github.com/boricles/geometry2rdf)
 - [TripleGeo](https://github.com/GeoKnow/TripleGeo) - TripleGeo utility for converting geospatial data into triples.
+- [GeoSPARQL DGGS](https://github.com/RDFLib/geosparql-dggs) - An RDFlib-based SPARQL extensions library for ]Discrete Global Grid System](https://en.wikipedia.org/wiki/Discrete_global_grid) geospatial data
 
 ### Excel
 
 - [TabLinker](https://github.com/Data2Semantics/TabLinker)
 - [xlwrap](https://github.com/sidewinderlabs/xlwrap)
+- [VocExcel](https://github.com/surroundaustralia/VocExcel) - A Excel -> SKOS RDF tool, based on RDFlib
 
 ### CSV/Tabular
 
@@ -845,7 +847,7 @@ OS - OpenSource
 
 ### Python
 
-- [RDFlib](https://github.com/RDFLib/rdflib) - Pythonic RDF API.
+- [RDFlib](https://github.com/RDFLib/rdflib) - A Python library for RDF manipulation, storage & serialization.
 - [SPARQLWrapper](https://github.com/RDFLib/sparqlwrapper) - A wrapper for a remote SPARQL endpoint.
 - [sparql-client](https://github.com/eea/sparql-client) - Python API to query a SPARQL endpoint.
 - [RdfAlchemy](https://github.com/gjhiggins/RDFAlchemy)
@@ -1015,6 +1017,7 @@ OS - OpenSource
 - [imagesnippets](http://www.imagesnippets.com/) - ImageSnippets is a complete metadata editing interface that enables someone who knows little to nothing about RDF, OWL, ontologies, or even URIs to create descriptions for images using Linked Data which is written in RDF.
 - [Linked Data Reactor (LD-R)](http://ld-r.org) - A full-stack platform for building adaptive component-based Linked Data applications in NodeJS and React.
 - [LDIF](https://github.com/wbsg/ldif) - Linked Data Integration Framework.
+- [pyLDAPI](https://github.com/rdflib/pyLDAPI) - A Python [rdflib](https://github.com/rdflib/RDFlib/)-based API framework for Linked Data via the W3C's [Content Negotiation by Profile](https://w3c.github.io/dx-connegp/connegp/)
 
 ## Tools
 
@@ -1038,6 +1041,7 @@ OS - OpenSource
 - [OnToology](https://github.com/OnToology/OnToology) - A system for collaborative ontology development. Given a GitHub repository with an OWL file, OnToology will survey it and produce diagrams, a complete documentation and validation based on common pitfalls.
 - [OBA](https://github.com/KnowledgeCaptureAndDiscovery/OBA/) - Automatically create OpenAPI specifications from OWL and launch a server that serves JSON objects according to your ontology.
 - [MEL](https://w3id.org/kgcp/MEL-TNNT/) - (*Metadata Extractor & Loader*) - A tool to extract metadata (and textual content) from various file formats, as JSON objects.
+- [pyLODE](https://github.com/rdflib/pyLODE/) - A Python [rdflib](https://github.com/rdflib/RDFlib/)-based implementation of the [LODE](http://ceur-ws.org/Vol-932/paper12.pdf) ontology documentation tool
 
 ## Integrations
 
@@ -1106,6 +1110,7 @@ OS - OpenSource
 - [skosapi](http://skosapi.sourceforge.net/)
 - [java-skos-api](https://github.com/simonjupp/java-skos-api)
 - [askos](https://github.com/WileyLabs/askos) - A SKOS browser and editor.
+- [VocPrez](https://github.com/RDFLib/VocPrez/) - A Linked Data API for SKOS data presentation
 
 ## NLP
 - [fred](http://wit.istc.cnr.it/stlab-tools/fred/#About) - a machine reader for the Semantic Web
