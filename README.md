@@ -536,7 +536,8 @@ OS - OpenSource
 
 - [geometry2rdf](https://github.com/boricles/geometry2rdf)
 - [TripleGeo](https://github.com/GeoKnow/TripleGeo) - TripleGeo utility for converting geospatial data into triples.
-- [GeoSPARQL DGGS](https://github.com/RDFLib/geosparql-dggs) - An RDFlib-based SPARQL extensions library for ]Discrete Global Grid System](https://en.wikipedia.org/wiki/Discrete_global_grid) geospatial data
+- [GeoSPARQL](https://opengeospatial.github.io/ogc-geosparql/) - Major Open Geospatial Consortium Semantic Web spatial data stadard
+- [GeoSPARQL DGGS](https://github.com/RDFLib/geosparql-dggs) - An RDFlib-based SPARQL extensions library for [Discrete Global Grid Systems](https://en.wikipedia.org/wiki/Discrete_global_grid) geospatial data
 
 ### Excel
 
