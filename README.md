@@ -14,6 +14,7 @@ Looking for something but can't find it? Add it to the ["Does it exist"](https:/
 - [Datatypes](#datatypes)
 - [Companies](#companies)
 - [Industry](#industry)
+- [Government](#government)
 - [Research Institutions](#research-institutions)
 - [Academic Journals](#academic-journals)
 - [Databases](#databases)
@@ -190,8 +191,8 @@ Looking for something but can't find it? Add it to the ["Does it exist"](https:/
 | [HDT](https://www.w3.org/Submission/2011/03/) | Binary RDF Representation for Publication and Exchange. | `application/x-binary-rdf` |
 | [aREF](https://gbv.github.io/aREF/aREF.html) | Another RDF Encoding Form. | |
 | [RDF/POST](http://www.lsrn.org/semweb/rdfpost.html) | RDF/POST Encoding for RDF. | `application/rdf+x-www-form-urlencoded` |
-| [YARRML](http://rml.io/yarrrml/spec/) | YARRRML is a human readable text-based representation for declarative generation rules. It is a subset of [YAML], a widely used data serialization language designed to be human-friendly. | |
-
+| [YARRML](http://rml.io/yarrrml/spec/) | YARRRML is a human readable text-based representation for declarative generation rules. It is a subset of [YAML], a widely used data serialization language designed to be  | | human-friendly. | |
+| [hextuples](https://github.com/ontola/hextuples) | NDJSON serialization | |
 ## Datatypes
 
 - [CDT](https://ci.mines-stetienne.fr/lindt/v2/custom_datatypes.html)
@@ -227,6 +228,8 @@ Companies or businesses selling products with a primary focus on semantic web te
 - [Same4](http://www.seme4.com)
 - [Derivo](https://www.derivo.de/en/home/)
 - [Swirrl](https://www.swirrl.com/) - Linked-data publishing for Government organisations
+- [Derivo](https://www.derivo.de/en/home/) 
+- [SURROUND Australia](https://surroundaustralia.com) - Semantic Web consulting and enterprise semantics platform provision
 
 ## Industry
 Companies or businesses using semantic web technologies
@@ -247,6 +250,12 @@ Companies or businesses using semantic web technologies
 - [Osthus](https://www.osthus.com)
 - [DataLanguage](https://datalanguage.com/)
 - [Eccenca](https://eccenca.com/en/)
+- [Perfect Memory](https://www.perfect-memory.com/) - DAM-as-a-Brain, a Platform that collects, interprets and makes any data and content actionable.
+
+## Government
+
+- [Australian Government Linked Data Workign Group](https://www.linked.data.gov.au) - Australian government's community of practice for Linked Data & Semantic Web 
+- [W3C's Gov enrment Linked Data Working Group archived wiki](https://www.w3.org/2011/gld/wiki/Main_Page) - "Developing standards which help governments publish their data as effective and usable Linked Data, using Semantic Web technologies"
 
 ## Research Institutions
 
@@ -326,6 +335,7 @@ F - Free
 - [Fluree](https://docs.flur.ee/) - (OS) Blockchain based triplestore.
 - [Oxigraph](https://github.com/oxigraph/oxigraph) - (OS) a graph database implementing the SPARQL standard and written in Rust.
 - [Triply](https://triply.cc) - (F/$)
+- [Atomic-Server](https://crates.io/crates/atomic-server/) - (OS) Graph database + HTTP(S) server with authorization and versioning. Supports a strict subset of RDF.
 
 ### Academic
 (Note: this classification is somewhat arbitrary and is meant to capture databases that only have a published paper or were developed for that purpose and are not actively maintained)
@@ -400,6 +410,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [TFT](https://github.com/BorderCloud/TFT) - TFT (Tester for Triplestore) is a script PHP to pass tests through a SPARQL service.
 - [OTM Benchmark](https://kbss.felk.cvut.cz/web/kbss/otm-benchmark) - A benchmark of object-triple mapping (OTM) libraries.
 - [LDBC](http://ldbcouncil.org/benchmarks)
+- [GTFS-Madrid-Bench](https://github.com/oeg-upm/gtfs-bench) - A benchmark for performance and scalability of knowledge graph construction from heterogeneous data sources
 
 ### SPARQL Applications
 
@@ -447,6 +458,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [SparqlBlocks](http://sparqlblocks.org/) - Build SPARQL queries with blocks
 - [SparqlProg](https://github.com/cmungall/sparqlprog) - composable SPARQL using logic programming
 - [Sparklis](https://github.com/sebferre/sparklis) - natural language query builder to explore and query endpoints with all the power of SPARQL yet without any knowledge of SPARQL.
+- [json-rql](https://json-rql.org/) - SPARQL with a JSON-LD super-set syntax (like GraphQL for the semantic web)
 
 ## GraphQL
 
@@ -509,6 +521,7 @@ OS - OpenSource
 - [GNOSS-Sherlock](https://www.gnoss.com/en/semantic-framework/knowledge-graph-management) - ($) Cognitive Intelligence tool for machines to understand us.
 - [Wikibase](http://wikiba.se) - (OS) Collection of applications and libraries for creating, managing and sharing structured data.
 - [eccenca Corporate Memory](https://www.eccenca.com) - build, explore and consume Knowledge Graphs
+- [Atomic Data Browser](https://github.com/joepio/atomic-data-browser) - (OS) Create, model, edit, view and share Linked Data.  
 
 ## Web Annotations
 
@@ -528,11 +541,14 @@ OS - OpenSource
 
 - [geometry2rdf](https://github.com/boricles/geometry2rdf)
 - [TripleGeo](https://github.com/GeoKnow/TripleGeo) - TripleGeo utility for converting geospatial data into triples.
+- [GeoSPARQL](https://opengeospatial.github.io/ogc-geosparql/) - Major Open Geospatial Consortium Semantic Web spatial data stadard
+- [GeoSPARQL DGGS](https://github.com/RDFLib/geosparql-dggs) - An RDFlib-based SPARQL extensions library for [Discrete Global Grid Systems](https://en.wikipedia.org/wiki/Discrete_global_grid) geospatial data
 
 ### Excel
 
 - [TabLinker](https://github.com/Data2Semantics/TabLinker)
 - [xlwrap](https://github.com/sidewinderlabs/xlwrap)
+- [VocExcel](https://github.com/surroundaustralia/VocExcel) - A Excel -> SKOS RDF tool, based on RDFlib
 
 ### CSV/Tabular
 
@@ -584,11 +600,11 @@ OS - OpenSource
 #### R2RML
 
 - [R2RML-Parser](https://github.com/nkons/r2rml-parser) - An R2RML implementation that can export relational database contents as RDF graphs.
-- [Morph-RDB](https://github.com/oeg-upm/morph-rdb) - An R2RML processor.
+- [Morph-KGC](https://github.com/oeg-upm/morph-kgc) - An R2RML engine that creates large knowledge graphs from RDB.
 - [MusicBrainz-R2RML](https://github.com/LinkedBrainz/MusicBrainz-R2RML) - R2RML mappings for the MusicBrainz schema.
 - [ontop](https://github.com/ontop/ontop) - Ontop is a platform to query relational databases as Virtual RDF Graphs using SPARQL. It's fast and is packed with features.
 - [db2triples](https://github.com/antidot/db2triples) - Antidot implementations of R2RML and Direct Mapping specifications.
-- [ADAPT-R2RML](https://opengogs.adaptcentre.ie/debruync/r2rml)
+- [R2RML-F](https://github.com/chrdebru/r2rml)
 - [R2RML-api](https://github.com/R2RML-api/R2RML-api)
 - [R2RML-kit](https://github.com/d2rq/r2rml-kit)
 - [Juma](https://opengogs.adaptcentre.ie/crottija/juma-r2rml/) - Juma, jigsaw puzzles for representing mapping, is a method that applies the block metaphor to mapping languages.
@@ -604,10 +620,10 @@ OS - OpenSource
 - [morph-xr2rml](https://github.com/frmichel/morph-xr2rml)
 - [XR2RML](https://github.com/djimloic/XR2RML)
 
-##### R2RML-f
+##### R2RML-F
 
 - [paper](http://events.linkeddata.org/ldow2016/papers/LDOW2016_paper_14.pdf)
-- [Adapt R2RML](https://opengogs.adaptcentre.ie/debruync/r2rml)
+- [R2RML-F](https://github.com/chrdebru/r2rml)
 
 #### RML
 
@@ -616,13 +632,14 @@ OS - OpenSource
 - [RocketRML](https://github.com/semantifyit/RocketRML)
 - [SDM-RDFizer](https://github.com/SDM-TIB/SDM-RDFizer) - RML engine for efficient transformation of CSV, RDB, XML and JSON to RDF
 - [FuMap](https://github.com/SDM-TIB/FunMap) - Efficient preprocessing of transformation rules described in RML+FnO mappings.
-- [SDM-RDFizer](https://github.com/SDM-TIB/SDM-RDFizer)
+- [Morph-KGC](https://github.com/oeg-upm/morph-kgc) - RML engine that creates large knowledge graphs from heterogeneous data sources
 
 #### Other RDF Mappings
 
 - [sparql-generate](https://github.com/sparql-generate/sparql-generate)
+- [SPARQL Anything](https://github.com/SPARQL-Anything/sparql.anything) - A system for Semantic Web [re-engineering](https://arxiv.org/pdf/2106.02361.pdf) that allows users to query anything with SPARQL.
 - [any23](https://any23.apache.org/)
-- [J2RM](https://github.com/g0-Builder-J2RM/g0-Builder-J2RM) - A tool to process mappings from JSON data to RDF triples guided by an OWL2 ontology structure.
+- [J2RM](https://w3id.org/kgcp/J2RM/) - A tool to process mappings from JSON data to RDF triples guided by an OWL2 ontology structure.
 
 ## Ontologies
 
@@ -844,7 +861,7 @@ OS - OpenSource
 
 ### Python
 
-- [RDFlib](https://github.com/RDFLib/rdflib) - Pythonic RDF API.
+- [RDFlib](https://github.com/RDFLib/rdflib) - A Python library for RDF manipulation, storage & serialization.
 - [SPARQLWrapper](https://github.com/RDFLib/sparqlwrapper) - A wrapper for a remote SPARQL endpoint.
 - [sparql-client](https://github.com/eea/sparql-client) - Python API to query a SPARQL endpoint.
 - [RdfAlchemy](https://github.com/gjhiggins/RDFAlchemy)
@@ -886,7 +903,7 @@ OS - OpenSource
 - [rio](https://github.com/oxigraph/rio) - Rio is a low level library which provides conformant and fast parsers and formatters for RDF related file formats.
 - [rdf-rs](https://github.com/scholtzan/rdf-rs) - rdf is a library for the Resource Description Framework (RDF) and SPARQL implemented in Rust.
 - [rome](https://github.com/vandenoever/rome) - Rome is an RDF library written in safe Rust.
-
+- [atomic-lib](https://crates.io/crates/atomic-lib) - Library for managing and (de)serializaing Atomic Data, a strict subset of RDF.
 
 ### Scala
 
@@ -1018,6 +1035,7 @@ OS - OpenSource
 - [imagesnippets](http://www.imagesnippets.com/) - ImageSnippets is a complete metadata editing interface that enables someone who knows little to nothing about RDF, OWL, ontologies, or even URIs to create descriptions for images using Linked Data which is written in RDF.
 - [Linked Data Reactor (LD-R)](http://ld-r.org) - A full-stack platform for building adaptive component-based Linked Data applications in NodeJS and React.
 - [LDIF](https://github.com/wbsg/ldif) - Linked Data Integration Framework.
+- [pyLDAPI](https://github.com/rdflib/pyLDAPI) - A Python [rdflib](https://github.com/rdflib/RDFlib/)-based API framework for Linked Data via the W3C's [Content Negotiation by Profile](https://w3c.github.io/dx-connegp/connegp/)
 
 ## Tools
 
@@ -1040,6 +1058,8 @@ OS - OpenSource
 - [CEDAR Workbench](https://metadatacenter.org) - Center for Expanded Data Annotation and Retrieval offers full life cycle management for semantically linked metadata
 - [OnToology](https://github.com/OnToology/OnToology) - A system for collaborative ontology development. Given a GitHub repository with an OWL file, OnToology will survey it and produce diagrams, a complete documentation and validation based on common pitfalls.
 - [OBA](https://github.com/KnowledgeCaptureAndDiscovery/OBA/) - Automatically create OpenAPI specifications from OWL and launch a server that serves JSON objects according to your ontology.
+- [MEL](https://w3id.org/kgcp/MEL-TNNT/) - (*Metadata Extractor & Loader*) - A tool to extract metadata (and textual content) from various file formats, as JSON objects.
+- [pyLODE](https://github.com/rdflib/pyLODE/) - A Python [rdflib](https://github.com/rdflib/RDFlib/)-based implementation of the [LODE](http://ceur-ws.org/Vol-932/paper12.pdf) ontology documentation tool
 
 ## Integrations
 
@@ -1107,6 +1127,7 @@ OS - OpenSource
 - [pySHACL](https://github.com/RDFLib/pySHACL) - A Python validator for SHACL.
 - [rdf4j-shacl](http://docs.rdf4j.org/programming/#_validation_with_shacl)
 - [shperone](https://forms.hypermedia.app) - Form Builder
+- [Schímatos](https://github.com/schimatos/schimatos.org/) - A SHACL-based Web-Form Generator for Knowledge Graph Editing.
 
 ## SKOS Tools
 
@@ -1123,6 +1144,7 @@ OS - OpenSource
 - [skosapi](http://skosapi.sourceforge.net/)
 - [java-skos-api](https://github.com/simonjupp/java-skos-api)
 - [askos](https://github.com/WileyLabs/askos) - A SKOS browser and editor.
+- [VocPrez](https://github.com/RDFLib/VocPrez/) - A Linked Data API for SKOS data presentation
 
 ## NLP
 - [fred](http://wit.istc.cnr.it/stlab-tools/fred/#About) - a machine reader for the Semantic Web
@@ -1131,6 +1153,7 @@ OS - OpenSource
 - [Wordnet](https://wordnet.princeton.edu/)
 - [PreMOn](http://premon.fbk.eu/ontology/vn) - Predicate Model for Ontologies (PreMOn) - VerbNet ontology module
 - [BabelNet](https://babelnet.org)
+- [TNNT](https://w3id.org/kgcp/MEL-TNNT/) - (*The NLP/NER Toolkit*) - A tool that automates the extraction of categorised named entities from the unstructured information encoded in the source documents, using diverse NLP tools and NER models.
 
 ## IIIF
 - [IIIF](https://iiif.io/)
@@ -1147,6 +1170,7 @@ OS - OpenSource
 
 ## Misc
 
+- [m-ld](https://m-ld.org/) - Real-time information sharing component using RDF and conflict-free replicated data types (CRDTs)
 - [n3pygments](https://github.com/gniezen/n3pygments) - Pygments lexer to perform syntax highlighting for N3, Turtle and SPARQL.
 - [levelgraph-n3](https://github.com/levelgraph/levelgraph-n3) - LevelGraph plugin for storing N3/Turtle/RDF data.
 - [psps](https://github.com/factsmission/psps) - Personal Structured Publishing Space.
