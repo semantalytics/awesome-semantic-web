@@ -68,6 +68,7 @@ Looking for something but can't find it? Add it to the ["Does it exist"](https:/
 - [Integrations](#integrations)
 - [Machine Learning](#machine-learning)
 - [Linked Data](#linked-data)
+- [CSVW](#csvw)
 - [WebID](#webid)
 - [SHACL Implementations](#shacl-implementations)
 - [SKOS Tools](#skos-tools)
@@ -225,6 +226,8 @@ Companies or businesses selling products with a primary focus on semantic web te
 - [eccenca Corporate Memory](https://www.eccenca.com) - build, explore and consume Knowledge Graphs
 - [Semantic Arts](https://semanticarts.com) - Enterprise information systems based on flexible data structures and deep semantics.
 - [Same4](http://www.seme4.com)
+- [Derivo](https://www.derivo.de/en/home/)
+- [Swirrl](https://www.swirrl.com/) - Linked-data publishing for Government organisations
 - [Derivo](https://www.derivo.de/en/home/) 
 - [SURROUND Australia](https://surroundaustralia.com) - Semantic Web consulting and enterprise semantics platform provision
 
@@ -772,7 +775,9 @@ OS - OpenSource
 - [aristotle](https://github.com/arachne-framework/aristotle) - RDF, SPARQL and OWL for Clojure
 - [aesopica](https://github.com/newres/aesopica) -  A Clojure library designed to help create Semantic Web based applications.
 - [igraph](https://github.com/ont-app/igraph) -  IGraph defines a protocol which aims to provide a general interface to a variety of graph-based representations.
-
+- [csv2rdf (clojure)](https://github.com/Swirrl/csv2rdf) - Clojure library and application for converting CSV to RDF
+- [matcha](https://github.com/Swirrl/matcha) - :tea: SPARQL-like DSL for querying in-memory Linked Data Models
+- [table2qb](https://github.com/swirrl/table2qb) - A generic pipeline for converting tabular data into rdf data cubes using csvw
 
 ### Elixir
 
@@ -881,6 +886,9 @@ OS - OpenSource
 - [rdflib](https://github.com/ropensci/rdflib)
 - [redland](https://github.com/ropensci/redland-bindings)
 - [jsonld](https://github.com/ropensci/jsonld)
+- [csvwr](https://github.com/Robsteranium/csvwr) - Read and write CSVW tables and metadata in R
+- [rcsvw](https://github.com/davideceolin/rcsvw) - R package that implements the candidate recommendations from the W3C CSV on the Web Working Group
+- [Linked Data Frames](https://swirrl.github.io/linked-data-frames/) - Work with linked-data idiomatically in R using data frames (expresses RDF resources and descriptions as S3 objects)
 
 ### Ruby
 
@@ -983,6 +991,7 @@ OS - OpenSource
 - [OpenCube Toolkit](http://opencube-toolkit.eu/)
 - [CubeViz](https://github.com/AKSW/cubeviz.ontowiki)
 - [NoSPA-RDF-Data-Cube-Validator](https://github.com/yyz1989/NoSPA-RDF-Data-Cube-Validator)
+- [table2qb](https://github.com/swirrl/table2qb) - a pipeline for converting tabular data into rdf data cubes using csvw
 
 ## Datasets
 
@@ -1076,7 +1085,7 @@ OS - OpenSource
 - [mrlin](https://github.com/mhausenblas/mrlin) - MapReduce processing of Linked Data.
 - [infovore](https://github.com/paulhoule/infovore) - RDF-Centric Map/Reduce Framework and Freebase data conversion tool.
 - [FOX](https://github.com/AKSW/FOX) - Federated Knowledge Extraction Framework.
-- [singal-collect](https://github.com/uzh/signal-collect)
+- [signal-collect](https://github.com/uzh/signal-collect)
 - [Duke](https://github.com/larsga/Duke) - Duke is a fast and flexible deduplication engine written in Java.
 - [ODCS](https://github.com/mff-uk/ODCS) - The tool uses data processing pipelines for obtaining, processing, and storing RDF data.
 - [etalis](https://github.com/sspider/etalis) - Event Processing SPARQL (EP-SPARQL).
@@ -1085,6 +1094,22 @@ OS - OpenSource
 ## Linked Data
 
 - [sieve](https://github.com/wbsg/sieve) - Linked Data Quality Assessment and Fusion.
+
+## CSVW
+
+- [Model for Tabular Data and Metadata on the Web](https://w3c.github.io/csvw/syntax/)
+- [Metadata Vocabulary for Tabular Data](https://w3c.github.io/csvw/metadata/)
+- [Generating RDF from Tabular Data on the Web (csv2rdf)](https://w3c.github.io/csvw/csv2rdf/)
+- [RDF::Tabular](https://github.com/ruby-rdf/rdf-tabular) - Ruby gem to parse CSV or other Tabular Data into RDF and JSON
+- [csvlint](https://github.com/Data-Liberation-Front/csvlint.rb) - Ruby gem to validate CSV files to check their syntax and contents
+- [csv2rdf (clojure)](https://github.com/Swirrl/csv2rdf) - Clojure library and application for converting CSV to RDF
+- [csv2rdf (ruby)](https://github.com/theodi/csv2rdf) - Ruby gem to convert CSV to RDF
+- [csv2json](https://github.com/theodi/csv2json) - Ruby gem to convert CSV to JSON
+- [COW](https://github.com/CLARIAH/COW) - Python package to convert CSV to RDF with nanopublications
+- [csvw-parser](https://github.com/sebneu/csvw-parser) - Python package to parse CSVW
+- [csvwr](https://github.com/Robsteranium/csvwr) - R package for reading and writing CSVW tables and metadata
+- [rcsvw](https://github.com/davideceolin/rcsvw) - R package that implements the candidate recommendations from the W3C CSV on the Web Working Group
+- [table2qb](https://github.com/swirrl/table2qb) - A generic pipeline for converting tabular data into rdf data cubes using csvw
 
 ## WebID
 
