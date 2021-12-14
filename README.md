@@ -171,6 +171,10 @@ Looking for something but can't find it? Add it to the ["Does it exist"](https:/
 
 - [Linked Data Fragments](http://linkeddatafragments.org)
 
+### Linked Data Modeling Language (LinkML)
+
+- [LinkML](https://linkml.io/linkml)
+
 ### Data Cube extensions
 
 - [QB4ST: RDF Data Cube extensions for spatio-temporal components](https://www.w3.org/TR/qb4st/)
