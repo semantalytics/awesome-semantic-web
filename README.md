@@ -536,6 +536,9 @@ OS - OpenSource
 - [xsparql](https://www.w3.org/Submission/xsparql-language-specification/)
 - [Karma](https://github.com/usc-isi-i2/Web-Karma) - Transform data expressed in multiple data formats into RDF.
 - [Mapeathor](https://morph.oeg.fi.upm.es/tool/mapeathor) - Definition of Excel-based mappings and translation to [R2]RML mappings
+- [RMLMapper](https://github.com/RMLio/rmlmapper-java) - Java-based RML Processor for transforming heterogeneous data into RDF.
+- [RMLStreamer](https://github.com/RMLio/rmlmapper-java) - Flink-based RML Processor for transforming heterogeneous data into RDF in a streaming fashion.
+- [RMLEditor](https://app.rml.io/rmleditor/) - Community Edition of the RML Editor to create RML mappings in a visual way.
 
 ### Geo
 
@@ -614,6 +617,7 @@ OS - OpenSource
 - [ultrawrap](https://capsenta.com/) - ($)
 - [AutoMap4OBDA](https://github.com/arc-lasalle/AutoMap4OBDA) - AutoMap4OBDA: Automated Generation of R2RML Mappings for OBDA.
 - [Map-On](https://github.com/arc-lasalle/Map-On) - A web-based editor for visual ontology mapping for R2RML documents.
+- [RMLMapper](https://github.com/RMLio/rmlmapper-java) - Java-based RML Processor backwards compatible with R2RML.
 
 ##### xR2RML
 
@@ -1061,6 +1065,7 @@ OS - OpenSource
 - [OBA](https://github.com/KnowledgeCaptureAndDiscovery/OBA/) - Automatically create OpenAPI specifications from OWL and launch a server that serves JSON objects according to your ontology.
 - [MEL](https://w3id.org/kgcp/MEL-TNNT/) - (*Metadata Extractor & Loader*) - A tool to extract metadata (and textual content) from various file formats, as JSON objects.
 - [pyLODE](https://github.com/rdflib/pyLODE/) - A Python [rdflib](https://github.com/rdflib/RDFlib/)-based implementation of the [LODE](http://ceur-ws.org/Vol-932/paper12.pdf) ontology documentation tool
+- [UnSHACLed](https://github.com/KNowledgeOnWebScale/unshacled) - A visual editor for RDF constraints currently supporting the visual notations ShapeUML and ShapeVOWL and import/export/validation of SHACL constraints.
 
 ## Integrations
 
