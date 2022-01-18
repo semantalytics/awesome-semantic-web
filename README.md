@@ -287,6 +287,7 @@ $ - Proprietary
 OS - OpenSource
 F - Free
 
+- [Vedas](https://github.com/Remixman/Vedas) - (OS) VEDAS is a RDF store engine that be able to query with SPARQL and run on single GPU.
 - [Akutan](https://github.com/eBay/akutan) - (OS) A distributed knowledge graph store written in Golang. Formerly known as Beam.
 - [Jena TDB](http://jena.apache.org/documentation/tdb/index.html) - (OS).
 - [Ontotext GraphDB™](http://graphdb.ontotext.com/) - ($/F).
