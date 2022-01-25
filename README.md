@@ -412,6 +412,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [OTM Benchmark](https://kbss.felk.cvut.cz/web/kbss/otm-benchmark) - A benchmark of object-triple mapping (OTM) libraries.
 - [LDBC](http://ldbcouncil.org/benchmarks)
 - [GTFS-Madrid-Bench](https://github.com/oeg-upm/gtfs-bench) - A benchmark for performance and scalability of knowledge graph construction from heterogeneous data sources
+- [GeoSPARQL Compliance Benchmark](https://github.com/OpenLinkSoftware/GeoSPARQLBenchmark) - A HOBBIT benchmark to check for the GeoSPARQL compliance of triple store implementations
 
 ### SPARQL Applications
 
