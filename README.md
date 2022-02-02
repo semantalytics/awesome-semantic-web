@@ -228,8 +228,8 @@ Companies or businesses selling products with a primary focus on semantic web te
 - [Same4](http://www.seme4.com)
 - [Derivo](https://www.derivo.de/en/home/)
 - [Swirrl](https://www.swirrl.com/) - Linked-data publishing for Government organisations
-- [Derivo](https://www.derivo.de/en/home/) 
 - [SURROUND Australia](https://surroundaustralia.com) - Semantic Web consulting and enterprise semantics platform provision
+- [AtomGraph](https://atomgraph.com/) - Free your data from silos
 
 ## Industry
 Companies or businesses using semantic web technologies
