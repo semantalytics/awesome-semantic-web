@@ -884,6 +884,7 @@ OS - OpenSource
 - [gastrodon](https://github.com/paulhoule/gastrodon) - Toolkit to display, analyze, and visualize data and documents based on RDF graphs and the SPARQL query language using Pandas, Jupyter, and other Python ecosystem tools.
 - [kglab](https://github.com/DerwenAI/kglab/) -  The kglab library provides a simple abstraction layer in Python for building knowledge graphs.
 - [AmpliGraph](https://github.com/Accenture/AmpliGraph) - Python library for Representation Learning on Knowledge Graphs.
+- [Ontospy](https://github.com/lambdamusic/Ontospy) - Python library and command-line interface for inspecting and visualizing RDF models.
 
 
 ### R
