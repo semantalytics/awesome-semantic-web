@@ -537,6 +537,7 @@ OS - OpenSource
 - [triplify](https://github.com/pebbie/triplify)
 - [pyrdb2rdf](https://github.com/nisavid/pyrdb2rdf)
 - [xsparql](https://www.w3.org/Submission/xsparql-language-specification/)
+- [triplify-csv](https://pypi.org/project/triplify-csv/) - CLI and Python package to generate triples or nquads from CSV files and a configuration file.
 - [Karma](https://github.com/usc-isi-i2/Web-Karma) - Transform data expressed in multiple data formats into RDF.
 - [Mapeathor](https://morph.oeg.fi.upm.es/tool/mapeathor) - Definition of Excel-based mappings and translation to [R2]RML mappings
 - [RMLMapper](https://github.com/RMLio/rmlmapper-java) - Java-based RML Processor for transforming heterogeneous data into RDF.
