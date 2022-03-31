@@ -74,7 +74,6 @@ Looking for something but can't find it? Add it to the ["Does it exist"](https:/
 - [SKOS Tools](#skos-tools)
 - [NLP](#nlp)
 - [IIIF](#iiif)
-- [Visualization](#visualization)
 - [Other Awesome](#other-awesome)
 - [Misc](#misc)
 
@@ -992,7 +991,7 @@ OS - OpenSource
 - [Ontology Visualisation](https://github.com/usc-isi-i2/ontology-visualization) - Create graphs from RDF using GraphViz.
 - [SparqlBlocks](http://sparqlblocks.org/) - Build SPARQL queries with blocks
 - [Cameo Concept Modeler](https://www.nomagic.com/product-addons/magicdraw-addons/cameo-concept-modeler-plugin#key-benefits) - a cross-platform app for OWL ontology modeling, visualization, and natural-language validation
-
+- [Supernatural](https://github.com/sparna-git/Sparnatural)
 
 ## Data Cube
 
@@ -1171,9 +1170,6 @@ OS - OpenSource
 ## IIIF
 - [IIIF](https://iiif.io/)
 - [fester](https://github.com/UCLALibrary/fester)
-
-## Visualization
-- [Supernatural](https://github.com/sparna-git/Sparnatural)
 
 ## Other Awesome
 
