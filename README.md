@@ -74,6 +74,7 @@ Looking for something but can't find it? Add it to the ["Does it exist"](https:/
 - [SKOS Tools](#skos-tools)
 - [NLP](#nlp)
 - [IIIF](#iiif)
+- [Visualization](#visualization)
 - [Other Awesome](#other-awesome)
 - [Misc](#misc)
 
