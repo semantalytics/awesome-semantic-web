@@ -255,7 +255,7 @@ Companies or businesses using semantic web technologies
 
 ## Government
 
-- [Australian Government Linked Data Workign Group](https://www.linked.data.gov.au) - Australian government's community of practice for Linked Data & Semantic Web 
+- [Australian Government Linked Data Working Group](https://www.linked.data.gov.au) - Australian government's community of practice for Linked Data & Semantic Web
 - [W3C's Gov enrment Linked Data Working Group archived wiki](https://www.w3.org/2011/gld/wiki/Main_Page) - "Developing standards which help governments publish their data as effective and usable Linked Data, using Semantic Web technologies"
 
 ## Research Institutions
@@ -976,6 +976,10 @@ OS - OpenSource
 - [GeomRDF](https://github.com/fhamdi/GeomRDF)
 - [GeoARQ](https://github.com/castagna/GeoARQ)
 - [USeekM](https://www.openhub.net/p/useekm)
+
+## Browsers
+
+- [Galacteek](https://gitlab.com/galacteek/galacteek) - Multi-platform Qt5-based browser and semantic agent for the distributed web. Uses RDF graphs and P2P-SparQL to synchronize linked-data between peers.
 
 ## Visualization
 
