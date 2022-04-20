@@ -641,7 +641,7 @@ OS - OpenSource
 - [RocketRML](https://github.com/semantifyit/RocketRML)
 - [SDM-RDFizer](https://github.com/SDM-TIB/SDM-RDFizer) - RML engine for efficient transformation of CSV, RDB, XML and JSON to RDF
 - [FuMap](https://github.com/SDM-TIB/FunMap) - Efficient preprocessing of transformation rules described in RML+FnO mappings.
-- [Morph-KGC](https://github.com/oeg-upm/morph-kgc) - RML engine that creates large knowledge graphs from heterogeneous data sources
+- [Morph-KGC](https://github.com/oeg-upm/morph-kgc) - RML and RML-star engine that creates large knowledge graphs from heterogeneous data sources
 
 #### Other RDF Mappings
 
