@@ -838,6 +838,7 @@ OS - OpenSource
 - [link-redux](https://github.com/fletcher91/link-redux/) - View RDF resources in React
 - [@ontologies](https://github.com/ontola/ontologies) - Like @types, but for ontologies
 - [rdfdev-js](https://github.com/ontola/rdfdev-js) - Collection of libraries to ease in JavaScript RDF development.
+- [DataBorg/client](https://github.com/DataBorg/client) - Highly versatile SPARQL client for modern age
 
 ### Kotlin
 
