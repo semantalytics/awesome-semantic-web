@@ -1335,3 +1335,4 @@ OS - OpenSource
 - [SWRLRulesToOWLAxioms](https://github.com/dcarralma/SWRLRulesToOWLAxioms) - Implementation of a procedure to transform SWRL rules into equivalent OWL axioms.
 - [SWRL.js](https://github.com/mterdjimi/SWRL.js) - A SWRL parser for Javascript.
 - [rdfpro](https://github.com/dkmfbk/rdfpro) - a public domain, Java command line tool and library for RDF processing. 
+- [basex-rdf](https://github.com/metadataframes/basex-rdf) - RDF parsing for BaseX.
