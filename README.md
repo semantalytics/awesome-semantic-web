@@ -1330,3 +1330,4 @@ OS - OpenSource
 - [rif4j](http://rif4j.sourceforge.net/)
 - [wsml2reasoner](http://tools.sti-innsbruck.at/wsml2reasoner/) - a highly modular framework that combines various validation, normalization and transformation algorithms that enable the translation of ontology descriptions in WSML to the appropriate syntax of several underlying reasoning engines. 
 - [silk](http://silk.semwebcentral.org/) - Semantic Inferencing on Large Knowledge (SILK) knowledge representation system.
+- [fuxi](https://code.google.com/archive/p/fuxi/)
