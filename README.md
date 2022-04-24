@@ -1334,3 +1334,4 @@ OS - OpenSource
 - [Rule-Translator](https://github.com/ismailakbari/Rule-Translator) - This is framework is a Web rule translator. It has a rule parser, visualizer and translator. The Web rule languages that are covered by this framework include: Notation3 (N3), POSL, Datalog RuleML, SWRL and RIF. This framework is a rule engine for RIF language as well.
 - [SWRLRulesToOWLAxioms](https://github.com/dcarralma/SWRLRulesToOWLAxioms) - Implementation of a procedure to transform SWRL rules into equivalent OWL axioms.
 - [SWRL.js](https://github.com/mterdjimi/SWRL.js) - A SWRL parser for Javascript.
+- [rdfpro](https://github.com/dkmfbk/rdfpro) - a public domain, Java command line tool and library for RDF processing. 
