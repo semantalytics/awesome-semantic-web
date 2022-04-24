@@ -1331,3 +1331,4 @@ OS - OpenSource
 - [wsml2reasoner](http://tools.sti-innsbruck.at/wsml2reasoner/) - a highly modular framework that combines various validation, normalization and transformation algorithms that enable the translation of ontology descriptions in WSML to the appropriate syntax of several underlying reasoning engines. 
 - [silk](http://silk.semwebcentral.org/) - Semantic Inferencing on Large Knowledge (SILK) knowledge representation system.
 - [fuxi](https://code.google.com/archive/p/fuxi/)
+- [Rule-Translator](https://github.com/ismailakbari/Rule-Translator) - This is framework is a Web rule translator. It has a rule parser, visualizer and translator. The Web rule languages that are covered by this framework include: Notation3 (N3), POSL, Datalog RuleML, SWRL and RIF. This framework is a rule engine for RIF language as well.
