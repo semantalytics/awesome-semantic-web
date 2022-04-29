@@ -1336,3 +1336,29 @@ OS - OpenSource
 - [SWRL.js](https://github.com/mterdjimi/SWRL.js) - A SWRL parser for Javascript.
 - [rdfpro](https://github.com/dkmfbk/rdfpro) - a public domain, Java command line tool and library for RDF processing. 
 - [basex-rdf](https://github.com/metadataframes/basex-rdf) - RDF parsing for BaseX.
+- [openskos](http://openskos.org/)
+- [java-skos-api](https://github.com/simonjupp/java-skos-api) - The SKOS API provides a Java interface and OWL API based implementation of the Simple Knowledge Organisation System (SKOS) 
+- https://dvcs.w3.org/hg/rdf/raw-file/default/rdf-json/index.html
+- [dcat-ap_validatyor](https://github.com/SEMICeu/dcat-ap_validator)
+- [activitystreams](https://github.com/OpenSocial/activitystreams)
+- [forgefed](https://github.com/forgefed/forgefed) - An extension to ActivityPub for web-based Git services federation.
+- [linkeddatafragments](http://comunica.linkeddatafragments.org/)
+- [vocbench](http://vocbench.uniroma2.it/)
+- [metrecca/link](https://github.com/metreeca/link) - Metreeca Model-Driven Linked Data Framework .
+- [rdf-patch](https://afs.github.io/rdf-patch/)
+- [ldpatch](https://www.w3.org/TR/ldpatch/)
+- [rdf-delta](https://afs.github.io/rdf-delta/)
+- [rdf-thrift](https://afs.github.io/rdf-thrift/)
+- [semwiki](https://github.com/pchampin/semwiki) - An experimental semantic wiki with bidirectional (text <-> triples) changes.
+- [thedatatank](http://thedatatank.com)
+- [nanopub-java](https://github.com/Nanopublication/nanopub-java)
+- [datastudio-sparql-connector](https://github.com/DataFabricRus/datastudio-sparql-connector)
+- [scylla-rdf](https://github.com/DataFabricRus/scylla-rdf
+- [awesome-semantic-web-business](https://github.com/KMax/awesome-semantic-web-business)
+- [MOD-Ontology](https://github.com/sifrproject/MOD-Ontology) - Metadata for Ontology Description and Publication Ontology .
+- [omv2](http://omv2.sourceforge.net/)
+- [platform-linked-data-nederland](http://www.pilod.nl/wiki/Platform_Linked_Data_Nederland)
+- http://eventkg.l3s.uni-hannover.de/
+- [SEPA](https://github.com/arces-wot/SEPA/blob/master/README.md)
+- [StaTIX](https://github.com/eXascaleInfolab/StaTIX) - Statistical Type Inference (both fully automatic and semi supervised) for RDF datasets.
+- [vss-ontology](https://github.com/klotzbenjamin/vss-ontology) - Design of the Vehicle Signal Ontology VSSo and example of use with SOSA/SSN and STEP.
