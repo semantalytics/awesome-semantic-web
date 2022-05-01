@@ -1064,6 +1064,7 @@ OS - OpenSource
 - [ripple](https://github.com/joshsh/ripple) - Semantic Web scripting language.
 - [schema_salad](https://github.com/common-workflow-language/schema_salad) - Semantic Annotations for Linked Avro Data.
 - [RDFConvert](https://sourceforge.net/projects/rdfconvert/) - RDFConvert is a simple command-line tool for converting RDF file betweeen different syntax formats.
+- [ont-converter](https://github.com/sszuev/ont-converter) - A simple command-line utility to convert any RDF graph to OWL2 ontology.
 - [How to diff RDF](https://www.w3.org/2001/sw/wiki/How_to_diff_RDF)
 - [grlc](https://github.com/CLARIAH/grlc) - Web APIs from SPARQL queries.
 - [Openlink Structured Data Sniffer](http://osds.openlinksw.com/) - Browser extension for Google Chrome, Microsoft Edge, Mozilla Firefox, Opera, and Vivaldi that unveils structured metadata embedded within HTML documents and web pages.
@@ -1229,6 +1230,7 @@ OS - OpenSource
 - [levelgraph-jsonld](https://github.com/mcollina/levelgraph-jsonld) - The Object Document Mapper for LevelGraph based on JSON-LD
 - [OWL-API](https://github.com/owlcs/owlapi) - The OWL API is a Java API for creating, manipulating and serialising OWL Ontologies.
 - [ONT-API](https://github.com/owlcs/ont-api) - a Jena based OWL-API implementation.
+- [rdf-protege](https://github.com/sszuev/rdf-protege) - a Protege Desktop fork with RDF support.
 - [LODGrefine](https://github.com/sparkica/LODGrefine) - LOD-enabled Google Refine: linked open data related extensions included.
 - [stardog.js](https://github.com/stardog-union/stardog.js)
 - [stardog-groovy](https://github.com/stardog-union/stardog-groovy)
