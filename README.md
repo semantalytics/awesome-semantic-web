@@ -544,6 +544,7 @@ OS - OpenSource
 - [RMLMapper](https://github.com/RMLio/rmlmapper-java) - Java-based RML Processor for transforming heterogeneous data into RDF.
 - [RMLStreamer](https://github.com/RMLio/rmlmapper-java) - Flink-based RML Processor for transforming heterogeneous data into RDF in a streaming fashion.
 - [RMLEditor](https://app.rml.io/rmleditor/) - Community Edition of the RML Editor to create RML mappings in a visual way.
+- [ShExML](http://shexml.herminiogarcia.com/) - Shape Expressions Mapping Language. Map heterogeneous data via Shape Expression (ShEx).
 
 ### Geo
 
