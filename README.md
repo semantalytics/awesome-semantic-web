@@ -535,6 +535,7 @@ OS - OpenSource
 ## Mapping
 
 - [any2rdf](https://github.com/esbranson/any2rdf)
+- [G2GML](https://g2gml.readthedocs.io/en/latest/contents/get-started.html) - Map RDF graphs to property graphs and output pg, json-pg, neo4j, pgx, aws or dot formats
 - [triplify](https://github.com/pebbie/triplify)
 - [pyrdb2rdf](https://github.com/nisavid/pyrdb2rdf)
 - [xsparql](https://www.w3.org/Submission/xsparql-language-specification/)
