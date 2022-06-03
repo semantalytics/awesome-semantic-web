@@ -820,6 +820,7 @@ OS - OpenSource
 - [nxparser](https://github.com/nxparser/nxparser) - Java parsers for different RDF serialisations + API + tools + JAX-RS integration.
 - [Eclipse Lyo](https://www.eclipse.org/lyo/)
 - [JB4JSON-LD](https://github.com/kbss-cvut/jb4jsonld), [JB4JSON-LD Jackson](https://github.com/kbss-cvut/jb4jsonld-jackson) - Java binding for JSON-LD (mapping POJO - JSON-LD).
+- [titanium-json-ld](https://github.com/filip26/titanium-json-ld) - An implementation of the JSON-LD 1.1 (JSON-based Serialization for Linked Data) specification in Java utilizing Jakarta JSON Processing.
 
 ### JavaScript
 
