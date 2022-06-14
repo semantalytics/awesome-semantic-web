@@ -190,7 +190,7 @@ Looking for something but can't find it? Add it to the ["Does it exist"](https:/
 | [TriX](http://www.hpl.hp.com/techreports/2004/HPL-2004-56.html) | RDF Triples in XML. | `application/trix` |
 | [HDT](https://www.w3.org/Submission/2011/03/) | Binary RDF Representation for Publication and Exchange. | `application/x-binary-rdf` |
 | [aREF](https://gbv.github.io/aREF/aREF.html) | Another RDF Encoding Form. | |
-| [RDF/POST](http://www.lsrn.org/semweb/rdfpost.html) | RDF/POST Encoding for RDF. | `application/rdf+x-www-form-urlencoded` |
+| [RDF/POST](https://atomgraph.github.io/RDF-POST/) | RDF/POST Encoding for RDF. | `application/rdf+x-www-form-urlencoded` |
 | [YARRML](http://rml.io/yarrrml/spec/) | YARRRML is a human readable text-based representation for declarative generation rules. It is a subset of [YAML], a widely used data serialization language designed to be  | | human-friendly. | |
 | [hextuples](https://github.com/ontola/hextuples) | NDJSON serialization | |
 ## Datatypes
