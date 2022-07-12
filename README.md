@@ -1000,7 +1000,7 @@ OS - OpenSource
 - [Ontology Visualisation](https://github.com/usc-isi-i2/ontology-visualization) - Create graphs from RDF using GraphViz.
 - [SparqlBlocks](http://sparqlblocks.org/) - Build SPARQL queries with blocks
 - [Cameo Concept Modeler](https://www.nomagic.com/product-addons/magicdraw-addons/cameo-concept-modeler-plugin#key-benefits) - a cross-platform app for OWL ontology modeling, visualization, and natural-language validation
-- [Supernatural](https://github.com/sparna-git/Sparnatural)
+- [Sparnatural](https://github.com/sparna-git/Sparnatural)
 
 ## Data Cube
 
