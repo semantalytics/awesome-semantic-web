@@ -761,6 +761,7 @@ OS - OpenSource
 - [A Developer's Guide to the Semantic Web, 2014,2nd Ed](https://www.springer.com/us/book/9783662437957)
 - [Ontology Engineering](https://www.morganclaypool.com/doi/abs/10.2200/S00834ED1V01Y201802WBE018)
 - [The Data-Centric Revolution](https://www.amazon.co.uk/Data-Centric-Revolution-Restoring-Enterprise-Information/dp/1634625404)
+- [An Introduction to Ontology Engineering, Keet, 2020, v1.5](https://people.cs.uct.ac.za/~mkeet/OEbook/) [[1](https://open.umn.edu/opentextbooks/textbooks/590)]
 
 ## Programming
 
