@@ -752,7 +752,7 @@ OS - OpenSource
 - [Explorer's Guide to the Semantic Web](https://www.manning.com/books/explorers-guide-to-the-semantic-web)
 - [Semantic Web Programming](https://www.wiley.com/en-us/Semantic+Web+Programming-p-9781118080603)
 - [Semantic Web for the Working Ontologist](http://workingontologist.org/)
-- [Demystifying OWL for the Enterprise](http://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?products_id=1252)
+- [Demystifying OWL for the Enterprise](https://www.morganclaypool.com/doi/10.2200/S00824ED1V01Y201801WBE017) [[1](https://link.springer.com/book/10.1007/978-3-031-79482-7)]
 - [Programming the Semantic Web](http://shop.oreilly.com/product/9780596153823.do)
 - [Building Ontologies with Basic Formal Ontology](https://mitpress.mit.edu/books/building-ontologies-basic-formal-ontology)
 - [Structures for Organizing Knowledge: Exploring Taxonomies, Ontologies, and Other Schema](https://www.amazon.com/Structures-Organizing-Knowledge-Taxonomies-Ontologies/dp/1555706991)
