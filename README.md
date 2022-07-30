@@ -507,7 +507,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [Ontola Linked Data Blog](https://ontola.io/blog)
 - [Semantic Arts Data-Centric Architecture blog](https://www.semanticarts.com/blog/)
 - [TerminusDB Technical Blogs](https://github.com/terminusdb/technical-blogs)
-- [Justin's Weblog](https://github.com/justin2004/weblog)
+- [Justin's Weblog](https://github.com/justin2004/weblog#readme)
 
 ### Groups
 
