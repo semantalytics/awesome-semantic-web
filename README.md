@@ -865,7 +865,7 @@ OS - OpenSource
 ### PHP
 
 - [EasyRdf](http://www.easyrdf.org/)
-- [semsol](https://github.com/semsol/arc2/wiki)
+- [ARC2](https://github.com/semsol/arc2/wiki)
 - [PHP-SPARQL-Lib](https://github.com/cgutteridge/PHP-SPARQL-Lib)
 - [Graphite](http://graphite.ecs.soton.ac.uk/)
 - [sparqllib](http://graphite.ecs.soton.ac.uk/sparqllib/)
