@@ -275,6 +275,7 @@ Companies or businesses using semantic web technologies
 - [Exascale Infolab](https://exascale.info/projects/research/) - University of Fribourg, Switzerland
 - [IDLAB](https://www.ugent.be/ea/idlab/en/research/semantic-intelligence/semantic-knowledge-generation-and-publication-at-scale.htm) - Ghent University, Belgium
 - [Data Semantics Lab](https://daselab.cs.ksu.edu/) - Kansas State University, USA
+- [Linköping University Semantic Web Group](https://www.ida.liu.se/research/semanticweb/) - Linköping University, Sweden
 
 ## Academic Journals
 
@@ -381,6 +382,7 @@ F - Free
 
 ACTIVE
 
+- [HeFQUIN](https://github.com/LiUSemWeb/HeFQUIN) - A query federation engine for heterogeneous federations of graph data sources.
 - [Semagrow](https://github.com/semagrow)
 - [CostFed](https://github.com/dice-group/CostFed)
 - [QUETSAL](http://aksw.org/Projects/QUETSAL.html)
@@ -475,6 +477,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [tomayac/ldf-client](https://github.com/tomayac/ldf-client) - Polymer Linked Data Fragments client.
 - [LDFlex](https://github.com/RubenVerborgh/LDflex) - A JavaScript DSL for querying Linked Data on the Web.
 - [communica](http://comunica.linkeddatafragments.org/) - A modular framework for querying Linked Data on the Web.
+- [HeFQUIN](https://github.com/LiUSemWeb/HeFQUIN) - A query federation engine for heterogeneous federations of graph data sources.
 
 ## Linked Data Platform (LDP)
 
