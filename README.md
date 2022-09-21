@@ -527,6 +527,7 @@ OS - OpenSource
 - [Wikibase](http://wikiba.se) - (OS) Collection of applications and libraries for creating, managing and sharing structured data.
 - [eccenca Corporate Memory](https://www.eccenca.com) - build, explore and consume Knowledge Graphs
 - [Atomic Data Browser](https://github.com/joepio/atomic-data-browser) - (OS) Create, model, edit, view and share Linked Data.  
+- [Blue Brain Nexus](https://bluebrainnexus.io/) - (OS) A knowledge graph for data-driven science 
 
 ## Web Annotations
 
