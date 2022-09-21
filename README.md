@@ -338,6 +338,11 @@ F - Free
 - [Oxigraph](https://github.com/oxigraph/oxigraph) - (OS) a graph database implementing the SPARQL standard and written in Rust.
 - [Triply](https://triply.cc) - (F/$)
 - [Atomic-Server](https://crates.io/crates/atomic-server/) - (OS) Graph database + HTTP(S) server with authorization and versioning. Supports a strict subset of RDF.
+- [RDF4j](https://rdf4j.org/) - (OS Graph databases + tools)
+  - Native (OS)
+  - Memory (OS)
+  - LMDB (OS)
+  - SOLR/Elastic Search/Lucene (OS)
 
 ### Academic
 (Note: this classification is somewhat arbitrary and is meant to capture databases that only have a published paper or were developed for that purpose and are not actively maintained)
