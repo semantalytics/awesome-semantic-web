@@ -729,7 +729,7 @@ OS - OpenSource
 
 - [Pellet](https://github.com/stardog-union/pellet)
 - [openllet](https://github.com/Galigator/openllet)
-- [FaCT++](https://github.com/ethz-asl/libfactplusplus)
+- [FaCT++](https://github.com/ethz-asl/libfactplusplus) and [pyfactxx](https://github.com/tilde-lab/pyfactxx)
 - [HermiT](http://www.hermit-reasoner.com/)
 - [ELK](https://github.com/liveontologies/elk-reasoner)
 - [Whelk](https://github.com/balhoff/whelk)
