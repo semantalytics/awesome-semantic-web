@@ -666,6 +666,7 @@ OS - OpenSource
 - [LOV](https://lov.linkeddata.es) - Linked Open Vocabularies. Portal / search tool for vocabularies.
 - [BioPortal](https://bioportal.bioontology.org) - Open repository with tools for ontologies and SKOS vocabularies; biomedical content dominates but all research domains welcome
 - [prefix.zazuko.com](https://prefix.zazuko.com) - Similar to LOV, but with a richer search interface
+- [Ontology Lookup Service (OLS)](https://www.ebi.ac.uk/ols/index) - OLS is a repository for biomedical ontologies that aims to provide a single point of access to the latest ontology versions.
 - [OntoPortal](https://ontoportal.org) - The BioPortal software in Virtual Appliance (deployable) form
 - [gist](https://www.semanticarts.com/gist/) - minimalist enterprise upper ontology - max coverage, fewest primitives, least ambiguity.
 
