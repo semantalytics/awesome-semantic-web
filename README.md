@@ -997,6 +997,7 @@ OS - OpenSource
 ## Browsers
 
 - [Galacteek](https://gitlab.com/galacteek/galacteek) - Multi-platform Qt5-based browser and semantic agent for the distributed web. Uses RDF graphs and P2P-SparQL to synchronize linked-data between peers.
+- [RickView](https://github.com/konradhoeffner/rickview) - RDF browser for small knowledge bases written in Rust using an in-memory graph, doesn't require a SPARQL endpoint. Optimized for high performance and low resource usage.
 
 ## Visualization
 
