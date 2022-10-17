@@ -880,7 +880,14 @@ OS - OpenSource
 - [PHP-SPARQL-Lib](https://github.com/cgutteridge/PHP-SPARQL-Lib)
 - [Graphite](http://graphite.ecs.soton.ac.uk/)
 - [sparqllib](http://graphite.ecs.soton.ac.uk/sparqllib/)
-
+- sweetrdf - Collection of RDF-libraries using modern PHP functionality
+  - [rdfInterface](https://github.com/sweetrdf/rdfInterface) - Common interfaces for each RDF stack layer (parser, serializer, dataset, SPARQL client, etc.) to enable interoperability between different implementations. Think of it as PSR for RDF.
+  - [quickRdf](https://github.com/sweetrdf/quickRdf) - A RDF library providing implementation of terms and dataset (using rdfInterface).
+  - [quickRdfIo](https://github.com/sweetrdf/quickRdfIo) - Collection of RDF parsers and serializers (using rdfInterface)
+  - [rdfHelpers](https://github.com/sweetrdf/rdfHelpers) - A set of helper classes for implementing the rdfInterface.
+  - [sparqlClient](https://github.com/sweetrdf/sparqlClient) - A SPARQL client library for the rdfInterface ecosystem with the API inspired by the PDO.
+  - and many more, see https://github.com/sweetrdf
+ 
 ### Prolog
 
 - [SWI-Prolog Semantic Web Library](http://www.swi-prolog.org/pldoc/doc_for?object=section(%27packages/semweb.html%27))
