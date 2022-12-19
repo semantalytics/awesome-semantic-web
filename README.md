@@ -555,6 +555,8 @@ OS - OpenSource
 - [RMLStreamer](https://github.com/RMLio/rmlmapper-java) - Flink-based RML Processor for transforming heterogeneous data into RDF in a streaming fashion.
 - [RMLEditor](https://app.rml.io/rmleditor/) - Community Edition of the RML Editor to create RML mappings in a visual way.
 - [ShExML](http://shexml.herminiogarcia.com/) - Shape Expressions Mapping Language. Map heterogeneous data via Shape Expression (ShEx).
+- [ReDeFer XSD2OWL](https://rhizomik.net/redefer/xsd2owl) - Map XSD XML Schemas into the Web Ontology Language (OWL).
+- [ReDeFer XML2RDF](https://rhizomik.net/redefer/xml2rdf) - Map XML into RDF.
 
 ### Geo
 
@@ -997,7 +999,8 @@ OS - OpenSource
 ## Browsers
 
 - [Galacteek](https://gitlab.com/galacteek/galacteek) - Multi-platform Qt5-based browser and semantic agent for the distributed web. Uses RDF graphs and P2P-SparQL to synchronize linked-data between peers.
-- [LodView](https://lodview.it/](https://github.com/LodLive/LodView) - RDF browser written in Java based on Spring and Jena using a SPARQL endpoint. 
+- [LodView](https://lodview.it/](https://github.com/LodLive/LodView) - RDF browser written in Java based on Spring and Jena using a SPARQL endpoint.
+- [RhizomerEye](https://github.com/rhizomik/rhizomerEye) - A Web application for interactive exploration of semantic and linked data available from SPARQL endpoints.
 
 ## Visualization
 
@@ -1014,6 +1017,8 @@ OS - OpenSource
 - [SparqlBlocks](http://sparqlblocks.org/) - Build SPARQL queries with blocks
 - [Cameo Concept Modeler](https://www.nomagic.com/product-addons/magicdraw-addons/cameo-concept-modeler-plugin#key-benefits) - a cross-platform app for OWL ontology modeling, visualization, and natural-language validation
 - [Sparnatural](https://github.com/sparna-git/Sparnatural)
+- [ReDeFer RDF2SVG](https://rdf2svg.redefer.rhizomik.net) - Render RDF as a SVG graph.
+- [ReDeFer RDF2HTML](https://rhizomik.net/redefer/rdf2html) - Render RDF as HTML.
 
 ## Data Cube
 
