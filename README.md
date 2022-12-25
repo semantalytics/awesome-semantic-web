@@ -470,6 +470,9 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 
 - [semantic-graphql](https://github.com/nelson-ai/semantic-graphql) - Create GraphQL schemas from RDF ontologies.
 - [hypergraphql](https://github.com/semantic-integration/hypergraphql) - GraphQL interface for querying and serving linked data on the Web.
+- [UltraGraphQL](https://github.com/internet-of-production/UltraGraphQL) - extends HyperGraphQL with automatic bootstrapping phase and GraphQL mutations
+- [Grasp](https://github.com/dbcls/grasp) - GraphQL endpoint wrapping SPARQL endpoints, declarative approach using [handlebars](https://handlebarsjs.com/guide/) Templates for SPARQL queries
+
 
 ## Linked Data Fragments
 
