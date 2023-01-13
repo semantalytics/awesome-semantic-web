@@ -126,6 +126,10 @@ Looking for something but can't find it? Add it to the ["Does it exist"](https:/
 - [SPARQL 1.1 Protocol](https://www.w3.org/TR/sparql11-protocol/)
 - [SPARQL 1.1 Graph Store HTTP Protocol](https://www.w3.org/TR/sparql11-http-rdf-update/)
 
+### R2RML
+
+- [R2RML: RDB to RDF Mapping Language](https://www.w3.org/TR/r2rml/)
+
 ### RDFa
 
 - [XHTML+RDFa 1.1 - Third Edition](https://www.w3.org/TR/xhtml-rdfa/)
