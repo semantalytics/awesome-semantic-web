@@ -231,6 +231,7 @@ Companies or businesses selling products with a primary focus on semantic web te
 - [Swirrl](https://www.swirrl.com/) - Linked-data publishing for Government organisations
 - [SURROUND Australia](https://surroundaustralia.com) - Semantic Web consulting and enterprise semantics platform provision
 - [AtomGraph](https://atomgraph.com/) - Free your data from silos
+- [Ontopic](https://ontopic.ai/) - Create Knowledge Graphs from databases and datalakes. Core contributors to Ontop and experts in virtualization.
 
 ## Industry
 Companies or businesses using semantic web technologies
