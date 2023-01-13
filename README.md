@@ -625,6 +625,7 @@ OS - OpenSource
 - [Morph-KGC](https://github.com/oeg-upm/morph-kgc) - An R2RML engine that creates large knowledge graphs from RDB.
 - [MusicBrainz-R2RML](https://github.com/LinkedBrainz/MusicBrainz-R2RML) - R2RML mappings for the MusicBrainz schema.
 - [ontop](https://github.com/ontop/ontop) - Ontop is a platform to query relational databases as Virtual RDF Graphs using SPARQL. It's fast and is packed with features.
+- [Ontopic Studio](https://ontopic.ai/en/ontopic-studio) - ($) Ontopic Studio is a GUI driven no-code application for designing standards compliant large R2RML mappings usable for Virtual RDF Graphs and RDF triple materialization. Academics can request free licenses.
 - [db2triples](https://github.com/antidot/db2triples) - Antidot implementations of R2RML and Direct Mapping specifications.
 - [R2RML-F](https://github.com/chrdebru/r2rml)
 - [R2RML-api](https://github.com/R2RML-api/R2RML-api)
