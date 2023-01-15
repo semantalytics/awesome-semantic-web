@@ -257,6 +257,7 @@ Companies or businesses using semantic web technologies
 - [DataLanguage](https://datalanguage.com/)
 - [Eccenca](https://eccenca.com/en/)
 - [Perfect Memory](https://www.perfect-memory.com/) - DAM-as-a-Brain, a Platform that collects, interprets and makes any data and content actionable.
+- [Field 33](https://field33.com) - Platform to build digital twins of organizations.
 
 ## Government
 
@@ -678,6 +679,7 @@ OS - OpenSource
 - [Ontology Lookup Service (OLS)](https://www.ebi.ac.uk/ols/index) - OLS is a repository for biomedical ontologies that aims to provide a single point of access to the latest ontology versions.
 - [OntoPortal](https://ontoportal.org) - The BioPortal software in Virtual Appliance (deployable) form
 - [gist](https://www.semanticarts.com/gist/) - minimalist enterprise upper ontology - max coverage, fewest primitives, least ambiguity.
+- [Plow](https://plow.pm) - Ontology package manager with semantic versioning and an [open domain-agnostic ontology registry that anyone can publish to](https://registry.field33.com).
 
 ### World Wide Web Consortium (W3C)
 
@@ -941,6 +943,8 @@ OS - OpenSource
 - [rdf-rs](https://github.com/scholtzan/rdf-rs) - rdf is a library for the Resource Description Framework (RDF) and SPARQL implemented in Rust.
 - [rome](https://github.com/vandenoever/rome) - Rome is an RDF library written in safe Rust.
 - [atomic-lib](https://crates.io/crates/atomic-lib) - Library for managing and (de)serializaing Atomic Data, a strict subset of RDF.
+- [harriet](https://github.com/field33/harriet) - A format-preserving serialization/deserialization library for Turtle.
+- [owlish](https://github.com/field33/owlish) - An OWL library in Rust modeled on the OWL functional syntax.
 
 ### Scala
 
