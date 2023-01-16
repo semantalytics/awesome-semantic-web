@@ -126,6 +126,10 @@ Looking for something but can't find it? Add it to the ["Does it exist"](https:/
 - [SPARQL 1.1 Protocol](https://www.w3.org/TR/sparql11-protocol/)
 - [SPARQL 1.1 Graph Store HTTP Protocol](https://www.w3.org/TR/sparql11-http-rdf-update/)
 
+### R2RML
+
+- [R2RML: RDB to RDF Mapping Language](https://www.w3.org/TR/r2rml/)
+
 ### RDFa
 
 - [XHTML+RDFa 1.1 - Third Edition](https://www.w3.org/TR/xhtml-rdfa/)
@@ -231,6 +235,7 @@ Companies or businesses selling products with a primary focus on semantic web te
 - [Swirrl](https://www.swirrl.com/) - Linked-data publishing for Government organisations
 - [SURROUND Australia](https://surroundaustralia.com) - Semantic Web consulting and enterprise semantics platform provision
 - [AtomGraph](https://atomgraph.com/) - Free your data from silos
+- [Ontopic](https://ontopic.ai/) - Create Knowledge Graphs from databases and datalakes. Core contributors to Ontop and experts in virtualization.
 
 ## Industry
 Companies or businesses using semantic web technologies
@@ -252,6 +257,7 @@ Companies or businesses using semantic web technologies
 - [DataLanguage](https://datalanguage.com/)
 - [Eccenca](https://eccenca.com/en/)
 - [Perfect Memory](https://www.perfect-memory.com/) - DAM-as-a-Brain, a Platform that collects, interprets and makes any data and content actionable.
+- [Field 33](https://field33.com) - Platform to build digital twins of organizations.
 
 ## Government
 
@@ -470,6 +476,9 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 
 - [semantic-graphql](https://github.com/nelson-ai/semantic-graphql) - Create GraphQL schemas from RDF ontologies.
 - [hypergraphql](https://github.com/semantic-integration/hypergraphql) - GraphQL interface for querying and serving linked data on the Web.
+- [UltraGraphQL](https://github.com/internet-of-production/UltraGraphQL) - extends HyperGraphQL with automatic bootstrapping phase and GraphQL mutations
+- [Grasp](https://github.com/dbcls/grasp) - GraphQL endpoint wrapping SPARQL endpoints, declarative approach using [handlebars](https://handlebarsjs.com/guide/) Templates for SPARQL queries
+
 
 ## Linked Data Fragments
 
@@ -624,6 +633,7 @@ OS - OpenSource
 - [Morph-KGC](https://github.com/oeg-upm/morph-kgc) - An R2RML engine that creates large knowledge graphs from RDB.
 - [MusicBrainz-R2RML](https://github.com/LinkedBrainz/MusicBrainz-R2RML) - R2RML mappings for the MusicBrainz schema.
 - [ontop](https://github.com/ontop/ontop) - Ontop is a platform to query relational databases as Virtual RDF Graphs using SPARQL. It's fast and is packed with features.
+- [Ontopic Studio](https://ontopic.ai/en/ontopic-studio) - ($) Ontopic Studio is a GUI driven no-code application for designing standards compliant large R2RML mappings usable for Virtual RDF Graphs and RDF triple materialization. Academics can request free licenses.
 - [db2triples](https://github.com/antidot/db2triples) - Antidot implementations of R2RML and Direct Mapping specifications.
 - [R2RML-F](https://github.com/chrdebru/r2rml)
 - [R2RML-api](https://github.com/R2RML-api/R2RML-api)
@@ -671,6 +681,7 @@ OS - OpenSource
 - [Ontology Lookup Service (OLS)](https://www.ebi.ac.uk/ols/index) - OLS is a repository for biomedical ontologies that aims to provide a single point of access to the latest ontology versions.
 - [OntoPortal](https://ontoportal.org) - The BioPortal software in Virtual Appliance (deployable) form
 - [gist](https://www.semanticarts.com/gist/) - minimalist enterprise upper ontology - max coverage, fewest primitives, least ambiguity.
+- [Plow](https://plow.pm) - Ontology package manager with semantic versioning and an [open domain-agnostic ontology registry that anyone can publish to](https://registry.field33.com).
 
 ### World Wide Web Consortium (W3C)
 
@@ -882,7 +893,14 @@ OS - OpenSource
 - [PHP-SPARQL-Lib](https://github.com/cgutteridge/PHP-SPARQL-Lib)
 - [Graphite](http://graphite.ecs.soton.ac.uk/)
 - [sparqllib](http://graphite.ecs.soton.ac.uk/sparqllib/)
-
+- sweetrdf - Collection of RDF-libraries using modern PHP functionality
+  - [rdfInterface](https://github.com/sweetrdf/rdfInterface) - Common interfaces for each RDF stack layer (parser, serializer, dataset, SPARQL client, etc.) to enable interoperability between different implementations. Think of it as PSR for RDF.
+  - [quickRdf](https://github.com/sweetrdf/quickRdf) - A RDF library providing implementation of terms and dataset (using rdfInterface).
+  - [quickRdfIo](https://github.com/sweetrdf/quickRdfIo) - Collection of RDF parsers and serializers (using rdfInterface)
+  - [rdfHelpers](https://github.com/sweetrdf/rdfHelpers) - A set of helper classes for implementing the rdfInterface.
+  - [sparqlClient](https://github.com/sweetrdf/sparqlClient) - A SPARQL client library for the rdfInterface ecosystem with the API inspired by the PDO.
+  - and many more, see https://github.com/sweetrdf
+ 
 ### Prolog
 
 - [SWI-Prolog Semantic Web Library](http://www.swi-prolog.org/pldoc/doc_for?object=section(%27packages/semweb.html%27))
@@ -934,6 +952,8 @@ OS - OpenSource
 - [rdf-rs](https://github.com/scholtzan/rdf-rs) - rdf is a library for the Resource Description Framework (RDF) and SPARQL implemented in Rust.
 - [rome](https://github.com/vandenoever/rome) - Rome is an RDF library written in safe Rust.
 - [atomic-lib](https://crates.io/crates/atomic-lib) - Library for managing and (de)serializaing Atomic Data, a strict subset of RDF.
+- [harriet](https://github.com/field33/harriet) - A format-preserving serialization/deserialization library for Turtle.
+- [owlish](https://github.com/field33/owlish) - An OWL library in Rust modeled on the OWL functional syntax.
 
 ### Scala
 
@@ -1001,6 +1021,7 @@ OS - OpenSource
 - [Galacteek](https://gitlab.com/galacteek/galacteek) - Multi-platform Qt5-based browser and semantic agent for the distributed web. Uses RDF graphs and P2P-SparQL to synchronize linked-data between peers.
 - [LodView](https://lodview.it/](https://github.com/LodLive/LodView) - RDF browser written in Java based on Spring and Jena using a SPARQL endpoint.
 - [RhizomerEye](https://github.com/rhizomik/rhizomerEye) - A Web application for interactive exploration of semantic and linked data available from SPARQL endpoints.
+- [RickView](https://github.com/konradhoeffner/rickview) - RDF browser for small knowledge bases written in Rust using an in-memory graph, doesn't require a SPARQL endpoint. Optimized for high performance and low resource usage.
 
 ## Visualization
 
