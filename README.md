@@ -1225,7 +1225,7 @@ OS - OpenSource
 
 - [awesome-graph](https://github.com/jbmusso/awesome-graph)
 - [awesome-prolog](https://github.com/klaussinani/awesome-prolog)
-- [awesome-ontologies](htps://github.com/semantalytics/awesome-ontologies)
+- [awesome-ontologies](https://github.com/semantalytics/awesome-ontologies)
 - [shaoxiongi/awesome-knowlege-graph](https://github.com/shaoxiongji/awesome-knowledge-graph)
 - [totogo/awesome-knowledge-graph](https://github.com/totogo/awesome-knowledge-graph)
 - [awesome GLAM semweb](https://github.com/ncarboni/awesome-GLAM-semweb)
