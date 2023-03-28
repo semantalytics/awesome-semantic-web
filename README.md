@@ -1229,6 +1229,7 @@ OS - OpenSource
 - [shaoxiongi/awesome-knowlege-graph](https://github.com/shaoxiongji/awesome-knowledge-graph)
 - [totogo/awesome-knowledge-graph](https://github.com/totogo/awesome-knowledge-graph)
 - [awesome GLAM semweb](https://github.com/ncarboni/awesome-GLAM-semweb)
+- [Awesome Knowledge Graph Construction Tools](https://github.com/kg-construct/awesome-kgc-tools)
 
 ## Misc
 
