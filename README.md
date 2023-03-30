@@ -1041,6 +1041,7 @@ OS - OpenSource
 - [Sparnatural](https://github.com/sparna-git/Sparnatural)
 - [ReDeFer RDF2SVG](https://rdf2svg.redefer.rhizomik.net) - Render RDF as a SVG graph.
 - [ReDeFer RDF2HTML](https://rhizomik.net/redefer/rdf2html) - Render RDF as HTML.
+- [Zazuko's RDF Sketch](https://sketch.zazuko.com/) - Graphical RDF Explorer for small datasets
 
 ## Data Cube
 
