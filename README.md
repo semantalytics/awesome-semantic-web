@@ -954,6 +954,7 @@ OS - OpenSource
 - [atomic-lib](https://crates.io/crates/atomic-lib) - Library for managing and (de)serializaing Atomic Data, a strict subset of RDF.
 - [harriet](https://github.com/field33/harriet) - A format-preserving serialization/deserialization library for Turtle.
 - [owlish](https://github.com/field33/owlish) - An OWL library in Rust modeled on the OWL functional syntax.
+* [RDFtk](https://github.com/johnstonskj/rust-rdftk) - An RDF Toolkit for Rust
 
 ### Scala
 
