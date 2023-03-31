@@ -346,6 +346,7 @@ F - Free
 - [Triply](https://triply.cc) - (F/$)
 - [Atomic-Server](https://crates.io/crates/atomic-server/) - (OS) Graph database + HTTP(S) server with authorization and versioning. Supports a strict subset of RDF.
 - [RDF4j](https://rdf4j.org/) - (OS) Graph database supporting native, memory, LMDB, Solr, Elastic backends. Formerly known as Sesame.
+- [Copernic](https://git.sr.ht/~amirouche/copernic) - (OS) Data, and its history, via change requests at scale.
 
 ### Academic
 (Note: this classification is somewhat arbitrary and is meant to capture databases that only have a published paper or were developed for that purpose and are not actively maintained)
@@ -954,6 +955,7 @@ OS - OpenSource
 - [atomic-lib](https://crates.io/crates/atomic-lib) - Library for managing and (de)serializaing Atomic Data, a strict subset of RDF.
 - [harriet](https://github.com/field33/harriet) - A format-preserving serialization/deserialization library for Turtle.
 - [owlish](https://github.com/field33/owlish) - An OWL library in Rust modeled on the OWL functional syntax.
+* [RDFtk](https://github.com/johnstonskj/rust-rdftk) - An RDF Toolkit for Rust
 
 ### Scala
 
@@ -1040,6 +1042,7 @@ OS - OpenSource
 - [Sparnatural](https://github.com/sparna-git/Sparnatural)
 - [ReDeFer RDF2SVG](https://rdf2svg.redefer.rhizomik.net) - Render RDF as a SVG graph.
 - [ReDeFer RDF2HTML](https://rhizomik.net/redefer/rdf2html) - Render RDF as HTML.
+- [Zazuko's RDF Sketch](https://sketch.zazuko.com/) - Graphical RDF Explorer for small datasets
 
 ## Data Cube
 
@@ -1230,6 +1233,7 @@ OS - OpenSource
 - [shaoxiongi/awesome-knowlege-graph](https://github.com/shaoxiongji/awesome-knowledge-graph)
 - [totogo/awesome-knowledge-graph](https://github.com/totogo/awesome-knowledge-graph)
 - [awesome GLAM semweb](https://github.com/ncarboni/awesome-GLAM-semweb)
+- [Awesome Knowledge Graph Construction Tools](https://github.com/kg-construct/awesome-kgc-tools)
 
 ## Misc
 
