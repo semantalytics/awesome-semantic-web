@@ -1110,7 +1110,7 @@ OS - OpenSource
 - [ripple](https://github.com/joshsh/ripple) - Semantic Web scripting language.
 - [schema_salad](https://github.com/common-workflow-language/schema_salad) - Semantic Annotations for Linked Avro Data.
 - [RDFConvert](https://sourceforge.net/projects/rdfconvert/) - RDFConvert is a simple command-line tool for converting RDF file betweeen different syntax formats.
-- [ont-converter](https://github.com/sszuev/ont-converter) - A simple command-line utility to convert any RDF graph to OWL2 ontology.
+- [ont-converter](https://github.com/sszuev/ont-converter) - Written in Kotlin, a simple command-line utility to convert any RDF graph to OWL2 ontology.
 - [How to diff RDF](https://www.w3.org/2001/sw/wiki/How_to_diff_RDF)
 - [Bubastis](https://github.com/EBISPOT/bubastis) - Tool for detecting asserted logical differences between two ontologies, such as between versions.
 - [grlc](https://github.com/CLARIAH/grlc) - Web APIs from SPARQL queries.
@@ -1278,8 +1278,9 @@ OS - OpenSource
 - [DEER](https://github.com/dice-group/DEER) - RDF Dataset Enrichment Framework.
 - [levelgraph-jsonld](https://github.com/mcollina/levelgraph-jsonld) - The Object Document Mapper for LevelGraph based on JSON-LD
 - [OWL-API](https://github.com/owlcs/owlapi) - The OWL API is a Java API for creating, manipulating and serialising OWL Ontologies.
-- [ONT-API](https://github.com/owlcs/ont-api) - a Jena based OWL-API implementation.
+- [ONT-API](https://github.com/owlcs/ont-api) - a Jena based OWL-API implementation (Java library).
 - [rdf-protege](https://github.com/sszuev/rdf-protege) - a Protege Desktop fork with RDF support.
+- [concurrent-rdf-graph](https://github.com/sszuev/concurrent-rdf-graph) - Concurrent RDF Graph implementations written in Kotlin.
 - [LODGrefine](https://github.com/sparkica/LODGrefine) - LOD-enabled Google Refine: linked open data related extensions included.
 - [stardog.js](https://github.com/stardog-union/stardog.js)
 - [stardog-groovy](https://github.com/stardog-union/stardog-groovy)
@@ -1306,7 +1307,6 @@ OS - OpenSource
 - [odmtp-tpf](https://github.com/benjimor/odmtp-tpf) - Triple pattern matching over non-RDF datasources with inference .
 - [motools](https://github.com/motools) - Music ontology tools
 - [activitypub](https://www.w3.org/TR/2018/REC-activitypub-20180123/)
-- [ont-api](https://github.com/avicomp/ont-api)
 - [rdfsurveyor](https://github.com/guiveg/rdfsurveyor) - Exploration tool for RDF datasets.
 - [fenster](https://github.com/knakk/fenster) - RDF quad-store frontend.
 - [jsonld-streaming-parser.js](https://github.com/rubensworks/jsonld-streaming-parser.js) - A fast and lightweight streaming JSON-LD parser for JavaScript.
