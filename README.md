@@ -1155,6 +1155,7 @@ OS - OpenSource
 - [ODCS](https://github.com/mff-uk/ODCS) - The tool uses data processing pipelines for obtaining, processing, and storing RDF data.
 - [etalis](https://github.com/sspider/etalis) - Event Processing SPARQL (EP-SPARQL).
 - [graph-pattern-learner](https://github.com/RDFLib/graph-pattern-learner) - Evolutionary Graph Pattern Learner that learns SPARQL queries for a given set of source-target-pairs from an endpoint.
+- [OntoGPT](https://github.com/monarch-initiative/ontogpt/) - Tools for populating semantic schemas from unstructured text using Large Language Models (LLMs)
 
 ## Linked Data
 
