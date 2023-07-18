@@ -673,6 +673,7 @@ OS - OpenSource
 - [SPARQL Anything](https://github.com/SPARQL-Anything/sparql.anything) - A system for Semantic Web [re-engineering](https://arxiv.org/pdf/2106.02361.pdf) that allows users to query anything with SPARQL.
 - [any23](https://any23.apache.org/)
 - [J2RM](https://w3id.org/kgcp/J2RM/) - A tool to process mappings from JSON data to RDF triples guided by an OWL2 ontology structure.
+- [mapping-template](https://github.com/cefriel/mapping-template) - A template-based component exploiting Apache Velocity to define mappings to/from RDF.
 
 ## Ontologies
 
@@ -1098,6 +1099,7 @@ OS - OpenSource
 - [Linked Data Reactor (LD-R)](http://ld-r.org) - A full-stack platform for building adaptive component-based Linked Data applications in NodeJS and React.
 - [LDIF](https://github.com/wbsg/ldif) - Linked Data Integration Framework.
 - [pyLDAPI](https://github.com/rdflib/pyLDAPI) - A Python [rdflib](https://github.com/rdflib/RDFlib/)-based API framework for Linked Data via the W3C's [Content Negotiation by Profile](https://w3c.github.io/dx-connegp/connegp/)
+- [Chimera](https://github.com/cefriel/chimera) - A framework providing Apache Camel components to support data conversion to/from RDF and service integration with RDF graphs
 
 ## Tools
 
