@@ -927,7 +927,8 @@ OS - OpenSource
 - [kglab](https://github.com/DerwenAI/kglab/) -  The kglab library provides a simple abstraction layer in Python for building knowledge graphs.
 - [AmpliGraph](https://github.com/Accenture/AmpliGraph) - Python library for Representation Learning on Knowledge Graphs.
 - [Ontospy](https://github.com/lambdamusic/Ontospy) - Python library and command-line interface for inspecting and visualizing RDF models.
-- [semantic-python-overview](https://github.com/pysemtec/semantic-python-overview) - List of Python specific semantic web tools and resources. 
+- [semantic-python-overview](https://github.com/pysemtec/semantic-python-overview) - List of Python specific semantic web tools and resources.
+- [extruct](https://github.com/scrapinghub/extruct) - Extract from HTML: Microdata, embedded JSONLD, microformats, Facebook OpenGraph RDFa, RDFa, DC Dublin Core metadata
 
 ### R
 
