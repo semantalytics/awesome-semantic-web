@@ -779,7 +779,7 @@ OS - OpenSource
 - [Semantic Web for the Working Ontologist](http://workingontologist.org/)
 - [Demystifying OWL for the Enterprise](https://www.morganclaypool.com/doi/10.2200/S00824ED1V01Y201801WBE017) [[1](https://link.springer.com/book/10.1007/978-3-031-79482-7)]
 - [Programming the Semantic Web](http://shop.oreilly.com/product/9780596153823.do)
-- [Building Ontologies with Basic Formal Ontology](https://mitpress.mit.edu/books/building-ontologies-basic-formal-ontology)
+- [Building Ontologies with Basic Formal Ontology](https://direct.mit.edu/books/book/4044/Building-Ontologies-with-Basic-Formal-Ontology)
 - [Structures for Organizing Knowledge: Exploring Taxonomies, Ontologies, and Other Schema](https://www.amazon.com/Structures-Organizing-Knowledge-Taxonomies-Ontologies/dp/1555706991)
 - [Validating RDF Data](http://book.validatingrdf.com/)
 - [Learning SPARQL](http://www.learningsparql.com/)
