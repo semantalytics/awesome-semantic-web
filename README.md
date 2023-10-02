@@ -282,6 +282,8 @@ Companies or businesses using semantic web technologies
 - [IDLAB](https://www.ugent.be/ea/idlab/en/research/semantic-intelligence/semantic-knowledge-generation-and-publication-at-scale.htm) - Ghent University, Belgium
 - [Data Semantics Lab](https://daselab.cs.ksu.edu/) - Kansas State University, USA
 - [Linköping University Semantic Web Group](https://www.ida.liu.se/research/semanticweb/) - Linköping University, Sweden
+- [DBIS Lab](http://dbis.informatik.uni-freiburg.de/) - Freiburg, Germany
+- [AD Lab](https://ad.informatik.uni-freiburg.de/) - Freiburg, Germany
 
 ## Academic Journals
 
