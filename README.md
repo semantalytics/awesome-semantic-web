@@ -222,7 +222,6 @@ Companies or businesses selling products with a primary focus on semantic web te
 - [OpenLinkSoftware](https://www.openlinksw.com/)
 - [Cognitum](http://www.cognitum.eu/)
 - [entryscape](https://entryscape.com)
-- [zazuko](https://zazuko.com/)
 - [inova8](http://www.inova8.com/)
 - [in4mium](http://www.in4mium.com/)
 - [Xylem Technologies](https://www.xylem-technologies.com/en/)
