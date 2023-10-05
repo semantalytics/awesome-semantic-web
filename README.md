@@ -409,7 +409,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [DARQ](http://darq.sourceforge.net/)
 
 ## Benchmarks
-
+- [FedShop](https://github.com/GDD-Nantes/FedShop) - A Benchmark for Testing the Scalability of SPARQL Federation Engines
 - [Berlin SPARQL Benchmark (BSBM)](http://wifo5-03.informatik.uni-mannheim.de/bizer/berlinsparqlbenchmark/)
 - [Lehigh University Benchmark (LUBM)](http://swat.cse.lehigh.edu/projects/lubm/)
 - [IGUANA](https://github.com/dice-group/IGUANA)
