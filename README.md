@@ -744,7 +744,7 @@ OS - OpenSource
 - [OntoVerbal](https://github.com/TheOntologist/OntoVerbal) - OntoVerbal is a Protege 4.2 plugin that generates natural language descriptions for classes for an ontology written in OWL.
 - [OTTR](https://ottr.xyz) - Reasonable Ontology Templates.
 - [dosdp-tools](https://github.com/INCATools/dosdp-tools/) - dead simple owl design patterns (template tool)
-- [RDFSharp.Semantics](https://github.com/mdesalvo/RDFSharp.Semantics) - .NET library for OWL-DL/SKOS ontology modeling, validation and reasoning
+- [OWLSharp](https://github.com/mdesalvo/OWLSharp) - .NET library for OWL2-DL ontology modeling, validation and reasoning
 - [Ontology Development Kit](https://github.com/INCATools/ontology-development-kit/) - set up a git repo for developing an ontology
 - [ROBOT](http://robot.obolibrary.org/) - command line swiss-army knife for ontology developers
 - [grafo](http://gra.fo/) - Visual graph development
