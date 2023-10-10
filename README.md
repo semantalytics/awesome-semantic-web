@@ -797,11 +797,16 @@ OS - OpenSource
 - [raptor](https://github.com/dajobe/raptor) - Redland Raptor RDF syntax library.
 - [rasqal](https://github.com/dajobe/rasqal) - Redland Rasqal RDF Query Library.
 - [cowl](https://github.com/sisinflab-swot/cowl) - A lightweight C API for working with OWL ontologies.
+
 ### C\#
 
 - [dotNetRDF](https://github.com/dotnetrdf/dotnetrdf)
 - [RDFSharp](https://github.com/mdesalvo/RDFSharp)
 - [Rdf.Vocabularies](https://github.com/wikibus/rdf.vocabularies)
+
+### C++
+
+- [hdt-cpp](https://github.com/rdfhdt/hdt-cpp) - Read and query [HDT](https://www.rdfhdt.org/)
 
 ### Clojure
 
@@ -846,6 +851,7 @@ OS - OpenSource
 - [Eclipse Lyo](https://www.eclipse.org/lyo/)
 - [JB4JSON-LD](https://github.com/kbss-cvut/jb4jsonld), [JB4JSON-LD Jackson](https://github.com/kbss-cvut/jb4jsonld-jackson) - Java binding for JSON-LD (mapping POJO - JSON-LD).
 - [titanium-json-ld](https://github.com/filip26/titanium-json-ld) - An implementation of the JSON-LD 1.1 (JSON-based Serialization for Linked Data) specification in Java utilizing Jakarta JSON Processing.
+- [hdt-java](https://github.com/rdfhdt/hdt-java) - Read and query [HDT](https://www.rdfhdt.org/)
 
 ### JavaScript
 
@@ -954,7 +960,8 @@ OS - OpenSource
 - [atomic-lib](https://crates.io/crates/atomic-lib) - Library for managing and (de)serializaing Atomic Data, a strict subset of RDF.
 - [harriet](https://github.com/field33/harriet) - A format-preserving serialization/deserialization library for Turtle.
 - [owlish](https://github.com/field33/owlish) - An OWL library in Rust modeled on the OWL functional syntax.
-* [RDFtk](https://github.com/johnstonskj/rust-rdftk) - An RDF Toolkit for Rust
+- [RDFtk](https://github.com/johnstonskj/rust-rdftk) - An RDF Toolkit for Rust
+- [hdt-rs](https://github.com/KonradHoeffner/hdt) - Read and query [HDT](https://www.rdfhdt.org/)
 
 ### Scala
 
