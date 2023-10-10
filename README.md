@@ -1131,6 +1131,7 @@ OS - OpenSource
 - [MEL](https://w3id.org/kgcp/MEL-TNNT/) - (*Metadata Extractor & Loader*) - A tool to extract metadata (and textual content) from various file formats, as JSON objects.
 - [pyLODE](https://github.com/rdflib/pyLODE/) - A Python [rdflib](https://github.com/rdflib/RDFlib/)-based implementation of the [LODE](http://ceur-ws.org/Vol-932/paper12.pdf) ontology documentation tool
 - [UnSHACLed](https://github.com/KNowledgeOnWebScale/unshacled) - A visual editor for RDF constraints currently supporting the visual notations ShapeUML and ShapeVOWL and import/export/validation of SHACL constraints.
+- [rpt](https://github.com/SmartDataAnalytics/RdfProcessingToolkit) - Command line interface based RDF Processing Toolkit to run sequences of SPARQL statements ad-hoc on RDF datasets with a lot of features.
 
 ## Integrations
 
