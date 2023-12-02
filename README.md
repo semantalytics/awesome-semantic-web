@@ -724,6 +724,8 @@ OS - OpenSource
 - [schema.org](https://schema.org/docs/datamodel.html) - Structured data on the Internet (Google, Microsoft, Yahoo and Yandex).
 - [SPAR](http://www.sparontologies.net) - Semantic Publishing and Referencing Ontologies.
 - [BFO](http://basic-formal-ontology.org) - Basic Formal Ontology.
+- [CCO](https://github.com/CommonCoreOntology/) - Common Core Ontology Suite.
+- [TOVE](http://www.eil.utoronto.ca/theory/enterprise-modelling/tove/) - Toronto Virtual Enterprise Ontologies. 
 - [VIVO ISF](https://wiki.duraspace.org/display/VTDA/VIVO-ISF+Ontology) - Researchers and the full context in which they work.
 - [yago](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/yago/) YAGO is a huge semantic knowledge base, derived from Wikipedia WordNet and GeoNames.
 - [dbpedia](http://dbpedia.org/ontology/)
