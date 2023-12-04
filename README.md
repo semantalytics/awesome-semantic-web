@@ -997,10 +997,10 @@ OS - OpenSource
 - [ttl-mode](https://github.com/jeeger/ttl-mode) - Supports both ttl and n3, indentation, some electric punctuation and hungry delete.
 - [nxml-mode](https://www.emacswiki.org/emacs/NxmlMode) - nxml-mode is a major mode for editing XML
 
-### IntelliJ
+### JetBrains IDEs: Intellij IDEA, PyCharm, etc.
 
-- [sparql4idea](https://github.com/mattnathan/sparql4idea) - SPARQL language plugin for IntelliJ IDEA.
-- [RDF and SPARQL](https://sharedvocabs.com/products/rdfandsparql/) - RDF and SPARQL plugin for JetBrains IDEs
+- [LNKD.tech Editor](https://plugins.jetbrains.com/plugin/12802-lnkd-tech-editor) - Editor for Turtle (Terse RDF Triple Language, TTL) files
+- [RDF and SPARQL](https://rdfandsparql.com) - Adds support for the RDF 1.2 (Turtle, TriG, N-Triples, N-Quads), SPARQL 1.2 and ShExC 2.1 languages as well as a bunch of productivity features
 
 ### Visual Studio Code
 
