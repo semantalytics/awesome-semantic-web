@@ -1427,3 +1427,4 @@ OS - OpenSource
 - [SEPA](https://github.com/arces-wot/SEPA/blob/master/README.md)
 - [StaTIX](https://github.com/eXascaleInfolab/StaTIX) - Statistical Type Inference (both fully automatic and semi supervised) for RDF datasets.
 - [vss-ontology](https://github.com/klotzbenjamin/vss-ontology) - Design of the Vehicle Signal Ontology VSSo and example of use with SOSA/SSN and STEP.
+- [aurl](https://ctan.org/pkg/aurl) LaTeX package for hyperlinked URLs abbreviated with prefixes. The 1000 most common prefixes are predefined and more can be added.
