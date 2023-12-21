@@ -426,6 +426,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [LDBC](http://ldbcouncil.org/benchmarks)
 - [GTFS-Madrid-Bench](https://github.com/oeg-upm/gtfs-bench) - A benchmark for performance and scalability of knowledge graph construction from heterogeneous data sources
 - [GeoSPARQL Compliance Benchmark](https://github.com/OpenLinkSoftware/GeoSPARQLBenchmark) - A HOBBIT benchmark to check for the GeoSPARQL compliance of triple store implementations
+- [RDF Library Benchmark](https://github.com/KonradHoeffner/rdf_benchmark) - Comparison of HDT and non-HDT RDF libraries for query time and memory usage.
 
 ### SPARQL Applications
 
