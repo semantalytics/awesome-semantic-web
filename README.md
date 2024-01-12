@@ -235,6 +235,7 @@ Companies or businesses selling products with a primary focus on semantic web te
 - [SURROUND Australia](https://surroundaustralia.com) - Semantic Web consulting and enterprise semantics platform provision
 - [AtomGraph](https://atomgraph.com/) - Free your data from silos
 - [Ontopic](https://ontopic.ai/) - Create Knowledge Graphs from databases and datalakes. Core contributors to Ontop and experts in virtualization.
+- [iNovex](https://mobi.inovexcorp.com/) - Web-based, collaborative ontology and vocabulary editor, and knowledge graph solution platform.
 
 ## Industry
 Companies or businesses using semantic web technologies
@@ -755,6 +756,7 @@ OS - OpenSource
 - [grafo](http://gra.fo/) - Visual graph development
 - [OOPS! (Ontology Pitfall Scanner!)](http://oops.linkeddata.es/) - a web application to detect (semi)automatically 33 pitfalls or errors in ontologies. A web service is also provided.
 - [Cameo Concept Modeler](https://www.nomagic.com/product-addons/magicdraw-addons/cameo-concept-modeler-plugin#key-benefits) - a cross-platform app for OWL ontology modeling, visualization, and natural-language validation
+- [Mobi](https://mobi.inovexcorp.com) - [Open Source](https://github.com/inovexcorp/mobi) (with an optional Enterprise version) system for developing ontologies and skos ocabularies with native graph versioning that enables a git-inspired workflow. More info [here](https://inovexcorp.github.io/mobi-docs/).
 
 ## Reasoners
 
@@ -1390,7 +1392,6 @@ OS - OpenSource
 - [dione](http://www.khaos.uma.es/dione) - Khoaos Research Group
 - [TrOWL](https://github.com/TrOWL) - Tractable OWL 2 Reasoning Infrastructure
 - http://ld-r.org
-- https://mobi.inovexcorp.com
 - [activitystrams-core](https://www.w3.org/TR/activitystreams-core/)
 - [rdf4a](https://github.com/MM2-0/rdf4a) - RDF4J for Android.
 - [rdfshape](http://rdfshape.herokuapp.com/)
