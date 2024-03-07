@@ -1212,6 +1212,7 @@ OS - OpenSource
 - [rdf4j-shacl](http://docs.rdf4j.org/programming/#_validation_with_shacl)
 - [shperone](https://forms.hypermedia.app) - Form Builder
 - [Schímatos](https://github.com/schimatos/schimatos.org/) - A SHACL-based Web-Form Generator for Knowledge Graph Editing.
+- [SHACL Playground](https://shacl-playground.zazuko.com/) - A web based SHACL validator
 
 ## SKOS Tools
 
