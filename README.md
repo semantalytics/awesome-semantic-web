@@ -1298,6 +1298,7 @@ OS - OpenSource
 - [levelgraph-jsonld](https://github.com/mcollina/levelgraph-jsonld) - The Object Document Mapper for LevelGraph based on JSON-LD
 - [OWL-API](https://github.com/owlcs/owlapi) - The OWL API is a Java API for creating, manipulating and serialising OWL Ontologies.
 - [ONT-API](https://github.com/owlcs/ont-api) - a Jena based OWL-API implementation (Java library).
+- [Jena-OWL2](https://github.com/sszuev/jena-owl2) - An enhanced Apache Jena Inference RDF Model with OWL2 support.
 - [rdf-protege](https://github.com/sszuev/rdf-protege) - a Protege Desktop fork with RDF support.
 - [concurrent-rdf-graph](https://github.com/sszuev/concurrent-rdf-graph) - Concurrent RDF Graph implementations written in Kotlin.
 - [LODGrefine](https://github.com/sparkica/LODGrefine) - LOD-enabled Google Refine: linked open data related extensions included.
