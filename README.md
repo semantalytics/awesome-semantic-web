@@ -726,7 +726,8 @@ OS - OpenSource
 - [any23](https://any23.apache.org/) - was "[moved into the Attic in 2023-06](https://attic.apache.org/projects/any23.html)"
 - [J2RM](https://w3id.org/kgcp/J2RM/) - A tool to process mappings from JSON data to RDF triples guided by an OWL2 ontology structure.
 - [mapping-template](https://github.com/cefriel/mapping-template) - A template-based component exploiting Apache Velocity to define mappings to/from RDF.
-
+- [model2owl](https://github.com/OP-TED/model2owl) - Transform a UML model into a formal OWL ontology, and a SHACL shape based on established UML conventions.
+  
 ## Ontologies
 
 - [LOV](https://lov.linkeddata.es) - Linked Open Vocabularies. Portal / search tool for vocabularies.
