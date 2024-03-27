@@ -387,6 +387,7 @@ F - Free
 - [sepa](https://github.com/arces-wot/SEPA) - A JAVA implementation of the SPARQL Event Processing Architecture including the engine, APIs and tools.
 - [StreamingMASSIF](https://github.com/IBCNServices/StreamingMASSIF)
 - [streaming-sparql](https://github.com/weblyzard/streaming-sparql)
+- [Linked Data Event Streams](https://semiceu.github.io/LinkedDataEventStreams/) - The [Linked Data Event Stream (LDES) server](https://github.com/Informatievlaanderen/VSDS-LDESServer4J) is a configurable component that can be used to ingest, store, transform and (re-)publish an LDES 
 
 ### Federated SPARQL
 
@@ -1037,7 +1038,7 @@ OS - OpenSource
 
 - [Galacteek](https://gitlab.com/galacteek/galacteek) - Multi-platform Qt5-based browser and semantic agent for the distributed web. Uses RDF graphs and P2P-SparQL to synchronize linked-data between peers.
 - [LodView](https://github.com/LodLive/LodView) - RDF browser written in Java based on Spring and Jena using a SPARQL endpoint.
-- [RhizomerEye](https://github.com/rhizomik/rhizomerEye) - A Web application for interactive exploration of semantic and linked data available from SPARQL endpoints.
+- [RhizomerEye](https://github.com/rhizomik/rhizomerEye) - A [Web application](https://rhizomik.net/rhizomer) for interactive exploration of semantic and linked data available from SPARQL endpoints.
 - [RickView](https://github.com/konradhoeffner/rickview) - RDF browser for small knowledge bases written in Rust using an in-memory graph, doesn't require a SPARQL endpoint. Optimized for high performance and low resource usage.
 
 ## Visualization
