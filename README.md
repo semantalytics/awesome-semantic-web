@@ -284,6 +284,7 @@ Companies or businesses using semantic web technologies
 - [Linköping University Semantic Web Group](https://www.ida.liu.se/research/semanticweb/) - Linköping University, Sweden
 - [DBIS Lab](http://dbis.informatik.uni-freiburg.de/) - Freiburg, Germany
 - [AD Lab](https://ad.informatik.uni-freiburg.de/) - Freiburg, Germany
+- [SWE @HTWK Leipzig](https://wse-research.org/) - Web & Software Engineering research group @ Leipzig University of Applied Sciences (HTWK Leipzig)
 
 ## Academic Journals
 
