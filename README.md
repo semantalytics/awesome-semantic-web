@@ -574,6 +574,7 @@ OS - OpenSource
 - [ShExML](http://shexml.herminiogarcia.com/) - Shape Expressions Mapping Language. Map heterogeneous data via Shape Expression (ShEx).
 - [ReDeFer XSD2OWL](https://rhizomik.net/redefer/xsd2owl) - Map XSD XML Schemas into the Web Ontology Language (OWL).
 - [ReDeFer XML2RDF](https://rhizomik.net/redefer/xml2rdf) - Map XML into RDF.
+- [Silk](http://silkframework.org/) - Linked data integration framework, connectes different linked data resources and transforms structured data source.
 
 ### Geo
 
