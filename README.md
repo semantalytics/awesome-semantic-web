@@ -290,6 +290,8 @@ Companies or businesses using semantic web technologies
 - [Semantic Web Journal](http://www.semantic-web-journal.net/)
 - [Journal of Web Semantics](https://www.journals.elsevier.com/journal-of-web-semantics)
 - [International Journal of Web and Semantic Technology](http://www.airccse.org/journal/ijwest/ijwest.html)
+- [Applied Ontology](https://www.iospress.com/catalog/journals/applied-ontology)
+- [Journal of Biomedical Semantics](https://jbiomedsem.biomedcentral.com/)
 
 ## Databases
 
