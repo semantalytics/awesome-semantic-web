@@ -236,6 +236,7 @@ Companies or businesses selling products with a primary focus on semantic web te
 - [AtomGraph](https://atomgraph.com/) - Free your data from silos
 - [Ontopic](https://ontopic.ai/) - Create Knowledge Graphs from databases and datalakes. Core contributors to Ontop and experts in virtualization.
 - [iNovex](https://mobi.inovexcorp.com/) - Web-based, collaborative ontology and vocabulary editor, and knowledge graph solution platform.
+- [Flur.ee](https://flur.ee/) - Provide a full stack of tools for data mapping, linking, vocabulary creation and develop an open source append only triple store (fluree.core).
 
 ## Industry
 Companies or businesses using semantic web technologies
