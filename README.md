@@ -274,6 +274,7 @@ Companies or businesses using semantic web technologies (alphabetical order):
 - [Data Semantics Lab](https://dase.cs.wright.edu/) - Data Semantics Lab, Wright State University
 - [DBIS Lab](http://dbis.informatik.uni-freiburg.de/) - Freiburg, Germany
 - [DICE: Data Science Group](http://dice.cs.uni-paderborn.de/about/) - Universität Paderborn.
+- [EURECOM](https://www.eurecom.fr/) - Ecole d'ingénieurs et centre de recherche en sciences du numérique, France. See its [Multimedia Semantics Group](https://semantics.eurecom.fr/wiki/Main_Page).
 - [Exascale Infolab](https://exascale.info/projects/research/) - University of Fribourg, Switzerland
 - [eXascale Infolab](https://exascale.info/) - eXascale Infolab, University of Fribourg, Switzerland.
 - [IDLAB](https://www.ugent.be/ea/idlab/en/research/semantic-intelligence/semantic-knowledge-generation-and-publication-at-scale.htm) - Ghent University, Belgium
