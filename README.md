@@ -1271,180 +1271,180 @@ OS - OpenSource
 
 ## Misc
 
-- [m-ld](https://m-ld.org/) - Real-time information sharing component using RDF and conflict-free replicated data types (CRDTs)
-- [n3pygments](https://github.com/gniezen/n3pygments) - Pygments lexer to perform syntax highlighting for N3, Turtle and SPARQL.
-- [levelgraph-n3](https://github.com/levelgraph/levelgraph-n3) - LevelGraph plugin for storing N3/Turtle/RDF data.
-- [psps](https://github.com/factsmission/psps) - Personal Structured Publishing Space.
-- [swrlapi](https://github.com/protegeproject/swrlapi) - The SWRLAPI is a Java API for working with the OWL-based SWRL rule and SQWRL query languages. It includes graphical tools for editing and executing rules and queries.
-- [cp-common-utils](https://github.com/mhgrove/cp-common-utils) - Collection of utilty classes from Clark & Parsia.
-- [jena-joseki](https://github.com/tingletech/jena-joseki)
-- [Git2PROV](https://github.com/mmlab/Git2PROV) - Unleash the potential of Git in the new W3C standard for provenance.
-- [IntervalServer](https://github.com/epimorphics/IntervalServer)
-- [jdbc-for-rdf3x](https://github.com/dbiir/jdbc-for-rdf3x)
-- [rdf3x_path](https://github.com/agubichev/rdf3x_path) - RDF3X with path queries.
-- [jqudt](https://github.com/egonw/jqudt) - Java library for working with the QUDT ontology and data using it.
-- [JenaSecurity](https://github.com/Claudenw/JenaSecurity) - Security (Permissions) wrapper around Jena RDF implementation.
-- [specgen](https://github.com/specgen/specgen) - Modified, extended and more generalized version of Danbri‘s SpecGen version 5.
+- [activitypub](https://www.w3.org/TR/2018/REC-activitypub-20180123/)
+- [activitystrams-core](https://www.w3.org/TR/activitystreams-core/)
+- [activitystreams](https://github.com/OpenSocial/activitystreams)
+- [amazon-neptune-tools](https://github.com/awslabs/amazon-neptune-tools) - Tools and utilities to enable loading data and building graph applications with Amazon Neptune.
+- [aurl](https://ctan.org/pkg/aurl) LaTeX package for hyperlinked URLs abbreviated with prefixes. The 1000 most common prefixes are predefined and more can be added.
+- [awesome-semantic-web-business](https://github.com/KMax/awesome-semantic-web-business)
+- [balloon](https://github.com/schlegel/balloon) - A tool-suite for Linked Data consumption. balloon aims in offering public services and tools to take advantage of the semantic web with less effort. The basic motivation is to establish a foundation for Linked Data as a Service (LDaaS).
+- [basex-rdf](https://github.com/metadataframes/basex-rdf) - RDF parsing for BaseX.
+- [basil](https://github.com/the-open-university/basil) - Building Apis SImpLy from sparql endpoints.
+- [basil](https://github.com/the-open-university/basil) - Building Apis SImpLy from sparql endpoints.
+- [Beast](https://github.com/SmartDataAnalytics/Beast) - Benchmarking, Evaluation, and Analysis Stack - A powerful yet lightweight Java8/Jena-based RDF processing stack.
+- [canonical_rdf](https://github.com/iherman/canonical_rdf) - Proof-of-concept implementation of Aidan Hogan's RDF canonicalization algorithm in node.js.
+- [carml-cli](https://github.com/netage/carml-cli) - Interface for CARML library.
 - [cassa](https://github.com/heuer/cassa) - SPARQL 1.1 Graph Store HTTP Protocol implementation with plugable backends.
-- [keygenapp](https://github.com/bblfish/keygenapp) - Utilities and WebApp for certificate creation within a browser, for FOAF+SSL.
-- [owlapitools](https://github.com/owlcs/owlapitools) - Set of independent add-ons for OWL API.
-- [LD-FusionTool](https://github.com/mifeet/LD-FusionTool) - Data Fusion & Conflict Resolution tool for Linked Data.
-- [prefix.cc](https://github.com/cygri/prefix.cc) - Source code to the prefix.cc website.
-- [LSD-Dimensions](https://github.com/albertmeronyo/LSD-Dimensions) - All dimension values of Linked Statistical Data.
-- [prissma](https://github.com/lukostaz/prissma) - Context-Aware Adaptation for Linked Data.
+- [concurrent-rdf-graph](https://github.com/sszuev/concurrent-rdf-graph) - Concurrent RDF Graph implementations written in Kotlin.
+- [CostFed](https://github.com/dice-group/CostFed) - Cost-Based Query Optimization for SPARQL Endpoint Federation.
+- [cp-common-utils](https://github.com/mhgrove/cp-common-utils) - Collection of utilty classes from Clark & Parsia.
+- [cp-openrdf-utils](https://github.com/mhgrove/cp-openrdf-utils) - Utility classes for working with the OpenRdf API.
+- [CSO](https://cso.kmi.open.ac.uk/home) - The Computer Science Ontology (CSO) is a large-scale ontology of research areas that was automatically generated using the Klink-2 algorithm on the Rexplore dataset, which consists of about 16 million publications, mainly in the field of Computer Science.
+- [csvw-template](https://github.com/edsu/csvw-template) - Document the semantics of your csv file.
+- [datastudio-sparql-connector](https://github.com/DataFabricRus/datastudio-sparql-connector)
+- [dbpedia-extension](https://github.com/sparkica/dbpedia-extension)
+- [dcat-ap_validatyor](https://github.com/SEMICeu/dcat-ap_validator)
+- [DEER](https://github.com/dice-group/DEER) - RDF Dataset Enrichment Framework.
+- [dione](http://www.khaos.uma.es/dione) - Khoaos Research Group
+- [docker2rdf](https://github.com/albertmeronyo/docker2rdf) - Mapper to represent Dockerfiles as RDF triples
+- [eso-and-ceo](https://github.com/newsreader/eso-and-ceo) - Event and Implied Situation Ontology (ESO) and the Circumstantial Event Ontology for Calamities (CEO).
+- [fbrs](https://github.com/aldonline/fbrs) - Facebook RDF Sync
+- [fenster](https://github.com/knakk/fenster) - RDF quad-store frontend.
+- [forgefed](https://github.com/forgefed/forgefed) - An extension to ActivityPub for web-based Git services federation.
 - [fox-java](https://github.com/renespeck/fox-java) - Java bindings for FOX - Federated Knowledge Extraction Framework.
 - [fox-py](https://github.com/earthquakesan/fox-py) - Python bindings for FOX - Federated Knowledge Extraction Framework.
 - [fox-ui](https://github.com/Data2Semantics/fox-ui) - Web UI for FoxPSL.
-- [ORE](https://github.com/AKSW/ORE) - Ontology Repair and Enrichment.
-- [signal-collect-torque](https://github.com/uzh/signal-collect-torque) - Support for Signal/Collect Torque deployment.
-- [redland-bindings](https://github.com/dajobe/redland-bindings) - Redland librdf language bindings.
-- [mediation](https://github.com/correndo/mediation) - Jena based framework to implement ontological mediation of SPARQL queries.
-- [owl-functional-syntax-axiom-parser](https://github.com/dfleischhacker/owl-functional-syntax-axiom-parser)
-- [SemanticPingback](https://github.com/AKSW/SemanticPingback) - This small vocabulary defines resources which are used in the context of Semantic Pingback.
-- [json-ld-macros](https://github.com/antoniogarrote/json-ld-macros)  Declarative transformation of JSON APIs into JSON-LD.
-- [tac](https://github.com/magnetik/tac) - Triple access control.
-- [dbpedia-extension](https://github.com/sparkica/dbpedia-extension)
+- [fuxi](https://code.google.com/archive/p/fuxi/)
+- [genealogical-trees](https://github.com/blokhin/genealogical-trees) - Semantic Web Exercise: Reasoning and Visualization of the Genealogical Ontologies.
+- [Git2PROV](https://github.com/mmlab/Git2PROV) - Unleash the potential of Git in the new W3C standard for provenance.
+- [GLEEN](https://github.com/RENCI-NRIG/gleen) Regular Paths for ARQ SparQL.
+- [Glimmer](https://github.com/Timpy/Glimmer) - An RDF Search Engine.
+- [Graphameleon](https://github.com/Orange-OpenSource/graphameleon) - A Web extension that captures Web navigation traces and transforms them into a RDF graph for further exploration.
 - [grefine-rdf-extension](https://github.com/OpenRefine/grefine-rdf-extension) - An extension to Google Refine that enables graphical mapping of Google Refine project data to an RDF skeleton and then exporting it in RDF format.
-- [LD-FusionTool](https://github.com/mifeet/LD-FusionTool) - Data Fusion & Conflict Resolution tool for Linked Data.
-- [xodx](https://github.com/AKSW/xodx) - An implementation of Semantic Pingback and PuSH for a DSSN.
-- [morph-starter](https://github.com/jpcik/morph-starter) - this project is a simple Java (and Scala) demo of how to use morph.
-- [sesametools](https://github.com/joshsh/sesametools) - A collection of utilities for use with OpenRDF Sesame (as of recently, Eclipse RDF4J).
-- [DEER](https://github.com/dice-group/DEER) - RDF Dataset Enrichment Framework.
-- [levelgraph-jsonld](https://github.com/mcollina/levelgraph-jsonld) - The Object Document Mapper for LevelGraph based on JSON-LD
-- [OWL-API](https://github.com/owlcs/owlapi) - The OWL API is a Java API for creating, manipulating and serialising OWL Ontologies.
-- [ONT-API](https://github.com/owlcs/ont-api) - a Jena based OWL-API implementation (Java library).
-- [rdf-protege](https://github.com/sszuev/rdf-protege) - a Protege Desktop fork with RDF support.
-- [concurrent-rdf-graph](https://github.com/sszuev/concurrent-rdf-graph) - Concurrent RDF Graph implementations written in Kotlin.
-- [LODGrefine](https://github.com/sparkica/LODGrefine) - LOD-enabled Google Refine: linked open data related extensions included.
-- [stardog.js](https://github.com/stardog-union/stardog.js)
-- [stardog-groovy](https://github.com/stardog-union/stardog-groovy)
-- [stardog-ubuntu-scripts](https://github.com/semantalytics/stardog-ubuntu-scripts)
+- [grlc](https://github.com/CLARIAH/grlc) - Translates public SPARQL queries into Linked Data APIs automatically.
 - [hydra-java](https://github.com/dschulten/hydra-java)
 - [HydraClient](https://github.com/lanthaler/HydraClient)
-- [cp-openrdf-utils](https://github.com/mhgrove/cp-openrdf-utils) - Utility classes for working with the OpenRdf API.
-- [linked-csv](https://github.com/JeniT/linked-csv) - A souped-up CSV-based data format.
-- [balloon](https://github.com/schlegel/balloon) - A tool-suite for Linked Data consumption. balloon aims in offering public services and tools to take advantage of the semantic web with less effort. The basic motivation is to establish a foundation for Linked Data as a Service (LDaaS).
-- [grlc](https://github.com/CLARIAH/grlc) - Translates public SPARQL queries into Linked Data APIs automatically.
-- [basil](https://github.com/the-open-university/basil) - Building Apis SImpLy from sparql endpoints.
-- [lodmill](https://github.com/lobid/lodmill) - Blend, grind, and enjoy LOD – fresh from the mill!
-- [module-extractor](https://github.com/rsgoncalves/module-extractor) - Java-based module extractor for OWL ontologies.
+- [IntervalServer](https://github.com/epimorphics/IntervalServer)
 - [iRap](https://github.com/EIS-Bonn/iRap) - iRap - Interest-based RDF update propagation framework.
-- [turtle-in-html](https://github.com/alangrafu/turtle-in-html) - Bookmark to visualize RDF embedded in HTML as Turtle.
-- [linked-csv-browser](https://github.com/theodi/linked-csv-browser)
-- [semargl](https://github.com/semarglproject/semargl) - Highly performant, lightweight framework for linked data processing. Supports RDFa, JSON-LD, RDF/XML and plain text formats, runs on Android and GAE, provides integration with Jena, Sesame and Clerezza.
-- [wordnet-lemon-to-w3c](https://github.com/jimregan/wordnet-lemon-to-w3c)
-- [owlconvert](https://github.com/camwebb/owlconvert) - Simple OWL format converter based on OWLAPI.
-- [rabel](https://github.com/linkeddata/rabel) - Program for reading and writing linked data in various formats.
-- [csvw-template](https://github.com/edsu/csvw-template) - Document the semantics of your csv file.
-- [jsonld-java](https://github.com/jsonld-java/jsonld-java) - JSON-LD implementation for Java.
-- [Luzzu](https://github.com/Luzzu/Framework/) - A scalable and extensible Linked Data quality assessment framework.
-- [odmtp-tpf](https://github.com/benjimor/odmtp-tpf) - Triple pattern matching over non-RDF datasources with inference .
-- [motools](https://github.com/motools) - Music ontology tools
-- [activitypub](https://www.w3.org/TR/2018/REC-activitypub-20180123/)
-- [rdfsurveyor](https://github.com/guiveg/rdfsurveyor) - Exploration tool for RDF datasets.
-- [fenster](https://github.com/knakk/fenster) - RDF quad-store frontend.
-- [jsonld-streaming-parser.js](https://github.com/rubensworks/jsonld-streaming-parser.js) - A fast and lightweight streaming JSON-LD parser for JavaScript.
-- [rollxx/manchester-syntax-owl2](https://github.com/rollxx/manchester-syntax-owl2) - ANTLR grammar for simplified Manchester Syntax OWL2.
-- [rollxx/antlr-sparql-grammar](https://github.com/rollxx/antlr-sparql-grammar) - sparql 1.1 antlr grammar.
-- [sparql-ld](https://github.com/fafalios/sparql-ld) - SPARQL-LD: A SPARQL Extension for Fetching and Querying Linked Data.
+- [java-skos-api](https://github.com/simonjupp/java-skos-api) - The SKOS API provides a Java interface and OWL API based implementation of the Simple Knowledge Organisation System (SKOS)
+- [jdbc-for-rdf3x](https://github.com/dbiir/jdbc-for-rdf3x)
+- [jena-joseki](https://github.com/tingletech/jena-joseki)
 - [jena-sparql-api](https://github.com/SmartDataAnalytics/jena-sparql-api) - A collection of Jena-extensions for hiding SPARQL-complexity from the application layer.
-- [nichtich/wdg](https://github.com/nichtich/wdq) - Command line interface to Wikidata Query Service.
-- [vocol](https://github.com/vocol/vocol) - An integrated environment to support collaborative ontology / vocabulary development in distributed settings.
-- [psps](https://github.com/factsmission/psps) - Personal Structured Publishing Space.
-- [CSO](https://cso.kmi.open.ac.uk/home) - The Computer Science Ontology (CSO) is a large-scale ontology of research areas that was automatically generated using the Klink-2 algorithm on the Rexplore dataset, which consists of about 16 million publications, mainly in the field of Computer Science.
-- [metreeca](https://github.com/metreeca) - The model-driven linked data platform.
-- [OLGA](https://ecostruxure.github.io/OLGA/) - OLGA (Ontology Library GenerAtor) is a generic tool aiming to accelerate the adoption of Standard W3C Semantic technology among developers.
-- [Glimmer](https://github.com/Timpy/Glimmer) - An RDF Search Engine.
-- [ontodia](https://github.com/sputniq-space/ontodia) - Ontodia data diagraming library.
-- [rdf.sh](https://github.com/seebi/rdf.sh) - A multi-tool shell script for doing Semantic Web jobs on the command line.
-- https://metacpan.org/release/KJETILK/AtteanX-Store-SPARQL-0.012
-- https://github.com/stkenny/grefine-rdf-extension/releases/tag/v1.1.0
-- http://www.linklion.org/portal/
-- [yarrrml-parser](https://github.com/RMLio/yarrrml-parser) - A YARRRML parser library and CLI in Javascript.
-- http://rml.io/yarrrml/
-- [amazon-neptune-tools](https://github.com/awslabs/amazon-neptune-tools) - Tools and utilities to enable loading data and building graph applications with Amazon Neptune.
-- [sparql-ld](https://github.com/fafalios/sparql-ld) - SPARQL-LD: A SPARQL Extension for Fetching and Querying Linked Data.
-- [genealogical-trees](https://github.com/blokhin/genealogical-trees) - Semantic Web Exercise: Reasoning and Visualization of the Genealogical Ontologies.
-- http://sage.univ-nantes.fr
-- [LodLive](https://github.com/dvcama/LodLive) - browse the web of data - a SPARQL navigator http://lodlive.it
-- [fbrs](https://github.com/aldonline/fbrs) - Facebook RDF Sync
-- [ostrich](https://github.com/rdfostrich/ostrich) -Versioned RDF triple store (Offset-enabled TRIple store for CHangesets)
-- [ontmalizer](https://github.com/srdc/ontmalizer) - A tool that performs comprehensive transformations of XML Schemas (XSD) and XML data to RDF/OWL automatically
-- [NSpM](https://github.com/AKSW/NSpM) - robot Neural SPARQL Machines translate natural language into SPARQL queries.
-- [ML-Schema/core](https://github.com/ML-Schema/core) - CORE ontology of ML-Schema schema. It's the mapping to others machine learning vocabularies and ontologies (DMOP, Expose, OntoDM and MEX)
-- [rocker](https://github.com/AKSW/rocker) - key A Refinement Operator Approach for Key Discovery. http://aksw.org/projects/Rocker
-- [Mandolin](https://github.com/mommi84/Mandolin) - sparkle Markov Logic Networks for the Discovery of Links
-- [docker2rdf](https://github.com/albertmeronyo/docker2rdf) - Mapper to represent Dockerfiles as RDF triples
-- [vsb](https://github.com/leipert/vsb) - Visual SPARQL Builder - Model SPARQL-Select-Queries in a browser https://leipert.github.io/vsb/
-- [sparti](https://github.com/amgadmadkour/sparti) - SPARTI - RDF Semantic Partitioning.
-- [carml-cli](https://github.com/netage/carml-cli) - Interface for CARML library.
-- [OME](https://github.com/oeg-upm/OME) - Online Mapping Editor.
-- [Linked-Data-Studio](https://github.com/architolk/Linked-Data-Studio) - The Linked Data Studio is an extension to the Linked Data Theatre for the creation of Linked Data.
-- [canonical_rdf](https://github.com/iherman/canonical_rdf) - Proof-of-concept implementation of Aidan Hogan's RDF canonicalization algorithm in node.js.
-- [Linked-Data-Theatre](https://github.com/architolk/Linked-Data-Theatre) - The Linked Data Theatre is a platform for an optimal presentation of Linked Data.
-- [SEPA](https://github.com/arces-wot/SEPA) - A JAVA implementation of the SPARQL Event Processing Architecture including the engine, APIs and tools.
-- [GLEEN](https://github.com/RENCI-NRIG/gleen) Regular Paths for ARQ SparQL.
-- [psparql](http://exmo.inrialpes.fr/software/psparql/) - PSPARQL (for Path SPARQL) is a query language for RDF.
-- [rdf2h](https://github.com/rdf2h/rdf2h) - Render resources described in RDF using logicless templates.
-- [Beast](https://github.com/SmartDataAnalytics/Beast) - Benchmarking, Evaluation, and Analysis Stack - A powerful yet lightweight Java8/Jena-based RDF processing stack.
-- [basil](https://github.com/the-open-university/basil) - Building Apis SImpLy from sparql endpoints.
-- [profilechecker](https://github.com/stain/profilechecker) - OWL API profile checker.
-- [spdx](https://spdx.org/specifications) - Software Package Data Exchange® (SPDX®) is an open standard for communicating software bill of material information (including components, licenses, copyrights, and security references).
-- [CostFed](https://github.com/dice-group/CostFed) - Cost-Based Query Optimization for SPARQL Endpoint Federation.
-- [sparql-ld](https://github.com/fafalios/sparql-ld) - SPARQL-LD: A SPARQL Extension for Fetching and Querying Linked Data.
-- [vocol](https://github.com/vocol/vocol) - An integrated environment to support collaborative ontology / vocabulary development in distributed settings.
-- [sparql-to-csv](https://github.com/jindrichmynarz/sparql-to-csv) - Stream SPARQL results to CSV .
-- [knowledgecubes](https://github.com/amgadmadkour/knowledgecubes) - Efficient RDF Data Management over Spark.
-- [premon](https://premon.fbk.eu) - PREdicate Model for ONtologies
-- [eso-and-ceo](https://github.com/newsreader/eso-and-ceo) - Event and Implied Situation Ontology (ESO) and the Circumstantial Event Ontology for Calamities (CEO).
-- [pikes](http://pikes.fbk.eu) - Pikes is a Knowledge Extraction Suite
-- [rdfpro](https://github.com/dkmfbk/rdfpro) - an extensible tool for building stream-oriented RDF processing pipelines.
-- [umls2rdf](https://github.com/ncbo/umls2rdf) - These python scripts connect to the Unified Medical Language System (UMLS) database and translate the ontologies into RDF/OWL files. This is part of the BioPortal project.
-- [robot](http://robot.obolibrary.org/) - ROBOT is a command line tool for working with Open Biomedical Ontologies
-- [SEPA](https://github.com/arces-wot/SEPA) - A JAVA implementation of the SPARQL Event Processing Architecture including the engine, APIs and tools.
-- [opensemanticsearch](https://github.com/opensemanticsearch)
-- [solr-ontology-tagger](https://github.com/opensemanticsearch/solr-ontology-tagger) - Automatic tagging and analysis of documents in an Apache Solr index for faceted search by RDF(S) Ontologies & SKOS thesauri.
+- [JenaSecurity](https://github.com/Claudenw/JenaSecurity) - Security (Permissions) wrapper around Jena RDF implementation.
+- [jqudt](https://github.com/egonw/jqudt) - Java library for working with the QUDT ontology and data using it.
+- [json-ld-macros](https://github.com/antoniogarrote/json-ld-macros)  Declarative transformation of JSON APIs into JSON-LD.
+- [jsonld-java](https://github.com/jsonld-java/jsonld-java) - JSON-LD implementation for Java.
+- [jsonld-streaming-parser.js](https://github.com/rubensworks/jsonld-streaming-parser.js) - A fast and lightweight streaming JSON-LD parser for JavaScript.
 - [kbpedia](https://github.com/Cognonto/kbpedia) - KBPedia Knowledge Graph & Knowledge Ontology (KKO).
-- [dione](http://www.khaos.uma.es/dione) - Khoaos Research Group
-- [TrOWL](https://github.com/TrOWL) - Tractable OWL 2 Reasoning Infrastructure
-- http://ld-r.org
-- [activitystrams-core](https://www.w3.org/TR/activitystreams-core/)
-- [rdf4a](https://github.com/MM2-0/rdf4a) - RDF4J for Android.
-- [rdfshape](http://rdfshape.herokuapp.com/)
-- [rif4j](http://rif4j.sourceforge.net/)
-- [wsml2reasoner](http://tools.sti-innsbruck.at/wsml2reasoner/) - a highly modular framework that combines various validation, normalization and transformation algorithms that enable the translation of ontology descriptions in WSML to the appropriate syntax of several underlying reasoning engines. 
-- [silk](http://silk.semwebcentral.org/) - Semantic Inferencing on Large Knowledge (SILK) knowledge representation system.
-- [fuxi](https://code.google.com/archive/p/fuxi/)
-- [Rule-Translator](https://github.com/ismailakbari/Rule-Translator) - This is framework is a Web rule translator. It has a rule parser, visualizer and translator. The Web rule languages that are covered by this framework include: Notation3 (N3), POSL, Datalog RuleML, SWRL and RIF. This framework is a rule engine for RIF language as well.
-- [SWRLRulesToOWLAxioms](https://github.com/dcarralma/SWRLRulesToOWLAxioms) - Implementation of a procedure to transform SWRL rules into equivalent OWL axioms.
-- [SWRL.js](https://github.com/mterdjimi/SWRL.js) - A SWRL parser for Javascript.
-- [rdfpro](https://github.com/dkmfbk/rdfpro) - a public domain, Java command line tool and library for RDF processing. 
-- [basex-rdf](https://github.com/metadataframes/basex-rdf) - RDF parsing for BaseX.
-- [openskos](http://openskos.org/)
-- [java-skos-api](https://github.com/simonjupp/java-skos-api) - The SKOS API provides a Java interface and OWL API based implementation of the Simple Knowledge Organisation System (SKOS) 
-- https://dvcs.w3.org/hg/rdf/raw-file/default/rdf-json/index.html
-- [dcat-ap_validatyor](https://github.com/SEMICeu/dcat-ap_validator)
-- [activitystreams](https://github.com/OpenSocial/activitystreams)
-- [forgefed](https://github.com/forgefed/forgefed) - An extension to ActivityPub for web-based Git services federation.
-- [linkeddatafragments](http://comunica.linkeddatafragments.org/)
-- [vocbench](http://vocbench.uniroma2.it/)
-- [metrecca/link](https://github.com/metreeca/link) - Metreeca Model-Driven Linked Data Framework .
-- [rdf-patch](https://afs.github.io/rdf-patch/)
+- [keygenapp](https://github.com/bblfish/keygenapp) - Utilities and WebApp for certificate creation within a browser, for FOAF+SSL.
+- [knowledgecubes](https://github.com/amgadmadkour/knowledgecubes) - Efficient RDF Data Management over Spark.
+- [LD-FusionTool](https://github.com/mifeet/LD-FusionTool) - Data Fusion & Conflict Resolution tool for Linked Data.
+- [LD-FusionTool](https://github.com/mifeet/LD-FusionTool) - Data Fusion & Conflict Resolution tool for Linked Data.
 - [ldpatch](https://www.w3.org/TR/ldpatch/)
-- [rdf-delta](https://afs.github.io/rdf-delta/)
-- [rdf-thrift](https://afs.github.io/rdf-thrift/)
-- [semwiki](https://github.com/pchampin/semwiki) - An experimental semantic wiki with bidirectional (text <-> triples) changes.
-- [thedatatank](http://thedatatank.com)
-- [nanopub-java](https://github.com/Nanopublication/nanopub-java)
-- [datastudio-sparql-connector](https://github.com/DataFabricRus/datastudio-sparql-connector)
-- [scylla-rdf](https://github.com/DataFabricRus/scylla-rdf
-- [awesome-semantic-web-business](https://github.com/KMax/awesome-semantic-web-business)
+- [levelgraph-jsonld](https://github.com/mcollina/levelgraph-jsonld) - The Object Document Mapper for LevelGraph based on JSON-LD
+- [levelgraph-n3](https://github.com/levelgraph/levelgraph-n3) - LevelGraph plugin for storing N3/Turtle/RDF data.
+- [linked-csv-browser](https://github.com/theodi/linked-csv-browser)
+- [linked-csv](https://github.com/JeniT/linked-csv) - A souped-up CSV-based data format.
+- [Linked-Data-Studio](https://github.com/architolk/Linked-Data-Studio) - The Linked Data Studio is an extension to the Linked Data Theatre for the creation of Linked Data.
+- [Linked-Data-Theatre](https://github.com/architolk/Linked-Data-Theatre) - The Linked Data Theatre is a platform for an optimal presentation of Linked Data.
+- [linkeddatafragments](http://comunica.linkeddatafragments.org/)
+- [LODGrefine](https://github.com/sparkica/LODGrefine) - LOD-enabled Google Refine: linked open data related extensions included.
+- [LodLive](https://github.com/dvcama/LodLive) - browse the web of data - a SPARQL navigator http://lodlive.it
+- [lodmill](https://github.com/lobid/lodmill) - Blend, grind, and enjoy LOD – fresh from the mill!
+- [LSD-Dimensions](https://github.com/albertmeronyo/LSD-Dimensions) - All dimension values of Linked Statistical Data.
+- [Luzzu](https://github.com/Luzzu/Framework/) - A scalable and extensible Linked Data quality assessment framework.
+- [m-ld](https://m-ld.org/) - Real-time information sharing component using RDF and conflict-free replicated data types (CRDTs)
+- [Mandolin](https://github.com/mommi84/Mandolin) - sparkle Markov Logic Networks for the Discovery of Links
+- [mediation](https://github.com/correndo/mediation) - Jena based framework to implement ontological mediation of SPARQL queries.
+- [metrecca/link](https://github.com/metreeca/link) - Metreeca Model-Driven Linked Data Framework .
+- [metreeca](https://github.com/metreeca) - The model-driven linked data platform.
+- [ML-Schema/core](https://github.com/ML-Schema/core) - CORE ontology of ML-Schema schema. It's the mapping to others machine learning vocabularies and ontologies (DMOP, Expose, OntoDM and MEX)
 - [MOD-Ontology](https://github.com/sifrproject/MOD-Ontology) - Metadata for Ontology Description and Publication Ontology .
+- [module-extractor](https://github.com/rsgoncalves/module-extractor) - Java-based module extractor for OWL ontologies.
+- [morph-starter](https://github.com/jpcik/morph-starter) - this project is a simple Java (and Scala) demo of how to use morph.
+- [motools](https://github.com/motools) - Music ontology tools
+- [n3pygments](https://github.com/gniezen/n3pygments) - Pygments lexer to perform syntax highlighting for N3, Turtle and SPARQL.
+- [nanopub-java](https://github.com/Nanopublication/nanopub-java)
+- [nichtich/wdg](https://github.com/nichtich/wdq) - Command line interface to Wikidata Query Service.
+- [NSpM](https://github.com/AKSW/NSpM) - robot Neural SPARQL Machines translate natural language into SPARQL queries.
+- [odmtp-tpf](https://github.com/benjimor/odmtp-tpf) - Triple pattern matching over non-RDF datasources with inference .
+- [OLGA](https://ecostruxure.github.io/OLGA/) - OLGA (Ontology Library GenerAtor) is a generic tool aiming to accelerate the adoption of Standard W3C Semantic technology among developers.
+- [OME](https://github.com/oeg-upm/OME) - Online Mapping Editor.
 - [omv2](http://omv2.sourceforge.net/)
+- [ONT-API](https://github.com/owlcs/ont-api) - a Jena based OWL-API implementation (Java library).
+- [ontmalizer](https://github.com/srdc/ontmalizer) - A tool that performs comprehensive transformations of XML Schemas (XSD) and XML data to RDF/OWL automatically
+- [ontodia](https://github.com/sputniq-space/ontodia) - Ontodia data diagraming library.
+- [opensemanticsearch](https://github.com/opensemanticsearch)
+- [openskos](http://openskos.org/)
+- [ORE](https://github.com/AKSW/ORE) - Ontology Repair and Enrichment.
+- [ostrich](https://github.com/rdfostrich/ostrich) -Versioned RDF triple store (Offset-enabled TRIple store for CHangesets)
+- [OWL-API](https://github.com/owlcs/owlapi) - The OWL API is a Java API for creating, manipulating and serialising OWL Ontologies.
+- [owl-functional-syntax-axiom-parser](https://github.com/dfleischhacker/owl-functional-syntax-axiom-parser)
+- [owlapitools](https://github.com/owlcs/owlapitools) - Set of independent add-ons for OWL API.
+- [owlconvert](https://github.com/camwebb/owlconvert) - Simple OWL format converter based on OWLAPI.
+- [pikes](http://pikes.fbk.eu) - Pikes is a Knowledge Extraction Suite
 - [platform-linked-data-nederland](http://www.pilod.nl/wiki/Platform_Linked_Data_Nederland)
-- http://eventkg.l3s.uni-hannover.de/
+- [prefix.cc](https://github.com/cygri/prefix.cc) - Source code to the prefix.cc website.
+- [premon](https://premon.fbk.eu) - PREdicate Model for ONtologies
+- [prissma](https://github.com/lukostaz/prissma) - Context-Aware Adaptation for Linked Data.
+- [profilechecker](https://github.com/stain/profilechecker) - OWL API profile checker.
+- [psparql](http://exmo.inrialpes.fr/software/psparql/) - PSPARQL (for Path SPARQL) is a query language for RDF.
+- [psps](https://github.com/factsmission/psps) - Personal Structured Publishing Space.
+- [psps](https://github.com/factsmission/psps) - Personal Structured Publishing Space.
+- [rabel](https://github.com/linkeddata/rabel) - Program for reading and writing linked data in various formats.
+- [rdf-delta](https://afs.github.io/rdf-delta/)
+- [rdf-patch](https://afs.github.io/rdf-patch/)
+- [rdf-protege](https://github.com/sszuev/rdf-protege) - a Protege Desktop fork with RDF support.
+- [rdf-thrift](https://afs.github.io/rdf-thrift/)
+- [rdf.sh](https://github.com/seebi/rdf.sh) - A multi-tool shell script for doing Semantic Web jobs on the command line.
+- [rdf2h](https://github.com/rdf2h/rdf2h) - Render resources described in RDF using logicless templates.
+- [rdf3x_path](https://github.com/agubichev/rdf3x_path) - RDF3X with path queries.
+- [rdf4a](https://github.com/MM2-0/rdf4a) - RDF4J for Android.
+- [rdfpro](https://github.com/dkmfbk/rdfpro) - a public domain, Java command line tool and library for RDF processing.
+- [rdfpro](https://github.com/dkmfbk/rdfpro) - an extensible tool for building stream-oriented RDF processing pipelines.
+- [rdfshape](http://rdfshape.herokuapp.com/)
+- [rdfsurveyor](https://github.com/guiveg/rdfsurveyor) - Exploration tool for RDF datasets.
+- [redland-bindings](https://github.com/dajobe/redland-bindings) - Redland librdf language bindings.
+- [rif4j](http://rif4j.sourceforge.net/)
+- [robot](http://robot.obolibrary.org/) - ROBOT is a command line tool for working with Open Biomedical Ontologies
+- [rocker](https://github.com/AKSW/rocker) - key A Refinement Operator Approach for Key Discovery. http://aksw.org/projects/Rocker
+- [rollxx/antlr-sparql-grammar](https://github.com/rollxx/antlr-sparql-grammar) - sparql 1.1 antlr grammar.
+- [rollxx/manchester-syntax-owl2](https://github.com/rollxx/manchester-syntax-owl2) - ANTLR grammar for simplified Manchester Syntax OWL2.
+- [Rule-Translator](https://github.com/ismailakbari/Rule-Translator) - This is framework is a Web rule translator. It has a rule parser, visualizer and translator. The Web rule languages that are covered by this framework include: Notation3 (N3), POSL, Datalog RuleML, SWRL and RIF. This framework is a rule engine for RIF language as well.
+- [scylla-rdf](https://github.com/DataFabricRus/scylla-rdf
+- [SemanticPingback](https://github.com/AKSW/SemanticPingback) - This small vocabulary defines resources which are used in the context of Semantic Pingback.
+- [semargl](https://github.com/semarglproject/semargl) - Highly performant, lightweight framework for linked data processing. Supports RDFa, JSON-LD, RDF/XML and plain text formats, runs on Android and GAE, provides integration with Jena, Sesame and Clerezza.
+- [semwiki](https://github.com/pchampin/semwiki) - An experimental semantic wiki with bidirectional (text <-> triples) changes.
+- [SEPA](https://github.com/arces-wot/SEPA) - A JAVA implementation of the SPARQL Event Processing Architecture including the engine, APIs and tools.
+- [SEPA](https://github.com/arces-wot/SEPA) - A JAVA implementation of the SPARQL Event Processing Architecture including the engine, APIs and tools.
 - [SEPA](https://github.com/arces-wot/SEPA/blob/master/README.md)
+- [sesametools](https://github.com/joshsh/sesametools) - A collection of utilities for use with OpenRDF Sesame (as of recently, Eclipse RDF4J).
+- [signal-collect-torque](https://github.com/uzh/signal-collect-torque) - Support for Signal/Collect Torque deployment.
+- [silk](http://silk.semwebcentral.org/) - Semantic Inferencing on Large Knowledge (SILK) knowledge representation system.
+- [solr-ontology-tagger](https://github.com/opensemanticsearch/solr-ontology-tagger) - Automatic tagging and analysis of documents in an Apache Solr index for faceted search by RDF(S) Ontologies & SKOS thesauri.
+- [sparql-ld](https://github.com/fafalios/sparql-ld) - SPARQL-LD: A SPARQL Extension for Fetching and Querying Linked Data.
+- [sparql-ld](https://github.com/fafalios/sparql-ld) - SPARQL-LD: A SPARQL Extension for Fetching and Querying Linked Data.
+- [sparql-ld](https://github.com/fafalios/sparql-ld) - SPARQL-LD: A SPARQL Extension for Fetching and Querying Linked Data.
+- [sparql-to-csv](https://github.com/jindrichmynarz/sparql-to-csv) - Stream SPARQL results to CSV .
+- [sparti](https://github.com/amgadmadkour/sparti) - SPARTI - RDF Semantic Partitioning.
+- [spdx](https://spdx.org/specifications) - Software Package Data Exchange® (SPDX®) is an open standard for communicating software bill of material information (including components, licenses, copyrights, and security references).
+- [specgen](https://github.com/specgen/specgen) - Modified, extended and more generalized version of Danbri‘s SpecGen version 5.
+- [stardog-groovy](https://github.com/stardog-union/stardog-groovy)
+- [stardog-ubuntu-scripts](https://github.com/semantalytics/stardog-ubuntu-scripts)
+- [stardog.js](https://github.com/stardog-union/stardog.js)
 - [StaTIX](https://github.com/eXascaleInfolab/StaTIX) - Statistical Type Inference (both fully automatic and semi supervised) for RDF datasets.
+- [SWRL.js](https://github.com/mterdjimi/SWRL.js) - A SWRL parser for Javascript.
+- [swrlapi](https://github.com/protegeproject/swrlapi) - The SWRLAPI is a Java API for working with the OWL-based SWRL rule and SQWRL query languages. It includes graphical tools for editing and executing rules and queries.
+- [SWRLRulesToOWLAxioms](https://github.com/dcarralma/SWRLRulesToOWLAxioms) - Implementation of a procedure to transform SWRL rules into equivalent OWL axioms.
+- [tac](https://github.com/magnetik/tac) - Triple access control.
+- [thedatatank](http://thedatatank.com)
+- [TrOWL](https://github.com/TrOWL) - Tractable OWL 2 Reasoning Infrastructure
+- [turtle-in-html](https://github.com/alangrafu/turtle-in-html) - Bookmark to visualize RDF embedded in HTML as Turtle.
+- [umls2rdf](https://github.com/ncbo/umls2rdf) - These python scripts connect to the Unified Medical Language System (UMLS) database and translate the ontologies into RDF/OWL files. This is part of the BioPortal project.
+- [vocbench](http://vocbench.uniroma2.it/)
+- [vocol](https://github.com/vocol/vocol) - An integrated environment to support collaborative ontology / vocabulary development in distributed settings.
+- [vocol](https://github.com/vocol/vocol) - An integrated environment to support collaborative ontology / vocabulary development in distributed settings.
+- [vsb](https://github.com/leipert/vsb) - Visual SPARQL Builder - Model SPARQL-Select-Queries in a browser https://leipert.github.io/vsb/
 - [vss-ontology](https://github.com/klotzbenjamin/vss-ontology) - Design of the Vehicle Signal Ontology VSSo and example of use with SOSA/SSN and STEP.
-- [aurl](https://ctan.org/pkg/aurl) LaTeX package for hyperlinked URLs abbreviated with prefixes. The 1000 most common prefixes are predefined and more can be added.
-- [Graphameleon](https://github.com/Orange-OpenSource/graphameleon) - A Web extension that captures Web navigation traces and transforms them into a RDF graph for further exploration.
+- [wordnet-lemon-to-w3c](https://github.com/jimregan/wordnet-lemon-to-w3c)
+- [wsml2reasoner](http://tools.sti-innsbruck.at/wsml2reasoner/) - a highly modular framework that combines various validation, normalization and transformation algorithms that enable the translation of ontology descriptions in WSML to the appropriate syntax of several underlying reasoning engines.
+- [xodx](https://github.com/AKSW/xodx) - An implementation of Semantic Pingback and PuSH for a DSSN.
+- [yarrrml-parser](https://github.com/RMLio/yarrrml-parser) - A YARRRML parser library and CLI in Javascript.
+- http://eventkg.l3s.uni-hannover.de/
+- http://ld-r.org
+- http://rml.io/yarrrml/
+- http://sage.univ-nantes.fr
+- http://www.linklion.org/portal/
+- https://dvcs.w3.org/hg/rdf/raw-file/default/rdf-json/index.html
+- https://github.com/stkenny/grefine-rdf-extension/releases/tag/v1.1.0
+- https://metacpan.org/release/KJETILK/AtteanX-Store-SPARQL-0.012
