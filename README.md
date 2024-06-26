@@ -392,6 +392,7 @@ F - Free
 - [morph-web](https://github.com/jpcik/morph-web)
 - [sepa](https://github.com/arces-wot/SEPA) - A JAVA implementation of the SPARQL Event Processing Architecture including the engine, APIs and tools.
 - [SMASSIF-RML](https://github.com/Orange-OpenSource/smassif-rml) - A Semantic Web stream processing solution with declarative data mapping capability based on a modified version of the RMLMapper-java tool and extensions to the StreamingMASSIF framework.
+- [ssb-consum-up](https://github.com/Orange-OpenSource/ssb-consum-up) - A "Kafka to SPARQL gateway" standalone piece of software enabling end-to-end Semantic Web data flow architecture with a Semantic Service Bus (SSB) approach.
 - [StreamingMASSIF](https://github.com/IBCNServices/StreamingMASSIF)
 - [streaming-sparql](https://github.com/weblyzard/streaming-sparql)
 - [Linked Data Event Streams](https://semiceu.github.io/LinkedDataEventStreams/) - The [Linked Data Event Stream (LDES) server](https://github.com/Informatievlaanderen/VSDS-LDESServer4J) is a configurable component that can be used to ingest, store, transform and (re-)publish an LDES 
