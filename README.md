@@ -421,6 +421,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [DARQ](http://darq.sourceforge.net/)
 
 ## Benchmarks
+
 - [FedShop](https://github.com/GDD-Nantes/FedShop) - A Benchmark for Testing the Scalability of SPARQL Federation Engines
 - [Berlin SPARQL Benchmark (BSBM)](http://wifo5-03.informatik.uni-mannheim.de/bizer/berlinsparqlbenchmark/)
 - [Lehigh University Benchmark (LUBM)](http://swat.cse.lehigh.edu/projects/lubm/)
@@ -1446,3 +1447,4 @@ OS - OpenSource
 - [StaTIX](https://github.com/eXascaleInfolab/StaTIX) - Statistical Type Inference (both fully automatic and semi supervised) for RDF datasets.
 - [vss-ontology](https://github.com/klotzbenjamin/vss-ontology) - Design of the Vehicle Signal Ontology VSSo and example of use with SOSA/SSN and STEP.
 - [aurl](https://ctan.org/pkg/aurl) LaTeX package for hyperlinked URLs abbreviated with prefixes. The 1000 most common prefixes are predefined and more can be added.
+- [Graphameleon](https://github.com/Orange-OpenSource/graphameleon) - A Web extension that captures Web navigation traces and transforms them into a RDF graph for further exploration.
