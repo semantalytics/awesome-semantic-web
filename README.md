@@ -253,8 +253,9 @@ Companies or businesses using semantic web technologies (alphabetical order):
 - [IBM](http://www.ibm.com)
 - [K Health](https://khealth.ai) - Self diagnosing app.
 - [NASA](https://www.nasa.gov)
-- [Osthus](https://www.osthus.com)
 - [Optum](https://www.optum.com) - Health related, known to use semantic graphs (marklogic).
+- [Orange](https://www.orange.com) - International network infrastructure and service provider.
+- [Osthus](https://www.osthus.com)
 - [Perfect Memory](https://www.perfect-memory.com/) - DAM-as-a-Brain, a Platform that collects, interprets and makes any data and content actionable.
 - [Schneider Electric](https://www.schneider-electric.com/ww/en/)
 - [Siemens](https://www.siemens.com)
