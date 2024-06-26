@@ -238,26 +238,27 @@ Companies or businesses selling products with a primary focus on semantic web te
 - [iNovex](https://mobi.inovexcorp.com/) - Web-based, collaborative ontology and vocabulary editor, and knowledge graph solution platform.
 
 ## Industry
-Companies or businesses using semantic web technologies
 
-- [Optum](https://www.optum.com) - Health related, known to use semantic graphs (marklogic).
-- [DarkLight](https://www.darklight.ai) - DarkLight is an Artificial Intelligence Expert System for Active Cyber Defense and           Trusted Information Sharing.
-- [Volkswagen UK](https://www.volkswagen.co.uk)
-- [Siemens](https://www.siemens.com)
-- [IBM](http://www.ibm.com)
-- [Elsevier](https://www.elsevier.com) - Global information analytics business that helps institutions and professionals advance healthcare, open science and improve performance for the benefit of humanity
-- [BestBuy](http://bestbuy.com)
-- [Google](http://google.com)
-- [Facebook](http://facebook.com)
+Companies or businesses using semantic web technologies (alphabetical order):
+
 - [BBC](https://www.bbc.com)
-- [NASA](https://www.nasa.gov)
-- [K Health](https://khealth.ai) - Self diagnosing app.
-- [Schneider Electric](https://www.schneider-electric.com/ww/en/)
-- [Osthus](https://www.osthus.com)
+- [BestBuy](http://bestbuy.com)
+- [DarkLight](https://www.darklight.ai) - DarkLight is an Artificial Intelligence Expert System for Active Cyber Defense and           Trusted Information Sharing.
 - [DataLanguage](https://datalanguage.com/)
 - [Eccenca](https://eccenca.com/en/)
-- [Perfect Memory](https://www.perfect-memory.com/) - DAM-as-a-Brain, a Platform that collects, interprets and makes any data and content actionable.
+- [Elsevier](https://www.elsevier.com) - Global information analytics business that helps institutions and professionals advance healthcare, open science and improve performance for the benefit of humanity
 - [Field 33](https://field33.com) - Platform to build digital twins of organizations.
+- [Facebook](http://facebook.com)
+- [Google](http://google.com)
+- [IBM](http://www.ibm.com)
+- [K Health](https://khealth.ai) - Self diagnosing app.
+- [NASA](https://www.nasa.gov)
+- [Osthus](https://www.osthus.com)
+- [Optum](https://www.optum.com) - Health related, known to use semantic graphs (marklogic).
+- [Perfect Memory](https://www.perfect-memory.com/) - DAM-as-a-Brain, a Platform that collects, interprets and makes any data and content actionable.
+- [Schneider Electric](https://www.schneider-electric.com/ww/en/)
+- [Siemens](https://www.siemens.com)
+- [Volkswagen UK](https://www.volkswagen.co.uk)
 
 ## Government
 
