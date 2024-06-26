@@ -268,25 +268,25 @@ Companies or businesses using semantic web technologies (alphabetical order):
 
 ## Research Institutions
 
-- [The Smart Data Analytics (SDA)](http://sda.tech/) - Research group, Institute for Computer Science at the University of Bonn, the Fraunhofer Institute for Intelligent Analysis and Information Systems (IAIS) and the Institute for Applied Computer Science Leipzig.
+- [AD Lab](https://ad.informatik.uni-freiburg.de/) - Freiburg, Germany
 - [Agile Knowledge Engineering and Semantic Web (AKSW)](http://aksw.org) - The Research Group Agile Knowledge Engineering and Semantic Web (AKSW) is hosted by the Chair of Business Information Systems (BIS) of the Institute of Computer Science (IfI) / University of Leipzig as well as the Institute for Applied Informatics (InfAI).
+- [Data Semantics Lab](https://daselab.cs.ksu.edu/) - Kansas State University, USA
+- [Data Semantics Lab](https://dase.cs.wright.edu/) - Data Semantics Lab, Wright State University
+- [DBIS Lab](http://dbis.informatik.uni-freiburg.de/) - Freiburg, Germany
+- [DICE: Data Science Group](http://dice.cs.uni-paderborn.de/about/) - Universität Paderborn.
+- [Exascale Infolab](https://exascale.info/projects/research/) - University of Fribourg, Switzerland
+- [eXascale Infolab](https://exascale.info/) - eXascale Infolab, University of Fribourg, Switzerland.
+- [IDLAB](https://www.ugent.be/ea/idlab/en/research/semantic-intelligence/semantic-knowledge-generation-and-publication-at-scale.htm) - Ghent University, Belgium
+- [Knowledge Representation and Reasoning Group (KRR)](https://krr.cs.vu.nl/) - Research group is based at the Vrije Universiteit Amsterdam (VU).
+- [Linköping University Semantic Web Group](https://www.ida.liu.se/research/semanticweb/) - Linköping University, Sweden
+- [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/) - Department D5 of the Max Planck Institute for Informatics.
+- [Ontology Engineering Group (OEG)](http://www.oeg-upm.net/) - The Ontology Engineering Group (OEG) is based at the Computer Science School at Universidad Politécnica de Madrid (UPM).
+- [SWE @HTWK Leipzig](https://wse-research.org/) - Web & Software Engineering research group @ Leipzig University of Applied Sciences (HTWK Leipzig)
+- [Stanford BMIR](https://bmir.stanford.edu) - Stanford University Center for Biomedical Informatics Research
+- [The Smart Data Analytics (SDA)](http://sda.tech/) - Research group, Institute for Computer Science at the University of Bonn, the Fraunhofer Institute for Intelligent Analysis and Information Systems (IAIS) and the Institute for Applied Computer Science Leipzig.
 - [University of Zurich Dynamic and Distributed Information Systems Group](http://www.ifi.uzh.ch/en/ddis.html)
 - [WESO](http://www.weso.es/) - WESO is a research group at the University of Oviedo founded in 2004.
-- [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/) - Department D5 of the Max Planck Institute for Informatics.
-- [DICE: Data Science Group](http://dice.cs.uni-paderborn.de/about/) - Universität Paderborn.
-- [Ontology Engineering Group (OEG)](http://www.oeg-upm.net/) - The Ontology Engineering Group (OEG) is based at the Computer Science School at Universidad Politécnica de Madrid (UPM).
-- [Knowledge Representation and Reasoning Group (KRR)](https://krr.cs.vu.nl/) - Research group is based at the Vrije Universiteit Amsterdam (VU).
-- [eXascale Infolab](https://exascale.info/) - eXascale Infolab, University of Fribourg, Switzerland.
 - [Wimmics](http://wimmics.inria.fr/corese) - Wimmics stands for Web-Instrumented Man-Machine Interactions, Communities, and Semantics, a joint research team between INRIA Sophia Antipolis - Méditerranée and I3S (CNRS and Université Côte d'Azur).
-- [Data Semantics Lab](https://dase.cs.wright.edu/) - Data Semantics Lab, Wright State University
-- [Stanford BMIR](https://bmir.stanford.edu) - Stanford University Center for Biomedical Informatics Research
-- [Exascale Infolab](https://exascale.info/projects/research/) - University of Fribourg, Switzerland
-- [IDLAB](https://www.ugent.be/ea/idlab/en/research/semantic-intelligence/semantic-knowledge-generation-and-publication-at-scale.htm) - Ghent University, Belgium
-- [Data Semantics Lab](https://daselab.cs.ksu.edu/) - Kansas State University, USA
-- [Linköping University Semantic Web Group](https://www.ida.liu.se/research/semanticweb/) - Linköping University, Sweden
-- [DBIS Lab](http://dbis.informatik.uni-freiburg.de/) - Freiburg, Germany
-- [AD Lab](https://ad.informatik.uni-freiburg.de/) - Freiburg, Germany
-- [SWE @HTWK Leipzig](https://wse-research.org/) - Web & Software Engineering research group @ Leipzig University of Applied Sciences (HTWK Leipzig)
 
 ## Academic Journals
 
