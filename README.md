@@ -1262,6 +1262,7 @@ OS - OpenSource
 - [totogo/awesome-knowledge-graph](https://github.com/totogo/awesome-knowledge-graph)
 - [awesome GLAM semweb](https://github.com/ncarboni/awesome-GLAM-semweb)
 - [Awesome Knowledge Graph Construction Tools](https://github.com/kg-construct/awesome-kgc-tools)
+- [Enola.dev's Awesome related things](https://docs.enola.dev/concepts/other/)
 
 ## Misc
 
