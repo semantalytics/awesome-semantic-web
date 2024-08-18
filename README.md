@@ -494,7 +494,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [Linked Data Fragments](http://linkeddatafragments.org/)
 - [tomayac/ldf-client](https://github.com/tomayac/ldf-client) - Polymer Linked Data Fragments client.
 - [LDFlex](https://github.com/RubenVerborgh/LDflex) - A JavaScript DSL for querying Linked Data on the Web.
-- [communica](http://comunica.linkeddatafragments.org/) - A modular framework for querying Linked Data on the Web.
+- [comunica](http://comunica.linkeddatafragments.org/) - A modular framework for querying Linked Data on the Web.
 - [HeFQUIN](https://github.com/LiUSemWeb/HeFQUIN) - A query federation engine for heterogeneous federations of graph data sources.
 
 ## Linked Data Platform (LDP)
