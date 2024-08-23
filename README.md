@@ -1211,6 +1211,7 @@ OS - OpenSource
 - [node-webid](https://github.com/magnetik/node-webid)
 
 ## SHACL Implementations
+See https://github.com/validatingrdf/validatingrdf.github.io/wiki/Updated-list-of-implementations and https://github.com/w3c/shacl/issues/78 for a more extensive list.
 
 - [TopQuadrant/shacl](https://github.com/TopQuadrant/shacl) - SHACL API in Java based on Apache Jena.
 - [RDFunit](https://github.com/AKSW/RDFUnit/)
