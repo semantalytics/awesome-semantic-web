@@ -1150,6 +1150,7 @@ OS - OpenSource
 - [UnSHACLed](https://github.com/KNowledgeOnWebScale/unshacled) - A visual editor for RDF constraints currently supporting the visual notations ShapeUML and ShapeVOWL and import/export/validation of SHACL constraints.
 - [rpt](https://github.com/SmartDataAnalytics/RdfProcessingToolkit) - Command line interface based RDF Processing Toolkit to run sequences of SPARQL statements ad-hoc on RDF datasets with a lot of features
 - [RDF Playground](https://rdfplayground.dcc.uchile.cl/) - Browser based aggregation of multiple semantic web tools, includes syntax validation, visualization, reasoner and shacl validation
+* [KGPrune](https://kgprune.loria.fr/) - An API and Web application for extracting subgraphs of interest from Wikidata based on user-input seed entities, to bootstrap new KGs or support knowledge extraction, or knowledge mining approaches
 
 ## Integrations
 
