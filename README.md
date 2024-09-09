@@ -1266,6 +1266,7 @@ See https://github.com/validatingrdf/validatingrdf.github.io/wiki/Updated-list-o
 - [totogo/awesome-knowledge-graph](https://github.com/totogo/awesome-knowledge-graph)
 - [awesome GLAM semweb](https://github.com/ncarboni/awesome-GLAM-semweb)
 - [Awesome Knowledge Graph Construction Tools](https://github.com/kg-construct/awesome-kgc-tools)
+- [Enola.dev's Awesome related things](https://docs.enola.dev/concepts/other/)
 
 ## Misc
 - [LoRiS](https://github.com/WSE-research/LoRiS-LLM-generated-Representations-of-SPARQL-queries) generated natural-language representations of SPARQL queries over Wikidata and DBpedia.
