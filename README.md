@@ -193,6 +193,8 @@ Looking for something but can't find it? Add it to the ["Does it exist"](https:/
 | [RDF/XML](https://www.w3.org/TR/REC-rdf-syntax/) | RDF/XML Syntax Specification. | `application/rdf+xml`, `application/xml` |
 | [TriX](http://www.hpl.hp.com/techreports/2004/HPL-2004-56.html) | RDF Triples in XML. | `application/trix` |
 | [HDT](https://www.w3.org/Submission/2011/03/) | Binary RDF Representation for Publication and Exchange. | `application/x-binary-rdf` |
+| [Jelly](https://w3id.org/jelly) | Performance-oriented binary serialization for RDF and RDF streams. | `application/x-jelly-rdf` |
+| [RDF Thrift](https://afs.github.io/rdf-thrift/) | RDF binary serialization in Apache Thrift. | `application/rdf+thrift` |
 | [aREF](https://gbv.github.io/aREF/aREF.html) | Another RDF Encoding Form. | |
 | [RDF/POST](https://atomgraph.github.io/RDF-POST/) | RDF/POST Encoding for RDF. | `application/rdf+x-www-form-urlencoded` |
 | [YARRML](http://rml.io/yarrrml/spec/) | YARRRML is a human readable text-based representation for declarative generation rules. It is a subset of [YAML], a widely used data serialization language designed to be  | | human-friendly. | |
@@ -868,6 +870,7 @@ OS - OpenSource
 - [JB4JSON-LD](https://github.com/kbss-cvut/jb4jsonld), [JB4JSON-LD Jackson](https://github.com/kbss-cvut/jb4jsonld-jackson) - Java binding for JSON-LD (mapping POJO - JSON-LD).
 - [titanium-json-ld](https://github.com/filip26/titanium-json-ld) - An implementation of the JSON-LD 1.1 (JSON-based Serialization for Linked Data) specification in Java utilizing Jakarta JSON Processing.
 - [hdt-java](https://github.com/rdfhdt/hdt-java) - Read and query [HDT](https://www.rdfhdt.org/)
+- [Jelly-JVM](https://w3id.org/jelly/jelly-jvm) – implementation of the [Jelly binary RDF format](https://w3id.org/jelly) for Java and Scala, works with Apache Jena and RDF4J.
 
 ### JavaScript
 
@@ -1432,7 +1435,6 @@ See https://github.com/validatingrdf/validatingrdf.github.io/wiki/Updated-list-o
 - [rdf-patch](https://afs.github.io/rdf-patch/)
 - [ldpatch](https://www.w3.org/TR/ldpatch/)
 - [rdf-delta](https://afs.github.io/rdf-delta/)
-- [rdf-thrift](https://afs.github.io/rdf-thrift/)
 - [semwiki](https://github.com/pchampin/semwiki) - An experimental semantic wiki with bidirectional (text <-> triples) changes.
 - [thedatatank](http://thedatatank.com)
 - [nanopub-java](https://github.com/Nanopublication/nanopub-java)
