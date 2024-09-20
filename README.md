@@ -1447,3 +1447,4 @@ See https://github.com/validatingrdf/validatingrdf.github.io/wiki/Updated-list-o
 - [StaTIX](https://github.com/eXascaleInfolab/StaTIX) - Statistical Type Inference (both fully automatic and semi supervised) for RDF datasets.
 - [vss-ontology](https://github.com/klotzbenjamin/vss-ontology) - Design of the Vehicle Signal Ontology VSSo and example of use with SOSA/SSN and STEP.
 - [aurl](https://ctan.org/pkg/aurl) LaTeX package for hyperlinked URLs abbreviated with prefixes. The 1000 most common prefixes are predefined and more can be added.
+- [RDF Stream Taxonomy (RDF-STaX)](https://w3id.org/stax) – a systematization of RDF stream types. It also includes a small ontology to help with describing RDF streams.
