@@ -578,6 +578,7 @@ OS - OpenSource
 - [ReDeFer XSD2OWL](https://rhizomik.net/redefer/xsd2owl) - Map XSD XML Schemas into the Web Ontology Language (OWL).
 - [ReDeFer XML2RDF](https://rhizomik.net/redefer/xml2rdf) - Map XML into RDF.
 - [Silk](http://silkframework.org/) - Linked data integration framework, connectes different linked data resources and transforms structured data source.
+- [KOMMA](https://komma.enilink.net/) - Framework for mapping RDF data to Java objects using annotations, enabling object-oriented interaction with RDF models.
 
 ### Geo
 
