@@ -22,7 +22,7 @@ Looking for something but can't find it? Add it to the ["Does it exist"](https:/
   - [Streaming](#streaming-sparql)
   - [Federated](#federated-sparql)
   - [Applications](#sparql-applications)
-  - [Benchmarks](#benchmarks)
+- [Benchmarks](#benchmarks)
 - [GraphQL](#graphql)
 - [Linked Data Fragments](#linked-data-fragments)
 - [Linked Data Platform](#linked-data-platform-ldp)
@@ -417,24 +417,6 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [SemWIQ](https://sourceforge.net/projects/semwiq/)
 - [DARQ](http://darq.sourceforge.net/)
 
-## Benchmarks
-- [FedShop](https://github.com/GDD-Nantes/FedShop) - A Benchmark for Testing the Scalability of SPARQL Federation Engines
-- [Berlin SPARQL Benchmark (BSBM)](http://wifo5-03.informatik.uni-mannheim.de/bizer/berlinsparqlbenchmark/)
-- [Lehigh University Benchmark (LUBM)](http://swat.cse.lehigh.edu/projects/lubm/)
-- [IGUANA](https://github.com/dice-group/IGUANA)
-- [dice-group/triplestore-benchmarks](https://web.archive.org/web/20180627155808/https://github.com/dice-group/triplestore-benchmarks) - An Evaluation of Triplestore Benchamrks.
-- [RdfStoreBenchmarking](https://www.w3.org/wiki/RdfStoreBenchmarking)
-- [Hobbit](http://project-hobbit.eu/) - Holistic Benchmarking of Big Linked Data.
-- [SP2Bench](http://dbis.informatik.uni-freiburg.de/index.php?project=SP2B)
-- [IGUANA](https://github.com/AKSW/IGUANA) - IGUANA is a benchmark execution framework for triple stores.
-- [SRBench](https://github.com/jpcik/srbench) - A streaming sparql benchmark.
-- [TFT](https://github.com/BorderCloud/TFT) - TFT (Tester for Triplestore) is a script PHP to pass tests through a SPARQL service.
-- [OTM Benchmark](https://kbss.felk.cvut.cz/web/kbss/otm-benchmark) - A benchmark of object-triple mapping (OTM) libraries.
-- [LDBC](http://ldbcouncil.org/benchmarks)
-- [GTFS-Madrid-Bench](https://github.com/oeg-upm/gtfs-bench) - A benchmark for performance and scalability of knowledge graph construction from heterogeneous data sources
-- [GeoSPARQL Compliance Benchmark](https://github.com/OpenLinkSoftware/GeoSPARQLBenchmark) - A HOBBIT benchmark to check for the GeoSPARQL compliance of triple store implementations
-- [RDF Library Benchmark](https://github.com/KonradHoeffner/rdf_benchmark) - Comparison of HDT and non-HDT RDF libraries for query time and memory usage.
-
 ### SPARQL Applications
 
 - [SPARQL2Git](https://github.com/albertmeronyo/SPARQL2Git) - Easily store and curate SPARQL queries (and their associated Linked Data APIs) in GitHub.
@@ -482,6 +464,26 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [SparqlProg](https://github.com/cmungall/sparqlprog) - composable SPARQL using logic programming
 - [Sparklis](https://github.com/sebferre/sparklis) - natural language query builder to explore and query endpoints with all the power of SPARQL yet without any knowledge of SPARQL.
 - [json-rql](https://json-rql.org/) - SPARQL with a JSON-LD super-set syntax (like GraphQL for the semantic web)
+
+## Benchmarks
+
+- [FedShop](https://github.com/GDD-Nantes/FedShop) - A Benchmark for Testing the Scalability of SPARQL Federation Engines
+- [Berlin SPARQL Benchmark (BSBM)](http://wifo5-03.informatik.uni-mannheim.de/bizer/berlinsparqlbenchmark/)
+- [Lehigh University Benchmark (LUBM)](http://swat.cse.lehigh.edu/projects/lubm/)
+- [IGUANA](https://github.com/dice-group/IGUANA)
+- [dice-group/triplestore-benchmarks](https://web.archive.org/web/20180627155808/https://github.com/dice-group/triplestore-benchmarks) - An Evaluation of Triplestore Benchamrks.
+- [RdfStoreBenchmarking](https://www.w3.org/wiki/RdfStoreBenchmarking)
+- [Hobbit](http://project-hobbit.eu/) - Holistic Benchmarking of Big Linked Data.
+- [SP2Bench](http://dbis.informatik.uni-freiburg.de/index.php?project=SP2B)
+- [IGUANA](https://github.com/AKSW/IGUANA) - IGUANA is a benchmark execution framework for triple stores.
+- [SRBench](https://github.com/jpcik/srbench) - A streaming sparql benchmark.
+- [TFT](https://github.com/BorderCloud/TFT) - TFT (Tester for Triplestore) is a script PHP to pass tests through a SPARQL service.
+- [OTM Benchmark](https://kbss.felk.cvut.cz/web/kbss/otm-benchmark) - A benchmark of object-triple mapping (OTM) libraries.
+- [LDBC](http://ldbcouncil.org/benchmarks)
+- [GTFS-Madrid-Bench](https://github.com/oeg-upm/gtfs-bench) - A benchmark for performance and scalability of knowledge graph construction from heterogeneous data sources
+- [GeoSPARQL Compliance Benchmark](https://github.com/OpenLinkSoftware/GeoSPARQLBenchmark) - A HOBBIT benchmark to check for the GeoSPARQL compliance of triple store implementations
+- [RDF Library Benchmark](https://github.com/KonradHoeffner/rdf_benchmark) - Comparison of HDT and non-HDT RDF libraries for query time and memory usage.
+- [RiverBench](https://w3id.org/riverbench) – open and collaborative benchmark suite for streaming and non-streaming RDF systems.
 
 ## GraphQL
 
