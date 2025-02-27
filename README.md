@@ -303,6 +303,7 @@ $ - Proprietary
 OS - OpenSource
 F - Free
 
+- [MillenniumDB](https://github.com/MillenniumDB/MillenniumDB) - (OS)
 - [qEndpoint](https://github.com/the-qa-company/qEndpoint) - (OS) A highly scalable RDF triple store with full-text and GeoSPARQL support.
 - [Vedas](https://github.com/Remixman/Vedas) - (OS) VEDAS is a RDF store engine that be able to query with SPARQL and run on single GPU.
 - [Akutan](https://github.com/eBay/akutan) - (OS) A distributed knowledge graph store written in Golang. Formerly known as Beam.
