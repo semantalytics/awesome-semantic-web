@@ -239,6 +239,7 @@ Companies or businesses selling products with a primary focus on semantic web te
 - [Ontopic](https://ontopic.ai/) - Create Knowledge Graphs from databases and datalakes. Core contributors to Ontop and experts in virtualization.
 - [iNovex](https://mobi.inovexcorp.com/) - Web-based, collaborative ontology and vocabulary editor, and knowledge graph solution platform.
 - [Flur.ee](https://flur.ee/) - Provide a full stack of tools for data mapping, linking, vocabulary creation and develop an open source append only triple store (fluree.core).
+- [KurrawongAI](https://kurrawong.ai) - a small, Australian-based IT company, specialising in Knowledge Graphs, Data Modelling & AI.
 
 ## Industry
 Companies or businesses using semantic web technologies
@@ -358,6 +359,7 @@ F - Free
 - [RDF4j](https://rdf4j.org/) - (OS) Graph database supporting native, memory, LMDB, Solr, Elastic backends. Formerly known as Sesame.
 - [Copernic](https://git.sr.ht/~amirouche/copernic) - (OS) Data, and its history, via change requests at scale.
 - [Tentris](https://github.com/dice-group/tentris) - (OS) A tensor-optimized RDF data store, supporting SPARQL queries with Basic Graph Pattern capabilities.
+- [CLever](https://github.com/ad-freiburg/qlever) - (OS) a SPARQL engine that can efficiently index and query very large knowledge graphs with over 100 billion triples on a single standard PC or server
 
 ### Academic
 (Note: this classification is somewhat arbitrary and is meant to capture databases that only have a published paper or were developed for that purpose and are not actively maintained)
@@ -518,6 +520,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [ldpserver](https://github.com/hectorcorrea/ldpserver) - A mini LDP Server written in Go.
 - [ldp-coap-framework](https://github.com/sisinflab-swot/ldp-coap-framework) - Linked Data Platform for the Constrained Application Protocol
 - [cavendish](https://github.com/cavendish-ldp/cavendish) - A LDP Implementation backed by BlazeGraph.
+- [Prez](https://prez.dev) - (OS) a semi-LDP implementation, base on the W3C's [Content Negotation By Profile](https://www.w3.org/TR/dx-prof-conneg/) API
 
 ## Ecosystem
 
