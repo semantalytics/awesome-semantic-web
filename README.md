@@ -1077,6 +1077,7 @@ OS - OpenSource
 - [ReDeFer RDF2HTML](https://rhizomik.net/redefer/rdf2html) - Render RDF as HTML.
 - [Zazuko's RDF Sketch](https://sketch.zazuko.com/) - Graphical RDF Explorer for small datasets
 - [KinGVisher](https://wse-research.org/knowledge-graph-visualizer/) - Visualize knowledge graphs in a web browser
+- [RdfGlance](https://github.com/xdobry/rdfglance) - Fast desktop RDF graph visualization and data viewer programmed in Rust
 
 ## Data Cube
 
