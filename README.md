@@ -245,7 +245,7 @@ Companies or businesses selling products with a primary focus on semantic web te
 Companies or businesses using semantic web technologies
 
 - [Optum](https://www.optum.com) - Health related, known to use semantic graphs (marklogic).
-- [DarkLight](https://www.darklight.ai) - DarkLight is an Artificial Intelligence Expert System for Active Cyber Defense and           Trusted Information Sharing.
+- [DarkLight](https://www.darklight.ai) - DarkLight is an Artificial Intelligence Expert System for Active Cyber Defense and Trusted Information Sharing.
 - [Volkswagen UK](https://www.volkswagen.co.uk)
 - [Siemens](https://www.siemens.com)
 - [IBM](http://www.ibm.com)
@@ -1179,6 +1179,7 @@ OS - OpenSource
 - [jekyll-rdf](https://github.com/white-gecko/jekyll-rdf) - A Jekyll plugin for including RDF data in your static site.
 - [RightField](https://github.com/myGrid/RightField) - RightField is an open-source tool for adding ontology term selection to Excel spreadsheets.
 - [mu-semtech](https://github.com/mu-semtech) - An Ecosystem of User-facing Microservices supported by Semantic Models.
+- [alfred-prefix.cc](https://github.com/depressiveRobot/alfred-prefix.cc) - a workflow for the [alfred](https://www.alfredapp.com/) productivity app (macos) to search prefix declarations via prefix.cc
 
 ## Machine Learning
 
@@ -1256,6 +1257,7 @@ See https://github.com/validatingrdf/validatingrdf.github.io/wiki/Updated-list-o
 - [VocPrez](https://github.com/RDFLib/VocPrez/) - A Linked Data API for SKOS data presentation
 
 ## NLP
+
 - [fred](http://wit.istc.cnr.it/stlab-tools/fred/#About) - a machine reader for the Semantic Web
 - [NIF](https://persistence.uni-leipzig.org/nlp2rdf/) NLP Interchange Format
 - [Lemon](https://lemon-model.net/) - The Lexicon Model for Ontologies
@@ -1265,6 +1267,7 @@ See https://github.com/validatingrdf/validatingrdf.github.io/wiki/Updated-list-o
 - [TNNT](https://w3id.org/kgcp/MEL-TNNT/) - (*The NLP/NER Toolkit*) - A tool that automates the extraction of categorised named entities from the unstructured information encoded in the source documents, using diverse NLP tools and NER models.
 
 ## IIIF
+
 - [IIIF](https://iiif.io/)
 - [fester](https://github.com/UCLALibrary/fester)
 
