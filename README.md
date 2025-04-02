@@ -811,6 +811,7 @@ OS - OpenSource
 - [Ontology Engineering](https://www.amazon.com/Ontology-Engineering-Synthesis-Lectures-Semantic/dp/1681733102/)
 - [The Data-Centric Revolution](https://www.amazon.co.uk/Data-Centric-Revolution-Restoring-Enterprise-Information/dp/1634625404)
 - [An Introduction to Ontology Engineering, Keet, 2020, v1.5](https://people.cs.uct.ac.za/~mkeet/OEbook/) [[1](https://open.umn.edu/opentextbooks/textbooks/590)]
+- [Linked Data Patterns - A pattern catalogue for modelling, publishing, and consuming Linked Data](https://patterns.dataincubator.org/book/index.html)
 
 ## Programming
 
