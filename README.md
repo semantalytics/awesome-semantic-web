@@ -1196,6 +1196,7 @@ OS - OpenSource
 - [etalis](https://github.com/sspider/etalis) - Event Processing SPARQL (EP-SPARQL).
 - [graph-pattern-learner](https://github.com/RDFLib/graph-pattern-learner) - Evolutionary Graph Pattern Learner that learns SPARQL queries for a given set of source-target-pairs from an endpoint.
 - [OntoGPT](https://github.com/monarch-initiative/ontogpt/) - Tools for populating semantic schemas from unstructured text using Large Language Models (LLMs)
+- [ZhihuAgent](https://github.com/SamuelGong/ZhihuAgent) - AI-powered Q&A assistant that answers from your Zhihu bookmarks using a custom local knowledge base.
 
 ## Linked Data
 
