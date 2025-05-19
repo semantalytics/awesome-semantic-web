@@ -199,6 +199,7 @@ Looking for something but can't find it? Add it to the ["Does it exist"](https:/
 | [RDF/POST](https://atomgraph.github.io/RDF-POST/) | RDF/POST Encoding for RDF. | `application/rdf+x-www-form-urlencoded` |
 | [YARRML](http://rml.io/yarrrml/spec/) | YARRRML is a human readable text-based representation for declarative generation rules. It is a subset of [YAML], a widely used data serialization language designed to be  | | human-friendly. | |
 | [hextuples](https://github.com/ontola/hextuples) | NDJSON serialization | |
+| [COTTAS](https://github.com/arenas-guerrero-julian/pycottas) | Columnar Triple Table Storage | |
 
 ## Datatypes
 
@@ -489,6 +490,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [GeoSPARQL Compliance Benchmark](https://github.com/OpenLinkSoftware/GeoSPARQLBenchmark) - A HOBBIT benchmark to check for the GeoSPARQL compliance of triple store implementations
 - [RDF Library Benchmark](https://github.com/KonradHoeffner/rdf_benchmark) - Comparison of HDT and non-HDT RDF libraries for query time and memory usage.
 - [RiverBench](https://w3id.org/riverbench) – open and collaborative benchmark suite for streaming and non-streaming RDF systems.
+- [LUBM4OBDA](https://github.com/oeg-upm/LUBM4OBDA) - A benchmark for OBDA systems with inference and meta Knowledge
 
 ## GraphQL
 
@@ -960,6 +962,7 @@ OS - OpenSource
 - [AmpliGraph](https://github.com/Accenture/AmpliGraph) - Python library for Representation Learning on Knowledge Graphs.
 - [Ontospy](https://github.com/lambdamusic/Ontospy) - Python library and command-line interface for inspecting and visualizing RDF models.
 - [semantic-python-overview](https://github.com/pysemtec/semantic-python-overview) - List of Python specific semantic web tools and resources. 
+- [pycottas](https://github.com/arenas-guerrero-julian/pycottas) - Python library for working with COTTAS files. 
 
 ### R
 
