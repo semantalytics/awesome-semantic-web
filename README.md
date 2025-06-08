@@ -199,6 +199,7 @@ Looking for something but can't find it? Add it to the ["Does it exist"](https:/
 | [RDF/POST](https://atomgraph.github.io/RDF-POST/) | RDF/POST Encoding for RDF. | `application/rdf+x-www-form-urlencoded` |
 | [YARRML](http://rml.io/yarrrml/spec/) | YARRRML is a human readable text-based representation for declarative generation rules. It is a subset of [YAML], a widely used data serialization language designed to be  | | human-friendly. | |
 | [hextuples](https://github.com/ontola/hextuples) | NDJSON serialization | |
+| [COTTAS](https://github.com/arenas-guerrero-julian/pycottas) | Columnar Triple Table Storage | |
 
 ## Datatypes
 
@@ -240,6 +241,7 @@ Companies or businesses selling products with a primary focus on semantic web te
 - [iNovex](https://mobi.inovexcorp.com/) - Web-based, collaborative ontology and vocabulary editor, and knowledge graph solution platform.
 - [Flur.ee](https://flur.ee/) - Provide a full stack of tools for data mapping, linking, vocabulary creation and develop an open source append only triple store (fluree.core).
 - [Softplant](http://www.softplant.de/) - Provide a visual ontology engineering tool called Living Semantic Platform and an Enterprise Architecture Management Platform called Living EAM.
+- [KurrawongAI](https://kurrawong.ai) - a small, Australian-based IT company, specialising in Knowledge Graphs, Data Modelling & AI.
 
 ## Industry
 Companies or businesses using semantic web technologies
@@ -304,6 +306,7 @@ $ - Proprietary
 OS - OpenSource
 F - Free
 
+- [MillenniumDB](https://github.com/MillenniumDB/MillenniumDB) - (OS)
 - [qEndpoint](https://github.com/the-qa-company/qEndpoint) - (OS) A highly scalable RDF triple store with full-text and GeoSPARQL support.
 - [Vedas](https://github.com/Remixman/Vedas) - (OS) VEDAS is a RDF store engine that be able to query with SPARQL and run on single GPU.
 - [Akutan](https://github.com/eBay/akutan) - (OS) A distributed knowledge graph store written in Golang. Formerly known as Beam.
@@ -358,6 +361,7 @@ F - Free
 - [RDF4j](https://rdf4j.org/) - (OS) Graph database supporting native, memory, LMDB, Solr, Elastic backends. Formerly known as Sesame.
 - [Copernic](https://git.sr.ht/~amirouche/copernic) - (OS) Data, and its history, via change requests at scale.
 - [Tentris](https://github.com/dice-group/tentris) - (OS) A tensor-optimized RDF data store, supporting SPARQL queries with Basic Graph Pattern capabilities.
+- [CLever](https://github.com/ad-freiburg/qlever) - (OS) a SPARQL engine that can efficiently index and query very large knowledge graphs with over 100 billion triples on a single standard PC or server
 
 ### Academic
 (Note: this classification is somewhat arbitrary and is meant to capture databases that only have a published paper or were developed for that purpose and are not actively maintained)
@@ -487,6 +491,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [GeoSPARQL Compliance Benchmark](https://github.com/OpenLinkSoftware/GeoSPARQLBenchmark) - A HOBBIT benchmark to check for the GeoSPARQL compliance of triple store implementations
 - [RDF Library Benchmark](https://github.com/KonradHoeffner/rdf_benchmark) - Comparison of HDT and non-HDT RDF libraries for query time and memory usage.
 - [RiverBench](https://w3id.org/riverbench) – open and collaborative benchmark suite for streaming and non-streaming RDF systems.
+- [LUBM4OBDA](https://github.com/oeg-upm/LUBM4OBDA) - A benchmark for OBDA systems with inference and meta Knowledge
 
 ## GraphQL
 
@@ -518,6 +523,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [ldpserver](https://github.com/hectorcorrea/ldpserver) - A mini LDP Server written in Go.
 - [ldp-coap-framework](https://github.com/sisinflab-swot/ldp-coap-framework) - Linked Data Platform for the Constrained Application Protocol
 - [cavendish](https://github.com/cavendish-ldp/cavendish) - A LDP Implementation backed by BlazeGraph.
+- [Prez](https://prez.dev) - (OS) a semi-LDP implementation, base on the W3C's [Content Negotation By Profile](https://www.w3.org/TR/dx-prof-conneg/) API
 
 ## Ecosystem
 
@@ -805,9 +811,10 @@ OS - OpenSource
 - [Validating RDF Data](http://book.validatingrdf.com/)
 - [Learning SPARQL](http://www.learningsparql.com/)
 - [A Developer's Guide to the Semantic Web, 2014,2nd Ed](https://www.springer.com/us/book/9783662437957)
-- [Ontology Engineering](https://www.morganclaypool.com/doi/abs/10.2200/S00834ED1V01Y201802WBE018)
+- [Ontology Engineering](https://www.amazon.com/Ontology-Engineering-Synthesis-Lectures-Semantic/dp/1681733102/)
 - [The Data-Centric Revolution](https://www.amazon.co.uk/Data-Centric-Revolution-Restoring-Enterprise-Information/dp/1634625404)
 - [An Introduction to Ontology Engineering, Keet, 2020, v1.5](https://people.cs.uct.ac.za/~mkeet/OEbook/) [[1](https://open.umn.edu/opentextbooks/textbooks/590)]
+- [Linked Data Patterns - A pattern catalogue for modelling, publishing, and consuming Linked Data](https://patterns.dataincubator.org/book/index.html)
 
 ## Programming
 
@@ -956,6 +963,7 @@ OS - OpenSource
 - [AmpliGraph](https://github.com/Accenture/AmpliGraph) - Python library for Representation Learning on Knowledge Graphs.
 - [Ontospy](https://github.com/lambdamusic/Ontospy) - Python library and command-line interface for inspecting and visualizing RDF models.
 - [semantic-python-overview](https://github.com/pysemtec/semantic-python-overview) - List of Python specific semantic web tools and resources. 
+- [pycottas](https://github.com/arenas-guerrero-julian/pycottas) - Python library for working with COTTAS files. 
 
 ### R
 
@@ -1074,6 +1082,7 @@ OS - OpenSource
 - [ReDeFer RDF2HTML](https://rhizomik.net/redefer/rdf2html) - Render RDF as HTML.
 - [Zazuko's RDF Sketch](https://sketch.zazuko.com/) - Graphical RDF Explorer for small datasets
 - [KinGVisher](https://wse-research.org/knowledge-graph-visualizer/) - Visualize knowledge graphs in a web browser
+- [RdfGlance](https://github.com/xdobry/rdfglance) - Fast desktop RDF graph visualization and data viewer programmed in Rust
 
 ## Data Cube
 
