@@ -1200,6 +1200,7 @@ OS - OpenSource
 - [etalis](https://github.com/sspider/etalis) - Event Processing SPARQL (EP-SPARQL).
 - [graph-pattern-learner](https://github.com/RDFLib/graph-pattern-learner) - Evolutionary Graph Pattern Learner that learns SPARQL queries for a given set of source-target-pairs from an endpoint.
 - [OntoGPT](https://github.com/monarch-initiative/ontogpt/) - Tools for populating semantic schemas from unstructured text using Large Language Models (LLMs)
+- [SPARQLLM](https://github.com/GDD-Nantes/SPARQLLM) - SPARQL queries that can access Search Engines, Large Language Models, or Vector databases. Access external data sources during SPARQL query execution.
 
 ## Linked Data
 
