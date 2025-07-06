@@ -1171,6 +1171,7 @@ OS - OpenSource
 - [RDF Playground](https://rdfplayground.dcc.uchile.cl/) - Browser based aggregation of multiple semantic web tools, includes syntax validation, visualization, reasoner and shacl validation
 * [KGPrune](https://kgprune.loria.fr/) - An API and Web application for extracting subgraphs of interest from Wikidata based on user-input seed entities, to bootstrap new KGs or support knowledge extraction, or knowledge mining approaches
 * [Semantic Web LSP](https://github.com/ajuvercr/semantic-web-lsp) - A language server for Semantic Web files, featuring SHACL shapes diagnostics, Turtle formatting, hover hints and descriptions, and completions for prefixes, properties, and classes.
+* [rdfless](https://github.com/larsw/rdfless/) - A pager and pretty-printer for Turtle/TriG/N-triples and N-Quads written in Rust.
 
 
 ## Integrations
