@@ -227,6 +227,7 @@ Companies or businesses selling products with a primary focus on semantic web te
 - [inova8](http://www.inova8.com/)
 - [in4mium](http://www.in4mium.com/)
 - [Xylem Technologies](https://www.xylem-technologies.com/en/)
+- [Enterprise Knowledge Graph Foundation](https://www.ekgf.org/) - Foundation promoting adoption of knowledge graphs in enterprise settings.
 - [Synaptica](https://www.synaptica.com)
 - [Ontola](http://ontola.io/)
 - [eccenca Corporate Memory](https://www.eccenca.com) - build, explore and consume Knowledge Graphs
@@ -433,6 +434,8 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [jdbc4sparql](https://github.com/Claudenw/jdbc4sparql) - A JDBC driver that takes data from SPARQL endpoints or RDF graphs.
 - [odata2sparql](https://github.com/peterjohnlawrence/com.inova8.odata2sparql.v4) - An OData proxy server that takes data from SPARQL endpoints or RDF graphs and publishes as OData V4 endpoint.
 - [lens2odata](https://github.com/peterjohnlawrence/com.inova8.lens.framework.v4) - A GUI for discovery, search, and graph of RDF sources.
+- [SPARQL2vec](https://github.com/albertmeronyo/SPARQL2vec) - SPARQL query embeddings for predictive Knowledge Graph querying models.
+- [vec2sparql](https://github.com/bio-ontology-research-group/vec2sparql) - Translate vector embeddings to SPARQL queries.
 - [sparql2xquery](https://github.com/marklogic/sparql2xquery) - SPARQL to XQuery Translator for use with MarkLogic Semantic Toolkit.
 - [SparqlAnalytics](https://github.com/AKSW/SparqlAnalytics)
 - [decentsparql](https://github.com/itm/decentsparql)
@@ -888,6 +891,7 @@ OS - OpenSource
 - [JenaSecurity](https://github.com/Claudenw/JenaSecurity) - Security (Permissions) wrapper around Jena RDF implementation.
 - [cassa](https://github.com/heuer/cassa) - SPARQL 1.1 Graph Store HTTP Protocol implementation with plugable backends.
 - [owlapitools](https://github.com/owlcs/owlapitools) - Set of independent add-ons for OWL API.
+- [d-sparq](https://github.com/raghavam/d-sparq) - A distributed, scalable and efficient RDF query engine.
 
 ### JavaScript
 
@@ -910,6 +914,15 @@ OS - OpenSource
 - [link-redux](https://github.com/fletcher91/link-redux/) - View RDF resources in React
 - [@ontologies](https://github.com/ontola/ontologies) - Like @types, but for ontologies
 - [rdfdev-js](https://github.com/ontola/rdfdev-js) - Collection of libraries to ease in JavaScript RDF development.
+- [sparql-to-jsonld](https://github.com/jindrichmynarz/sparql-to-jsonld) - Convert SPARQL results to JSON-LD.
+- [node-sparql-hollandaise](https://github.com/PieceMeta/node-sparql-hollandaise) - Node.js SPARQL client library.
+- [react-foaf](https://github.com/read-write-web/react-foaf) - React components for FOAF (Friend of a Friend) ontology.
+- [graphql-to-sparql.js](https://github.com/rubensworks/graphql-to-sparql.js) - Convert GraphQL queries to SPARQL.
+- [sparqljson-to-tree.js](https://github.com/rubensworks/sparqljson-to-tree.js) - Convert SPARQL JSON results to a tree structure.
+- [LDPjs](https://github.com/spadgett/LDPjs) - JavaScript library for Linked Data Platform.
+- [skosjs](https://github.com/tkurz/skosjs) - JavaScript library for working with SKOS concepts.
+- [jarql](https://github.com/linked-solutions/jarql) - Execute SPARQL Construct queries against JSON files.
+- [shex.js](https://github.com/shexSpec/shex.js) - JavaScript implementation of Shape Expressions (ShEx).
 - [DataBorg/client](https://github.com/DataBorg/client) - Highly versatile SPARQL client for modern age
 
 ### Kotlin
@@ -970,6 +983,10 @@ OS - OpenSource
 - [kglab](https://github.com/DerwenAI/kglab/) -  The kglab library provides a simple abstraction layer in Python for building knowledge graphs.
 - [AmpliGraph](https://github.com/Accenture/AmpliGraph) - Python library for Representation Learning on Knowledge Graphs.
 - [Ontospy](https://github.com/lambdamusic/Ontospy) - Python library and command-line interface for inspecting and visualizing RDF models.
+- [dipper](https://github.com/monarch-initiative/dipper) - Data Ingestion Pipeline for Monarch.
+- [OWL-RL](https://github.com/RDFLib/OWL-RL) - A simple implementation of the OWL2 RL Profile on top of RDFLib.
+- [pyrdb2rdf](https://github.com/nisavid/pyrdb2rdf) - Python library for converting relational database data to RDF.
+- [quepy](https://github.com/semantalytics/quepy) - Python framework for transforming natural language questions to SPARQL queries.
 - [semantic-python-overview](https://github.com/pysemtec/semantic-python-overview) - List of Python specific semantic web tools and resources. 
 - [pycottas](https://github.com/arenas-guerrero-julian/pycottas) - Python library for working with COTTAS files. 
 
@@ -1031,6 +1048,7 @@ OS - OpenSource
 - [ttl-mode](https://github.com/jeeger/ttl-mode) - Supports both ttl and n3, indentation, some electric punctuation and hungry delete.
 - [nxml-mode](https://www.emacswiki.org/emacs/NxmlMode) - nxml-mode is a major mode for editing XML
 - [ELOT](https://github.com/johanwk/elot) - Emacs Literate Ontology Tool, write OWL ontologies using org-mode
+- [emacs-ottr-toolkit](https://gitlab.com/ottr/pub/emacs-ottr-toolkit) - Emacs toolkit for creating OTTR templates for ontology building
 
 ### JetBrains IDEs: Intellij IDEA, PyCharm, etc.
 
@@ -1082,6 +1100,8 @@ OS - OpenSource
 - [rdfdot](https://github.com/wastl/rdfdot) - Tools for drawing graphs from RDF files with GraphViz.
 - [ontodia](https://github.com/ontodia-org/ontodia) - Ontodia data diagraming library.
 - [rdfpuml](https://github.com/VladimirAlexiev/rdf2rml) - True RDF Diagrams.
+- [sgvizler](http://mgskjaeveland.github.io/sgvizler/) - JavaScript library for visualizing SPARQL query results in SVG.
+- [OWLGrEd](http://owlgred.lumii.lv/) - UML style graphical editor for OWL ontologies.
 - [Ontology Visualisation](https://github.com/usc-isi-i2/ontology-visualization) - Create graphs from RDF using GraphViz.
 - [SparqlBlocks](http://sparqlblocks.org/) - Build SPARQL queries with blocks
 - [Cameo Concept Modeler](https://www.nomagic.com/product-addons/magicdraw-addons/cameo-concept-modeler-plugin#key-benefits) - a cross-platform app for OWL ontology modeling, visualization, and natural-language validation
