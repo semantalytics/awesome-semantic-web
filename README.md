@@ -75,7 +75,6 @@ Looking for something but can't find it? Add it to the ["Does it exist"](https:/
 - [NLP](#nlp)
 - [IIIF](#iiif)
 - [Other Awesome](#other-awesome)
-- [Misc](#misc)
 
 ## Standards
 
@@ -881,6 +880,14 @@ OS - OpenSource
 - [titanium-json-ld](https://github.com/filip26/titanium-json-ld) - An implementation of the JSON-LD 1.1 (JSON-based Serialization for Linked Data) specification in Java utilizing Jakarta JSON Processing.
 - [hdt-java](https://github.com/rdfhdt/hdt-java) - Read and query [HDT](https://www.rdfhdt.org/)
 - [Jelly-JVM](https://w3id.org/jelly/jelly-jvm) – implementation of the [Jelly binary RDF format](https://w3id.org/jelly) for Java and Scala, works with Apache Jena and RDF4J.
+- [swrlapi](https://github.com/protegeproject/swrlapi) - The SWRLAPI is a Java API for working with the OWL-based SWRL rule and SQWRL query languages. It includes graphical tools for editing and executing rules and queries.
+- [cp-common-utils](https://github.com/mhgrove/cp-common-utils) - Collection of utilty classes from Clark & Parsia.
+- [jena-joseki](https://github.com/tingletech/jena-joseki)
+- [jdbc-for-rdf3x](https://github.com/dbiir/jdbc-for-rdf3x)
+- [jqudt](https://github.com/egonw/jqudt) - Java library for working with the QUDT ontology and data using it.
+- [JenaSecurity](https://github.com/Claudenw/JenaSecurity) - Security (Permissions) wrapper around Jena RDF implementation.
+- [cassa](https://github.com/heuer/cassa) - SPARQL 1.1 Graph Store HTTP Protocol implementation with plugable backends.
+- [owlapitools](https://github.com/owlcs/owlapitools) - Set of independent add-ons for OWL API.
 
 ### JavaScript
 
@@ -898,6 +905,7 @@ OS - OpenSource
 - [sparqlalgebrajs](https://github.com/joachimvh/SPARQLAlgebra.js) - SPARQL to SPARQL Algebra converter.
 - [RDForms](https://rdforms.org) - Construct form-based RDF editors in a web environment.
 - [graphy.js](https://github.com/blake-regalia/graphy.js) - A collection of RDF libraries for JavaScript developers with a focus on performance and usability.
+- [levelgraph-n3](https://github.com/levelgraph/levelgraph-n3) - LevelGraph plugin for storing N3/Turtle/RDF data.
 - [@zazuko/rdf-vocabularies](https://github.com/zazuko/rdf-vocabularies) - Library of common vocabularies
 - [link-redux](https://github.com/fletcher91/link-redux/) - View RDF resources in React
 - [@ontologies](https://github.com/ontola/ontologies) - Like @types, but for ontologies
@@ -1138,6 +1146,7 @@ OS - OpenSource
 - [imagesnippets](http://www.imagesnippets.com/) - ImageSnippets is a complete metadata editing interface that enables someone who knows little to nothing about RDF, OWL, ontologies, or even URIs to create descriptions for images using Linked Data which is written in RDF.
 - [Linked Data Reactor (LD-R)](http://ld-r.org) - A full-stack platform for building adaptive component-based Linked Data applications in NodeJS and React.
 - [LDIF](https://github.com/wbsg/ldif) - Linked Data Integration Framework.
+- [m-ld](https://m-ld.org/) - Real-time information sharing component using RDF and conflict-free replicated data types (CRDTs)
 - [pyLDAPI](https://github.com/rdflib/pyLDAPI) - A Python [rdflib](https://github.com/rdflib/RDFlib/)-based API framework for Linked Data via the W3C's [Content Negotiation by Profile](https://w3c.github.io/dx-connegp/connegp/)
 - [Chimera](https://github.com/cefriel/chimera) - A framework providing Apache Camel components to support data conversion to/from RDF and service integration with RDF graphs
 
@@ -1162,6 +1171,15 @@ OS - OpenSource
 - [rdf2rdf](https://github.com/knakk/rdf2rdf) - Tool for converting between different RDF serialization formats.
 - [Web-Client](https://github.com/AtomGraph/Web-Client) - Generic Linked Data browser and UX component framework.
 - [CEDAR Workbench](https://metadatacenter.org) - Center for Expanded Data Annotation and Retrieval offers full life cycle management for semantically linked metadata
+- [n3pygments](https://github.com/gniezen/n3pygments) - Pygments lexer to perform syntax highlighting for N3, Turtle and SPARQL.
+- [psps](https://github.com/factsmission/psps) - Personal Structured Publishing Space.
+- [Git2PROV](https://github.com/mmlab/Git2PROV) - Unleash the potential of Git in the new W3C standard for provenance.
+- [IntervalServer](https://github.com/epimorphics/IntervalServer)
+- [rdf3x_path](https://github.com/agubichev/rdf3x_path) - RDF3X with path queries.
+- [specgen](https://github.com/specgen/specgen) - Modified, extended and more generalized version of Danbri's SpecGen version 5.
+- [keygenapp](https://github.com/bblfish/keygenapp) - Utilities and WebApp for certificate creation within a browser, for FOAF+SSL.
+- [LD-FusionTool](https://github.com/mifeet/LD-FusionTool) - Data Fusion & Conflict Resolution tool for Linked Data.
+- [prefix.cc](https://github.com/cygri/prefix.cc) - Source code to the prefix.cc website.
 - [OnToology](https://github.com/OnToology/OnToology) - A system for collaborative ontology development. Given a GitHub repository with an OWL file, OnToology will survey it and produce diagrams, a complete documentation and validation based on common pitfalls.
 - [OBA](https://github.com/KnowledgeCaptureAndDiscovery/OBA/) - Automatically create OpenAPI specifications from OWL and launch a server that serves JSON objects according to your ontology.
 - [MEL](https://w3id.org/kgcp/MEL-TNNT/) - (*Metadata Extractor & Loader*) - A tool to extract metadata (and textual content) from various file formats, as JSON objects.
@@ -1272,6 +1290,7 @@ See https://github.com/validatingrdf/validatingrdf.github.io/wiki/Updated-list-o
 - [PreMOn](http://premon.fbk.eu/ontology/vn) - Predicate Model for Ontologies (PreMOn) - VerbNet ontology module
 - [BabelNet](https://babelnet.org)
 - [TNNT](https://w3id.org/kgcp/MEL-TNNT/) - (*The NLP/NER Toolkit*) - A tool that automates the extraction of categorised named entities from the unstructured information encoded in the source documents, using diverse NLP tools and NER models.
+- [LoRiS](https://github.com/WSE-research/LoRiS-LLM-generated-Representations-of-SPARQL-queries) generated natural-language representations of SPARQL queries over Wikidata and DBpedia.
 
 ## IIIF
 - [IIIF](https://iiif.io/)
@@ -1289,27 +1308,6 @@ See https://github.com/validatingrdf/validatingrdf.github.io/wiki/Updated-list-o
 - [Awesome Knowledge Graph Construction Tools](https://github.com/kg-construct/awesome-kgc-tools)
 - [Enola.dev's Awesome related things](https://docs.enola.dev/concepts/other/)
 
-## Misc
-- [LoRiS](https://github.com/WSE-research/LoRiS-LLM-generated-Representations-of-SPARQL-queries) generated natural-language representations of SPARQL queries over Wikidata and DBpedia.
-- [m-ld](https://m-ld.org/) - Real-time information sharing component using RDF and conflict-free replicated data types (CRDTs)
-- [n3pygments](https://github.com/gniezen/n3pygments) - Pygments lexer to perform syntax highlighting for N3, Turtle and SPARQL.
-- [levelgraph-n3](https://github.com/levelgraph/levelgraph-n3) - LevelGraph plugin for storing N3/Turtle/RDF data.
-- [psps](https://github.com/factsmission/psps) - Personal Structured Publishing Space.
-- [swrlapi](https://github.com/protegeproject/swrlapi) - The SWRLAPI is a Java API for working with the OWL-based SWRL rule and SQWRL query languages. It includes graphical tools for editing and executing rules and queries.
-- [cp-common-utils](https://github.com/mhgrove/cp-common-utils) - Collection of utilty classes from Clark & Parsia.
-- [jena-joseki](https://github.com/tingletech/jena-joseki)
-- [Git2PROV](https://github.com/mmlab/Git2PROV) - Unleash the potential of Git in the new W3C standard for provenance.
-- [IntervalServer](https://github.com/epimorphics/IntervalServer)
-- [jdbc-for-rdf3x](https://github.com/dbiir/jdbc-for-rdf3x)
-- [rdf3x_path](https://github.com/agubichev/rdf3x_path) - RDF3X with path queries.
-- [jqudt](https://github.com/egonw/jqudt) - Java library for working with the QUDT ontology and data using it.
-- [JenaSecurity](https://github.com/Claudenw/JenaSecurity) - Security (Permissions) wrapper around Jena RDF implementation.
-- [specgen](https://github.com/specgen/specgen) - Modified, extended and more generalized version of Danbri‘s SpecGen version 5.
-- [cassa](https://github.com/heuer/cassa) - SPARQL 1.1 Graph Store HTTP Protocol implementation with plugable backends.
-- [keygenapp](https://github.com/bblfish/keygenapp) - Utilities and WebApp for certificate creation within a browser, for FOAF+SSL.
-- [owlapitools](https://github.com/owlcs/owlapitools) - Set of independent add-ons for OWL API.
-- [LD-FusionTool](https://github.com/mifeet/LD-FusionTool) - Data Fusion & Conflict Resolution tool for Linked Data.
-- [prefix.cc](https://github.com/cygri/prefix.cc) - Source code to the prefix.cc website.
 - [LSD-Dimensions](https://github.com/albertmeronyo/LSD-Dimensions) - All dimension values of Linked Statistical Data.
 - [prissma](https://github.com/lukostaz/prissma) - Context-Aware Adaptation for Linked Data.
 - [fox-java](https://github.com/renespeck/fox-java) - Java bindings for FOX - Federated Knowledge Extraction Framework.
