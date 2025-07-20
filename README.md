@@ -1,5 +1,5 @@
 
-# Awesome Semantic Web [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Semantic Web [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of various semantic web and linked data resources.
 
@@ -78,19 +78,19 @@ Looking for something but can't find it? Add it to the ["Does it exist"](https:/
 
 ## Standards
 
-- [XSD Datatypes](https://www.w3.org/2011/rdf-wg/wiki/XSD_Datatypes)
+- [XSD Datatypes](https://www.w3.org/2011/rdf-wg/wiki/XSD_Datatypes) - XML Schema datatypes used in RDF and semantic web applications.
 
 ### RDF
 
-- [RDF 1.1 Primer](https://www.w3.org/TR/rdf11-primer/)
-- [RDF 1.1 Semantics](https://www.w3.org/TR/rdf11-mt/)
-- [RDF 1.1 Concepts and Abstract Syntax](https://www.w3.org/TR/rdf11-concepts/)
-- [RDF 1.1: On Semantics of RDF Datasets](https://www.w3.org/TR/rdf11-datasets/)
+- [RDF 1.1 Primer](https://www.w3.org/TR/rdf11-primer/) - Primer providing an informal introduction to RDF.
+- [RDF 1.1 Semantics](https://www.w3.org/TR/rdf11-mt/) - Formal semantics for RDF and RDFS.
+- [RDF 1.1 Concepts and Abstract Syntax](https://www.w3.org/TR/rdf11-concepts/) - Defines abstract syntax and core concepts of RDF.
+- [RDF 1.1: On Semantics of RDF Datasets](https://www.w3.org/TR/rdf11-datasets/) - Semantics for RDF datasets.
 - [RDF Dataset Canonocalization](https://json-ld.github.io/rdf-dataset-canonicalization/spec/) Unofficial Draft
 
 ### RDFS
 
-- [RDF Schema 1.1](https://www.w3.org/TR/rdf-schema/)
+- [RDF Schema 1.1](https://www.w3.org/TR/rdf-schema/) - RDF vocabulary description language.
 
 ### OWL
 
@@ -230,13 +230,13 @@ Companies or businesses selling products with a primary focus on semantic web te
 - [Enterprise Knowledge Graph Foundation](https://www.ekgf.org/) - Foundation promoting adoption of knowledge graphs in enterprise settings.
 - [Synaptica](https://www.synaptica.com)
 - [Ontola](http://ontola.io/)
-- [eccenca Corporate Memory](https://www.eccenca.com) - build, explore and consume Knowledge Graphs
+- [eccenca Corporate Memory](https://www.eccenca.com) - Build, explore and consume Knowledge Graphs.
 - [Semantic Arts](https://semanticarts.com) - Enterprise information systems based on flexible data structures and deep semantics.
 - [Same4](http://www.seme4.com)
 - [Derivo](https://www.derivo.de/en/home/)
-- [Swirrl](https://www.swirrl.com/) - Linked-data publishing for Government organisations
-- [SURROUND Australia](https://surroundaustralia.com) - Semantic Web consulting and enterprise semantics platform provision
-- [AtomGraph](https://atomgraph.com/) - Free your data from silos
+- [Swirrl](https://www.swirrl.com/) - Linked-data publishing for Government organisations.
+- [SURROUND Australia](https://surroundaustralia.com) - Semantic Web consulting and enterprise semantics platform provision.
+- [AtomGraph](https://atomgraph.com/) - Free your data from silos.
 - [Ontopic](https://ontopic.ai/) - Create Knowledge Graphs from databases and datalakes. Core contributors to Ontop and experts in virtualization.
 - [iNovex](https://mobi.inovexcorp.com/) - Web-based, collaborative ontology and vocabulary editor, and knowledge graph solution platform.
 - [Flur.ee](https://flur.ee/) - Provide a full stack of tools for data mapping, linking, vocabulary creation and develop an open source append only triple store (fluree.core).
@@ -564,7 +564,7 @@ OS - OpenSource
 - [OntoWiki](https://github.com/AKSW/OntoWiki) - (OS) Semantic data wiki as well as Linked Data publishing engine.
 - [GNOSS-Sherlock](https://www.gnoss.com/en/semantic-framework/knowledge-graph-management) - ($) Cognitive Intelligence tool for machines to understand us.
 - [Wikibase](http://wikiba.se) - (OS) Collection of applications and libraries for creating, managing and sharing structured data.
-- [eccenca Corporate Memory](https://www.eccenca.com) - build, explore and consume Knowledge Graphs
+- [eccenca Corporate Memory](https://www.eccenca.com) - Build, explore and consume Knowledge Graphs.
 - [Atomic Data Browser](https://github.com/joepio/atomic-data-browser) - (OS) Create, model, edit, view and share Linked Data.  
 - [Blue Brain Nexus](https://bluebrainnexus.io/) - (OS) A knowledge graph for data-driven science 
 
@@ -1485,3 +1485,13 @@ See https://github.com/validatingrdf/validatingrdf.github.io/wiki/Updated-list-o
 - [vss-ontology](https://github.com/klotzbenjamin/vss-ontology) - Design of the Vehicle Signal Ontology VSSo and example of use with SOSA/SSN and STEP.
 - [aurl](https://ctan.org/pkg/aurl) LaTeX package for hyperlinked URLs abbreviated with prefixes. The 1000 most common prefixes are predefined and more can be added.
 - [RDF Stream Taxonomy (RDF-STaX)](https://w3id.org/stax) – a systematization of RDF stream types. It also includes a small ontology to help with describing RDF streams.
+
+## Contributing
+
+Your contributions are always welcome! Please take a look at the [contributing guidelines](CONTRIBUTING.md) first.
+
+## License
+
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Zachary Whitley](https://github.com/zacharywhitley) has waived all copyright and related or neighboring rights to this work.
