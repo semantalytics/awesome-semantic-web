@@ -79,7 +79,7 @@ Looking for something but can't find it? Add it to the ["Does it exist"](https:/
 ## Standards
 
 ### W3C
-- (2025-26) [Follow the new RDF/SPARQL (1.2) Recommendation Updates](https://www.w3.org/groups/wg/rdf-star/publications/)
+- (2025-26) [Follow the new RDF/Schema/SPARQL (1.2) Recommendation Updates](https://www.w3.org/groups/wg/rdf-star/publications/)
 - (2025-26) [Follow the new SHACL Shapes/SPARQL (1.2) Recommendation Updates](https://www.w3.org/groups/wg/data-shapes/publications/)
 
 ### XML
