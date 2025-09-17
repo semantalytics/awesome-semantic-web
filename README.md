@@ -360,7 +360,7 @@ F - Free
 - [RDF4j](https://rdf4j.org/) - (OS) Graph database supporting native, memory, LMDB, Solr, Elastic backends. Formerly known as Sesame.
 - [Copernic](https://git.sr.ht/~amirouche/copernic) - (OS) Data, and its history, via change requests at scale.
 - [Tentris](https://github.com/dice-group/tentris) - (OS) A tensor-optimized RDF data store, supporting SPARQL queries with Basic Graph Pattern capabilities.
-- [CLever](https://github.com/ad-freiburg/qlever) - (OS) a SPARQL engine that can efficiently index and query very large knowledge graphs with over 100 billion triples on a single standard PC or server
+- [QLever](https://github.com/ad-freiburg/qlever) - (OS) a SPARQL engine that can efficiently index and query very large knowledge graphs with over 100 billion triples on a single standard PC or server
 
 ### Academic
 (Note: this classification is somewhat arbitrary and is meant to capture databases that only have a published paper or were developed for that purpose and are not actively maintained)
