@@ -859,6 +859,7 @@ OS - OpenSource
 
 - [rdf2go](https://github.com/deiu/rdf2go) - Native golang library for RDF.
 - [knakk/rdf](https://github.com/knakk/rdf) - RDF library for Go.
+- [rdfkit-go](https://github.com/dpb587/rdfkit-go) - decoders, encoders, and other RDF primitives for Go.
 
 ### Groovy
 
