@@ -443,7 +443,9 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [SPARQL2NL](https://github.com/AKSW/SPARQL2NL)
 - [sparql-proxy](https://github.com/clarkparsia/sparql-proxy)
 - [AutoSPARQL](https://github.com/AKSW/AutoSPARQL)
-- [YASGUI](https://github.com/OpenTriply/YASGUI) - Yet Another Sparql GUI.
+- [YASGUI Matdata fork](https://github.com/Matdata-eu/yasgui) - Yet Another Sparql GUI - Has more features, bugfixes and upgraded dependencies compared to Zazuko and Triply forks.
+- [YASGUI Zazuko fork]([https://github.com/Matdata-eu/yasgui](https://github.com/zazuko/Yasgui)) - Yet Another Sparql GUI - Has bugfixes and upgraded dependencies compared to Triply fork.
+- [YASGUI Triply fork](https://github.com/OpenTriply/YASGUI) - Yet Another Sparql GUI.
 - [YASGUI.legacy](https://github.com/OpenTriply/YASGUI.legacy)
 - [pubby](https://github.com/cygri/pubby) - A Linked Data frontend for SPARQL endpoints.
 - [fluent-sparql](https://github.com/stoewer/fluent-sparql)
