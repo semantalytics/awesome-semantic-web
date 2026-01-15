@@ -360,7 +360,7 @@ F - Free
 - [RDF4j](https://rdf4j.org/) - (OS) Graph database supporting native, memory, LMDB, Solr, Elastic backends. Formerly known as Sesame.
 - [Copernic](https://git.sr.ht/~amirouche/copernic) - (OS) Data, and its history, via change requests at scale.
 - [Tentris](https://github.com/dice-group/tentris) - (OS) A tensor-optimized RDF data store, supporting SPARQL queries with Basic Graph Pattern capabilities.
-- [CLever](https://github.com/ad-freiburg/qlever) - (OS) a SPARQL engine that can efficiently index and query very large knowledge graphs with over 100 billion triples on a single standard PC or server
+- [QLever](https://github.com/ad-freiburg/qlever) - (OS) a SPARQL engine that can efficiently index and query very large knowledge graphs with over a trillion triples on a single standard PC or server
 
 ### Academic
 (Note: this classification is somewhat arbitrary and is meant to capture databases that only have a published paper or were developed for that purpose and are not actively maintained)
@@ -443,7 +443,9 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [SPARQL2NL](https://github.com/AKSW/SPARQL2NL)
 - [sparql-proxy](https://github.com/clarkparsia/sparql-proxy)
 - [AutoSPARQL](https://github.com/AKSW/AutoSPARQL)
-- [YASGUI](https://github.com/OpenTriply/YASGUI) - Yet Another Sparql GUI.
+- [YASGUI Matdata fork](https://github.com/Matdata-eu/yasgui) - Yet Another Sparql GUI - Has more features, bugfixes and upgraded dependencies compared to Zazuko and Triply forks.
+- [YASGUI Zazuko fork]([https://github.com/Matdata-eu/yasgui](https://github.com/zazuko/Yasgui)) - Yet Another Sparql GUI - Has bugfixes and upgraded dependencies compared to Triply fork.
+- [YASGUI Triply fork](https://github.com/OpenTriply/YASGUI) - Yet Another Sparql GUI.
 - [YASGUI.legacy](https://github.com/OpenTriply/YASGUI.legacy)
 - [pubby](https://github.com/cygri/pubby) - A Linked Data frontend for SPARQL endpoints.
 - [fluent-sparql](https://github.com/stoewer/fluent-sparql)
@@ -859,6 +861,7 @@ OS - OpenSource
 
 - [rdf2go](https://github.com/deiu/rdf2go) - Native golang library for RDF.
 - [knakk/rdf](https://github.com/knakk/rdf) - RDF library for Go.
+- [rdfkit-go](https://github.com/dpb587/rdfkit-go) - decoders, encoders, and other RDF primitives for Go.
 
 ### Groovy
 
@@ -1112,6 +1115,7 @@ OS - OpenSource
 - [KinGVisher](https://wse-research.org/knowledge-graph-visualizer/) - Visualize knowledge graphs in a web browser
 - [RdfGlance](https://github.com/xdobry/rdfglance) - Fast desktop RDF graph visualization and data viewer programmed in Rust
 - [G.V](https://gdotv.com) - ($/(F)) G dot V Graph Database Exploration and Visualization UI for SPARQL, Cypher and Gremlin
+- [SemSpect](https://www.semspect.de) - Graph exploration and data-driven no-code querying tool for Neo4j and RDF data
 
 ## Data Cube
 
@@ -1211,6 +1215,7 @@ OS - OpenSource
 * [KGPrune](https://kgprune.loria.fr/) - An API and Web application for extracting subgraphs of interest from Wikidata based on user-input seed entities, to bootstrap new KGs or support knowledge extraction, or knowledge mining approaches
 * [Semantic Web LSP](https://github.com/ajuvercr/semantic-web-lsp) - A language server for Semantic Web files, featuring SHACL shapes diagnostics, Turtle formatting, hover hints and descriptions, and completions for prefixes, properties, and classes.
 * [rdfless](https://github.com/larsw/rdfless/) - A pager and pretty-printer for Turtle/TriG/N-triples and N-Quads written in Rust.
+* [Qlue-ls](https://github.com/IoannisNezis/Qlue-ls) - A powerfull SPARQL language server and formatter. Providing: auto-completion, hover-info, formatting, code-actions, diagnostics and more.
 
 
 ## Integrations
