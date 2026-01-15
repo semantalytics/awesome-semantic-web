@@ -78,6 +78,11 @@ Looking for something but can't find it? Add it to the ["Does it exist"](https:/
 
 ## Standards
 
+### W3C
+- (2025-26) [Follow the new RDF/Schema/SPARQL (1.2) Recommendation Updates](https://www.w3.org/groups/wg/rdf-star/publications/)
+- (2025-26) [Follow the new SHACL Shapes/SPARQL (1.2) Recommendation Updates](https://www.w3.org/groups/wg/data-shapes/publications/)
+
+### XML
 - [XSD Datatypes](https://www.w3.org/2011/rdf-wg/wiki/XSD_Datatypes) - XML Schema datatypes used in RDF and semantic web applications.
 
 ### RDF
@@ -243,6 +248,9 @@ Companies or businesses selling products with a primary focus on semantic web te
 - [Softplant](http://www.softplant.de/) - Provide a visual ontology engineering tool called Living Semantic Platform and an Enterprise Architecture Management Platform called Living EAM.
 - [KurrawongAI](https://kurrawong.ai) - a small, Australian-based IT company, specialising in Knowledge Graphs, Data Modelling & AI.
 
+## RDF Tripe Stores
+ - [See list of RDF Triple Store propducts](https://github.com/graphgeeks-lab/awesome-graph-universe?tab=readme-ov-file#triple-stores-rdf-databases)
+ 
 ## Industry
 Companies or businesses using semantic web technologies
 
@@ -727,6 +735,7 @@ OS - OpenSource
 - [prov-o](https://www.w3.org/TR/prov-o/) - Represent provenance information.
 - [dcat](https://www.w3.org/TR/vocab-dcat/) - DCAT is an RDF vocabulary designed to facilitate interoperability between data catalogs published on the Web.
 - [prof](https://w3c.github.io/dxwg/profilesont/) The Profiles Ontology is an RDF vocabulary to describe profiles of (one or more) standards for information resources.
+- [odrl-model](https://www.w3.org/TR/odrl-model/) ODRL Policy Information Model V2.2 and [odrl-vocab](https://www.w3.org/TR/odrl-vocab/) ODRL Vocabulary & Expression V2.2
 
 ### European Commission
  - [Core Vocabularies](https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic/core-vocabularies) - Vocabularies developed for/by public administrations.
