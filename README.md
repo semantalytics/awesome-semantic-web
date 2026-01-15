@@ -1114,6 +1114,7 @@ OS - OpenSource
 - [Zazuko's RDF Sketch](https://sketch.zazuko.com/) - Graphical RDF Explorer for small datasets
 - [KinGVisher](https://wse-research.org/knowledge-graph-visualizer/) - Visualize knowledge graphs in a web browser
 - [RdfGlance](https://github.com/xdobry/rdfglance) - Fast desktop RDF graph visualization and data viewer programmed in Rust
+- [G.V](https://gdotv.com) - ($/(F)) G dot V Graph Database Exploration and Visualization UI for SPARQL, Cypher and Gremlin
 - [SemSpect](https://www.semspect.de) - Graph exploration and data-driven no-code querying tool for Neo4j and RDF data
 
 ## Data Cube
