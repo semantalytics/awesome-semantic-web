@@ -209,6 +209,7 @@ Looking for something but can't find it? Add it to the ["Does it exist"](https:/
 
 - [CDT](https://ci.mines-stetienne.fr/lindt/v2/custom_datatypes.html)
 - [QUDT](http://www.qudt.org)
+- [Data tensors in RDF](https://w3id.org/rdf-tensor)
 - [RDF Datatyping](http://infolab.stanford.edu/~melnik/rdf/datatyping/) - This document summarizes the common understanding of the RDF Core Working Group (further referred to as WG) with regards to the theoretical foundation for datatyping of literal values and serves as a basis of definition, discussion, and comparison of all proposed schemes for achieving a complete datatyping solution which are to be considered by the WG.
 
 ## Companies
@@ -247,6 +248,7 @@ Companies or businesses selling products with a primary focus on semantic web te
 - [Flur.ee](https://flur.ee/) - Provide a full stack of tools for data mapping, linking, vocabulary creation and develop an open source append only triple store (fluree.core).
 - [Softplant](http://www.softplant.de/) - Provide a visual ontology engineering tool called Living Semantic Platform and an Enterprise Architecture Management Platform called Living EAM.
 - [KurrawongAI](https://kurrawong.ai) - a small, Australian-based IT company, specialising in Knowledge Graphs, Data Modelling & AI.
+- [NeverBlink](https://neverblink.eu) – streaming RDF and neurosymbolic systems.
 
 ## RDF Tripe Stores
  - [See list of RDF Triple Store propducts](https://github.com/graphgeeks-lab/awesome-graph-universe?tab=readme-ov-file#triple-stores-rdf-databases)
@@ -895,7 +897,7 @@ OS - OpenSource
 - [JB4JSON-LD](https://github.com/kbss-cvut/jb4jsonld), [JB4JSON-LD Jackson](https://github.com/kbss-cvut/jb4jsonld-jackson) - Java binding for JSON-LD (mapping POJO - JSON-LD).
 - [titanium-json-ld](https://github.com/filip26/titanium-json-ld) - An implementation of the JSON-LD 1.1 (JSON-based Serialization for Linked Data) specification in Java utilizing Jakarta JSON Processing.
 - [hdt-java](https://github.com/rdfhdt/hdt-java) - Read and query [HDT](https://www.rdfhdt.org/)
-- [Jelly-JVM](https://w3id.org/jelly/jelly-jvm) – implementation of the [Jelly binary RDF format](https://w3id.org/jelly) for Java and Scala, works with Apache Jena and RDF4J.
+- [Jelly-JVM](https://w3id.org/jelly/jelly-jvm) – implementation of the [Jelly binary RDF format](https://w3id.org/jelly) for Java and Scala, works with Apache Jena, RDF4J, and Titanium.
 - [swrlapi](https://github.com/protegeproject/swrlapi) - The SWRLAPI is a Java API for working with the OWL-based SWRL rule and SQWRL query languages. It includes graphical tools for editing and executing rules and queries.
 - [cp-common-utils](https://github.com/mhgrove/cp-common-utils) - Collection of utilty classes from Clark & Parsia.
 - [jena-joseki](https://github.com/tingletech/jena-joseki)
@@ -1001,7 +1003,8 @@ OS - OpenSource
 - [pyrdb2rdf](https://github.com/nisavid/pyrdb2rdf) - Python library for converting relational database data to RDF.
 - [quepy](https://github.com/semantalytics/quepy) - Python framework for transforming natural language questions to SPARQL queries.
 - [semantic-python-overview](https://github.com/pysemtec/semantic-python-overview) - List of Python specific semantic web tools and resources. 
-- [pycottas](https://github.com/arenas-guerrero-julian/pycottas) - Python library for working with COTTAS files. 
+- [pycottas](https://github.com/arenas-guerrero-julian/pycottas) - Python library for working with COTTAS files.
+- [pyjelly](https://github.com/Jelly-RDF/pyjelly) – Python implementation of the high-performance [Jelly binary format](https://w3id.org/jelly), supporting rdflib.
 
 ### R
 
