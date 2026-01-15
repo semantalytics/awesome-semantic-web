@@ -240,6 +240,7 @@ Companies or businesses selling products with a primary focus on semantic web te
 - [Ontopic](https://ontopic.ai/) - Create Knowledge Graphs from databases and datalakes. Core contributors to Ontop and experts in virtualization.
 - [iNovex](https://mobi.inovexcorp.com/) - Web-based, collaborative ontology and vocabulary editor, and knowledge graph solution platform.
 - [Flur.ee](https://flur.ee/) - Provide a full stack of tools for data mapping, linking, vocabulary creation and develop an open source append only triple store (fluree.core).
+- [Softplant](http://www.softplant.de/) - Provide a visual ontology engineering tool called Living Semantic Platform and an Enterprise Architecture Management Platform called Living EAM.
 - [KurrawongAI](https://kurrawong.ai) - a small, Australian-based IT company, specialising in Knowledge Graphs, Data Modelling & AI.
 
 ## Industry
