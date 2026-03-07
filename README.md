@@ -301,6 +301,7 @@ Companies or businesses using semantic web technologies
 - [DBIS Lab](http://dbis.informatik.uni-freiburg.de/) - Freiburg, Germany
 - [AD Lab](https://ad.informatik.uni-freiburg.de/) - Freiburg, Germany
 - [SWE @HTWK Leipzig](https://wse-research.org/) - Web & Software Engineering research group @ Leipzig University of Applied Sciences (HTWK Leipzig)
+- [Information Systems in the Built Environment](https://isbe.bwk.tue.nl/) - Research group @ Eindhoven University of Technology (TU/e), The Netherlands
 
 ## Academic Journals
 
@@ -721,6 +722,7 @@ OS - OpenSource
 - [OntoPortal](https://ontoportal.org) - The BioPortal software in Virtual Appliance (deployable) form
 - [gist](https://www.semanticarts.com/gist/) - minimalist enterprise upper ontology - max coverage, fewest primitives, least ambiguity.
 - [Plow](https://plow.pm) - Ontology package manager with semantic versioning and an [open domain-agnostic ontology registry that anyone can publish to](https://registry.field33.com).
+- [BE-OLS](https://cyberbuildlab.github.io/BE-OLS/) - Build Environment Ontology Lookup Service: an open repository and website of more than 140 built environment-related ontologies
 
 ### World Wide Web Consortium (W3C)
 
