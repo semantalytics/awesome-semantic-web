@@ -1232,6 +1232,7 @@ OS - OpenSource
 * [Semantic Web LSP](https://github.com/ajuvercr/semantic-web-lsp) - A language server for Semantic Web files, featuring SHACL shapes diagnostics, Turtle formatting, hover hints and descriptions, and completions for prefixes, properties, and classes.
 * [rdfless](https://github.com/larsw/rdfless/) - A pager and pretty-printer for Turtle/TriG/N-triples and N-Quads written in Rust.
 * [Qlue-ls](https://github.com/IoannisNezis/Qlue-ls) - A powerfull SPARQL language server and formatter. Providing: auto-completion, hover-info, formatting, code-actions, diagnostics and more.
+* [Teamboard](https://termboard.com/start/) - Browser-based powerful and intuitive tool for creating and managing visual diagrams.
 
 
 ## Integrations
