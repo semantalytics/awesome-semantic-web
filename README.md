@@ -197,6 +197,7 @@ Looking for something but can't find it? Add it to the ["Does it exist"](https:/
 | [RDF/XML](https://www.w3.org/TR/REC-rdf-syntax/) | RDF/XML Syntax Specification. | `application/rdf+xml`, `application/xml` |
 | [TriX](http://www.hpl.hp.com/techreports/2004/HPL-2004-56.html) | RDF Triples in XML. | `application/trix` |
 | [HDT](https://www.w3.org/Submission/2011/03/) | Binary RDF Representation for Publication and Exchange. | `application/x-binary-rdf` |
+| [CBOR-LD](https://w3c.github.io/cbor-ld/) | CBOR-based format for expressing Linked Data. | |
 | [Jelly](https://w3id.org/jelly) | Performance-oriented binary serialization for RDF and RDF streams. | `application/x-jelly-rdf` |
 | [RDF Thrift](https://afs.github.io/rdf-thrift/) | RDF binary serialization in Apache Thrift. | `application/rdf+thrift` |
 | [aREF](https://gbv.github.io/aREF/aREF.html) | Another RDF Encoding Form. | |
