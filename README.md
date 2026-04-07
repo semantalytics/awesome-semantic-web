@@ -7,6 +7,7 @@ To add something to the list please either submit a pull request or add a commen
 
 Looking for something but can't find it? Add it to the ["Does it exist"](https://github.com/semantalytics/awesome-semantic-web/issues/74) list and we'll keep an eye out for it. If it's a good idea maybe someone will come along and create it!
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for semantic web workflow orchestration, automated linked data pipeline management, and multi-agent coordination. MIT licensed.
 ## Contents
 
 - [Standards](#standards)
