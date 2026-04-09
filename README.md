@@ -1010,7 +1010,7 @@ OS - OpenSource
 - [semantic-python-overview](https://github.com/pysemtec/semantic-python-overview) - List of Python specific semantic web tools and resources. 
 - [pycottas](https://github.com/arenas-guerrero-julian/pycottas) - Python library for working with COTTAS files.
 - [pyjelly](https://github.com/Jelly-RDF/pyjelly) – Python implementation of the high-performance [Jelly binary format](https://w3id.org/jelly), supporting rdflib.
-- [Phenospy](https://github.com/sergeitarasov/PhenoScript) – Python library for translating Phenoscript phenotypes/graphs into RDF and generating natural language from RDF.
+- [Phenospy](https://github.com/sergeitarasov/PhenoScript) – Python library for translating [Phenoscript](https://github.com/sergeitarasov/vscode-phenoscript) phenotypes/graphs into RDF and generating natural language from RDF.
 
 ### R
 
