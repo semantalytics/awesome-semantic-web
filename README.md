@@ -1010,7 +1010,7 @@ OS - OpenSource
 - [semantic-python-overview](https://github.com/pysemtec/semantic-python-overview) - List of Python specific semantic web tools and resources. 
 - [pycottas](https://github.com/arenas-guerrero-julian/pycottas) - Python library for working with COTTAS files.
 - [pyjelly](https://github.com/Jelly-RDF/pyjelly) – Python implementation of the high-performance [Jelly binary format](https://w3id.org/jelly), supporting rdflib.
-- [Phenospy](https://github.com/sergeitarasov/PhenoScript) – A Python library for translating Phenoscript phenotypes/graphs into RDF and generating natural language from RDF graphs.
+- [Phenospy](https://github.com/sergeitarasov/PhenoScript) – Python library for translating Phenoscript phenotypes/graphs into RDF and generating natural language from RDF.
 
 ### R
 
@@ -1080,7 +1080,7 @@ OS - OpenSource
 ### Visual Studio Code
 
 - [Stardog RDF Grammars](https://marketplace.visualstudio.com/items?itemName=stardog-union.stardog-rdf-grammars)
-- [Phenoscript](https://github.com/sergeitarasov/vscode-phenoscript) – A modeling language and VS Code extension for rapid creation of RDF knowledge graphs, tailored for organismal phenotypes.
+- [Phenoscript](https://github.com/sergeitarasov/vscode-phenoscript) – A modeling language and VS Code extension for rapid creation of RDF graphs, tailored for organismal phenotypes.
 
 ### TextMate
 
