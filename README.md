@@ -1193,6 +1193,8 @@ OS - OpenSource
 - [pyLDAPI](https://github.com/rdflib/pyLDAPI) - A Python [rdflib](https://github.com/rdflib/RDFlib/)-based API framework for Linked Data via the W3C's [Content Negotiation by Profile](https://w3c.github.io/dx-connegp/connegp/)
 - [Chimera](https://github.com/cefriel/chimera) - A framework providing Apache Camel components to support data conversion to/from RDF and service integration with RDF graphs
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - On-chain trust scoring platform for AI agents on Solana. Provides identity verification for agents accessing knowledge graph and ontology APIs via x402 micropayments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
 ## Tools
 
 - [tawny-owl](https://github.com/phillord/tawny-owl) - Build OWL Ontologies in a Programmatic Environment.
