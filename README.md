@@ -989,6 +989,7 @@ OS - OpenSource
 ### Python
 
 - [RDFlib](https://github.com/RDFLib/rdflib) - A Python library for RDF manipulation, storage & serialization.
+- [sparqlx](https://github.com/lu-pl/sparqlx) - A modern SPARQL 1.2 Protocol client library based on `httpx`.
 - [SPARQLWrapper](https://github.com/RDFLib/sparqlwrapper) - A wrapper for a remote SPARQL endpoint.
 - [sparql-client](https://github.com/eea/sparql-client) - Python API to query a SPARQL endpoint.
 - [RdfAlchemy](https://github.com/gjhiggins/RDFAlchemy)
