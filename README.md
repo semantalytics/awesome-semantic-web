@@ -782,6 +782,7 @@ OS - OpenSource
 - [Coursera - Web of Data](https://www.coursera.org/learn/web-data/) - A joint initiative between EIT Digital, Université de Nice Sophia-Antipolis / Université Côte d'Azur and INRIA - introduces the Linked Data standards and principles that provide the foundation of the Semantic web.
 - [Linked Data Patterns](http://patterns.dataincubator.org/book/index.html)
 - [OBO Academy](https://oboacademy.github.io/obook/) - open, online, self-paced training materials on semantic engineering, ontology curation and ontology development.
+- [Ontology Engineering Curriculum](https://github.com/fabio-rovai/ontology-curriculum) - A free 147-lesson curriculum published as OWL 2 and SKOS, where every lesson is crosswalked to the standard it teaches and a SHACL release gate runs in CI.
 
 ## Ontology Development
 
