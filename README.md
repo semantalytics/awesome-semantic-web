@@ -1045,6 +1045,7 @@ OS - OpenSource
 - [owlish](https://github.com/field33/owlish) - An OWL library in Rust modeled on the OWL functional syntax.
 - [RDFtk](https://github.com/johnstonskj/rust-rdftk) - An RDF Toolkit for Rust
 - [hdt-rs](https://github.com/KonradHoeffner/hdt) - Read and query [HDT](https://www.rdfhdt.org/)
+- [PurRDF](https://github.com/Blackcat-Informatics/purrdf) - RDF 1.2 engine with SPARQL, SHACL, ShEx and entailment, exposing one identical behaviour in Rust, Python, WebAssembly and C.
 
 ### Scala
 
