@@ -925,8 +925,8 @@ OS - OpenSource
 - [sparql-engine](https://github.com/Callidon/sparql-engine) - An open-source framework for building SPARQL query engines in Javascript/Typescript.
 - [rdf-ext](https://github.com/rdf-ext/rdf-ext)
 - [N3.js](https://github.com/RubenVerborgh/N3.js)
-- [Jessa](https://www.npmjs.com/package/jassa) - JAvascript Suite for Sparql Access.
-- [RDFJS](https://github.com/rdfjs) - Github Organization that maintains modern JavaScript RDF libraries based on open, maintained standards
+- [Jessa](https://www.npmjs.com/package/jassa) - Javascript Suite for Sparql Access.
+- [RDFJS](https://github.com/rdfjs) - Github Organization that maintains modern JavaScript RDF libraries based on open, maintained standards.
 - [rdf.js](https://github.com/webr3/rdf.js)
 - [rdflib.js](https://github.com/linkeddata/rdflib.js) - Linked Data API for JavaScript.
 - [sparks](https://github.com/sparksrdf/sparks) - Sparks is a set of JavaScript libraries designed for simplifying the access to RDF data.
@@ -935,9 +935,9 @@ OS - OpenSource
 - [RDForms](https://rdforms.org) - Construct form-based RDF editors in a web environment.
 - [graphy.js](https://github.com/blake-regalia/graphy.js) - A collection of RDF libraries for JavaScript developers with a focus on performance and usability.
 - [levelgraph-n3](https://github.com/levelgraph/levelgraph-n3) - LevelGraph plugin for storing N3/Turtle/RDF data.
-- [@zazuko/rdf-vocabularies](https://github.com/zazuko/rdf-vocabularies) - Library of common vocabularies
-- [link-redux](https://github.com/fletcher91/link-redux/) - View RDF resources in React
-- [@ontologies](https://github.com/ontola/ontologies) - Like @types, but for ontologies
+- [@zazuko/rdf-vocabularies](https://github.com/zazuko/rdf-vocabularies) - Library of common vocabularies.
+- [link-redux](https://github.com/fletcher91/link-redux/) - View RDF resources in React.
+- [@ontologies](https://github.com/ontola/ontologies) - Like @types, but for ontologies.
 - [rdfdev-js](https://github.com/ontola/rdfdev-js) - Collection of libraries to ease in JavaScript RDF development.
 - [sparql-to-jsonld](https://github.com/jindrichmynarz/sparql-to-jsonld) - Convert SPARQL results to JSON-LD.
 - [node-sparql-hollandaise](https://github.com/PieceMeta/node-sparql-hollandaise) - Node.js SPARQL client library.
@@ -948,7 +948,8 @@ OS - OpenSource
 - [skosjs](https://github.com/tkurz/skosjs) - JavaScript library for working with SKOS concepts.
 - [jarql](https://github.com/linked-solutions/jarql) - Execute SPARQL Construct queries against JSON files.
 - [shex.js](https://github.com/shexSpec/shex.js) - JavaScript implementation of Shape Expressions (ShEx).
-- [DataBorg/client](https://github.com/DataBorg/client) - Highly versatile SPARQL client for modern age
+- [DataBorg/client](https://github.com/DataBorg/client) - Highly versatile SPARQL client for modern age.
+- [Unravel-RDF](https://github.com/p2m2/unravel-rdf) - JavaScript developer-oriented query abstraction for building interactive applications over RDF knowledge graphs.
 
 ### Kotlin
 
