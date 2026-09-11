@@ -1147,6 +1147,7 @@ OS - OpenSource
 - [SemSpect](https://www.semspect.de) - Graph exploration and data-driven no-code querying tool for Neo4j and RDF data
 - [RDF Studio](https://rdf-studio.com) - Free web-based IDE with interactive knowledge graph visualization, faceted search auto-generated from OWL ontologies, SPARQL 1.1 editor, and multi-database support for Oxigraph, GraphDB, and any SPARQL endpoint.
 - [metabase-sparql-driver](https://github.com/jhisse/metabase-sparql-driver) - Build charts and dashboards from any SPARQL endpoint in Metabase, using its visual query builder or native SPARQL queries.
+- [ttl3d](https://github.com/soheilabadifard/TTL_to_3D) - Command-line tool that turns Turtle/RDF files into one self-contained HTML page with 3D and 2D graph views, legend filters and node cards; works offline.
 
 ## Data Cube
 
