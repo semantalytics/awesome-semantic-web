@@ -1145,7 +1145,7 @@ OS - OpenSource
 - [G.V](https://gdotv.com) - ($/(F)) G dot V Graph Database Exploration and Visualization UI for SPARQL, Cypher and Gremlin
 - [SemSpect](https://www.semspect.de) - Graph exploration and data-driven no-code querying tool for Neo4j and RDF data
 - [RDF Studio](https://rdf-studio.com) - Free web-based IDE with interactive knowledge graph visualization, faceted search auto-generated from OWL ontologies, SPARQL 1.1 editor, and multi-database support for Oxigraph, GraphDB, and any SPARQL endpoint.
-- [ttl3d](https://github.com/soheilabadifard/TTL_to_3D) - Command-line tool that turns Turtle/RDF files into one self-contained HTML page with 3D and 2D graph views, legend filters and node cards; works offline.
+- [ttl3d](https://github.com/soheilabadifard/TTL_to_3D) - Turns RDF files or a SPARQL CONSTRUCT result into one self-contained HTML page with 3D and 2D graph views, legend filters and node cards; slices large graphs and works offline.
 
 ## Data Cube
 
