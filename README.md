@@ -1145,6 +1145,7 @@ OS - OpenSource
 - [G.V](https://gdotv.com) - ($/(F)) G dot V Graph Database Exploration and Visualization UI for SPARQL, Cypher and Gremlin
 - [SemSpect](https://www.semspect.de) - Graph exploration and data-driven no-code querying tool for Neo4j and RDF data
 - [RDF Studio](https://rdf-studio.com) - Free web-based IDE with interactive knowledge graph visualization, faceted search auto-generated from OWL ontologies, SPARQL 1.1 editor, and multi-database support for Oxigraph, GraphDB, and any SPARQL endpoint.
+- [metabase-sparql-driver](https://github.com/jhisse/metabase-sparql-driver) - Build charts and dashboards from any SPARQL endpoint in Metabase, using its visual query builder or native SPARQL queries.
 
 ## Data Cube
 
