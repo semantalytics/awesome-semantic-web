@@ -795,6 +795,7 @@ OS - OpenSource
 - [ROBOT](http://robot.obolibrary.org/) - command line swiss-army knife for ontology developers
 - [grafo](http://gra.fo/) - Visual graph development
 - [OOPS! (Ontology Pitfall Scanner!)](http://oops.linkeddata.es/) - a web application to detect (semi)automatically 33 pitfalls or errors in ontologies. A web service is also provided.
+- [askwol](https://lod-4tu.tudelft.nl/askwol/) - Reviews OWL ontologies for quality and publication readiness, with automated checks, visualisation, and guidance for improvement.
 - [Cameo Concept Modeler](https://www.nomagic.com/product-addons/magicdraw-addons/cameo-concept-modeler-plugin#key-benefits) - a cross-platform app for OWL ontology modeling, visualization, and natural-language validation
 - [Mobi](https://mobi.inovexcorp.com) - [Open Source](https://github.com/inovexcorp/mobi) (with an optional Enterprise version) system for developing ontologies and skos ocabularies with native graph versioning that enables a git-inspired workflow. More info [here](https://inovexcorp.github.io/mobi-docs/).
 - [RDF Studio](https://rdf-studio.com) - Free web-based IDE with an advanced visual OWL/RDFS ontology editor, SHACL shapes validator and auto-generator, ontology maturity scoring, and schema-data drift detection.
@@ -1145,6 +1146,8 @@ OS - OpenSource
 - [G.V](https://gdotv.com) - ($/(F)) G dot V Graph Database Exploration and Visualization UI for SPARQL, Cypher and Gremlin
 - [SemSpect](https://www.semspect.de) - Graph exploration and data-driven no-code querying tool for Neo4j and RDF data
 - [RDF Studio](https://rdf-studio.com) - Free web-based IDE with interactive knowledge graph visualization, faceted search auto-generated from OWL ontologies, SPARQL 1.1 editor, and multi-database support for Oxigraph, GraphDB, and any SPARQL endpoint.
+- [metabase-sparql-driver](https://github.com/jhisse/metabase-sparql-driver) - Build charts and dashboards from any SPARQL endpoint in Metabase, using its visual query builder or native SPARQL queries.
+- [ttl3d](https://github.com/soheilabadifard/TTL_to_3D) - Turns RDF files or a SPARQL CONSTRUCT result into one self-contained HTML page with 3D and 2D graph views, legend filters and node cards; slices large graphs and works offline.
 
 ## Data Cube
 
