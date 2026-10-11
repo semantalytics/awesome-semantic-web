@@ -1324,6 +1324,7 @@ See https://github.com/validatingrdf/validatingrdf.github.io/wiki/Updated-list-o
 - [Schímatos](https://github.com/schimatos/schimatos.org/) - A SHACL-based Web-Form Generator for Knowledge Graph Editing.
 - [SHACL Playground](https://shacl-playground.zazuko.com/) - A web based SHACL validator
 - [SHACLPlay](https://shacl-play.sparna.fr/play/)
+- [rdf-rules-playground](https://github.com/Matdata-eu/rdf-rules-playground) - Runs SHACL Advanced Features rules (sh:TripleRule, sh:SPARQLRule) in the browser or from the command line and shows which rule inferred each triple.
 
 ## SKOS Tools
 
