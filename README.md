@@ -1112,6 +1112,7 @@ OS - OpenSource
 - [GeomRDF](https://github.com/fhamdi/GeomRDF)
 - [GeoARQ](https://github.com/castagna/GeoARQ)
 - [USeekM](https://www.openhub.net/p/useekm)
+- [yasgui-geo-plugin](https://github.com/Matdata-eu/yasgui-geo-plugin) - Shows WKT geometries from SPARQL results on a Leaflet map in MatGUI and YASGUI.
 
 ## Browsers
 
