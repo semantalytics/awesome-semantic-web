@@ -1221,6 +1221,7 @@ OS - OpenSource
 - [ont-converter](https://github.com/sszuev/ont-converter) - Written in Kotlin, a simple command-line utility to convert any RDF graph to OWL2 ontology.
 - [How to diff RDF](https://www.w3.org/2001/sw/wiki/How_to_diff_RDF)
 - [Bubastis](https://github.com/EBISPOT/bubastis) - Tool for detecting asserted logical differences between two ontologies, such as between versions.
+- [rdf-compare](https://github.com/Matdata-eu/rdf-compare) - Fast CLI that diffs two RDF files into an RDF dataset with one named graph per side, and shows the difference in a web view.
 - [grlc](https://github.com/CLARIAH/grlc) - Web APIs from SPARQL queries.
 - [Openlink Structured Data Sniffer](http://osds.openlinksw.com/) - Browser extension for Google Chrome, Microsoft Edge, Mozilla Firefox, Opera, and Vivaldi that unveils structured metadata embedded within HTML documents and web pages.
 - [ShacShifter](https://github.com/AKSW/ShacShifter) - Shapes Constraint Language (SHACL) to various other format.
