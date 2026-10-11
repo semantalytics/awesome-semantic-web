@@ -463,6 +463,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [YASGUI Triply fork](https://github.com/OpenTriply/YASGUI) - Yet Another Sparql GUI.
 - [YASGUI.legacy](https://github.com/OpenTriply/YASGUI.legacy)
 - [pubby](https://github.com/cygri/pubby) - A Linked Data frontend for SPARQL endpoints.
+- [uri-dereferencer](https://github.com/Matdata-eu/uri-dereferencer) - Lightweight Docker container that dereferences Linked Data URIs from any SPARQL endpoint, with HTML pages, maps for WKT geometries and content negotiation.
 - [fluent-sparql](https://github.com/stoewer/fluent-sparql)
 - [FlintSparqlEditor](https://github.com/TSO-Openup/FlintSparqlEditor)
 - [reactive-sparql](https://github.com/modelfabric/reactive-sparql)
