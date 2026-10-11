@@ -1319,6 +1319,7 @@ See https://github.com/validatingrdf/validatingrdf.github.io/wiki/Updated-list-o
 - [RDFunit](https://github.com/AKSW/RDFUnit/)
 - [labra/shaclex](https://github.com/labra/shaclex)
 - [pySHACL](https://github.com/RDFLib/pySHACL) - A Python validator for SHACL.
+- [shacl-report](https://github.com/Matdata-eu/shacl-report) - Validates with SHACL Core and SHACL-SPARQL, or reads any validator's report, and turns it into a readable web view or a CI-friendly HTML report.
 - [rdf4j-shacl](http://docs.rdf4j.org/programming/#_validation_with_shacl)
 - [shperone](https://forms.hypermedia.app) - Form Builder
 - [Schímatos](https://github.com/schimatos/schimatos.org/) - A SHACL-based Web-Form Generator for Knowledge Graph Editing.
