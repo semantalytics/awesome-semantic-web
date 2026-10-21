@@ -771,6 +771,7 @@ OS - OpenSource
 - [VIVO ISF](https://wiki.duraspace.org/display/VTDA/VIVO-ISF+Ontology) - Researchers and the full context in which they work.
 - [yago](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/yago/) YAGO is a huge semantic knowledge base, derived from Wikipedia WordNet and GeoNames.
 - [dbpedia](http://dbpedia.org/ontology/)
+- [Compare the Cloud Vocabulary](https://www.comparethecloud.net/vocab/) - CC BY 4.0 SKOS thesaurus of 1,002 business-technology concepts with dereferenceable IRIs, full dumps and IPTC Media Topic mappings.
 
 ### Educational
 
