@@ -1019,6 +1019,7 @@ OS - OpenSource
 - [pycottas](https://github.com/arenas-guerrero-julian/pycottas) - Python library for working with COTTAS files.
 - [pyjelly](https://github.com/Jelly-RDF/pyjelly) – Python implementation of the high-performance [Jelly binary format](https://w3id.org/jelly), supporting rdflib.
 - [open-kgo](https://github.com/mloda-ai/open-kgo) - Unified Python API over nine knowledge-graph backend families (including RDF/SPARQL) that validates each traversal against a declared ontology and rejects semantically invalid hops.
+- [linkedparticles](https://github.com/LinkedParticles/particles-engine-py) - Keeps linked data traceable to where it came from: extracts individual claims from documents as JSON-LD against a dereferenceable context, validates them with SHACL shapes, resolves subjects to Wikidata IRIs, and records each claim's source, date and confidence without overwriting earlier claims.
 
 ### R
 
