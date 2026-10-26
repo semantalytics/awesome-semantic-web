@@ -325,6 +325,7 @@ F - Free
 - [Vedas](https://github.com/Remixman/Vedas) - (OS) VEDAS is a RDF store engine that be able to query with SPARQL and run on single GPU.
 - [Akutan](https://github.com/eBay/akutan) - (OS) A distributed knowledge graph store written in Golang. Formerly known as Beam.
 - [Jena TDB](http://jena.apache.org/documentation/tdb/index.html) - (OS).
+- [apache-jena-fuseki-geosparql](https://github.com/Matdata-eu/apache-jena-fuseki-geosparql) - (OS) Ready-to-run Docker image of Apache Jena Fuseki with GeoSPARQL and full-text search enabled.
 - [Ontotext GraphDB™](http://graphdb.ontotext.com/) - ($/F).
 - [Halyard](https://github.com/Merck/Halyard) - (OS).
 - [Stardog](http://stardog.com) - ($/F).
@@ -458,11 +459,12 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [SPARQL2NL](https://github.com/AKSW/SPARQL2NL)
 - [sparql-proxy](https://github.com/clarkparsia/sparql-proxy)
 - [AutoSPARQL](https://github.com/AKSW/AutoSPARQL)
-- [YASGUI Matdata fork](https://github.com/Matdata-eu/yasgui) - Yet Another Sparql GUI - Has more features, bugfixes and upgraded dependencies compared to Zazuko and Triply forks.
-- [YASGUI Zazuko fork]([https://github.com/Matdata-eu/yasgui](https://github.com/zazuko/Yasgui)) - Yet Another Sparql GUI - Has bugfixes and upgraded dependencies compared to Triply fork.
+- [MatGUI](https://github.com/Matdata-eu/MatGUI) - A modern knowledge graph and SPARQL workbench (advanced YasGUI fork)
+- [Yasgui RDFJS fork](https://github.com/rdfjs/Yasgui) - Yet Another Sparql GUI - Has bugfixes and upgraded dependencies compared to Triply fork.
 - [YASGUI Triply fork](https://github.com/OpenTriply/YASGUI) - Yet Another Sparql GUI.
 - [YASGUI.legacy](https://github.com/OpenTriply/YASGUI.legacy)
 - [pubby](https://github.com/cygri/pubby) - A Linked Data frontend for SPARQL endpoints.
+- [uri-dereferencer](https://github.com/Matdata-eu/uri-dereferencer) - Lightweight Docker container that dereferences Linked Data URIs from any SPARQL endpoint, with HTML pages, maps for WKT geometries and content negotiation.
 - [fluent-sparql](https://github.com/stoewer/fluent-sparql)
 - [FlintSparqlEditor](https://github.com/TSO-Openup/FlintSparqlEditor)
 - [reactive-sparql](https://github.com/modelfabric/reactive-sparql)
@@ -489,6 +491,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [SparqlProg](https://github.com/cmungall/sparqlprog) - composable SPARQL using logic programming
 - [Sparklis](https://github.com/sebferre/sparklis) - natural language query builder to explore and query endpoints with all the power of SPARQL yet without any knowledge of SPARQL.
 - [json-rql](https://json-rql.org/) - SPARQL with a JSON-LD super-set syntax (like GraphQL for the semantic web)
+- [yasgui-table-plugin](https://github.com/Matdata-eu/yasgui-table-plugin) - Results table for MatGUI and YASGUI with virtual scrolling, search and filtering that stays fast on tens of thousands of rows.
 
 ## Benchmarks
 
@@ -772,6 +775,8 @@ OS - OpenSource
 - [yago](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/yago/) YAGO is a huge semantic knowledge base, derived from Wikipedia WordNet and GeoNames.
 - [dbpedia](http://dbpedia.org/ontology/)
 - [Compare the Cloud Vocabulary](https://www.comparethecloud.net/vocab/) - CC BY 4.0 SKOS thesaurus of 1,002 business-technology concepts with dereferenceable IRIs, full dumps and IPTC Media Topic mappings.
+- [particles](https://linkedparticles.org/vocab/?utm_source=awesome&utm_medium=list&utm_campaign=semantalytics-semantic-web) - Vocabulary for claims that must stay checkable: each claim carries its source, the time it was asserted, a typed uncertainty and explicit supersession links, published with SHACL shapes and a JSON-LD context that resolve at their own IRIs.
+
 
 ### Educational
 
@@ -1113,6 +1118,7 @@ OS - OpenSource
 - [GeomRDF](https://github.com/fhamdi/GeomRDF)
 - [GeoARQ](https://github.com/castagna/GeoARQ)
 - [USeekM](https://www.openhub.net/p/useekm)
+- [yasgui-geo-plugin](https://github.com/Matdata-eu/yasgui-geo-plugin) - Shows WKT geometries from SPARQL results on a Leaflet map in MatGUI and YASGUI.
 
 ## Browsers
 
@@ -1129,11 +1135,13 @@ OS - OpenSource
 - [VOWL](http://vowl.visualdataweb.org/) - Visual Notation for OWL Ontologies.
 - [gephi-semantic-web-import](https://github.com/Wimmics/gephi-semantic-web-import)
 - [visualRDF](https://github.com/alangrafu/visualRDF)
+- [yasgui-graph-plugin](https://github.com/Matdata-eu/yasgui-graph-plugin) - Shows CONSTRUCT and DESCRIBE results as an interactive node-link graph in MatGUI and YASGUI.
 - [rdfdot](https://github.com/wastl/rdfdot) - Tools for drawing graphs from RDF files with GraphViz.
 - [ontodia](https://github.com/ontodia-org/ontodia) - Ontodia data diagraming library.
 - [Reactodia](https://github.com/reactodia/reactodia-workspace) - Ontodia fork with additional features such as grouping and annotations
 - [rdfpuml](https://github.com/VladimirAlexiev/rdf2rml) - True RDF Diagrams.
 - [sgvizler](http://mgskjaeveland.github.io/sgvizler/) - JavaScript library for visualizing SPARQL query results in SVG.
+- [yasgui-chart-plugin](https://github.com/Matdata-eu/yasgui-chart-plugin) - Turns SELECT results into bar, line, area, pie, scatter or histogram charts in MatGUI and YASGUI, picking a fitting chart automatically.
 - [OWLGrEd](http://owlgred.lumii.lv/) - UML style graphical editor for OWL ontologies.
 - [Ontology Visualisation](https://github.com/usc-isi-i2/ontology-visualization) - Create graphs from RDF using GraphViz.
 - [SparqlBlocks](http://sparqlblocks.org/) - Build SPARQL queries with blocks
@@ -1187,6 +1195,7 @@ OS - OpenSource
 - [rdfpatch](https://github.com/pchampin/ld-patch-py)
 - [TurtleValidator](https://github.com/mmlab/TurtleValidator) - A Turtle validator on command line and in browser.
 - [shi3ld-http](https://github.com/lukostaz/shi3ld-http) - Shi3ld for HTTP: Access control for HTTP operations on Linked Data.
+- [sparql-guard](https://github.com/Matdata-eu/sparql-guard) - Store-neutral access-control proxy for any SPARQL endpoint, with graph-level and row-level policies written in SHACL and enforced by query rewriting.
 - [babel](https://github.com/aidhog/blabel/) - A library for skolemising (or canonicalising) blank node labels in RDF graphs.
 - [rdf.sh](https://github.com/seebi/rdf.sh) - A multi-tool shell script for doing Semantic Web jobs on the command line.
 - [QuitStore](https://github.com/AKSW/QuitStore) - Quads in Git - Distributed Version Control for RDF Knowledge Bases.
@@ -1216,12 +1225,14 @@ OS - OpenSource
 - [HydraConsole](https://github.com/lanthaler/HydraConsole)
 - [qonsole](https://github.com/epimorphics/qonsole) - A simple console for running SPARQL queries and displaying results.
 - [ntcat](https://github.com/cgutteridge/ntcat) - Command line tool for concatenating NTriples documents.
+- [rdf-splitter](https://github.com/Matdata-eu/rdf-splitter) - Splits large Turtle, N-Triples, N-Quads, TriG, RDF/XML or JSON-LD files into smaller chunks.
 - [ripple](https://github.com/joshsh/ripple) - Semantic Web scripting language.
 - [schema_salad](https://github.com/common-workflow-language/schema_salad) - Semantic Annotations for Linked Avro Data.
 - [RDFConvert](https://sourceforge.net/projects/rdfconvert/) - RDFConvert is a simple command-line tool for converting RDF file betweeen different syntax formats.
 - [ont-converter](https://github.com/sszuev/ont-converter) - Written in Kotlin, a simple command-line utility to convert any RDF graph to OWL2 ontology.
 - [How to diff RDF](https://www.w3.org/2001/sw/wiki/How_to_diff_RDF)
 - [Bubastis](https://github.com/EBISPOT/bubastis) - Tool for detecting asserted logical differences between two ontologies, such as between versions.
+- [rdf-compare](https://github.com/Matdata-eu/rdf-compare) - Fast CLI that diffs two RDF files into an RDF dataset with one named graph per side, and shows the difference in a web view.
 - [grlc](https://github.com/CLARIAH/grlc) - Web APIs from SPARQL queries.
 - [Openlink Structured Data Sniffer](http://osds.openlinksw.com/) - Browser extension for Google Chrome, Microsoft Edge, Mozilla Firefox, Opera, and Vivaldi that unveils structured metadata embedded within HTML documents and web pages.
 - [ShacShifter](https://github.com/AKSW/ShacShifter) - Shapes Constraint Language (SHACL) to various other format.
@@ -1249,6 +1260,7 @@ OS - OpenSource
 * [Semantic Web LSP](https://github.com/ajuvercr/semantic-web-lsp) - A language server for Semantic Web files, featuring SHACL shapes diagnostics, Turtle formatting, hover hints and descriptions, and completions for prefixes, properties, and classes.
 * [rdfless](https://github.com/larsw/rdfless/) - A pager and pretty-printer for Turtle/TriG/N-triples and N-Quads written in Rust.
 * [Qlue-ls](https://github.com/IoannisNezis/Qlue-ls) - A powerfull SPARQL language server and formatter. Providing: auto-completion, hover-info, formatting, code-actions, diagnostics and more.
+- [sparql-formatter](https://github.com/Matdata-eu/sparql-formatter) - SPARQL 1.2 query and update formatter that keeps comments where you put them, a drop-in replacement for spfmt.
 * [Teamboard](https://termboard.com/start/) - Browser-based powerful and intuitive tool for creating and managing visual diagrams.
 * [rdf-label-cache](https://label-cache-demo.dhabgood.workers.dev/) - Globally distributed, edge-cached HTTP service that resolves human-readable labels for RDF IRIs (Cloudflare Worker + R2); ships a maintained public seed for RDF, RDFS, OWL, SKOS, DCTERMS, DCAT, and Schema.org.
 
@@ -1320,11 +1332,13 @@ See https://github.com/validatingrdf/validatingrdf.github.io/wiki/Updated-list-o
 - [RDFunit](https://github.com/AKSW/RDFUnit/)
 - [labra/shaclex](https://github.com/labra/shaclex)
 - [pySHACL](https://github.com/RDFLib/pySHACL) - A Python validator for SHACL.
+- [shacl-report](https://github.com/Matdata-eu/shacl-report) - Validates with SHACL Core and SHACL-SPARQL, or reads any validator's report, and turns it into a readable web view or a CI-friendly HTML report.
 - [rdf4j-shacl](http://docs.rdf4j.org/programming/#_validation_with_shacl)
 - [shperone](https://forms.hypermedia.app) - Form Builder
 - [Schímatos](https://github.com/schimatos/schimatos.org/) - A SHACL-based Web-Form Generator for Knowledge Graph Editing.
 - [SHACL Playground](https://shacl-playground.zazuko.com/) - A web based SHACL validator
 - [SHACLPlay](https://shacl-play.sparna.fr/play/)
+- [rdf-rules-playground](https://github.com/Matdata-eu/rdf-rules-playground) - Runs SHACL Advanced Features rules (sh:TripleRule, sh:SPARQLRule) in the browser or from the command line and shows which rule inferred each triple.
 
 ## SKOS Tools
 
