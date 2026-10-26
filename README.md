@@ -1252,6 +1252,7 @@ OS - OpenSource
 * [Semantic Web LSP](https://github.com/ajuvercr/semantic-web-lsp) - A language server for Semantic Web files, featuring SHACL shapes diagnostics, Turtle formatting, hover hints and descriptions, and completions for prefixes, properties, and classes.
 * [rdfless](https://github.com/larsw/rdfless/) - A pager and pretty-printer for Turtle/TriG/N-triples and N-Quads written in Rust.
 * [Qlue-ls](https://github.com/IoannisNezis/Qlue-ls) - A powerfull SPARQL language server and formatter. Providing: auto-completion, hover-info, formatting, code-actions, diagnostics and more.
+- [sparql-formatter](https://github.com/Matdata-eu/sparql-formatter) - SPARQL 1.2 query and update formatter that keeps comments where you put them, a drop-in replacement for spfmt.
 * [Teamboard](https://termboard.com/start/) - Browser-based powerful and intuitive tool for creating and managing visual diagrams.
 * [rdf-label-cache](https://label-cache-demo.dhabgood.workers.dev/) - Globally distributed, edge-cached HTTP service that resolves human-readable labels for RDF IRIs (Cloudflare Worker + R2); ships a maintained public seed for RDF, RDFS, OWL, SKOS, DCTERMS, DCAT, and Schema.org.
 
