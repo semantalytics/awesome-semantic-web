@@ -1133,6 +1133,7 @@ OS - OpenSource
 - [VOWL](http://vowl.visualdataweb.org/) - Visual Notation for OWL Ontologies.
 - [gephi-semantic-web-import](https://github.com/Wimmics/gephi-semantic-web-import)
 - [visualRDF](https://github.com/alangrafu/visualRDF)
+- [yasgui-graph-plugin](https://github.com/Matdata-eu/yasgui-graph-plugin) - Shows CONSTRUCT and DESCRIBE results as an interactive node-link graph in MatGUI and YASGUI.
 - [rdfdot](https://github.com/wastl/rdfdot) - Tools for drawing graphs from RDF files with GraphViz.
 - [ontodia](https://github.com/ontodia-org/ontodia) - Ontodia data diagraming library.
 - [Reactodia](https://github.com/reactodia/reactodia-workspace) - Ontodia fork with additional features such as grouping and annotations
