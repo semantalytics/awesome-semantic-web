@@ -325,6 +325,7 @@ F - Free
 - [Vedas](https://github.com/Remixman/Vedas) - (OS) VEDAS is a RDF store engine that be able to query with SPARQL and run on single GPU.
 - [Akutan](https://github.com/eBay/akutan) - (OS) A distributed knowledge graph store written in Golang. Formerly known as Beam.
 - [Jena TDB](http://jena.apache.org/documentation/tdb/index.html) - (OS).
+- [apache-jena-fuseki-geosparql](https://github.com/Matdata-eu/apache-jena-fuseki-geosparql) - (OS) Ready-to-run Docker image of Apache Jena Fuseki with GeoSPARQL and full-text search enabled.
 - [Ontotext GraphDB™](http://graphdb.ontotext.com/) - ($/F).
 - [Halyard](https://github.com/Merck/Halyard) - (OS).
 - [Stardog](http://stardog.com) - ($/F).
