@@ -771,6 +771,7 @@ OS - OpenSource
 - [VIVO ISF](https://wiki.duraspace.org/display/VTDA/VIVO-ISF+Ontology) - Researchers and the full context in which they work.
 - [yago](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/yago/) YAGO is a huge semantic knowledge base, derived from Wikipedia WordNet and GeoNames.
 - [dbpedia](http://dbpedia.org/ontology/)
+- [particles](https://linkedparticles.org/vocab/?utm_source=awesome&utm_medium=list&utm_campaign=semantalytics-semantic-web) - Vocabulary for claims that must stay checkable: each claim carries its source, the time it was asserted, a typed uncertainty and explicit supersession links, published with SHACL shapes and a JSON-LD context that resolve at their own IRIs.
 
 ### Educational
 
