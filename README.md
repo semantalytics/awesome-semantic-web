@@ -1136,6 +1136,7 @@ OS - OpenSource
 - [Reactodia](https://github.com/reactodia/reactodia-workspace) - Ontodia fork with additional features such as grouping and annotations
 - [rdfpuml](https://github.com/VladimirAlexiev/rdf2rml) - True RDF Diagrams.
 - [sgvizler](http://mgskjaeveland.github.io/sgvizler/) - JavaScript library for visualizing SPARQL query results in SVG.
+- [yasgui-chart-plugin](https://github.com/Matdata-eu/yasgui-chart-plugin) - Turns SELECT results into bar, line, area, pie, scatter or histogram charts in MatGUI and YASGUI, picking a fitting chart automatically.
 - [OWLGrEd](http://owlgred.lumii.lv/) - UML style graphical editor for OWL ontologies.
 - [Ontology Visualisation](https://github.com/usc-isi-i2/ontology-visualization) - Create graphs from RDF using GraphViz.
 - [SparqlBlocks](http://sparqlblocks.org/) - Build SPARQL queries with blocks
