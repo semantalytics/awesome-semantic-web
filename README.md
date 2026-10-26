@@ -1190,6 +1190,7 @@ OS - OpenSource
 - [rdfpatch](https://github.com/pchampin/ld-patch-py)
 - [TurtleValidator](https://github.com/mmlab/TurtleValidator) - A Turtle validator on command line and in browser.
 - [shi3ld-http](https://github.com/lukostaz/shi3ld-http) - Shi3ld for HTTP: Access control for HTTP operations on Linked Data.
+- [sparql-guard](https://github.com/Matdata-eu/sparql-guard) - Store-neutral access-control proxy for any SPARQL endpoint, with graph-level and row-level policies written in SHACL and enforced by query rewriting.
 - [babel](https://github.com/aidhog/blabel/) - A library for skolemising (or canonicalising) blank node labels in RDF graphs.
 - [rdf.sh](https://github.com/seebi/rdf.sh) - A multi-tool shell script for doing Semantic Web jobs on the command line.
 - [QuitStore](https://github.com/AKSW/QuitStore) - Quads in Git - Distributed Version Control for RDF Knowledge Bases.
