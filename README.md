@@ -1223,6 +1223,7 @@ OS - OpenSource
 - [HydraConsole](https://github.com/lanthaler/HydraConsole)
 - [qonsole](https://github.com/epimorphics/qonsole) - A simple console for running SPARQL queries and displaying results.
 - [ntcat](https://github.com/cgutteridge/ntcat) - Command line tool for concatenating NTriples documents.
+- [rdf-splitter](https://github.com/Matdata-eu/rdf-splitter) - Splits large Turtle, N-Triples, N-Quads, TriG, RDF/XML or JSON-LD files into smaller chunks.
 - [ripple](https://github.com/joshsh/ripple) - Semantic Web scripting language.
 - [schema_salad](https://github.com/common-workflow-language/schema_salad) - Semantic Annotations for Linked Avro Data.
 - [RDFConvert](https://sourceforge.net/projects/rdfconvert/) - RDFConvert is a simple command-line tool for converting RDF file betweeen different syntax formats.
