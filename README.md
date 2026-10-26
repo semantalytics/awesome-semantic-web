@@ -491,6 +491,7 @@ ARCHIVE - inactive projects or old academic projects that may lack soruce code
 - [SparqlProg](https://github.com/cmungall/sparqlprog) - composable SPARQL using logic programming
 - [Sparklis](https://github.com/sebferre/sparklis) - natural language query builder to explore and query endpoints with all the power of SPARQL yet without any knowledge of SPARQL.
 - [json-rql](https://json-rql.org/) - SPARQL with a JSON-LD super-set syntax (like GraphQL for the semantic web)
+- [yasgui-table-plugin](https://github.com/Matdata-eu/yasgui-table-plugin) - Results table for MatGUI and YASGUI with virtual scrolling, search and filtering that stays fast on tens of thousands of rows.
 
 ## Benchmarks
 
