@@ -1178,6 +1178,7 @@ OS - OpenSource
 - [geonames](https://github.com/ldodds/geonames)
 - [permid](http://permid.org) - PermID: Connecting Data to the World.
 - [wikidata](http://wikidata.org) - Wikidata is a free and open knowledge base that can be read and edited by both humans and machines.
+- [Human Lineage](https://humanlineage.org) - Genealogical knowledge graph of historical people linked to Wikidata, VIAF and GND identifiers, modelled on GEDCOM-X; open data dump on [Zenodo](https://doi.org/10.5281/zenodo.23284943) (CC BY-SA 4.0).
 - [lod-cloud](https://lod-cloud.net) - The Linked Open Data Cloud.
 
 ## IoT
