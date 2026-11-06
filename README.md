@@ -378,6 +378,7 @@ F - Free
 - [Tentris](https://github.com/dice-group/tentris) - (OS) A tensor-optimized RDF data store, supporting SPARQL queries with Basic Graph Pattern capabilities.
 - [QLever](https://github.com/ad-freiburg/qlever) - (OS) a SPARQL engine that can efficiently index and query very large knowledge graphs with over a trillion triples on a single standard PC or server
 - [TerminusDB](https://github.com/terminusdb/terminusdb) - (OS) Knowledge graph database with git-like version control. Branch, merge and diff any commit.
+- [Quipu](https://github.com/intigraph/quipu) - (OS) Bitemporal RDF store on SQLite with SPARQL, SHACL-checked writes and a Datalog reasoner. Runs as a CLI, server, MCP server or Rust library, and in the browser via WebAssembly. Exports verifiable knowledge packs that other stores can import and merge, and streams change events.
 
 ### Academic
 (Note: this classification is somewhat arbitrary and is meant to capture databases that only have a published paper or were developed for that purpose and are not actively maintained)
