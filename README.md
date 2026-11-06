@@ -818,7 +818,8 @@ OS - OpenSource
 - [Whelk](https://github.com/balhoff/whelk)
 - [OWL-RL](https://github.com/RDFLib/OWL-RL)
 - [RacerPro](https://franz.com/agraph/racer/)
-- [Manchester List of Reasoners](http://owl.cs.manchester.ac.uk/tools/list-of-reasoners/)
+- [owl-reasoner-list](https://github.com/k00ni/owl-reasoner-list) - Comprehensive list of reasoners including maintenance status as of 2024
+- [Manchester List of Reasoners](http://owl.cs.manchester.ac.uk/tools/list-of-reasoners/) - Last updated 2018, see https://github.com/k00ni/owl-reasoner-list for a more recent list
 - [elephant-reasoner](https://github.com/sertkaya/elephant-reasoner)
 - [HyLAR](https://github.com/ucbl/HyLAR-Reasoner)
 - [ruby-rdf/rdf-reasoner](https://github.com/ruby-rdf/rdf-reasoner)
