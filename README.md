@@ -807,6 +807,7 @@ OS - OpenSource
 - [Mobi](https://mobi.inovexcorp.com) - [Open Source](https://github.com/inovexcorp/mobi) (with an optional Enterprise version) system for developing ontologies and skos ocabularies with native graph versioning that enables a git-inspired workflow. More info [here](https://inovexcorp.github.io/mobi-docs/).
 - [RDF Studio](https://rdf-studio.com) - Free web-based IDE with an advanced visual OWL/RDFS ontology editor, SHACL shapes validator and auto-generator, ontology maturity scoring, and schema-data drift detection.
 - [LinkML-Scala](https://github.com/NeverBlink-OSS/linkml-scala) – fast, portable (JS/JVM/native), and robust implementation of [LinkML](https://linkml.io/).
+- [OntoPoc](https://github.com/Longado/ontopoc) - Drafts an ontology from business tables and documents with an LLM, checks every class and relation against the actual rows in code, and exports only what a human confirms as OWL and SHACL.
 
 ## Reasoners
 
