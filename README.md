@@ -730,6 +730,7 @@ OS - OpenSource
 - [gist](https://www.semanticarts.com/gist/) - minimalist enterprise upper ontology - max coverage, fewest primitives, least ambiguity.
 - [Plow](https://plow.pm) - Ontology package manager with semantic versioning and an [open domain-agnostic ontology registry that anyone can publish to](https://registry.field33.com).
 - [BE-OLS](https://cyberbuildlab.github.io/BE-OLS/) - Build Environment Ontology Lookup Service: an open repository and website of more than 140 built environment-related ontologies
+- [ohi](https://github.com/NeverBlink-OSS/ohi) - open-source ontology package manager and registry. Search 840+ ontologies and download them as OWL, RDFS, SHACL, Ossie or LinkML.
 
 ### World Wide Web Consortium (W3C)
 
