@@ -588,6 +588,7 @@ OS - OpenSource
 - [eccenca Corporate Memory](https://www.eccenca.com) - Build, explore and consume Knowledge Graphs.
 - [Atomic Data Browser](https://github.com/joepio/atomic-data-browser) - (OS) Create, model, edit, view and share Linked Data.  
 - [Blue Brain Nexus](https://bluebrainnexus.io/) - (OS) A knowledge graph for data-driven science 
+- [Helix Foundry](https://github.com/HelixDB/helix-foundry) - (OS) Builds an ontology and knowledge graph from databases, SaaS tools and documents, with every value traced to its source.
 
 ## Web Annotations
 
